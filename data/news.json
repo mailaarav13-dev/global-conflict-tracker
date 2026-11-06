@@ -1,9 +1,36 @@
 {
-  "generated_at": "2026-11-06T03:46:08.739Z",
-  "provider": "newsapi.org",
+  "generated_at": "2026-11-06T23:14:09.357Z",
+  "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
     "russia-ukraine-war": [
+      {
+        "title": "„ Waren nicht vorbereitet : US - Verteidigungsministerium räumt schwere Versäumnis ein",
+        "url": "http://www.merkur.de/politik/waren-nicht-vorbereitet-us-verteidigungsministerium-raeumt-schwere-versaeumnis-ein-zr-94577002.html",
+        "source": "merkur.de",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T13:00:00Z",
+        "language": "German",
+        "source_country": "Germany"
+      },
+      {
+        "title": "România și Ucraina anunță un proiect de 200 de milioane de euro în sectorul dronelor",
+        "url": "https://business24.ro/romania-ucraina/romania-ucraina-proiect-doua-sute-milioane-euro-drone-1673939",
+        "source": "business24.ro",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T13:00:00Z",
+        "language": "Romanian",
+        "source_country": "Romania"
+      },
+      {
+        "title": "Kreml dämpft Erwartungen nach Trumps Ankündigung zur Ukraine",
+        "url": "https://www.onvista.de/news/2026/11-06-kreml-daempft-erwartungen-nach-trumps-ankuendigung-zur-ukraine-0-10-26573430",
+        "source": "onvista.de",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T12:30:00Z",
+        "language": "German",
+        "source_country": "Germany"
+      },
       {
         "title": "US military risks falling behind in race to copy battlefield innovations, report warns Read more at: https://www.stripes.com/theaters/us/2026-11-02/military-innovation-us-russia-ukraine-23337461.html Source - Stars and Stripes",
         "url": "https://freerepublic.com/focus/f-news/4401873/posts",
@@ -25,36 +52,53 @@
     ],
     "israel-gaza-war": [
       {
-        "title": "Shin Bet and IDF knew Hamas' military chief Mohammed Deif went underground hours before October 7 attack",
-        "url": "https://www.haaretz.com/israel-news/israel-security/2026-11-04/ty-article/.premium/shin-bet-and-idf-knew-hamas-military-chief-went-underground-hours-before-oct-7/000001a1-a799-d33a-a1e1-efd9865a0000",
-        "source": "Haaretz",
-        "published_at": "2026-11-04T18:58:51Z"
-      },
-      {
         "title": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO",
         "url": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo",
         "source": "Al Jazeera English",
         "published_at": "2026-11-04T21:13:56Z"
+      },
+      {
+        "title": "Shin Bet and IDF knew Hamas' military chief Mohammed Deif went underground hours before October 7 attack",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-11-04/ty-article/.premium/shin-bet-and-idf-knew-hamas-military-chief-went-underground-hours-before-oct-7/000001a1-a799-d33a-a1e1-efd9865a0000",
+        "source": "Haaretz",
+        "published_at": "2026-11-04T18:58:51Z"
       }
     ],
     "sudan-civil-war": [
       {
-        "title": "Sudan’s displaced return to new challenges in war-battered Khartoum",
-        "url": "https://www.aljazeera.com/features/2026/11/3/sudans-displaced-return-to-new-challenges-in-war-battered-khartoum",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-03T09:18:48Z"
+        "title": "Opinion| The unbreakable political shackle : A case of South Sudan",
+        "url": "https://www.radiotamazuj.org/en/news/article/opinion-the-unbreakable-political-shackle-a-case-of-south-sudan",
+        "source": "radiotamazuj.org",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T09:30:00Z",
+        "language": "English",
+        "source_country": "South Sudan"
       },
       {
-        "title": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
-        "url": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-03T17:03:24Z"
+        "title": "Sudan capital gripped by crime wave blamed on SAF militias",
+        "url": "https://www.thenationalnews.com/news/mena/2026/11/06/sudans-capital-gripped-by-crime-wave-blamed-on-safs-militias/",
+        "source": "thenationalnews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T04:30:00Z",
+        "language": "English"
       },
       {
-        "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
-        "url": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-03T10:29:56Z"
+        "title": "Vegetation is claiming El Fasher , one year after it was depopulated by the RSF",
+        "url": "https://article.wn.com/view/2026/11/06/Vegetation_is_claiming_El_Fasher_one_year_after_it_was_depop/",
+        "source": "article.wn.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T04:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Etiopía expulsa a seis diplomáticos sudaneses y cierra su consulado",
+        "url": "http://hsbnoticias.com/noticias/etiopia-expulsa-a-seis-diplomaticos-sudaneses-y-cierra-su-consulado",
+        "source": "hsbnoticias.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T03:30:00Z",
+        "language": "Spanish",
+        "source_country": "Colombia"
       },
       {
         "title": "Sudan, Ethiopia order tit-for-tat diplomatic expulsions",
@@ -67,6 +111,18 @@
         "url": "https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses",
         "source": "Al Jazeera English",
         "published_at": "2026-11-04T22:31:09Z"
+      },
+      {
+        "title": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
+        "url": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-03T17:03:24Z"
+      },
+      {
+        "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
+        "url": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-03T10:29:56Z"
       }
     ],
     "myanmar-civil-war": [
@@ -77,10 +133,10 @@
         "published_at": "2026-11-01T13:00:13Z"
       },
       {
-        "title": "UN investigator: Myanmar junta attacks civilians to terrorize them as arms buys fuel war",
-        "url": "https://abcnews.com/US/wireStory/investigator-myanmar-junta-attacks-civilians-terrorize-arms-buys-137713528",
-        "source": "Abcnews.com",
-        "published_at": "2026-10-30T18:15:04Z"
+        "title": "Burma’s Junta Bombs Civilian Targets While Inviting Rebels to Peace Talks",
+        "url": "https://www.thegatewaypundit.com/2026/10/burmas-junta-bombs-civilian-targets-while-inviting-rebels/",
+        "source": "Thegatewaypundit.com",
+        "published_at": "2026-11-01T01:20:16Z"
       },
       {
         "title": "Iranian Fuel, Russian and Chinese Jets: Who Keeps Burma’s Junta Bombing Civilians?",
@@ -89,10 +145,10 @@
         "published_at": "2026-10-31T22:40:22Z"
       },
       {
-        "title": "Burma’s Junta Bombs Civilian Targets While Inviting Rebels to Peace Talks",
-        "url": "https://www.thegatewaypundit.com/2026/10/burmas-junta-bombs-civilian-targets-while-inviting-rebels/",
-        "source": "Thegatewaypundit.com",
-        "published_at": "2026-11-01T01:20:16Z"
+        "title": "UN investigator: Myanmar junta attacks civilians to terrorize them as arms buys fuel war",
+        "url": "https://abcnews.com/US/wireStory/investigator-myanmar-junta-attacks-civilians-terrorize-arms-buys-137713528",
+        "source": "Abcnews.com",
+        "published_at": "2026-10-30T18:15:04Z"
       },
       {
         "title": "Myanmar: Is US undermining EU's diplomatic blockade?",
@@ -103,22 +159,16 @@
     ],
     "yemen-civil-war": [
       {
-        "title": "Yemeni government forces claim control of strategic al-Jawf mountain range",
-        "url": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-04T14:08:18Z"
-      },
-      {
-        "title": "Houthis claim downing Saudi spy drone",
-        "url": "https://biztoc.com/x/ed0c72d8449a6a1f",
-        "source": "Biztoc.com",
-        "published_at": "2026-11-04T14:26:28Z"
-      },
-      {
         "title": "Saudi Arabia Has No Easy Choices as It Weighs How to Combat Houthi Threat",
         "url": "https://biztoc.com/x/c0631bfed079e68f",
         "source": "Biztoc.com",
         "published_at": "2026-11-05T03:16:55Z"
+      },
+      {
+        "title": "Saudi Attacks in Yemen Have Killed 232 Civilians Since July: Health Ministry",
+        "url": "https://news.antiwar.com/2026/11/01/saudi-attacks-in-yemen-have-killed-232-civilians-since-july-health-ministry/",
+        "source": "Antiwar.com",
+        "published_at": "2026-11-05T02:06:17Z"
       },
       {
         "title": "Turkey's parliament set to ratify defence pact with Saudi Arabia, Pakistan as Houthi attacks mount",
@@ -127,10 +177,16 @@
         "published_at": "2026-11-04T16:01:20Z"
       },
       {
-        "title": "Saudi Attacks in Yemen Have Killed 232 Civilians Since July: Health Ministry",
-        "url": "https://news.antiwar.com/2026/11/01/saudi-attacks-in-yemen-have-killed-232-civilians-since-july-health-ministry/",
-        "source": "Antiwar.com",
-        "published_at": "2026-11-05T02:06:17Z"
+        "title": "Houthis claim downing Saudi spy drone",
+        "url": "https://biztoc.com/x/ed0c72d8449a6a1f",
+        "source": "Biztoc.com",
+        "published_at": "2026-11-04T14:26:28Z"
+      },
+      {
+        "title": "Yemeni government forces claim control of strategic al-Jawf mountain range",
+        "url": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-04T14:08:18Z"
       }
     ],
     "south-china-sea-dispute": [
@@ -163,6 +219,24 @@
     ],
     "libya-fragmentation": [],
     "syria-transition-crisis": [
+      {
+        "title": "KSA Business : Saudi Fund signs $403m loans for Syria infrastructure projects",
+        "url": "https://www.gdnonline.com:443/Details/1412038/Saudi-Fund-signs-$403m-loans-for-Syria-infrastructure-projects",
+        "source": "gdnonline.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T09:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Syria Signs More Than $403 Million in Saudi Loans Amid EU and China Meetings",
+        "url": "https://econotimes.com/Syria-Signs-More-Than-403-Million-in-Saudi-Loans-Amid-EU-and-China-Meetings-1771912",
+        "source": "econotimes.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T08:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
       {
         "title": "Syrians see Israel as biggest regional threat, followed by Iran: Survey",
         "url": "https://www.aljazeera.com/news/2026/11/4/syrians-see-israel-as-biggest-regional-threat-followed-by-iran-survey",
@@ -225,6 +299,12 @@
         "published_at": "2026-11-05T02:10:07Z"
       },
       {
+        "title": "Haitian police say they found vehicle of 4 missing Salvadorans as search continues",
+        "url": "https://abcnews.com/International/wireStory/haitian-police-found-vehicle-4-missing-salvadorans-search-137846644",
+        "source": "Abcnews.com",
+        "published_at": "2026-11-04T19:01:24Z"
+      },
+      {
         "title": "Bukele’s warning to Haitian gang leaders that his forces will 'finish' them as he did in El Salvador",
         "url": "https://www.foxnews.com/world/bukeles-warning-haitian-gang-leaders-forces-finish-el-salvador",
         "source": "Fox News",
@@ -237,12 +317,6 @@
         "published_at": "2026-11-04T16:27:25Z"
       },
       {
-        "title": "Haitian police say they found vehicle of 4 missing Salvadorans as search continues",
-        "url": "https://abcnews.com/International/wireStory/haitian-police-found-vehicle-4-missing-salvadorans-search-137846644",
-        "source": "Abcnews.com",
-        "published_at": "2026-11-04T19:01:24Z"
-      },
-      {
         "title": "Powerful Haitian gang leader writes UN seeking dialogue as clashes intensify",
         "url": "https://abcnews.com/International/wireStory/powerful-haitian-gang-leader-writes-seeking-dialogue-clashes-137782809",
         "source": "Abcnews.com",
@@ -250,6 +324,12 @@
       }
     ],
     "mexico-cartel-conflict": [
+      {
+        "title": "Mexico Rejects Texas Claim to 9 Cartel-Controlled Islands in Rio Grande Border Dispute",
+        "url": "https://www.breitbart.com/border/2026/10/31/mexico-rejects-texas-claim-to-9-cartel-controlled-islands-in-rio-grande-border-dispute/",
+        "source": "Breitbart News",
+        "published_at": "2026-10-31T21:42:50Z"
+      },
       {
         "title": "U.S. Indicts Alleged Mexican-Cartel Tunnel Engineer",
         "url": "https://www.breitbart.com/border/2026/10/31/u-s-indicts-alleged-mexican-cartel-tunnel-engineer/",
@@ -261,12 +341,6 @@
         "url": "https://biztoc.com/x/e5de5e0924d3d0c5",
         "source": "Biztoc.com",
         "published_at": "2026-10-30T16:31:45Z"
-      },
-      {
-        "title": "Mexico Rejects Texas Claim to 9 Cartel-Controlled Islands in Rio Grande Border Dispute",
-        "url": "https://www.breitbart.com/border/2026/10/31/mexico-rejects-texas-claim-to-9-cartel-controlled-islands-in-rio-grande-border-dispute/",
-        "source": "Breitbart News",
-        "published_at": "2026-10-31T21:42:50Z"
       },
       {
         "title": "This mayor crusaded against cartels in Mexico. Now his assassination haunts his city",
@@ -282,9 +356,83 @@
       }
     ],
     "venezuela-guyana-essequibo-dispute": [],
-    "colombia-armed-groups-transition": [],
-    "armenia-azerbaijan-peace-process": [],
+    "colombia-armed-groups-transition": [
+      {
+        "title": "Fuerza Pública golpea disidencias de las Farc de Mordisco y Calarcá en el Valle y Antioquia ; abatidos cabecillas Pincher y El Flaco – Radio Santa Fe 1070 a . m . Noticias de Colombia",
+        "url": "https://www.radiosantafe.com/2026/11/06/fuerza-publica-golpea-disidencias-de-las-farc-de-mordisco-y-calarca-en-el-valle-y-antioquia-abatidos-cabecillas-pincher-y-el-flaco/",
+        "source": "radiosantafe.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T11:30:00Z",
+        "language": "Spanish",
+        "source_country": "Colombia"
+      },
+      {
+        "title": "JEP imputa a nueve exjefes de las FARC por el asesinato de 62 menores reclutados",
+        "url": "http://hsbnoticias.com/noticias/jep-imputa-a-nueve-exjefes-de-las-farc-por-el-asesinato-de-62-menores-reclutados-2",
+        "source": "hsbnoticias.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T06:30:00Z",
+        "language": "Spanish",
+        "source_country": "Colombia"
+      },
+      {
+        "title": "Padre de la subteniente del Ejército María Camila Pantoja habló tras su secuestro por parte del Eln : autoridades ofrecen $100 millones de recompensa",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/padre-de-la-subteniente-del-ejercito-maria-camila-pantoja-hablo-tras-su-secuestro-por-parte-del-eln-autoridades-ofrecen-100-millones-de-recompensa-3598802",
+        "source": "eltiempo.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T06:30:00Z",
+        "language": "Spanish",
+        "source_country": "Colombia"
+      },
+      {
+        "title": "ELN confirmó que tiene en su poder a la subteniente María Camila Pantoja",
+        "url": "https://hoydiariodelmagdalena.com.co/archivos/1313240/eln-confirmo-que-tiene-en-su-poder-a-la-subteniente-maria-camila-pantoja",
+        "source": "hoydiariodelmagdalena.com.co",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T05:30:00Z",
+        "language": "Spanish",
+        "source_country": "Colombia"
+      }
+    ],
+    "armenia-azerbaijan-peace-process": [
+      {
+        "title": "Azerbaijani Ombudsperson calls for international action on post - war humanitarian challenges",
+        "url": "https://www.trend.az/azerbaijan/4243696.html",
+        "source": "trend.az",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T09:30:00Z",
+        "language": "English",
+        "source_country": "Azerbaijan"
+      },
+      {
+        "title": "TRIPP will connect Armenia north with its south , while foreign trade will also be conducted through Azerbaijani territory . Mirzoyan",
+        "url": "https://tert.am/en/news/2026/11/06/TRIPP/4289427",
+        "source": "tert.am",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T08:00:00Z",
+        "language": "English",
+        "source_country": "Armenia"
+      },
+      {
+        "title": "Armenia pregătește candidatura pentru aderarea la Uniunea Europeană , cu efecte majore asupra economiei țării",
+        "url": "https://business24.ro/armenia/armenia-pregatire-candidatura-aderare-uniune-europeana-economie-1673906",
+        "source": "business24.ro",
+        "provider": "GDELT",
+        "published_at": "2026-11-05T22:00:00Z",
+        "language": "Romanian",
+        "source_country": "Romania"
+      }
+    ],
     "taiwan-strait-tension": [
+      {
+        "title": "Taiwan to close Papua New Guinea office , blames Chinese pressure",
+        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-to-close-papua-new-guinea-office-blames-chinese-pressure",
+        "source": "asia.nikkei.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T12:30:00Z",
+        "language": "English",
+        "source_country": "Japan"
+      },
       {
         "title": "US Midterms Unlikely to Deliver 'Massive, Disruptive Blow' To Trump-Xi Ties, but Taiwan Could Become a…",
         "url": "https://biztoc.com/x/7120c75b8c6797ed",
@@ -294,22 +442,16 @@
     ],
     "korean-armistice-standoff": [
       {
-        "title": "North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack",
-        "url": "https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/",
-        "source": "Securityweek.com",
-        "published_at": "2026-11-04T09:23:22Z"
-      },
-      {
-        "title": "North Korea launches missiles toward the sea as Pyongyang protests against US claims on Binance hack",
-        "url": "https://nypost.com/2026/11/04/world-news/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/",
-        "source": "New York Post",
-        "published_at": "2026-11-04T08:59:13Z"
-      },
-      {
         "title": "North Korea Is Ramping Up Its Missile Tests",
         "url": "https://www.newser.com/story/399396/north-korea-is-ramping-up-its-missile-tests.html",
         "source": "Newser",
         "published_at": "2026-11-04T17:45:00Z"
+      },
+      {
+        "title": "North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack",
+        "url": "https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/",
+        "source": "Securityweek.com",
+        "published_at": "2026-11-04T09:23:22Z"
       },
       {
         "title": "North Korea fires multiple missiles in fourth weapons launch in a month, Seoul says - Reuters",
@@ -334,10 +476,37 @@
     ],
     "ethiopia-northern-conflict": [
       {
+        "title": "Nearly 90 million displaced people face climate threats , UN warns ahead of COP31",
+        "url": "https://dailypioneer.com/world/nearly-90-million-displaced-people-face-climate-threats-un-warns-ahead-of-cop31",
+        "source": "dailypioneer.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T04:30:00Z",
+        "language": "English",
+        "source_country": "India"
+      },
+      {
+        "title": "Puntland Faces Growing Influx of Ethiopian Migrants Amid Escalating Conflict Across the Border",
+        "url": "https://wardheernews.com/puntland-faces-growing-influx-of-ethiopian-migrants-amid-escalating-conflict-across-the-border/",
+        "source": "wardheernews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-05T23:30:00Z",
+        "language": "English",
+        "source_country": "Somalia"
+      },
+      {
         "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
         "url": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o",
         "source": "BBC News",
         "published_at": "2026-11-04T06:07:24Z"
+      },
+      {
+        "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
+        "url": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia",
+        "source": "aljazeera.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-03T11:15:00Z",
+        "language": "English",
+        "source_country": "United States"
       }
     ],
     "nigeria-internal-security-crisis": [
