@@ -1,0 +1,361 @@
+{
+  "generated_at": "2026-11-06T03:46:08.739Z",
+  "provider": "newsapi.org",
+  "sample": false,
+  "items": {
+    "russia-ukraine-war": [
+      {
+        "title": "US military risks falling behind in race to copy battlefield innovations, report warns Read more at: https://www.stripes.com/theaters/us/2026-11-02/military-innovation-us-russia-ukraine-23337461.html Source - Stars and Stripes",
+        "url": "https://freerepublic.com/focus/f-news/4401873/posts",
+        "source": "Freerepublic.com",
+        "published_at": "2026-11-05T02:53:50Z"
+      },
+      {
+        "title": "Ukraine, US, Russia to hold working-level trilateral talks within a week: Zelenskyy",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/ukraine-us-russia-to-hold-working-level-trilateral-talks-within-a-week-zelenskyy/articleshow/135556210.cms",
+        "source": "The Times of India",
+        "published_at": "2026-11-05T02:41:50Z"
+      },
+      {
+        "title": "Zelenskiy hopes US election outcome will generate more help for Ukraine",
+        "url": "https://freerepublic.com/focus/f-news/4401853/posts",
+        "source": "Freerepublic.com",
+        "published_at": "2026-11-05T00:01:29Z"
+      }
+    ],
+    "israel-gaza-war": [
+      {
+        "title": "Shin Bet and IDF knew Hamas' military chief Mohammed Deif went underground hours before October 7 attack",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-11-04/ty-article/.premium/shin-bet-and-idf-knew-hamas-military-chief-went-underground-hours-before-oct-7/000001a1-a799-d33a-a1e1-efd9865a0000",
+        "source": "Haaretz",
+        "published_at": "2026-11-04T18:58:51Z"
+      },
+      {
+        "title": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO",
+        "url": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-04T21:13:56Z"
+      }
+    ],
+    "sudan-civil-war": [
+      {
+        "title": "Sudan’s displaced return to new challenges in war-battered Khartoum",
+        "url": "https://www.aljazeera.com/features/2026/11/3/sudans-displaced-return-to-new-challenges-in-war-battered-khartoum",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-03T09:18:48Z"
+      },
+      {
+        "title": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
+        "url": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-03T17:03:24Z"
+      },
+      {
+        "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
+        "url": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-03T10:29:56Z"
+      },
+      {
+        "title": "Sudan, Ethiopia order tit-for-tat diplomatic expulsions",
+        "url": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-04T23:43:26Z"
+      },
+      {
+        "title": "Sudan factories struggle to restart after devastating wartime losses",
+        "url": "https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-04T22:31:09Z"
+      }
+    ],
+    "myanmar-civil-war": [
+      {
+        "title": "Myanmar Junta’s Scam Crackdown Pushes Fraud Networks Deeper Inland",
+        "url": "https://www.thegatewaypundit.com/2026/11/myanmar-juntas-scam-crackdown-pushes-fraud-networks-deeper/",
+        "source": "Thegatewaypundit.com",
+        "published_at": "2026-11-01T13:00:13Z"
+      },
+      {
+        "title": "UN investigator: Myanmar junta attacks civilians to terrorize them as arms buys fuel war",
+        "url": "https://abcnews.com/US/wireStory/investigator-myanmar-junta-attacks-civilians-terrorize-arms-buys-137713528",
+        "source": "Abcnews.com",
+        "published_at": "2026-10-30T18:15:04Z"
+      },
+      {
+        "title": "Iranian Fuel, Russian and Chinese Jets: Who Keeps Burma’s Junta Bombing Civilians?",
+        "url": "https://www.thegatewaypundit.com/2026/10/iranian-fuel-russian-chinese-jets-who-keeps-burmas/",
+        "source": "Thegatewaypundit.com",
+        "published_at": "2026-10-31T22:40:22Z"
+      },
+      {
+        "title": "Burma’s Junta Bombs Civilian Targets While Inviting Rebels to Peace Talks",
+        "url": "https://www.thegatewaypundit.com/2026/10/burmas-junta-bombs-civilian-targets-while-inviting-rebels/",
+        "source": "Thegatewaypundit.com",
+        "published_at": "2026-11-01T01:20:16Z"
+      },
+      {
+        "title": "Myanmar: Is US undermining EU's diplomatic blockade?",
+        "url": "https://www.dw.com/en/myanmar-is-us-undermining-eus-diplomatic-blockade/a-79778863",
+        "source": "DW (English)",
+        "published_at": "2026-10-27T15:16:00Z"
+      }
+    ],
+    "yemen-civil-war": [
+      {
+        "title": "Yemeni government forces claim control of strategic al-Jawf mountain range",
+        "url": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-04T14:08:18Z"
+      },
+      {
+        "title": "Houthis claim downing Saudi spy drone",
+        "url": "https://biztoc.com/x/ed0c72d8449a6a1f",
+        "source": "Biztoc.com",
+        "published_at": "2026-11-04T14:26:28Z"
+      },
+      {
+        "title": "Saudi Arabia Has No Easy Choices as It Weighs How to Combat Houthi Threat",
+        "url": "https://biztoc.com/x/c0631bfed079e68f",
+        "source": "Biztoc.com",
+        "published_at": "2026-11-05T03:16:55Z"
+      },
+      {
+        "title": "Turkey's parliament set to ratify defence pact with Saudi Arabia, Pakistan as Houthi attacks mount",
+        "url": "https://economictimes.indiatimes.com/news/defence/turkeys-parliament-set-to-ratify-defence-pact-with-saudi-arabia-pakistan-as-houthi-attacks-mount/articleshow/135542124.cms",
+        "source": "The Times of India",
+        "published_at": "2026-11-04T16:01:20Z"
+      },
+      {
+        "title": "Saudi Attacks in Yemen Have Killed 232 Civilians Since July: Health Ministry",
+        "url": "https://news.antiwar.com/2026/11/01/saudi-attacks-in-yemen-have-killed-232-civilians-since-july-health-ministry/",
+        "source": "Antiwar.com",
+        "published_at": "2026-11-05T02:06:17Z"
+      }
+    ],
+    "south-china-sea-dispute": [
+      {
+        "title": "China warns Philippines to be cautious over South China Sea",
+        "url": "https://nypost.com/2026/11/04/world-news/china-warns-philippines-to-be-cautious-over-south-china-sea/",
+        "source": "New York Post",
+        "published_at": "2026-11-04T09:29:09Z"
+      },
+      {
+        "title": "Chinese survey ship loitering near undersea cable ignores Philippine demands to withdraw — evasive action point to growing PRC threats to data lines in the Pacific",
+        "url": "https://www.tomshardware.com/tech-industry/chinese-survey-ship-loitering-near-undersea-cable-ignores-philippine-demands-to-withdraw-evasive-action-point-to-growing-prc-threats-to-data-lines-in-the-pacific",
+        "source": "Tom's Hardware UK",
+        "published_at": "2026-11-03T12:31:11Z"
+      }
+    ],
+    "israel-iran-confrontation": [
+      {
+        "title": "Iran War Drags Republicans Down, Gives Democrats Blowout Victories",
+        "url": "https://original.antiwar.com/rep-john-j-duncan-jr/2026/11/04/iran-war-drags-republicans-down-gives-democrats-blowout-victories/",
+        "source": "Antiwar.com",
+        "published_at": "2026-11-05T00:00:11Z"
+      },
+      {
+        "title": "News Wrap: Officials in Iran welcome midterm results as vote against war",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-officials-in-iran-welcome-midterm-results-as-vote-against-war",
+        "source": "PBS",
+        "published_at": "2026-11-04T23:50:44Z"
+      }
+    ],
+    "libya-fragmentation": [],
+    "syria-transition-crisis": [
+      {
+        "title": "Syrians see Israel as biggest regional threat, followed by Iran: Survey",
+        "url": "https://www.aljazeera.com/news/2026/11/4/syrians-see-israel-as-biggest-regional-threat-followed-by-iran-survey",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-04T09:51:33Z"
+      },
+      {
+        "title": "Syria foils Hezbollah-linked terror plot against Homs oil refinery",
+        "url": "https://www.israelnationalnews.com/news/435623",
+        "source": "Israelnationalnews.com",
+        "published_at": "2026-11-04T04:58:55Z"
+      }
+    ],
+    "sahel-jihadist-insurgency": [
+      {
+        "title": "Why Ukraine may be involved in Mali's conflict",
+        "url": "https://www.dw.com/en/why-ukraine-may-be-involved-in-malis-conflict/a-79743423",
+        "source": "DW (English)",
+        "published_at": "2026-10-26T14:58:00Z"
+      }
+    ],
+    "drc-eastern-conflict": [],
+    "somalia-al-shabaab-insurgency": [
+      {
+        "title": "Uganda begins pulling troops out of Somalia",
+        "url": "https://rt-english.com/africa/648281-uganda-withdrawing-troops-from-somalia/",
+        "source": "Rt-english.com",
+        "published_at": "2026-11-03T11:12:21Z"
+      },
+      {
+        "title": "Uganda begins withdrawing troops from Somalia after two decades",
+        "url": "https://www.dw.com/en/uganda-begins-withdrawing-troops-from-somalia-after-two-decades/a-79829903",
+        "source": "DW (English)",
+        "published_at": "2026-11-02T12:19:00Z"
+      },
+      {
+        "title": "Uganda begins troop withdrawal from Somalia",
+        "url": "https://punchng.com/uganda-begins-troop-withdrawal-from-somalia/",
+        "source": "The Punch",
+        "published_at": "2026-11-02T12:09:42Z"
+      },
+      {
+        "title": "Uganda starts withdrawing troops from Somalia",
+        "url": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do",
+        "source": "BBC News",
+        "published_at": "2026-11-02T08:40:35Z"
+      },
+      {
+        "title": "US Military Accused of “Weaponizing” El Niño Against Somali Civilians",
+        "url": "https://www.motherjones.com/politics/2026/10/us-military-africom-weaponizing-el-nino-somali-civilians-women-children-al-shabaab-airstrikes-drones-flooding-usaid/",
+        "source": "Mother Jones",
+        "published_at": "2026-10-29T11:30:00Z"
+      }
+    ],
+    "haiti-gang-crisis": [
+      {
+        "title": "El Salvador’s Bukele touts military intervention in Haiti",
+        "url": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-05T02:10:07Z"
+      },
+      {
+        "title": "Bukele’s warning to Haitian gang leaders that his forces will 'finish' them as he did in El Salvador",
+        "url": "https://www.foxnews.com/world/bukeles-warning-haitian-gang-leaders-forces-finish-el-salvador",
+        "source": "Fox News",
+        "published_at": "2026-11-04T18:06:46Z"
+      },
+      {
+        "title": "Haitians Roll Out Welcome Mat For Bukele’s Anti-Gang Forces",
+        "url": "https://dailycaller.com/2026/11/04/haitians-nayib-bukele-anti-gang-forces",
+        "source": "The Daily Caller",
+        "published_at": "2026-11-04T16:27:25Z"
+      },
+      {
+        "title": "Haitian police say they found vehicle of 4 missing Salvadorans as search continues",
+        "url": "https://abcnews.com/International/wireStory/haitian-police-found-vehicle-4-missing-salvadorans-search-137846644",
+        "source": "Abcnews.com",
+        "published_at": "2026-11-04T19:01:24Z"
+      },
+      {
+        "title": "Powerful Haitian gang leader writes UN seeking dialogue as clashes intensify",
+        "url": "https://abcnews.com/International/wireStory/powerful-haitian-gang-leader-writes-seeking-dialogue-clashes-137782809",
+        "source": "Abcnews.com",
+        "published_at": "2026-11-02T20:28:40Z"
+      }
+    ],
+    "mexico-cartel-conflict": [
+      {
+        "title": "U.S. Indicts Alleged Mexican-Cartel Tunnel Engineer",
+        "url": "https://www.breitbart.com/border/2026/10/31/u-s-indicts-alleged-mexican-cartel-tunnel-engineer/",
+        "source": "Breitbart News",
+        "published_at": "2026-10-31T21:17:42Z"
+      },
+      {
+        "title": "DEA Whistleblower Claims Agency Allowed Millions Of Fentanyl Pills To Reach US Streets",
+        "url": "https://biztoc.com/x/e5de5e0924d3d0c5",
+        "source": "Biztoc.com",
+        "published_at": "2026-10-30T16:31:45Z"
+      },
+      {
+        "title": "Mexico Rejects Texas Claim to 9 Cartel-Controlled Islands in Rio Grande Border Dispute",
+        "url": "https://www.breitbart.com/border/2026/10/31/mexico-rejects-texas-claim-to-9-cartel-controlled-islands-in-rio-grande-border-dispute/",
+        "source": "Breitbart News",
+        "published_at": "2026-10-31T21:42:50Z"
+      },
+      {
+        "title": "This mayor crusaded against cartels in Mexico. Now his assassination haunts his city",
+        "url": "https://abcnews.com/International/wireStory/mayor-crusaded-cartels-mexico-now-assassination-haunts-city-137699361",
+        "source": "Abcnews.com",
+        "published_at": "2026-10-30T12:28:51Z"
+      },
+      {
+        "title": "Official arrested for alleged cover-up of mayor's cartel-linked killing",
+        "url": "https://www.cbsnews.com/news/official-arrested-mayor-killing-alleged-cover-up-mexico/",
+        "source": "CBS News",
+        "published_at": "2026-10-30T11:05:37Z"
+      }
+    ],
+    "venezuela-guyana-essequibo-dispute": [],
+    "colombia-armed-groups-transition": [],
+    "armenia-azerbaijan-peace-process": [],
+    "taiwan-strait-tension": [
+      {
+        "title": "US Midterms Unlikely to Deliver 'Massive, Disruptive Blow' To Trump-Xi Ties, but Taiwan Could Become a…",
+        "url": "https://biztoc.com/x/7120c75b8c6797ed",
+        "source": "Biztoc.com",
+        "published_at": "2026-11-04T11:36:40Z"
+      }
+    ],
+    "korean-armistice-standoff": [
+      {
+        "title": "North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack",
+        "url": "https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/",
+        "source": "Securityweek.com",
+        "published_at": "2026-11-04T09:23:22Z"
+      },
+      {
+        "title": "North Korea launches missiles toward the sea as Pyongyang protests against US claims on Binance hack",
+        "url": "https://nypost.com/2026/11/04/world-news/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/",
+        "source": "New York Post",
+        "published_at": "2026-11-04T08:59:13Z"
+      },
+      {
+        "title": "North Korea Is Ramping Up Its Missile Tests",
+        "url": "https://www.newser.com/story/399396/north-korea-is-ramping-up-its-missile-tests.html",
+        "source": "Newser",
+        "published_at": "2026-11-04T17:45:00Z"
+      },
+      {
+        "title": "North Korea fires multiple missiles in fourth weapons launch in a month, Seoul says - Reuters",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186584968",
+        "source": "Slashdot.org",
+        "published_at": "2026-11-04T08:13:39Z"
+      },
+      {
+        "title": "North Korea fires missiles hours after rejecting US accusations over Binance hack",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/north-korea-fires-missiles-hours-after-rejecting-us-accusations-over-binance-hack/articleshow/135524084.cms",
+        "source": "The Times of India",
+        "published_at": "2026-11-04T05:01:46Z"
+      }
+    ],
+    "india-pakistan-kashmir-conflict": [
+      {
+        "title": "India objects to US upgrade of Pakistani F-16s",
+        "url": "https://rt-english.com/india/648005-india-us-pakistan-f16/",
+        "source": "Rt-english.com",
+        "published_at": "2026-10-29T08:51:23Z"
+      }
+    ],
+    "ethiopia-northern-conflict": [
+      {
+        "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
+        "url": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o",
+        "source": "BBC News",
+        "published_at": "2026-11-04T06:07:24Z"
+      }
+    ],
+    "nigeria-internal-security-crisis": [
+      {
+        "title": "2027: Obi vows to pursue kidnappers into hideouts",
+        "url": "https://punchng.com/2027-obi-vows-to-pursue-kidnappers-into-hideouts/",
+        "source": "The Punch",
+        "published_at": "2026-11-04T19:10:11Z"
+      }
+    ],
+    "afghanistan-governance-security-crisis": [
+      {
+        "title": "Taliban Denounces Alleged U.S. Plan to Deport 150 Afghans Home",
+        "url": "https://www.breitbart.com/asia/2026/11/03/taliban-denounces-alleged-u-s-plan-to-deport-150-afghans-home/",
+        "source": "Breitbart News",
+        "published_at": "2026-11-03T21:56:26Z"
+      }
+    ],
+    "ecuador-organized-crime-crisis": []
+  }
+}

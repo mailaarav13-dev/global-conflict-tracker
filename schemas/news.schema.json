@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://global-conflict-tracker.local/schemas/news.schema.json",
+  "title": "Global Conflict Tracker news snapshot",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["generated_at", "provider", "items"],
+  "properties": {
+    "generated_at": { "type": "string", "format": "date-time" },
+    "provider": { "type": "string", "minLength": 1 },
+    "sample": { "type": "boolean" },
+    "items": {
+      "type": "object",
+      "propertyNames": { "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+      "additionalProperties": {
+        "type": "array",
+        "items": { "$ref": "#/$defs/article" }
+      }
+    }
+  },
+  "$defs": {
+    "article": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["title", "url", "source"],
+      "properties": {
+        "title": { "type": "string", "minLength": 1 },
+        "url": { "type": "string", "format": "uri", "pattern": "^https?://" },
+        "source": { "type": "string", "minLength": 1 },
+        "published_at": { "type": "string", "format": "date-time" },
+        "provider": { "type": "string", "minLength": 1 },
+        "language": { "type": "string", "minLength": 1 },
+        "source_country": { "type": "string", "minLength": 1 },
+        "sample": { "type": "boolean" }
+      }
+    }
+  }
+}

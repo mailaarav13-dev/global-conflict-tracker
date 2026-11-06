@@ -1,0 +1,522 @@
+{
+  "generated_at": "2026-11-06T03:30:55.837Z",
+  "source": "static-export-bootstrap-and-editorial-expansion",
+  "items": [
+    {
+      "id": "russia-ukraine-war",
+      "title": "Russia–Ukraine War",
+      "region": "Europe",
+      "type": "Interstate War",
+      "status": "Deteriorating",
+      "impact_level": "High",
+      "iso_countries": [
+        "RUS",
+        "UKR",
+        "BLR"
+      ],
+      "center_coordinates": {
+        "latitude": 48.5,
+        "longitude": 32
+      },
+      "summary": "The largest interstate war in Europe since 1945, defined by attritional frontline fighting, systematic strikes on energy infrastructure, and the contested occupation of roughly one-fifth of Ukrainian territory.",
+      "historical_context": "Tensions trace to the 2014 Euromaidan uprising, Russia's annexation of Crimea, and the Donbas proxy war that killed roughly 14,000 people despite the Minsk agreements.\n\nRussia's full-scale invasion began in February 2022. Ukraine held Kyiv and retook Kharkiv and Kherson in 2022 counteroffensives, after which the war settled into attritional fighting shaped by drones, electronic warfare, and deep strikes on energy infrastructure, alongside diplomatic offensives to force negotiations.",
+      "strategic_impact": "- **Security order:** triggered NATO enlargement to Finland and Sweden and Europe's largest rearmament since the Cold War.\n- **Markets:** disrupted gas flows and Black Sea grain corridors continue to drive global food and energy volatility.\n- **Nuclear signaling:** renewed debate over extended deterrence and escalation management.\n- **Precedent:** the outcome will shape whether territorial revisionism by force remains viable.",
+      "updated_at": "2025-10-30",
+      "scope": "International"
+    },
+    {
+      "id": "israel-gaza-war",
+      "title": "Israel–Gaza War and Regional Fronts",
+      "region": "Middle East & North Africa",
+      "type": "Interstate War",
+      "status": "Deteriorating",
+      "impact_level": "High",
+      "iso_countries": [
+        "ISR",
+        "PSE",
+        "LBN",
+        "EGY"
+      ],
+      "center_coordinates": {
+        "latitude": 31.4,
+        "longitude": 34.35
+      },
+      "summary": "The war sparked by the October 7, 2023 Hamas-led attack devastated Gaza, destabilized adjoining fronts in Lebanon and the Red Sea, and stalled prospects for a two-state political horizon.",
+      "historical_context": "Roots run through the 1948 war and displacement of Palestinians, the 1967 occupation, the collapse of the Oslo process, and the 2007 onset of the Gaza blockade with recurring escalations.\n\nThe October 7, 2023 Hamas-led attack killed some 1,200 people and took roughly 250 hostages. Israel's subsequent campaign razed much of Gaza and brought humanitarian conditions to catastrophic levels, while the conflict metastasized to Lebanon and other fronts before U.S.-brokered ceasefire diplomacy produced fragile pauses.",
+      "strategic_impact": "- **Escalation risk:** every ceasefire cycle carries risk of relapse across the Iran-aligned 'axis' fronts.\n- **Regional order:** reshaped Hezbollah, squeezed Hamas, and reordered U.S.–Arab diplomacy, including Saudi normalization sequencing.\n- **Law and legitimacy:** the conduct of the war has driven unprecedented legal contestation at the ICJ and ICC.\n- **Humanitarian stakes:** reconstruction and governance of Gaza remain unresolved drivers of future conflict.",
+      "updated_at": "2025-10-28",
+      "scope": "International"
+    },
+    {
+      "id": "sudan-civil-war",
+      "title": "Sudan Civil War (SAF vs. RSF)",
+      "region": "Sub-Saharan Africa",
+      "type": "Civil War",
+      "status": "Deteriorating",
+      "impact_level": "High",
+      "iso_countries": [
+        "SDN",
+        "SSD"
+      ],
+      "center_coordinates": {
+        "latitude": 15.6,
+        "longitude": 30.2
+      },
+      "summary": "A power struggle between the Sudanese Armed Forces and the Rapid Support Forces has produced the world's largest displacement crisis, with famine conditions spreading across Darfur and Kordofan.",
+      "historical_context": "The 2019 revolution ousted Omar al-Bashir after three decades of rule; the 2021 coup by Generals al-Burhan and Hemedti then destroyed the civilian transition.\n\nOpen war erupted in April 2023 between the army and the RSF paramilitary. The fighting devastated Khartoum, saw ethnically targeted massacres in Darfur, and displaced more than ten million people internally and across borders, while famine was declared in displacement camps and both sides fragmented into rival administrations.",
+      "strategic_impact": "- **Humanitarian system:** the largest displacement crisis on record is overwhelming regional response capacity.\n- **Great-power competition:** Gulf rivalries, Russian mercenary interests, and Red Sea access ambitions are embedded in the war economy.\n- **Regional destabilization:** spillover into Chad, South Sudan, and the Central African Republic risks a wider Sahel–Horn arc of instability.\n- **Governance precedent:** the fate of the civilian democratic movement is a bellwether for the region.",
+      "updated_at": "2025-10-25",
+      "scope": "Internal"
+    },
+    {
+      "id": "myanmar-civil-war",
+      "title": "Myanmar Post-Coup Civil War",
+      "region": "Asia-Pacific",
+      "type": "Civil War",
+      "status": "Deteriorating",
+      "impact_level": "Medium",
+      "iso_countries": [
+        "MMR"
+      ],
+      "center_coordinates": {
+        "latitude": 20.5,
+        "longitude": 96.5
+      },
+      "summary": "Since the 2021 military coup, coordinated resistance forces and ethnic armies have seized most borderlands, forcing the junta into airstrikes, conscription drives, and staged electoral theater.",
+      "historical_context": "The February 2021 coup reversed a decade of partial liberalization and ignited nationwide armed resistance alongside a decades-old ethnic conflict landscape.\n\nThe Three Brotherhood Alliance's Operation 1027 in late 2023 collapsed junta control across Shan State and inspired offensives nationwide; revolutionary forces now hold most frontier zones while the military retains cities and corridors through airpower. Myanmar remains fragmented between the junta, the parallel National Unity Government, and autonomous ethnic administrations.",
+      "strategic_impact": "- **Regional drain:** refugee flows, scam compounds, and narcotics economies strain Thailand, India, and Bangladesh.\n- **Great-power leverage:** China's brokerage with all sides has deepened its influence over the country's future.\n- **ASEAN credibility:** the crisis has hollowed out the bloc's consensus model and its five-point plan.\n- **Human security:** a devastating earthquake and the 2017 Rohingya cleansing legacy compound the displacement toll.",
+      "updated_at": "2025-10-22",
+      "scope": "Internal"
+    },
+    {
+      "id": "yemen-civil-war",
+      "title": "Yemen War and Houthi Maritime Campaign",
+      "region": "Middle East & North Africa",
+      "type": "Civil War",
+      "status": "Constant",
+      "impact_level": "High",
+      "iso_countries": [
+        "YEM",
+        "SAU"
+      ],
+      "center_coordinates": {
+        "latitude": 15.5,
+        "longitude": 44.2
+      },
+      "summary": "A tenuous truce has frozen frontlines among the Houthis, the internationally recognized government, and southern separatists, while Houthi attacks on Red Sea shipping persist as strategic leverage.",
+      "historical_context": "The Houthis captured Sanaa in 2014, prompting the 2015 Saudi-led intervention that turned a local conflict into a devastating proxy war.\n\nA UN-brokered truce in 2022 froze large-scale fighting, but political fragmentation deepened — Houthi north, government east, and southern separatists in Aden. After October 2023, the Houthis launched missile and drone attacks on commercial shipping in the Red Sea, triggering U.S. and UK strikes and enduring disruption to one of the world's busiest trade arteries.",
+      "strategic_impact": "- **Trade artery:** Bab el-Mandeb disruption reroutes global shipping around the Cape of Good Hope, raising freight and insurance costs.\n- **Iran–Saudi channel:** Yemen remains the testing ground for de-escalation between Riyadh and Tehran.\n- **Maritime precedent:** the campaign established a template for non-state actors coercing global commerce.\n- **Humanitarian holdover:** Yemen's economy and food security remain among the world's most fragile.",
+      "updated_at": "2025-10-19",
+      "scope": "Internal"
+    },
+    {
+      "id": "south-china-sea-dispute",
+      "title": "South China Sea Maritime Disputes",
+      "region": "Asia-Pacific",
+      "type": "Interstate War",
+      "status": "Constant",
+      "impact_level": "High",
+      "iso_countries": [
+        "CHN",
+        "VNM",
+        "PHL",
+        "MYS",
+        "TWN",
+        "BRN"
+      ],
+      "center_coordinates": {
+        "latitude": 12,
+        "longitude": 114
+      },
+      "summary": "China's coast guard and maritime militia routinely contest the exclusive economic zones of neighboring claimant states, with resupply missions to Second Thomas Shoal the sharpest recurring flashpoint.",
+      "historical_context": "Overlapping claims span the Paracel and Spratly archipelagos, anchored in China's sweeping nine-dash line, contested since the 1974 battle for the Paracels and the 1988 Johnson South Reef clash.\n\nA 2016 arbitral tribunal rejected the nine-dash line's legality under UNCLOS; Beijing rejected the award and militarized artificial islands built after 2013. Coast guard water cannons, ramming incidents, and militia blockades against Philippine resupply have since normalized gray-zone coercion short of armed conflict.",
+      "strategic_impact": "- **Law of the sea:** continued defiance of the 2016 arbitral award erodes UNCLOS as the governing framework for maritime order.\n- **Supply chains:** roughly one-fifth of global trade transits these waters; coercion or closure would ripple through semiconductors, energy, and food.\n- **Alliance credibility:** the U.S.–Philippines Mutual Defense Treaty commitment to Second Thomas Shoal resupply is the sharpest tripwire.\n- **Escalation vectors:** a collision at Second Thomas or Scarborough Shoal could trigger an armed exchange between nuclear-armed states.",
+      "updated_at": "2025-10-15",
+      "scope": "International"
+    },
+    {
+      "id": "israel-iran-confrontation",
+      "title": "Israel–Iran Direct Confrontation",
+      "region": "Middle East & North Africa",
+      "type": "Interstate War",
+      "status": "Deteriorating",
+      "impact_level": "High",
+      "iso_countries": [
+        "ISR",
+        "IRN",
+        "SYR",
+        "LBN"
+      ],
+      "center_coordinates": {
+        "latitude": 31.5,
+        "longitude": 44.5
+      },
+      "summary": "A decades-long shadow war of proxies, sabotage, and assassinations broke into direct missile and air exchanges in 2024–2025, collapsing escalation thresholds and drawing U.S. strikes on Iranian nuclear facilities.",
+      "historical_context": "Enmity dates to the 1979 revolution and hardened through Iran's nuclear program, the Lebanon and Syria proxy arch, and covert campaigns — Stuxnet, scientist assassinations, Israel's raids in Syria.\n\nIran's April and October 2024 salvos crossed the direct-attack threshold. In June 2025 Israel's Operation Rising Lion decimated Iranian air defenses and military leadership; U.S. bombers then struck the Fordow, Natanz, and Isfahan nuclear sites. A ceasefire ended the twelve-day war, but nuclear intentions and retaliation doctrine remain unresolved.",
+      "strategic_impact": "- **Energy risk:** renewed strikes could close the Strait of Hormuz, through which a fifth of global oil and LNG transits.\n- **Proliferation:** degraded inspectors and damaged facilities strengthen arguments for Iranian nuclear breakout or NPT exit.\n- **Regional order:** the strikes gutted Iran's proxy 'axis' yet left its regime intact, hardening deterrence questions for Gulf states.\n- **Escalation vectors:** every review window risks resumption through proxy retaliation, enrichment dashes, or miscalculation at sea.",
+      "updated_at": "2025-10-12",
+      "scope": "International"
+    },
+    {
+      "id": "libya-fragmentation",
+      "title": "Libya Fragmentation and Rival Governments",
+      "region": "Middle East & North Africa",
+      "type": "Political Instability",
+      "status": "Constant",
+      "impact_level": "Medium",
+      "iso_countries": [
+        "LBY"
+      ],
+      "center_coordinates": {
+        "latitude": 28.5,
+        "longitude": 17
+      },
+      "summary": "Fifteen years after the NATO-backed uprising, Libya remains split between a Tripoli-based government and an eastern military bloc, with oil revenues, foreign forces, and deferred elections sustaining the stalemate.",
+      "historical_context": "The 2011 revolt ended Muammar Gaddafi's four-decade rule but dissolved the state into militia rule; the 2019–2020 war for Tripoli ended in a ceasefire and a unity government whose elections were cancelled in December 2021.\n\nPower has since consolidated around rival administrations in Tripoli and the east, anchored by armed groups and foreign patrons. Periodic clashes in Tripoli and battles over the central bank and oil revenues punctuate an entrenched stalemate.",
+      "strategic_impact": "- **Migration pressure:** Libya remains the primary corridor for sub-Saharan migration toward Europe, empowering militia economies.\n- **Energy markets:** output swings from the Sharara and El Feel fields ripple through Mediterranean and OPEC balances.\n- **Great-power competition:** Russian, Turkish, Egyptian, and Gulf patrons entrench rival camps and block unification.\n- **Escalation vectors:** any move to hold or cancel elections, or to seize oil infrastructure, could reignite full-scale civil war.",
+      "updated_at": "2025-10-08",
+      "scope": "Internal"
+    },
+    {
+      "id": "syria-transition-crisis",
+      "title": "Syria Post-Assad Transition",
+      "region": "Middle East & North Africa",
+      "type": "Political Instability",
+      "status": "Constant",
+      "impact_level": "Medium",
+      "iso_countries": [
+        "SYR"
+      ],
+      "center_coordinates": {
+        "latitude": 35,
+        "longitude": 38.5
+      },
+      "summary": "The Assad dynasty's collapse in December 2024 opened a volatile transition: a caretaker government consolidation, sectarian massacres, Israeli strikes and a seized buffer zone, and contested minority integration.",
+      "historical_context": "Fifty-four years of Assad rule ended when a lightning HTS-led offensive took Aleppo, Hama, and Damascus in eleven days; Bashar al-Assad fled to Moscow.\n\nThe interim government under Ahmed al-Sharaa inherited a shattered economy, fragmented armed factions, sanctions relief negotiations, and deep sectarian fault lines. Coastal massacres of Alawites in March 2025, Druze clashes in Sweida, and continued Israeli operations test whether state consolidation or renewed fragmentation defines the transition.",
+      "strategic_impact": "- **Refugee returns:** whether millions of displaced Syrians return shapes labor markets and stability in Lebanon, Jordan, and Turkey.\n- **Jihadist risk:** the governance record of a former al-Qaeda affiliate under state pressure is a global counterterrorism test.\n- **Geopolitical realignment:** Russian basing, Iranian networks, and Turkish influence are being renegotiated; U.S. sanctions waivers hold leverage.\n- **Escalation vectors:** Israeli–Syrian friction and unresolved Kurdish integration could fragment the new state.",
+      "updated_at": "2025-10-05",
+      "scope": "Internal"
+    },
+    {
+      "id": "sahel-jihadist-insurgency",
+      "title": "Sahel Jihadist Insurgency",
+      "region": "Sub-Saharan Africa",
+      "type": "Transnational Terrorism",
+      "status": "Deteriorating",
+      "impact_level": "Medium",
+      "iso_countries": [
+        "MLI",
+        "BFA",
+        "NER"
+      ],
+      "center_coordinates": {
+        "latitude": 14.5,
+        "longitude": -0.5
+      },
+      "summary": "JNIM and Islamic State–Sahel exploit the post-coup vacuum across Mali, Burkina Faso, and Niger, expanding blockades, mass atrocities, and attacks on capitals while spilling into West Africa's coastal states.",
+      "historical_context": "The insurgency began with Mali's 2012 Tuareg rebellion and spread as French Operation Barkhane, then UN peacekeepers, then Wagner/Africa Corps contingents failed to reverse territorial losses after successive coups since 2020.\n\nThe three juntas formed the Alliance of Sahel States and left ECOWAS in 2024. JNIM now imposes fuel blockades reaching Bamako and Ouagadougou, while Burkina Faso has lost roughly half its territory and coastal states from Benin to Ghana absorb spillover attacks.",
+      "strategic_impact": "- **Great-power competition:** Russia's Africa Corps displaced Western security partnerships, deepening a strategic realignment of the region.\n- **Critical minerals:** uranium and lithium assets in Niger and Mali anchor European and Chinese supply ambitions amid insurgent sabotage.\n- **Migration and trade:** shut borders and displaced populations strain coastal states and Atlantic migration routes.\n- **Escalation vectors:** state collapse in Burkina Faso, or JNIM reach into Gulf of Guinea ports, would open a new regional chapter.",
+      "updated_at": "2025-10-02",
+      "scope": "Transnational"
+    },
+    {
+      "id": "drc-eastern-conflict",
+      "title": "Eastern DRC Conflict (M23/Rwanda)",
+      "region": "Sub-Saharan Africa",
+      "type": "Interstate War",
+      "status": "Deteriorating",
+      "impact_level": "High",
+      "iso_countries": [
+        "COD",
+        "RWA"
+      ],
+      "center_coordinates": {
+        "latitude": -1.7,
+        "longitude": 29.2
+      },
+      "summary": "Rwanda-backed M23 fighters seized Goma and Bukavu in early 2025, the conflict's gravest escalation since the Kivu wars began, threatening a war over the mineral-rich Kivu corridor despite mediation deals.",
+      "historical_context": "The Great Lakes conflict descends from the 1994 Rwandan genocide's aftermath and successive Congo wars driven by armed groups and mineral extraction.\n\nM23 re-emerged in 2021; by January–February 2025 it captured Goma and Bukavu with Rwandan army support, displacing hundreds of thousands more and drawing South African and Burundian troops into direct clashes. Washington- and Doha-brokered agreements in mid-2025 promised Rwandan withdrawal and minerals frameworks, but fighting and ethnic massacres persist.",
+      "strategic_impact": "- **Critical minerals:** the Kivus hold dominant coltan, tin, and gold reserves; conflict entrenches smuggling chains feeding global electronics.\n- **Regional war risk:** direct clashes among national armies raise the first interstate war scenario among SADC and EAC members in decades.\n- **Humanitarian toll:** roughly seven million displaced people make the DRC among the world's largest hunger crises.\n- **Escalation vectors:** collapse of the Doha track, M23 push toward Kisangani, or Uganda–Rwanda rivalry could re-regionalize the war.",
+      "updated_at": "2025-09-28",
+      "scope": "International"
+    },
+    {
+      "id": "somalia-al-shabaab-insurgency",
+      "title": "Somalia and Al-Shabaab Insurgency",
+      "region": "Sub-Saharan Africa",
+      "type": "Transnational Terrorism",
+      "status": "Constant",
+      "impact_level": "Medium",
+      "iso_countries": [
+        "SOM"
+      ],
+      "center_coordinates": {
+        "latitude": 3,
+        "longitude": 45.3
+      },
+      "summary": "Eighteen years on, Al-Shabaab retains deep rural control and strikes Mogadishu at will, while clan-militia offensives, an African Union mission transition, and regional rivalries fragment the counterterrorism effort.",
+      "historical_context": "Al-Shabaab emerged from the 2006 Ethiopian intervention and once ruled most of southern Somalia; African Union missions since 2007 have constrained but never defeated it.\n\nPresident Hassan Sheikh Mohamud's 2022–2023 'total war' offensive, driven by the Ma'awisley clan militias, was blunted by Al-Shabaab counteroffensives. The ATMIS mission handed over to a smaller AUSSOM force in 2025, Ethiopia–Somaliland port tensions persist, and Puntland separately pursues Islamic State fighters in the Cal Miskaad mountains.",
+      "strategic_impact": "- **Horn security:** Al-Shabaab's external operations branch remains al-Qaeda's most capable affiliate, targeting regional and Western interests.\n- **Red Sea nexus:** instability compounds Houthi-era shipping risks and invites renewed piracy along a vital trade artery.\n- **Great-power competition:** UAE, Turkey, Egypt, and Ethiopia maintain rival military footprints around Mogadishu and Somaliland.\n- **Escalation vectors:** an AU mission funding collapse or Ethiopian–Somali rupture over Somaliland could re-fragment security gains.",
+      "updated_at": "2025-09-24",
+      "scope": "Internal"
+    },
+    {
+      "id": "haiti-gang-crisis",
+      "title": "Haiti Gang Crisis and State Collapse",
+      "region": "North America",
+      "type": "Political Instability",
+      "status": "Deteriorating",
+      "impact_level": "Medium",
+      "iso_countries": [
+        "HTI"
+      ],
+      "center_coordinates": {
+        "latitude": 18.9,
+        "longitude": -72.5
+      },
+      "summary": "A gang coalition led by former officer Jimmy Chérizier controls most of Port-au-Prince, outfighting an undermanned Kenya-led police mission while famine conditions spread and all state institutions atrophy.",
+      "historical_context": "State decay accelerated after the 2021 assassination of President Jovenel Moïse, when gangs consolidated into the Viv Ansanm coalition and seized ports, fuel terminals, and whole neighborhoods.\n\nThe unelected Transitional Council installed in 2024 has failed to restore security or hold elections; the Kenya-led Multinational Security Support mission remains understaffed and underfunded despite a UN-backed mandate, while displaced populations have swollen past one million and armed drones now deliver gang violence beyond the capital.",
+      "strategic_impact": "- **Migration pressure:** sea departures toward Florida strain U.S. interdiction and refugee policy.\n- **Arms trafficking:** most gang weapons originate in U.S. states, making the crisis a test of hemispheric trafficking enforcement.\n- **Precedent for intervention:** the MSS model — policing rather than peacekeeping — is the template for future non-UN stabilization missions.\n- **Escalation vectors:** total gang control of the capital or the mission's collapse could trigger mass migration and external military intervention.",
+      "updated_at": "2025-09-20",
+      "scope": "Internal"
+    },
+    {
+      "id": "mexico-cartel-conflict",
+      "title": "Mexico Cartel Conflict",
+      "region": "North America",
+      "type": "Transnational Terrorism",
+      "status": "Constant",
+      "impact_level": "High",
+      "iso_countries": [
+        "MEX"
+      ],
+      "center_coordinates": {
+        "latitude": 20.5,
+        "longitude": -101
+      },
+      "summary": "Hemispheric record homicides, a cartel civil war in Sinaloa, U.S. foreign-terrorist designations, and tariff-linked fentanyl pressure have fused criminal violence with the two countries' core security and trade relationship.",
+      "historical_context": "Cartel violence has driven more than 400,000 deaths since 2006 as trafficking organizations captured municipalities, ports, and fuel markets across Mexico.\n\nThe 2024 split of the Sinaloa cartel between the Chapitos and Mayo Zambada wings ignited a war in Culiacán; in February 2025 the United States designated eight cartels foreign terrorist organizations and began drone strikes against fentanyl networks. Mexico's constitutional reforms and sovereignty disputes over potential U.S. military operations now bind security to the USMCA trade review.",
+      "strategic_impact": "- **U.S. public health:** fentanyl is the leading killer of young Americans; supply-side strikes alone have not dented overdose deaths.\n- **Trade coercion:** tariff threats tied to fentanyl flows leverage the largest bilateral trade relationship in the hemisphere.\n- **Sovereignty precedent:** U.S. operations inside Mexican territory would rupture a century of non-intervention doctrine.\n- **Escalation vectors:** cartel reprisals against U.S. targets, or a failed decapitation strategy, could push both governments toward armed confrontation.",
+      "updated_at": "2025-09-16",
+      "scope": "Internal"
+    },
+    {
+      "id": "venezuela-guyana-essequibo-dispute",
+      "title": "Venezuela–Guyana Essequibo Dispute",
+      "region": "South America",
+      "type": "Interstate War",
+      "status": "Constant",
+      "impact_level": "Medium",
+      "iso_countries": [
+        "VEN",
+        "GUY"
+      ],
+      "center_coordinates": {
+        "latitude": 6.2,
+        "longitude": -59
+      },
+      "summary": "Venezuela's revived claim to two-thirds of Guyana, backed by an annexation law, persists as offshore oil booms, U.S. naval deployments against Caracas, and a pending ICJ ruling raise coercive stakes.",
+      "historical_context": "The 1899 arbitration awarded the Essequibo to British Guiana; Venezuela rejected the ruling, and the dispute lay dormant until ExxonMobil's 2015 offshore discoveries transformed Guyana into the world's fastest-growing oil producer.\n\nA 2023 referendum authorized Venezuela to annex the territory; the National Assembly passed an organic annexation law in 2025. Concurrently, U.S. naval strikes and deployments against the Maduro government's drug networks have militarized the Caribbean, entangling the border dispute with regime-pressure politics.",
+      "strategic_impact": "- **Oil markets:** Guyana's Stabroek block additions and any strikes on infrastructure would move heavy-crude supply and services contracts.\n- **Hemispheric order:** the first annexation-by-force scenario in Latin America in a century would test the OAS and Rio Pact.\n- **Regime calculus:** U.S. pressure on Caracas entangles the claim with sanctions relief and democratic-transition questions.\n- **Escalation vectors:** an ICJ award against Caracas, or Guyanese offshore enforcement, could trigger a Venezuelan military probe into the Essequibo.",
+      "updated_at": "2025-09-12",
+      "scope": "International"
+    },
+    {
+      "id": "colombia-armed-groups-transition",
+      "title": "Colombia Armed Groups Transition",
+      "region": "South America",
+      "type": "Civil War",
+      "status": "Improving",
+      "impact_level": "Low",
+      "iso_countries": [
+        "COL"
+      ],
+      "center_coordinates": {
+        "latitude": 4,
+        "longitude": -73.5
+      },
+      "summary": "Colombia's 'total peace' policy advances ceasefire cycles with the ELN and demobilization tracks even as dissident FARC fronts and Gulf cartels contest borderlands — a measured winding down of the hemisphere's oldest insurgency.",
+      "historical_context": "Conflict has run since the 1960s among the state, Marxist insurgencies, and paramilitary networks; the 2016 FARC accord removed the largest actor but left dissident fronts, the ELN, and criminal economies in place.\n\nPresident Gustavo Petro's 2022 'total peace' framework produced ELN ceasefire cycles and negotiation phases even as the EMC's brutality triggered the January 2025 Catatumbo emergency. Violence indicators remain at multi-decade lows while coca cultivation and illegal mining sustain residual armed capacity in the Pacific and border regions.",
+      "strategic_impact": "- **Cocaine markets:** Colombia still supplies most U.S.-bound cocaine; peace-track success or failure directly moves transnational supply.\n- **Venezuela nexus:** dissident groups operate from cross-border sanctuaries, keeping Caracas embedded in the file.\n- **Migration and environment:** coca expansion drives deforestation and displacement across the Amazon basin's headwaters.\n- **Escalation vectors:** collapse of the ELN track or renewed EMC offensives would reverse the improving trajectory.",
+      "updated_at": "2025-09-08",
+      "scope": "Internal"
+    },
+    {
+      "id": "armenia-azerbaijan-peace-process",
+      "title": "Armenia–Azerbaijan Peace Process",
+      "region": "Europe",
+      "type": "Interstate War",
+      "status": "Improving",
+      "impact_level": "Medium",
+      "iso_countries": [
+        "ARM",
+        "AZE"
+      ],
+      "center_coordinates": {
+        "latitude": 39.8,
+        "longitude": 46.6
+      },
+      "summary": "The August 2025 Washington Accord closed three decades of Karabakh conflict, exchanging recognition, corridor rights, and security commitments even as implementation, border delimitation, and minority rights remain unfinished.",
+      "historical_context": "Azerbaijan's 2020 war recaptured much of Karabakh; the 2023 offensive dissolved the self-declared republic and expelled its roughly 100,000 Armenians, ending the enclave's existence.\n\nBilateral drafts converged through 2024–2025 until a White House signing framed the Zangezur transit route as a U.S.-developed corridor, with Armenian constitutional reform and OSCE Minsk Group dissolution folded in. Delimitation commissions and transit implementation now define a peace that has already survived its first review windows.",
+      "strategic_impact": "- **Transit geography:** the corridor rewires Europe–Asia 'Middle Corridor' logistics around Russian and Iranian chokepoints.\n- **Russian retreat:** Moscow's peacekeeper exit and the Minsk Group's dissolution mark the end of its Caucasian monopoly.\n- **Energy leverage:** Baku's gas and the corridor plan tie the Caspian closer to European supply diversification.\n- **Escalation vectors:** stalled ratification, diaspora politics, or border incidents could still slow implementation to a freeze.",
+      "updated_at": "2025-09-04",
+      "scope": "International"
+    },
+    {
+      "id": "taiwan-strait-tension",
+      "title": "Taiwan Strait Military Tension",
+      "region": "Asia-Pacific",
+      "type": "Interstate War",
+      "status": "Constant",
+      "impact_level": "High",
+      "iso_countries": [
+        "TWN",
+        "CHN"
+      ],
+      "center_coordinates": {
+        "latitude": 24.5,
+        "longitude": 119.5
+      },
+      "summary": "Beijing's encirclement drills, coast-guard patrols, and gray-zone pressure have normalized a new baseline around Taiwan, keeping the world's most consequential deterrence relationship at sustained high friction.",
+      "historical_context": "The division dates to 1949; cross-strait ties oscillated between engagement and coercion as Taiwan democratized and Beijing escalated reunification pressure under Xi Jinping.\n\nPelosi's 2022 visit broke the median line precedent; since 2024, 'Joint Sword' and post-inauguration exercises rehearse blockade and quarantine operations. PLA daily presence in the ADIZ, cable cuttings, and cyber campaigns advance pressure short of war, while U.S. policy statements on deterrence and Taiwan's defense-spending debates mark the standoff's structural tracks.",
+      "strategic_impact": "- **Semiconductors:** Taiwan produces the world's leading-edge chips; any blockade is a direct global depression scenario.\n- **Great-power deterrence:** U.S. ambiguity, allied intervention planning, and PLA readiness improvements converge on a closing window after 2027.\n- **Economic coercion:** quarantine gray zones test how far Beijing can throttle Taiwan without firing the first shot.\n- **Escalation vectors:** a drift-incident collision, formal independence moves, or U.S. port visits could convert friction into crisis.",
+      "updated_at": "2025-08-30",
+      "scope": "International"
+    },
+    {
+      "id": "korean-armistice-standoff",
+      "title": "Korean Peninsula Armistice Standoff",
+      "region": "Asia-Pacific",
+      "type": "Interstate War",
+      "status": "Constant",
+      "impact_level": "Medium",
+      "iso_countries": [
+        "PRK",
+        "KOR"
+      ],
+      "center_coordinates": {
+        "latitude": 38.3,
+        "longitude": 127
+      },
+      "summary": "With diplomacy dead since 2019, North Korea's missile advances and troops for Russia, and Seoul's own political turbulence, the world's most militarized border remains frozen at high readiness.",
+      "historical_context": "The 1953 armistice left the peninsula technically at war; six-party denuclearization collapsed, and Kim Jong Un's 2021–2022 missile surge resumed unabated.\n\nPyongyang's 2024 treaty with Moscow sent an estimated 11,000 troops to Russia's Kursk front, buying missile and satellite technology. Kim's rejection of unification and declaration of the South as the 'primary hostile state' erased engagement premises, while South Korea's martial-law crisis and 2025 impeachment transition froze inter-Korean policy at maximum caution.",
+      "strategic_impact": "- **Proliferation transfer:** payments for Russian deployment accelerate Pyongyang's solid-fuel missile and nuclear-latency programs.\n- **Extended deterrence:** U.S. nuclear consultation, trilateral Japan–Korea–U.S. frameworks, and South Korean domestic nuclear debate test alliance durability.\n- **Ukraine linkage:** the first Asian troops in Europe's war set a precedent for transactional axis cooperation.\n- **Escalation vectors:** a seventh nuclear test, a Yellow Sea incident, or U.S.–DPRK brinkmanship around policy reviews could re-open hostilities.",
+      "updated_at": "2025-08-26",
+      "scope": "International"
+    },
+    {
+      "id": "india-pakistan-kashmir-conflict",
+      "title": "India–Pakistan Kashmir Confrontation",
+      "region": "Asia-Pacific",
+      "type": "Interstate War",
+      "status": "Constant",
+      "impact_level": "High",
+      "iso_countries": [
+        "IND",
+        "PAK"
+      ],
+      "center_coordinates": {
+        "latitude": 34.2,
+        "longitude": 74.4
+      },
+      "summary": "The April 2025 Pahalgam attack triggered the rivals' deepest missile exchanges in decades; the post-ceasefire order — a suspended water treaty, nuclear signaling, and new terror pacts — keeps the Line of Control at high alert.",
+      "historical_context": "Two nuclear-armed neighbors have fought three wars and recurring crises over Kashmir since 1947; the 2019 Balakot strikes reset thresholds after the Pulwama attack.\n\nThe Pahalgam massacre of tourists brought India's Operation Sindoor — missile strikes deep into Pakistan and Punjab — and four days of exchanges including mass drone sorties and air battles involving over a hundred aircraft. The U.S.-announced ceasefire of May 2025 has held, but India suspended the Indus Waters Treaty and Pakistan signed a mutual-defense pact with Afghanistan, re-ordering the region's alliances.",
+      "strategic_impact": "- **Nuclear thresholds:** the fastest crisis to pair missile strikes between nuclear powers since Kargil now defines deterrence learning on both sides.\n- **Water security:** the Indus suspension turns treaty architecture into coercive leverage over Pakistan's agriculture.\n- **Great-power geometry:** China's all-weather partnership with Pakistan, and U.S.–India defense ties, layer the crisis into wider competition.\n- **Escalation vectors:** another mass-casualty attack, or Indus enforcement action, would test a ceasefire neither side considers binding.",
+      "updated_at": "2025-08-22",
+      "scope": "International"
+    },
+    {
+      "id": "ethiopia-northern-conflict",
+      "title": "Northern Ethiopia Conflict and Federal Tensions",
+      "region": "Sub-Saharan Africa",
+      "type": "Civil War",
+      "scope": "Internal",
+      "status": "Deteriorating",
+      "impact_level": "High",
+      "iso_countries": [
+        "ETH"
+      ],
+      "center_coordinates": {
+        "latitude": 13.5,
+        "longitude": 39.5
+      },
+      "summary": "Renewed fighting and political fractures in northern Ethiopia threaten the 2022 Pretoria peace framework, displace civilians, and risk reopening a wider conflict across Tigray and neighboring regions.",
+      "historical_context": "The 2020–2022 Tigray war ended with the Pretoria cessation agreement, but disputes over disarmament, territorial administration, displaced communities, and the relationship between federal and regional authorities remained unresolved.\n\nDuring 2026, renewed clashes and seizures of transport infrastructure sharply worsened the security environment. The United Nations reported new displacement, threats to aid operations, and a growing risk that fighting could spread beyond Tigray.",
+      "strategic_impact": "- **Civilian protection:** renewed displacement is hitting communities still recovering from the previous war.\n- **Humanitarian access:** insecurity has interrupted roads, flights, communications, and aid operations.\n- **Regional spillover:** the presence and interests of neighboring forces raise the risk of a broader Horn of Africa confrontation.\n- **Peace architecture:** failure of the Pretoria framework would weaken confidence in negotiated settlements elsewhere in the region.",
+      "updated_at": "2026-10-10",
+      "source_links": [
+        "https://www.un.org/en/un-chief-%E2%80%98gravely-concerned%E2%80%99-renewed-fighting-northern-ethiopia-warns-against-escalation"
+      ]
+    },
+    {
+      "id": "nigeria-internal-security-crisis",
+      "title": "Nigeria Insurgency and Internal Security Crisis",
+      "region": "Sub-Saharan Africa",
+      "type": "Transnational Terrorism",
+      "scope": "Internal",
+      "status": "Deteriorating",
+      "impact_level": "High",
+      "iso_countries": [
+        "NGA"
+      ],
+      "center_coordinates": {
+        "latitude": 9.1,
+        "longitude": 8.7
+      },
+      "summary": "ISWAP and other armed groups continue attacks, extortion, and territorial pressure in northeastern and northwestern Nigeria while communal violence and organized crime stretch state security capacity.",
+      "historical_context": "The Boko Haram insurgency began in the northeast and later fragmented, with Islamic State West Africa Province emerging as the most capable faction. Violence has overlapped with banditry, kidnapping economies, farmer–herder conflict, and weak local governance across several regions.\n\nUnited Nations reporting in 2026 described intensified ISWAP operations, a broader network of active cells, and growing use of drones alongside continued attacks on security installations and communities.",
+      "strategic_impact": "- **Population security:** repeated attacks and displacement undermine farming, education, and local government.\n- **Regional reach:** armed networks cross into Cameroon, Niger, and Chad through the Lake Chad basin.\n- **Military adaptation:** increased drone use and entrenched bases raise the cost of counterinsurgency.\n- **Economic pressure:** insecurity constrains trade corridors and public investment across Africa’s most populous country.",
+      "updated_at": "2026-08-05",
+      "source_links": [
+        "https://www.un.org/securitycouncil/ctc/news/joint-briefing-security-council-twenty-third-report-secretary-general-threat-posed-isil-da%E2%80%99esh"
+      ]
+    },
+    {
+      "id": "afghanistan-governance-security-crisis",
+      "title": "Afghanistan Governance and Security Crisis",
+      "region": "Asia-Pacific",
+      "type": "Political Instability",
+      "scope": "Internal",
+      "status": "Constant",
+      "impact_level": "High",
+      "iso_countries": [
+        "AFG"
+      ],
+      "center_coordinates": {
+        "latitude": 33.9,
+        "longitude": 66
+      },
+      "summary": "Centralized Taliban rule, severe restrictions on women and girls, economic fragility, mass returns, and the continued presence of terrorist groups create a deep internal governance and humanitarian crisis.",
+      "historical_context": "The Taliban returned to power in August 2021 after the collapse of the former republic. Nationwide territorial control reduced some forms of armed conflict, but no inclusive constitutional system emerged and rights restrictions steadily expanded.\n\nBy 2026, United Nations reporting described an unresolved legitimacy crisis, widespread human-rights violations, severe humanitarian underfunding, large-scale forced returns, and a persistent ISIL-K threat capable of projecting violence beyond Afghanistan.",
+      "strategic_impact": "- **Human rights:** restrictions on women and girls exclude much of the population from education, employment, and public life.\n- **Humanitarian strain:** mass returns, food insecurity, and funding cuts are closing essential services.\n- **Terrorism risk:** ISIL-K retains regional reach despite pressure from the de facto authorities.\n- **Regional stability:** border clashes and refugee returns place sustained pressure on Pakistan, Iran, and Central Asia.",
+      "updated_at": "2026-09-16",
+      "source_links": [
+        "https://dppa.un.org/en/speeches-and-statements/deputy-special-representative-for-afghanistans-remarks-to-the-security"
+      ]
+    },
+    {
+      "id": "ecuador-organized-crime-crisis",
+      "title": "Ecuador Organized Crime and Internal Security Crisis",
+      "region": "South America",
+      "type": "Political Instability",
+      "scope": "Internal",
+      "status": "Deteriorating",
+      "impact_level": "Medium",
+      "iso_countries": [
+        "ECU"
+      ],
+      "center_coordinates": {
+        "latitude": -1.4,
+        "longitude": -78.4
+      },
+      "summary": "Armed criminal groups use territorial control, extortion, prison networks, and attacks on state institutions to drive displacement and weaken public services across coastal cities and strategic trafficking corridors.",
+      "historical_context": "Ecuador’s role in regional cocaine logistics expanded as criminal organizations penetrated ports, prisons, local institutions, and urban neighborhoods. A surge in killings and coordinated attacks led the government to declare an internal armed conflict in 2024.\n\nUnited Nations analysis for 2026 found that armed violence and criminal territorial control continued to cause displacement, movement restrictions, threats, and disruption to health, education, and protection services in several priority provinces.",
+      "strategic_impact": "- **Institutional resilience:** corruption and attacks on officials test courts, police, prisons, and local government.\n- **Maritime trafficking:** violence around ports affects major Pacific cocaine routes and commercial logistics.\n- **Civilian displacement:** territorial control and extortion are pushing families from affected communities.\n- **Regional adaptation:** the crisis shows how trafficking networks can evolve into armed political-security threats.",
+      "updated_at": "2026-05-18",
+      "source_links": [
+        "https://ecuador.un.org/es/315761-an%C3%A1lisis-de-choques-en-ecuador-2026"
+      ]
+    }
+  ]
+}
+

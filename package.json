@@ -1,0 +1,23 @@
+{
+  "name": "global-conflict-tracker-data-pipeline",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build:bootstrap": "node scripts/build-bootstrap-data.mjs",
+    "build:site": "node scripts/build-site.mjs",
+    "check": "npm run build:bootstrap && npm run validate:data && npm run test:pipeline",
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "test": "npm run validate:data && npm run test:pipeline",
+    "test:pipeline": "node scripts/test-news-refresh.mjs && node scripts/test-gdelt-refresh.mjs",
+    "validate:data": "node scripts/validate-data.mjs",
+    "refresh:news": "node scripts/refresh-news.mjs",
+    "refresh:gdelt": "node scripts/refresh-gdelt.mjs",
+    "sync:supabase": "node scripts/sync-supabase.mjs",
+    "refresh": "npm run refresh:news && npm run refresh:gdelt && npm run build:bootstrap && npm run validate:data && npm run sync:supabase"
+  }
+}

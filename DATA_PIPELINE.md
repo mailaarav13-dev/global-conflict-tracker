@@ -1,0 +1,81 @@
+# Data pipeline
+
+The public site remains a static export. Its data layer now has two independent snapshots.
+
+- `data/conflicts.json` contains the editorial catalog of international, internal, and transnational conflicts.
+- `data/news.json` contains the news snapshot already consumed by the public site.
+- `data/bootstrap-data.js` packages both snapshots and the map geometry for browsers that open `index.html` directly from disk.
+
+The browser interface loads both snapshots at runtime. Country details stay out of the initial view and are rendered only after a tracked country is selected on the map.
+
+## Local commands
+
+The pipeline requires Node.js 20 or newer and has no third-party package dependencies.
+
+### Run the site in VS Code
+
+Open the extracted project folder in VS Code, then run these commands in its integrated terminal.
+
+```sh
+npm install
+npm run dev
+```
+
+Open `http://127.0.0.1:4173` in a browser. Stop the server with `Ctrl+C`. To choose another port or expose the server to devices on the same network, use `npm run dev -- --port 3000 --host 0.0.0.0`.
+
+If port 4173 is already occupied, the development server automatically tries 4174 and subsequent ports. Always open the exact address printed in the terminal. A port supplied with `--port` is treated as an explicit choice and produces a concise error if unavailable.
+
+```sh
+npm run check
+npm run validate:data
+npm run build:bootstrap
+npm run refresh:news
+npm run refresh:gdelt
+npm run sync:supabase
+npm run refresh
+```
+
+`refresh:news` requires `NEWS_API_KEY`. It requests the configured searches, validates the complete candidate snapshot, and atomically replaces `data/news.json`. Any provider, network, or validation failure leaves the published snapshot untouched.
+
+`refresh:gdelt` then adds multilingual GDELT discoveries to the existing snapshot, deduplicates URLs and headlines, applies the same headline relevance rules, and keeps up to eight recent items per conflict. It requires no additional credential. Requests are spaced and retried to respect the public endpoint; an individual query failure retains that conflict's existing articles, while a total provider outage leaves the entire snapshot untouched.
+
+Search terms and ingestion limits live in `config/news-queries.json`.
+
+## Scheduled refresh
+
+`.github/workflows/refresh-data.yml` runs at 17 minutes past every sixth hour and can also be started manually. The six-hour cadence keeps the default 24-query refresh within a typical 100-request daily allowance.
+
+To activate it in a GitHub repository, add this Actions secret.
+
+- `NEWS_API_KEY`
+
+The workflow rebuilds the direct-open bundle, validates the result, optionally syncs Supabase, and commits changed data files. A static host connected to the repository can deploy that commit through its normal deployment hook.
+
+## Opening the download directly
+
+Extract the complete archive, then open `index.html`. The generated bootstrap bundle avoids browser restrictions on reading neighboring JSON files from a `file://` page. The scheduled workflow rebuilds this browser bundle whenever the standalone news snapshot changes.
+
+## Optional Supabase mirror
+
+The migration in `supabase/migrations/20261105000000_create_conflict_data.sql` creates read-only public conflict and news tables, refresh audit records, row-level security policies, and a service-role-only transactional snapshot function.
+
+Apply the migration to a Supabase project, then provide both values locally or as GitHub Actions secrets.
+
+- `SUPABASE_URL`
+- `SUPABASE_SERVICE_ROLE_KEY`
+
+`npm run sync:supabase` validates the local snapshots before calling the transactional database function. It safely skips synchronization when neither Supabase value is configured and fails when only one is present.
+
+The service-role key must stay in server-side secrets. It must never be placed in browser JavaScript or committed to the repository.
+
+## Data contracts
+
+Runtime validation is implemented in `scripts/lib/data-contract.mjs`. Portable JSON Schema descriptions are available under `schemas/` for editor tooling and future services.
+
+The conflict identifiers form the relationship between all layers. Every configured query and news collection must match one conflict identifier exactly.
+
+See `DATA_SOURCES.md` for the recommended expansion from headlines into conflict events, displacement, humanitarian needs, and funding indicators.
+
+## Activation work
+
+Scheduled refresh requires a Git repository with Actions enabled and the `NEWS_API_KEY` secret configured. Supabase synchronization additionally requires a Supabase project and the migration to be applied.

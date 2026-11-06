@@ -1,0 +1,80 @@
+name: Refresh and deploy conflict tracker
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: conflict-tracker-production
+  cancel-in-progress: false
+
+jobs:
+  refresh-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Refresh optional NewsAPI snapshot
+        env:
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+        run: |
+          if [ -n "$NEWS_API_KEY" ]; then
+            npm run refresh:news
+          else
+            echo "NEWS_API_KEY is not configured; retaining the existing NewsAPI snapshot."
+          fi
+
+      - name: Enrich with GDELT
+        continue-on-error: true
+        run: npm run refresh:gdelt
+
+      - name: Validate and build production site
+        run: |
+          npm run build:bootstrap
+          npm run validate:data
+          npm run test:pipeline
+          npm run build:site
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Commit refreshed snapshots
+        if: github.event_name != 'push'
+        run: |
+          if git diff --quiet -- data/news.json data/bootstrap-data.js; then
+            echo "The published snapshot is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json data/bootstrap-data.js
+          git commit -m "chore(data): refresh conflict news"
+          git push

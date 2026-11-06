@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#e8edf2">
+    <meta name="description" content="Sources, refresh process, and limitations for the Global Conflict Tracker.">
+    <title>Methodology · Global Conflict Tracker</title>
+    <link rel="icon" href="logo.svg" type="image/svg+xml">
+    <script src="theme-init.js"></script>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+      .method-page { width: min(760px, calc(100% - 36px)); margin: 0 auto; padding: 48px 0 80px; }
+      .method-page a { color: inherit; }
+      .method-page .back-link { display: inline-block; margin-bottom: 38px; font-weight: 800; text-decoration: none; }
+      .method-page h1 { margin: 0 0 12px; font-family: Georgia, serif; font-size: clamp(38px, 7vw, 68px); line-height: .95; }
+      .method-page h2 { margin-top: 42px; font-family: Georgia, serif; font-size: 25px; }
+      .method-page p, .method-page li { color: var(--muted); font-size: 17px; line-height: 1.7; }
+      .method-page strong { color: var(--text); }
+    </style>
+  </head>
+  <body>
+    <main class="method-page">
+      <a class="back-link" href="index.html">← Return to the map</a>
+      <p>GLOBAL CONFLICT TRACKER</p>
+      <h1>Methodology and limitations</h1>
+      <p>This tracker combines an editorial conflict catalog with frequently refreshed links to reporting. It is an orientation tool, not an independent verification service or an emergency alert system.</p>
+
+      <h2>What is updated automatically</h2>
+      <p>News discovery is refreshed on a scheduled background workflow. GDELT supplies multilingual article discovery; NewsAPI can be enabled as an additional provider using a server-side credential. Results are filtered by conflict-specific terms, deduplicated by normalized URL and headline, validated, and saved as a static snapshot.</p>
+
+      <h2>What is editorial</h2>
+      <p>Conflict titles, summaries, status labels, historical context, strategic impact, and country associations are maintained in the editorial conflict catalog. They do not change merely because a new headline appears.</p>
+
+      <h2>Freshness and failures</h2>
+      <p>Every country panel shows the snapshot’s update date. If a provider is unavailable or rate-limits a request, the pipeline retains the last valid articles. The interface labels a snapshot when the last successful update is more than 48 hours old.</p>
+
+      <h2>Important limitations</h2>
+      <ul>
+        <li>Inclusion of a headline does not confirm that every claim in the linked article is accurate.</li>
+        <li>Reported casualty figures and territorial claims can change or conflict across sources.</li>
+        <li>Automated keyword matching can omit relevant reporting or occasionally include a marginal result.</li>
+        <li>The absence of a tracked situation does not mean a country is free of political violence or humanitarian risk.</li>
+      </ul>
+
+      <h2>Source transparency</h2>
+      <p>News entries link directly to the original publisher and display the provider and publication date when available. Background citations appear in each conflict profile. Planned structured-data additions include ACLED or UCDP event data and ReliefWeb, HDX, and UNHCR humanitarian indicators, each with its own coverage period and methodology label.</p>
+    </main>
+  </body>
+</html>
