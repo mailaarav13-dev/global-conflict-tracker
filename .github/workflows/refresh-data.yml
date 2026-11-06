@@ -34,6 +34,7 @@ jobs:
           node-version: 20
 
       - name: Refresh optional NewsAPI snapshot
+        if: github.event_name != 'push'
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
         run: |
@@ -44,7 +45,9 @@ jobs:
           fi
 
       - name: Enrich with GDELT
+        if: github.event_name != 'push'
         continue-on-error: true
+        timeout-minutes: 12
         run: npm run refresh:gdelt
 
       - name: Validate and build production site
