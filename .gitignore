@@ -3,5 +3,10 @@
 !.env.example
 node_modules/
 dist/
+_next/
+__next*.txt
+_not-found.txt
+index.txt
+global-conflict-tracker-updated.zip
 *.tmp
 .DS_Store
