@@ -65,6 +65,9 @@ const IMPACT_RANK = {
 const state = {
   conflicts: [],
   news: null,
+  briefings: null,
+  briefingTopics: {},
+  activeBriefingTopic: "politics",
   topology: null,
   conflictsByIso: new Map(),
   countryPaths: new Map(),
@@ -78,6 +81,10 @@ const state = {
 };
 
 const elements = {
+  briefingClose: document.querySelector("#close-briefing"),
+  briefingContent: document.querySelector("#briefing-content"),
+  briefingPanel: document.querySelector("#briefing-panel"),
+  briefingToggle: document.querySelector("#briefing-toggle"),
   closePanel: document.querySelector("#close-panel"),
   countryLayer: document.querySelector("#country-layer"),
   dataStatus: document.querySelector("#data-status"),
@@ -105,6 +112,8 @@ initialize().catch((error) => {
 });
 
 elements.closePanel.addEventListener("click", closeCountryPanel);
+elements.briefingClose.addEventListener("click", closeBriefingPanel);
+elements.briefingToggle.addEventListener("click", openBriefingPanel);
 elements.zoomIn.addEventListener("click", () => changeZoom(0.35));
 elements.zoomOut.addEventListener("click", () => changeZoom(-0.35));
 elements.resetMap.addEventListener("click", resetMapView);
@@ -130,6 +139,10 @@ elements.map.addEventListener(
 updateThemeControl();
 
 document.addEventListener("keydown", (event) => {
+  if (event.key === "Escape" && !elements.briefingPanel.hidden) {
+    closeBriefingPanel();
+    return;
+  }
   if (event.key === "Escape" && !elements.panel.hidden) {
     closeCountryPanel();
   }
@@ -137,10 +150,12 @@ document.addEventListener("keydown", (event) => {
 window.addEventListener("resize", centerMapForViewport);
 
 async function initialize() {
-  const [conflictDocument, newsDocument, topology] = await loadDataDocuments();
+  const [conflictDocument, newsDocument, briefingDocument, briefingTopics, topology] = await loadDataDocuments();
 
   state.conflicts = Array.isArray(conflictDocument.items) ? conflictDocument.items : [];
   state.news = newsDocument;
+  state.briefings = briefingDocument;
+  state.briefingTopics = briefingTopics;
   state.topology = topology;
   state.conflictsByIso = groupConflictsByCountry(state.conflicts);
 
@@ -155,7 +170,7 @@ async function loadDataDocuments() {
 
   if (window.location.protocol === "file:" && embedded) {
     document.documentElement.dataset.dataSource = "packaged";
-    return [embedded.conflicts, embedded.news, embedded.topology];
+    return [embedded.conflicts, embedded.news, embedded.briefings, embedded.briefingTopics, embedded.topology];
   }
 
   if (window.location.protocol === "file:") {
@@ -163,29 +178,30 @@ async function loadDataDocuments() {
   }
 
   try {
-    const [conflictResponse, newsResponse, topologyResponse] = await Promise.all([
+    const [conflictResponse, newsResponse, briefingResponse, briefingConfigResponse, topologyResponse] = await Promise.all([
       fetch("data/conflicts.json"),
       fetch("data/news.json"),
+      fetch("data/briefings.json"),
+      fetch("config/briefing-topics.json"),
       fetch("geo/countries-110m.json"),
     ]);
 
-    for (const response of [conflictResponse, newsResponse, topologyResponse]) {
+    for (const response of [conflictResponse, newsResponse, briefingResponse, briefingConfigResponse, topologyResponse]) {
       if (!response.ok) {
         throw new Error(`A required data file returned HTTP ${response.status}`);
       }
     }
 
     document.documentElement.dataset.dataSource = "json";
-    return await Promise.all([
-      conflictResponse.json(),
-      newsResponse.json(),
-      topologyResponse.json(),
+    const [conflicts, news, briefings, briefingConfig, topology] = await Promise.all([
+      conflictResponse.json(), newsResponse.json(), briefingResponse.json(), briefingConfigResponse.json(), topologyResponse.json(),
     ]);
+    return [conflicts, news, briefings, briefingConfig.topics ?? {}, topology];
   } catch (error) {
     if (embedded) {
       document.documentElement.dataset.dataSource = "packaged-fallback";
       console.warn("Using the packaged data snapshot after the JSON files failed to load.", error);
-      return [embedded.conflicts, embedded.news, embedded.topology];
+      return [embedded.conflicts, embedded.news, embedded.briefings, embedded.briefingTopics, embedded.topology];
     }
     throw error;
   }
@@ -423,6 +439,9 @@ function projectCoordinate([longitude, latitude]) {
 }
 
 function openCountryPanel(iso3, countryName, issues) {
+  if (!elements.briefingPanel.hidden) {
+    closeBriefingPanel(false);
+  }
   state.drag = null;
   state.suppressMapClick = false;
   elements.map.classList.remove("is-panning");
@@ -614,6 +633,101 @@ function newsMetaText() {
   return state.news.sample
     ? `Preview headlines · snapshot ${updated}${freshness}`
     : `Frequently refreshed from ${state.news.provider} · updated ${updated}${freshness}`;
+}
+
+function openBriefingPanel() {
+  if (!elements.panel.hidden) {
+    closeCountryPanel();
+  }
+  renderBriefingPanel();
+  elements.briefingPanel.hidden = false;
+  elements.briefingToggle.setAttribute("aria-expanded", "true");
+  window.setTimeout(() => elements.briefingClose.focus(), 0);
+}
+
+function closeBriefingPanel(restoreFocus = true) {
+  elements.briefingPanel.hidden = true;
+  elements.briefingToggle.setAttribute("aria-expanded", "false");
+  if (restoreFocus) {
+    elements.briefingToggle.focus();
+  }
+}
+
+function renderBriefingPanel() {
+  const topicEntries = Object.entries(state.briefingTopics);
+  const activeTopic = state.briefingTopics[state.activeBriefingTopic] ?? topicEntries[0]?.[1];
+  if (!activeTopic) {
+    elements.briefingContent.innerHTML = `<p>World briefing topics are unavailable.</p>`;
+    return;
+  }
+
+  if (!state.briefingTopics[state.activeBriefingTopic]) {
+    state.activeBriefingTopic = topicEntries[0][0];
+  }
+
+  const articles = state.briefings?.items?.[state.activeBriefingTopic] ?? [];
+  const generatedAt = state.briefings?.generated_at;
+  const generatedTime = Date.parse(generatedAt);
+  const delayed = Number.isFinite(generatedTime) && Date.now() - generatedTime > 48 * 60 * 60 * 1000;
+  const totalArticles = Object.values(state.briefings?.items ?? {}).reduce(
+    (total, topicArticles) => total + (Array.isArray(topicArticles) ? topicArticles.length : 0),
+    0,
+  );
+
+  elements.briefingContent.innerHTML = `
+    <header class="briefing-heading">
+      <p class="eyebrow">Frequently refreshed headlines</p>
+      <h2 id="briefing-title">World briefing</h2>
+      <p>${totalArticles} articles across ${topicEntries.length} news areas</p>
+      <p class="briefing-freshness">${escapeHtml(state.briefings?.provider ?? "News discovery")} · ${generatedAt ? `updated ${formatDate(generatedAt)}` : "update unavailable"}${delayed ? " · update delayed" : ""}</p>
+    </header>
+    <nav class="briefing-topic-tabs" aria-label="World news topics">
+      ${topicEntries.map(([topicId, topic]) => `
+        <button class="briefing-topic-tab ${topicId === state.activeBriefingTopic ? "active" : ""}" type="button" data-briefing-topic="${escapeAttribute(topicId)}" aria-pressed="${topicId === state.activeBriefingTopic}">
+          <span>${escapeHtml(topic.label)}</span>
+          <small>${state.briefings?.items?.[topicId]?.length ?? 0}</small>
+        </button>
+      `).join("")}
+    </nav>
+    <section class="briefing-section">
+      <h3>${escapeHtml(activeTopic.label)}</h3>
+      <p>${escapeHtml(activeTopic.description)}</p>
+      ${renderBriefingArticles(articles)}
+    </section>
+    <p class="briefing-note">Publisher country identifies the news outlet’s location, not necessarily where the reported event occurred. Headlines link to their original publishers.</p>
+  `;
+
+  for (const button of elements.briefingContent.querySelectorAll("[data-briefing-topic]")) {
+    button.addEventListener("click", () => {
+      state.activeBriefingTopic = button.dataset.briefingTopic;
+      renderBriefingPanel();
+      elements.briefingContent.querySelector(`[data-briefing-topic="${CSS.escape(state.activeBriefingTopic)}"]`)?.focus();
+    });
+  }
+}
+
+function renderBriefingArticles(articles) {
+  if (!articles.length) {
+    return `<p class="briefing-empty">No recent headlines matched this topic in the current snapshot.</p>`;
+  }
+
+  return `
+    <ul class="briefing-list">
+      ${articles.map((article) => `
+        <li>
+          <a href="${escapeAttribute(article.url)}" target="_blank" rel="noopener noreferrer">
+            <strong>${escapeHtml(article.title)}</strong>
+            <span>${escapeHtml(article.source)}</span>
+            <small>${escapeHtml([
+              article.published_at ? formatDate(article.published_at) : null,
+              article.source_country ? `Publisher country: ${article.source_country}` : null,
+              article.language ? article.language.toUpperCase() : null,
+            ].filter(Boolean).join(" · "))}</small>
+          </a>
+        </li>
+      `).join("")}
+    </ul>
+  `;
 }
 
 function closeCountryPanel() {
@@ -851,9 +965,14 @@ function showMapMessage(message) {
 }
 
 function updateDataStatus(conflictDocument, newsDocument) {
-  const internalCount = state.conflicts.filter((conflict) => conflict.scope === "Internal").length;
-  const updateDate = newsDocument.generated_at ?? conflictDocument.generated_at;
-  elements.dataStatus.textContent = `${state.conflicts.length} situations · ${internalCount} internal · updated ${formatDate(
+  const updateDate = [newsDocument.generated_at, state.briefings?.generated_at, conflictDocument.generated_at]
+    .filter(Boolean)
+    .sort((first, second) => Date.parse(second) - Date.parse(first))[0];
+  const briefingCount = Object.values(state.briefings?.items ?? {}).reduce(
+    (total, articles) => total + (Array.isArray(articles) ? articles.length : 0),
+    0,
+  );
+  elements.dataStatus.textContent = `${state.conflicts.length} situations · ${briefingCount} world headlines · updated ${formatDate(
     updateDate,
   )}`;
 }

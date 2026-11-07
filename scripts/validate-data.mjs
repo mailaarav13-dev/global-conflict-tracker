@@ -2,12 +2,15 @@ import { readFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import {
   readJson,
+  validateBriefingDocument,
   validateConflictDocument,
   validateNewsDocument,
 } from "./lib/data-contract.mjs";
 
 const conflictsPath = fileURLToPath(new URL("../data/conflicts.json", import.meta.url));
 const newsPath = fileURLToPath(new URL("../data/news.json", import.meta.url));
+const briefingsPath = fileURLToPath(new URL("../data/briefings.json", import.meta.url));
+const briefingConfigPath = fileURLToPath(new URL("../config/briefing-topics.json", import.meta.url));
 const queryConfigPath = fileURLToPath(new URL("../config/news-queries.json", import.meta.url));
 const topologyPath = fileURLToPath(new URL("../geo/countries-110m.json", import.meta.url));
 const bootstrapPath = fileURLToPath(new URL("../data/bootstrap-data.js", import.meta.url));
@@ -16,6 +19,11 @@ const conflicts = validateConflictDocument(await readJson(conflictsPath));
 const news = validateNewsDocument(
   await readJson(newsPath),
   conflicts.items.map((conflict) => conflict.id),
+);
+const briefingConfig = await readJson(briefingConfigPath);
+const briefings = validateBriefingDocument(
+  await readJson(briefingsPath),
+  Object.keys(briefingConfig.topics ?? {}),
 );
 const queryConfig = await readJson(queryConfigPath);
 const topology = await readJson(topologyPath);
@@ -55,6 +63,8 @@ const bootstrap = JSON.parse(
 for (const [label, packaged, source] of [
   ["conflicts", bootstrap.conflicts, conflicts],
   ["news", bootstrap.news, news],
+  ["briefings", bootstrap.briefings, briefings],
+  ["briefing topics", bootstrap.briefingTopics, briefingConfig.topics],
   ["topology", bootstrap.topology, topology],
 ]) {
   if (JSON.stringify(packaged) !== JSON.stringify(source)) {
@@ -62,6 +72,4 @@ for (const [label, packaged, source] of [
   }
 }
 
-console.log(
-  `Validated ${conflicts.items.length} conflicts and ${Object.values(news.items).flat().length} news items.`,
-);
+console.log(`Validated ${conflicts.items.length} conflicts, ${Object.values(news.items).flat().length} conflict articles, and ${Object.values(briefings.items).flat().length} briefing articles.`);

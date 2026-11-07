@@ -1,12 +1,12 @@
 # Data source expansion plan
 
-The tracker now combines NewsAPI with GDELT for filtered, deduplicated headline discovery. The next expansion should separate fast-moving media coverage from verified conflict events and humanitarian indicators.
+The tracker now keeps two media layers separate: conflict-specific NewsAPI/GDELT discovery and a seven-topic world briefing using GDELT with Google News RSS fallback. The next expansion should separate fast-moving media coverage from verified conflict events and humanitarian indicators.
 
 ## Recommended source stack
 
 | Layer | Source | Best use | Access | Suggested refresh |
 | --- | --- | --- | --- | --- |
-| Global news discovery | GDELT DOC 2.0 | Multilingual article discovery, coverage volume, tone, and geographic mentions | Public API | 15–60 minutes |
+| Global news discovery | GDELT DOC 2.0 + Google News RSS | Multilingual article discovery and broad topic coverage | Public endpoints | 6 hours |
 | Conflict events | ACLED | Geocoded violence, demonstrations, actors, event types, and reported fatalities | myACLED account and OAuth | Daily |
 | Academic event baseline | UCDP GED Candidate | Georeferenced organized-violence events and longer-term conflict comparisons | API token | Monthly candidate release |
 | Humanitarian reporting | ReliefWeb | Curated situation reports, assessments, appeals, and disaster updates | Approved app name | 1–6 hours |
@@ -27,10 +27,10 @@ The tracker now combines NewsAPI with GDELT for filtered, deduplicated headline 
 
 ## Recommended next implementation
 
-1. Completed: add GDELT as a second headline provider and deduplicate its results against NewsAPI.
-2. Add ACLED country-level 7-day and 30-day event aggregates using server-side credentials.
+1. Completed: add GDELT conflict discovery and a separate seven-topic world-news briefing with Google News RSS fallback.
+2. Add UCDP country-level event aggregates as the verified violence baseline.
 3. Add ReliefWeb reports and HDX HAPI humanitarian indicators.
-4. Use UCDP as the slower-moving validation and historical baseline.
+4. Add UNHCR displacement series and trend charts.
 5. Keep all credentials in GitHub Actions or server-side secrets. Publish only sanitized snapshots to the static site.
 
 ## Official documentation

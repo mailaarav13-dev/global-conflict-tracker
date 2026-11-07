@@ -25,5 +25,8 @@ await cp(new URL("../data/", import.meta.url), new URL("../dist/data/", import.m
 await cp(new URL("../geo/", import.meta.url), new URL("../dist/geo/", import.meta.url), {
   recursive: true,
 });
+await cp(new URL("../config/", import.meta.url), new URL("../dist/config/", import.meta.url), {
+  recursive: true,
+});
 
 console.log(`Built production site at ${output}`);

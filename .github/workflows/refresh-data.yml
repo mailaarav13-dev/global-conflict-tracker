@@ -1,4 +1,4 @@
-name: Refresh and deploy conflict tracker
+name: Refresh and deploy global affairs tracker
 
 on:
   push:
@@ -26,7 +26,7 @@ concurrency:
 jobs:
   refresh-and-deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -61,6 +61,12 @@ jobs:
         timeout-minutes: 12
         run: npm run refresh:gdelt
 
+      - name: Refresh world briefing
+        if: github.event_name != 'push'
+        continue-on-error: true
+        timeout-minutes: 6
+        run: npm run refresh:briefings
+
       - name: Validate and build production site
         run: |
           npm run build:bootstrap
@@ -83,12 +89,12 @@ jobs:
       - name: Commit refreshed snapshots
         if: github.event_name != 'push'
         run: |
-          if git diff --quiet -- data/news.json data/bootstrap-data.js; then
+          if git diff --quiet -- data/news.json data/briefings.json data/bootstrap-data.js; then
             echo "The published snapshot is already current."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/news.json data/bootstrap-data.js
-          git commit -m "chore(data): refresh conflict news"
+          git add data/news.json data/briefings.json data/bootstrap-data.js
+          git commit -m "chore(data): refresh global news"
           git push

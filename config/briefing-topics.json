@@ -1,0 +1,52 @@
+{
+  "timespan": "24h",
+  "max_records": 50,
+  "max_articles": 14,
+  "request_delay_ms": 5000,
+  "request_timeout_ms": 15000,
+  "max_attempts": 3,
+  "topics": {
+    "politics": {
+      "label": "Politics & government",
+      "description": "Elections, legislation, institutions, courts, and changes in government.",
+      "query": "(election OR parliament OR government OR democracy OR legislation OR court)",
+      "headline_any": ["election", "vote", "parliament", "government", "president", "minister", "democracy", "court", "law", "legislation", "coalition"]
+    },
+    "security": {
+      "label": "Security & conflict",
+      "description": "Armed conflict, diplomacy, policing, crime, and national security.",
+      "query": "(conflict OR ceasefire OR military OR attack OR security OR crime)",
+      "headline_any": ["conflict", "ceasefire", "military", "attack", "security", "war", "crime", "police", "sanction", "peace", "missile", "drone"]
+    },
+    "economy": {
+      "label": "Economy & trade",
+      "description": "Inflation, employment, trade, markets, industry, and economic policy.",
+      "query": "(economy OR inflation OR trade OR markets OR jobs OR industry)",
+      "headline_any": ["economy", "economic", "inflation", "trade", "market", "jobs", "employment", "industry", "tariff", "bank", "growth", "recession"]
+    },
+    "climate": {
+      "label": "Climate & disasters",
+      "description": "Climate policy, extreme weather, natural hazards, and disaster response.",
+      "query": "(climate OR flood OR wildfire OR earthquake OR hurricane OR drought)",
+      "headline_any": ["climate", "flood", "wildfire", "earthquake", "hurricane", "drought", "storm", "cyclone", "disaster", "heatwave", "eruption"]
+    },
+    "health": {
+      "label": "Health",
+      "description": "Public health, outbreaks, health systems, medicine, and humanitarian health.",
+      "query": "(health OR outbreak OR disease OR hospital OR medicine OR vaccine)",
+      "headline_any": ["health", "outbreak", "disease", "hospital", "medicine", "vaccine", "virus", "epidemic", "pandemic", "medical"]
+    },
+    "technology": {
+      "label": "Technology",
+      "description": "Artificial intelligence, cybersecurity, platforms, science, and digital policy.",
+      "query": "(technology OR cyberattack OR artificial intelligence OR semiconductor OR space)",
+      "headline_any": ["technology", "cyber", "artificial intelligence", "semiconductor", "chip", "space", "satellite", "digital", "software"]
+    },
+    "society": {
+      "label": "Society & rights",
+      "description": "Protests, migration, civil rights, education, media, and social change.",
+      "query": "(protest OR rights OR migration OR education OR media OR refugees)",
+      "headline_any": ["protest", "rights", "migration", "migrant", "education", "media", "refugee", "demonstration", "strike", "journalist", "civil society"]
+    }
+  }
+}

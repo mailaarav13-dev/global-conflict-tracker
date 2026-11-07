@@ -6,9 +6,9 @@
     <meta name="theme-color" content="#e8edf2">
     <meta
       name="description"
-      content="An interactive map tracking international, transnational, and internal conflicts with frequently refreshed reporting."
+      content="An interactive global affairs dashboard combining conflict profiles with frequently refreshed world news."
     >
-    <title>Global Conflict Tracker</title>
+    <title>Global Affairs Tracker</title>
     <link rel="icon" href="logo.svg" type="image/svg+xml">
     <script src="theme-init.js"></script>
     <link rel="stylesheet" href="styles.css">
@@ -25,11 +25,12 @@
             <span></span>
           </span>
           <div>
-            <h1>Global Conflict Tracker</h1>
+            <h1>Global Affairs Tracker</h1>
             <p id="data-status" aria-live="polite">Loading map data</p>
           </div>
         </div>
         <div class="header-actions">
+          <button id="briefing-toggle" class="briefing-toggle" type="button" aria-controls="briefing-panel" aria-expanded="false">World News</button>
           <a class="methodology-link" href="methodology.html">Methodology</a>
           <div class="scope-key" aria-label="Tracked situation scopes">
             <span><i class="scope-dot internal"></i>Internal</span>
@@ -88,6 +89,13 @@
           </div>
         </div>
         <div id="panel-content" class="panel-content"></div>
+      </aside>
+      <aside id="briefing-panel" class="briefing-panel" aria-labelledby="briefing-title" hidden>
+        <div class="panel-topbar">
+          <p>World briefing</p>
+          <button id="close-briefing" class="close-button" type="button" aria-label="Close world briefing">×</button>
+        </div>
+        <div id="briefing-content" class="briefing-content"></div>
       </aside>
     </main>
 

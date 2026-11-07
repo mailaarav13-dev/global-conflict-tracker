@@ -206,6 +206,57 @@ export function validateNewsDocument(document, conflictIds = null) {
   return document;
 }
 
+export function validateBriefingDocument(document, topicIds = null) {
+  const issues = [];
+
+  if (!isRecord(document)) {
+    throw new DataValidationError("Briefing document", ["root must be an object"]);
+  }
+
+  validateTimestamp(document.generated_at, "generated_at", issues);
+  requireString(document.provider, "provider", issues);
+
+  if (!isRecord(document.items)) {
+    issues.push("items must be an object keyed by topic id");
+  } else {
+    for (const [topicId, articles] of Object.entries(document.items)) {
+      if (!ID_PATTERN.test(topicId)) issues.push(`items.${topicId} is not a valid topic id`);
+      if (!Array.isArray(articles)) {
+        issues.push(`items.${topicId} must be an array`);
+        continue;
+      }
+
+      const urls = new Set();
+      articles.forEach((article, index) => {
+        const path = `items.${topicId}[${index}]`;
+        if (!isRecord(article)) {
+          issues.push(`${path} must be an object`);
+          return;
+        }
+        requireString(article.title, `${path}.title`, issues);
+        requireString(article.source, `${path}.source`, issues);
+        if (!isHttpUrl(article.url)) issues.push(`${path}.url must be an absolute HTTP or HTTPS URL`);
+        if (urls.has(article.url)) issues.push(`${path}.url duplicates another article for ${topicId}`);
+        urls.add(article.url);
+        if (article.published_at !== undefined) validateTimestamp(article.published_at, `${path}.published_at`, issues);
+        if (article.provider !== undefined) requireString(article.provider, `${path}.provider`, issues);
+        if (article.language !== undefined) requireString(article.language, `${path}.language`, issues);
+        if (article.source_country !== undefined) requireString(article.source_country, `${path}.source_country`, issues);
+      });
+    }
+  }
+
+  if (topicIds && isRecord(document.items)) {
+    const expected = new Set(topicIds);
+    const actual = new Set(Object.keys(document.items));
+    for (const id of expected) if (!actual.has(id)) issues.push(`items is missing topic id ${id}`);
+    for (const id of actual) if (!expected.has(id)) issues.push(`items contains unknown topic id ${id}`);
+  }
+
+  if (issues.length > 0) throw new DataValidationError("Briefing document", issues);
+  return document;
+}
+
 function isRecord(value) {
   return typeof value === "object" && value !== null && !Array.isArray(value);
 }

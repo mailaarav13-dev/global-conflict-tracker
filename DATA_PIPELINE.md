@@ -1,10 +1,11 @@
 # Data pipeline
 
-The public site remains a static export. Its data layer now has two independent snapshots.
+The public site remains a static export. Its data layer now has three independent snapshots.
 
 - `data/conflicts.json` contains the editorial catalog of international, internal, and transnational conflicts.
 - `data/news.json` contains the news snapshot already consumed by the public site.
-- `data/bootstrap-data.js` packages both snapshots and the map geometry for browsers that open `index.html` directly from disk.
+- `data/briefings.json` contains general world-news headlines grouped into politics, security, economy, climate, health, technology, and society.
+- `data/bootstrap-data.js` packages all snapshots, topic metadata, and map geometry for browsers that open `index.html` directly from disk.
 
 The browser interface loads both snapshots at runtime. Country details stay out of the initial view and are rendered only after a tracked country is selected on the map.
 
@@ -31,6 +32,7 @@ npm run validate:data
 npm run build:bootstrap
 npm run refresh:news
 npm run refresh:gdelt
+npm run refresh:briefings
 npm run sync:supabase
 npm run refresh
 ```
@@ -41,9 +43,11 @@ npm run refresh
 
 Search terms and ingestion limits live in `config/news-queries.json`.
 
+`refresh:briefings` builds the separate World News panel. It uses GDELT first and Google News RSS as a resilient fallback, requires no credential, validates every article, and retains the last valid topic snapshot when providers fail. Topic definitions live in `config/briefing-topics.json`.
+
 ## Scheduled refresh
 
-`.github/workflows/refresh-data.yml` deploys code pushes immediately and performs a data refresh at 17 minutes past every sixth hour. GDELT runs on every scheduled data refresh. NewsAPI runs only at 00:17 and 12:17 UTC, keeping its 24-query refresh below the Developer plan's rolling request limits. Manual runs skip NewsAPI unless the `refresh_newsapi` option is explicitly enabled.
+`.github/workflows/refresh-data.yml` deploys code pushes immediately and performs a data refresh at 17 minutes past every sixth hour. Conflict-specific GDELT discovery and the broader world briefing run on every scheduled refresh. NewsAPI runs only at 00:17 and 12:17 UTC, keeping its 24-query refresh below the Developer plan's rolling request limits. Manual runs skip NewsAPI unless the `refresh_newsapi` option is explicitly enabled.
 
 Provider failures are nonfatal in the hosted workflow: validation and deployment continue using the last valid snapshot. The individual refresh scripts still fail locally on total provider outages so problems remain visible during development.
 

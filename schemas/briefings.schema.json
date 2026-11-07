@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/schemas/briefings.schema.json",
+  "title": "World briefing snapshot",
+  "type": "object",
+  "required": ["generated_at", "provider", "items"],
+  "additionalProperties": false,
+  "properties": {
+    "generated_at": { "type": "string", "format": "date-time" },
+    "provider": { "type": "string", "minLength": 1 },
+    "items": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["title", "url", "source"],
+          "additionalProperties": false,
+          "properties": {
+            "title": { "type": "string", "minLength": 1 },
+            "url": { "type": "string", "format": "uri", "pattern": "^https?://" },
+            "source": { "type": "string", "minLength": 1 },
+            "provider": { "type": "string", "minLength": 1 },
+            "published_at": { "type": "string", "format": "date-time" },
+            "language": { "type": "string", "minLength": 1 },
+            "source_country": { "type": "string", "minLength": 1 }
+          }
+        }
+      }
+    }
+  }
+}
