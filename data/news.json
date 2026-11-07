@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T23:14:09.357Z",
+  "generated_at": "2026-11-07T13:14:02.041Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
@@ -220,6 +220,15 @@
     "libya-fragmentation": [],
     "syria-transition-crisis": [
       {
+        "title": "Olabi outlines Syria efforts to build free and responsible media",
+        "url": "https://sana.sy/en/syria/2356635/",
+        "source": "sana.sy",
+        "provider": "GDELT",
+        "published_at": "2026-11-07T10:00:00Z",
+        "language": "English",
+        "source_country": "Syria"
+      },
+      {
         "title": "KSA Business : Saudi Fund signs $403m loans for Syria infrastructure projects",
         "url": "https://www.gdnonline.com:443/Details/1412038/Saudi-Fund-signs-$403m-loans-for-Syria-infrastructure-projects",
         "source": "gdnonline.com",
@@ -251,6 +260,15 @@
       }
     ],
     "sahel-jihadist-insurgency": [
+      {
+        "title": "Nigeria Rules Out Ceasefire With Boko Haram , ISWAP As Insurgent Attacks Surge In Northeast",
+        "url": "https://naija247news.com/nigeria-rules-out-ceasefire-with-boko-haram-iswap-as-insurgent-attacks-surge-in-northeast/",
+        "source": "naija247news.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T03:30:00Z",
+        "language": "English",
+        "source_country": "Nigeria"
+      },
       {
         "title": "Why Ukraine may be involved in Mali's conflict",
         "url": "https://www.dw.com/en/why-ukraine-may-be-involved-in-malis-conflict/a-79743423",
@@ -358,6 +376,24 @@
     "venezuela-guyana-essequibo-dispute": [],
     "colombia-armed-groups-transition": [
       {
+        "title": "Ejército capturó a alias Carrito del Eln en el sur de Bolívar",
+        "url": "https://www.elinformador.com.co/index.php/judiciales/71-judiciales-local/361482-ejercito-capturo-a-alias-carrito-del-eln-en-el-sur-de-bolivar",
+        "source": "elinformador.com.co",
+        "provider": "GDELT",
+        "published_at": "2026-11-07T08:00:00Z",
+        "language": "Spanish",
+        "source_country": "Colombia"
+      },
+      {
+        "title": "Indignación en La Vega , Cauca : denuncian que el ELN asesinó a hombre con esquizofrenia",
+        "url": "https://www.elpais.com.co/judicial/indignacion-en-la-vega-cauca-por-muerte-de-un-hombre-con-esquizofrenia-tras-un-ataque-atribuido-al-eln-0614.html",
+        "source": "elpais.com.co",
+        "provider": "GDELT",
+        "published_at": "2026-11-07T02:00:00Z",
+        "language": "Spanish",
+        "source_country": "Colombia"
+      },
+      {
         "title": "Fuerza Pública golpea disidencias de las Farc de Mordisco y Calarcá en el Valle y Antioquia ; abatidos cabecillas Pincher y El Flaco – Radio Santa Fe 1070 a . m . Noticias de Colombia",
         "url": "https://www.radiosantafe.com/2026/11/06/fuerza-publica-golpea-disidencias-de-las-farc-de-mordisco-y-calarca-en-el-valle-y-antioquia-abatidos-cabecillas-pincher-y-el-flaco/",
         "source": "radiosantafe.com",
@@ -395,6 +431,33 @@
       }
     ],
     "armenia-azerbaijan-peace-process": [
+      {
+        "title": "Colombian media outlet highlights Azerbaijan Victory Day ( PHOTO )",
+        "url": "https://www.trend.az/azerbaijan/4244057.html",
+        "source": "trend.az",
+        "provider": "GDELT",
+        "published_at": "2026-11-07T10:00:00Z",
+        "language": "English",
+        "source_country": "Azerbaijan"
+      },
+      {
+        "title": "U . S ., Armenia and Azerbaijan Begin Technical Planning for TRIPP",
+        "url": "https://news.am/en/news/1073257",
+        "source": "news.am",
+        "provider": "GDELT",
+        "published_at": "2026-11-07T06:00:00Z",
+        "language": "English",
+        "source_country": "Armenia"
+      },
+      {
+        "title": "Dubes Azerbaijan Sampaikan Terima Kasih kepada Indonesia , Ini yang Melatarbelakanginya",
+        "url": "https://koran-jakarta.com/2026-11-07/dubes-azerbaijan-sampaikan-terima-kasih-kepada-indonesia-ini-yang-melatarbelakanginya",
+        "source": "koran-jakarta.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-07T00:00:00Z",
+        "language": "Indonesian",
+        "source_country": "Indonesia"
+      },
       {
         "title": "Azerbaijani Ombudsperson calls for international action on post - war humanitarian challenges",
         "url": "https://www.trend.az/azerbaijan/4243696.html",
@@ -441,6 +504,42 @@
       }
     ],
     "korean-armistice-standoff": [
+      {
+        "title": "South Korea Backs EU Human Rights Push At UN As Pyongyang Fires Back With Sharp Rebuke",
+        "url": "https://www.foreignpolicyjournal.com/2026/11/06/south-korea-backs-eu-human-rights-push-at-un-as-pyongyang-fires-back-with-sharp-rebuke/",
+        "source": "foreignpolicyjournal.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T12:30:00Z",
+        "language": "English",
+        "source_country": "Israel"
+      },
+      {
+        "title": "North Korea hacker army : How Kim Jong Un built a cyber force linked to $6 . 3 - billion Binance hack",
+        "url": "https://www.moneycontrol.com/world/north-korea-s-hacker-army-how-kim-jong-un-built-a-cyber-force-linked-to-6-3-billion-binance-hack-article-14073204.html",
+        "source": "moneycontrol.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T11:30:00Z",
+        "language": "English",
+        "source_country": "India"
+      },
+      {
+        "title": "North Korea army of world - class hackers is secret weapon that took down Binance",
+        "url": "https://www.asiaone.com:443/asia/north-koreas-army-world-class-hackers-secret-weapon-took-down-binance",
+        "source": "asiaone.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T11:30:00Z",
+        "language": "English",
+        "source_country": "Singapore"
+      },
+      {
+        "title": "Trump Could Woo North Korea After Midterm Setback , but Kim May Not Respond",
+        "url": "https://english.aawsat.com/features/5338202-trump-could-woo-north-korea-after-midterm-setback-kim-may-not-respond",
+        "source": "english.aawsat.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T11:00:00Z",
+        "language": "English",
+        "source_country": "Syria"
+      },
       {
         "title": "North Korea Is Ramping Up Its Missile Tests",
         "url": "https://www.newser.com/story/399396/north-korea-is-ramping-up-its-missile-tests.html",
