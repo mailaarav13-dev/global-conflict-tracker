@@ -30,7 +30,8 @@
           </div>
         </div>
         <div class="header-actions">
-          <button id="briefing-toggle" class="briefing-toggle" type="button" aria-controls="briefing-panel" aria-expanded="false">World News</button>
+          <button id="pulse-toggle" class="pulse-toggle" type="button" aria-label="Global Pulse" aria-controls="pulse-panel" aria-expanded="false">Global Pulse</button>
+          <button id="briefing-toggle" class="briefing-toggle" type="button" aria-label="World News" aria-controls="briefing-panel" aria-expanded="false">World News</button>
           <a class="methodology-link" href="methodology.html">Methodology</a>
           <div class="scope-key" aria-label="Tracked situation scopes">
             <span><i class="scope-dot internal"></i>Internal</span>
@@ -96,6 +97,13 @@
           <button id="close-briefing" class="close-button" type="button" aria-label="Close world briefing">×</button>
         </div>
         <div id="briefing-content" class="briefing-content"></div>
+      </aside>
+      <aside id="pulse-panel" class="pulse-panel" aria-labelledby="pulse-title" hidden>
+        <div class="panel-topbar">
+          <p>Global overview</p>
+          <button id="close-pulse" class="close-button" type="button" aria-label="Close global pulse">×</button>
+        </div>
+        <div id="pulse-content" class="pulse-content"></div>
       </aside>
     </main>
 

@@ -85,6 +85,10 @@ const elements = {
   briefingContent: document.querySelector("#briefing-content"),
   briefingPanel: document.querySelector("#briefing-panel"),
   briefingToggle: document.querySelector("#briefing-toggle"),
+  pulseClose: document.querySelector("#close-pulse"),
+  pulseContent: document.querySelector("#pulse-content"),
+  pulsePanel: document.querySelector("#pulse-panel"),
+  pulseToggle: document.querySelector("#pulse-toggle"),
   closePanel: document.querySelector("#close-panel"),
   countryLayer: document.querySelector("#country-layer"),
   dataStatus: document.querySelector("#data-status"),
@@ -114,6 +118,8 @@ initialize().catch((error) => {
 elements.closePanel.addEventListener("click", closeCountryPanel);
 elements.briefingClose.addEventListener("click", closeBriefingPanel);
 elements.briefingToggle.addEventListener("click", openBriefingPanel);
+elements.pulseClose.addEventListener("click", closePulsePanel);
+elements.pulseToggle.addEventListener("click", openPulsePanel);
 elements.zoomIn.addEventListener("click", () => changeZoom(0.35));
 elements.zoomOut.addEventListener("click", () => changeZoom(-0.35));
 elements.resetMap.addEventListener("click", resetMapView);
@@ -139,6 +145,10 @@ elements.map.addEventListener(
 updateThemeControl();
 
 document.addEventListener("keydown", (event) => {
+  if (event.key === "Escape" && !elements.pulsePanel.hidden) {
+    closePulsePanel();
+    return;
+  }
   if (event.key === "Escape" && !elements.briefingPanel.hidden) {
     closeBriefingPanel();
     return;
@@ -439,6 +449,9 @@ function projectCoordinate([longitude, latitude]) {
 }
 
 function openCountryPanel(iso3, countryName, issues) {
+  if (!elements.pulsePanel.hidden) {
+    closePulsePanel(false);
+  }
   if (!elements.briefingPanel.hidden) {
     closeBriefingPanel(false);
   }
@@ -636,6 +649,9 @@ function newsMetaText() {
 }
 
 function openBriefingPanel() {
+  if (!elements.pulsePanel.hidden) {
+    closePulsePanel(false);
+  }
   if (!elements.panel.hidden) {
     closeCountryPanel();
   }
@@ -643,6 +659,139 @@ function openBriefingPanel() {
   elements.briefingPanel.hidden = false;
   elements.briefingToggle.setAttribute("aria-expanded", "true");
   window.setTimeout(() => elements.briefingClose.focus(), 0);
+}
+
+function openPulsePanel() {
+  if (!elements.panel.hidden) {
+    closeCountryPanel();
+  }
+  if (!elements.briefingPanel.hidden) {
+    closeBriefingPanel(false);
+  }
+  renderPulsePanel();
+  elements.pulsePanel.hidden = false;
+  elements.pulseToggle.setAttribute("aria-expanded", "true");
+  window.setTimeout(() => elements.pulseClose.focus(), 0);
+}
+
+function closePulsePanel(restoreFocus = true) {
+  elements.pulsePanel.hidden = true;
+  elements.pulseToggle.setAttribute("aria-expanded", "false");
+  if (restoreFocus) {
+    elements.pulseToggle.focus();
+  }
+}
+
+function renderPulsePanel() {
+  const briefingArticles = Object.entries(state.briefings?.items ?? {})
+    .flatMap(([topicId, articles]) => articles.map((article) => ({ ...article, topicId })))
+    .sort((first, second) => String(second.published_at ?? "").localeCompare(String(first.published_at ?? "")));
+  const pulseCandidates = briefingArticles.filter(isPulseCandidate);
+  const topicLeaders = Object.keys(state.briefingTopics)
+    .map((topicId) => pulseCandidates.find((article) => article.topicId === topicId))
+    .filter(Boolean);
+  const uniqueLatest = [...topicLeaders, ...pulseCandidates].filter(uniqueByUrl()).slice(0, 8);
+  const sources = new Set(briefingArticles.map((article) => article.source).filter(Boolean));
+  const topicCounts = Object.entries(state.briefingTopics).map(([topicId, topic]) => ({
+    topicId,
+    label: topic.label,
+    count: state.briefings?.items?.[topicId]?.length ?? 0,
+  }));
+  const maximumTopicCount = Math.max(1, ...topicCounts.map((topic) => topic.count));
+  const conflictWatch = state.conflicts
+    .map((conflict) => ({ conflict, count: state.news?.items?.[conflict.id]?.length ?? 0 }))
+    .sort((first, second) => second.count - first.count || STATUS_RANK[second.conflict.status] - STATUS_RANK[first.conflict.status])
+    .slice(0, 5);
+
+  elements.pulseContent.innerHTML = `
+    <header class="pulse-heading">
+      <p class="eyebrow">One-minute global overview</p>
+      <h2 id="pulse-title">Global Pulse</h2>
+      <p>A quick read of what the tracker is seeing across world reporting and monitored conflicts.</p>
+    </header>
+    <section class="pulse-metrics" aria-label="Current coverage summary">
+      <article><strong>${briefingArticles.length}</strong><span>world headlines</span></article>
+      <article><strong>${sources.size}</strong><span>publishers</span></article>
+      <article><strong>${state.conflicts.length}</strong><span>tracked situations</span></article>
+      <article><strong>${state.conflicts.filter((conflict) => conflict.status === "Deteriorating").length}</strong><span>deteriorating</span></article>
+    </section>
+    <div class="pulse-layout">
+      <section class="pulse-main">
+        <div class="pulse-section-heading">
+          <div><p class="eyebrow">Latest across all topics</p><h3>Latest developments</h3></div>
+          <button type="button" data-open-world-news>Explore all news</button>
+        </div>
+        ${renderPulseStories(uniqueLatest)}
+      </section>
+      <aside class="pulse-rail">
+        <section class="pulse-card">
+          <p class="eyebrow">Coverage mix</p>
+          <h3>Topic activity</h3>
+          <div class="topic-activity">
+            ${topicCounts.map((topic) => `
+              <button type="button" data-pulse-topic="${escapeAttribute(topic.topicId)}">
+                <span><b>${escapeHtml(topic.label)}</b><small>${topic.count}</small></span>
+                <i style="--activity: ${Math.round((topic.count / maximumTopicCount) * 100)}%"></i>
+              </button>
+            `).join("")}
+          </div>
+        </section>
+        <section class="pulse-card">
+          <p class="eyebrow">Monitored situations</p>
+          <h3>Conflict watch</h3>
+          <ol class="conflict-watch">
+            ${conflictWatch.map(({ conflict, count }) => `
+              <li><span class="status-dot ${conflict.status.toLowerCase()}"></span><div><strong>${escapeHtml(conflict.title)}</strong><small>${count} recent ${count === 1 ? "report" : "reports"} · ${escapeHtml(conflict.status)}</small></div></li>
+            `).join("")}
+          </ol>
+        </section>
+      </aside>
+    </div>
+    <p class="briefing-note">Coverage volume reflects collected headlines, not the importance or severity of an event. The snapshot was refreshed ${formatDate(state.briefings?.generated_at)}.</p>
+  `;
+
+  elements.pulseContent.querySelector("[data-open-world-news]")?.addEventListener("click", () => {
+    closePulsePanel(false);
+    openBriefingPanel();
+  });
+  for (const button of elements.pulseContent.querySelectorAll("[data-pulse-topic]")) {
+    button.addEventListener("click", () => {
+      state.activeBriefingTopic = button.dataset.pulseTopic;
+      closePulsePanel(false);
+      openBriefingPanel();
+    });
+  }
+}
+
+function renderPulseStories(articles) {
+  if (!articles.length) return `<p>No current world headlines are available.</p>`;
+  return `<ol class="pulse-stories">${articles.map((article, index) => {
+    const topic = state.briefingTopics[article.topicId];
+    return `
+      <li>
+        <span>${String(index + 1).padStart(2, "0")}</span>
+        <a href="${escapeAttribute(article.url)}" target="_blank" rel="noopener noreferrer">
+          <small>${escapeHtml(topic?.label ?? article.topicId)}</small>
+          <strong>${escapeHtml(article.title)}</strong>
+          <em>${escapeHtml(article.source)} · ${formatDate(article.published_at)}</em>
+        </a>
+      </li>`;
+  }).join("")}</ol>`;
+}
+
+function uniqueByUrl() {
+  const urls = new Set();
+  return (article) => {
+    if (urls.has(article.url)) return false;
+    urls.add(article.url);
+    return true;
+  };
+}
+
+function isPulseCandidate(article) {
+  const text = `${article.title} ${article.source}`.toLowerCase();
+  return ![/\bnhl\b/, /\bnba\b/, /\bnfl\b/, /\bmlb\b/, /\bsoccer\b/, /\bfootball match\b/, /\bsports? score\b/]
+    .some((pattern) => pattern.test(text));
 }
 
 function closeBriefingPanel(restoreFocus = true) {

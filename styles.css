@@ -138,6 +138,7 @@ a:focus-visible,
 .scope-key,
 .theme-toggle,
 .briefing-toggle,
+.pulse-toggle,
 .methodology-link {
   pointer-events: auto;
   border: 1px solid rgba(170, 182, 193, 0.78);
@@ -521,7 +522,8 @@ a:focus-visible,
   animation: panel-in 300ms cubic-bezier(0.22, 1, 0.36, 1);
 }
 
-.briefing-panel {
+.briefing-panel,
+.pulse-panel {
   position: fixed;
   top: 0;
   right: 0;
@@ -535,6 +537,240 @@ a:focus-visible,
   background: var(--surface);
   box-shadow: var(--shadow);
   animation: panel-in 300ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.pulse-panel {
+  width: min(1040px, 100vw);
+}
+
+.pulse-content {
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding: 34px 36px 44px;
+}
+
+.pulse-heading {
+  max-width: 680px;
+}
+
+.pulse-heading h2 {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(40px, 7vw, 66px);
+  line-height: .95;
+  letter-spacing: -.04em;
+}
+
+.pulse-heading > p:last-child {
+  margin: 14px 0 0;
+  color: var(--text-body);
+  font-size: 15px;
+  line-height: 1.55;
+}
+
+.pulse-metrics {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 9px;
+  margin: 28px 0 34px;
+}
+
+.pulse-metrics article {
+  border: 1px solid var(--line);
+  border-radius: 9px;
+  background: var(--surface-subtle);
+  padding: 16px;
+}
+
+.pulse-metrics strong,
+.pulse-metrics span {
+  display: block;
+}
+
+.pulse-metrics strong {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 30px;
+}
+
+.pulse-metrics span {
+  margin-top: 3px;
+  color: var(--ink-muted);
+  font-size: 9px;
+  font-weight: 800;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+}
+
+.pulse-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.55fr) minmax(270px, .8fr);
+  gap: 28px;
+}
+
+.pulse-section-heading {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 20px;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 14px;
+}
+
+.pulse-section-heading h3,
+.pulse-card h3 {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 24px;
+}
+
+.pulse-section-heading button {
+  border: 0;
+  background: none;
+  padding: 5px 0;
+  color: var(--link);
+  cursor: pointer;
+  font-size: 10px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.pulse-stories {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.pulse-stories li {
+  display: grid;
+  grid-template-columns: 34px minmax(0, 1fr);
+  gap: 12px;
+  border-bottom: 1px solid var(--line);
+  padding: 15px 0;
+}
+
+.pulse-stories li > span {
+  color: var(--line-dark);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 19px;
+}
+
+.pulse-stories a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.pulse-stories small,
+.pulse-stories em {
+  display: block;
+  color: var(--ink-muted);
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 750;
+  letter-spacing: .045em;
+  text-transform: uppercase;
+}
+
+.pulse-stories strong {
+  display: block;
+  margin: 5px 0 8px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 17px;
+  line-height: 1.35;
+}
+
+.pulse-stories a:hover strong {
+  color: var(--link);
+}
+
+.pulse-rail {
+  display: grid;
+  align-content: start;
+  gap: 15px;
+}
+
+.pulse-card {
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--surface-subtle);
+  padding: 19px;
+}
+
+.topic-activity {
+  display: grid;
+  gap: 11px;
+  margin-top: 17px;
+}
+
+.topic-activity button {
+  border: 0;
+  background: none;
+  padding: 0;
+  color: inherit;
+  cursor: pointer;
+  text-align: left;
+}
+
+.topic-activity span {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  font-size: 10px;
+}
+
+.topic-activity small {
+  color: var(--ink-muted);
+}
+
+.topic-activity i {
+  display: block;
+  height: 4px;
+  margin-top: 5px;
+  border-radius: 9px;
+  background: linear-gradient(90deg, var(--link) var(--activity), var(--line) var(--activity));
+}
+
+.conflict-watch {
+  display: grid;
+  gap: 13px;
+  margin: 17px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.conflict-watch li {
+  display: grid;
+  grid-template-columns: 8px minmax(0, 1fr);
+  gap: 9px;
+  align-items: start;
+}
+
+.status-dot {
+  width: 7px;
+  height: 7px;
+  margin-top: 5px;
+  border-radius: 50%;
+  background: var(--constant);
+}
+
+.status-dot.deteriorating { background: var(--deteriorating); }
+.status-dot.improving { background: var(--improving); }
+
+.conflict-watch strong,
+.conflict-watch small {
+  display: block;
+}
+
+.conflict-watch strong {
+  font-size: 11px;
+  line-height: 1.35;
+}
+
+.conflict-watch small {
+  margin-top: 3px;
+  color: var(--ink-muted);
+  font-size: 8px;
+  font-weight: 700;
+  text-transform: uppercase;
 }
 
 .briefing-content {
@@ -1059,6 +1295,7 @@ noscript {
   .brand-lockup {
     min-width: 0;
     flex: 1;
+    max-width: 145px;
   }
 
   .brand-lockup h1 {
@@ -1067,13 +1304,35 @@ noscript {
 
   .brand-lockup p {
     overflow: hidden;
-    max-width: 230px;
+    max-width: 105px;
     text-overflow: ellipsis;
     white-space: nowrap;
   }
 
   .header-actions {
     flex: 0 0 auto;
+    gap: 5px;
+  }
+
+  .methodology-link {
+    display: none;
+  }
+
+  .briefing-toggle,
+  .pulse-toggle {
+    min-height: 40px;
+    padding: 0 9px;
+    font-size: 0;
+  }
+
+  .briefing-toggle::after {
+    content: "News";
+    font-size: 9px;
+  }
+
+  .pulse-toggle::after {
+    content: "Pulse";
+    font-size: 9px;
   }
 
   .theme-toggle {
@@ -1127,7 +1386,8 @@ noscript {
   }
 
   .country-panel,
-  .briefing-panel {
+  .briefing-panel,
+  .pulse-panel {
     top: auto;
     bottom: 0;
     width: 100%;
@@ -1151,6 +1411,18 @@ noscript {
 
   .briefing-content {
     padding: 23px 20px 34px;
+  }
+
+  .pulse-content {
+    padding: 23px 20px 34px;
+  }
+
+  .pulse-metrics {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .pulse-layout {
+    grid-template-columns: 1fr;
   }
 
   .briefing-topic-tabs {
@@ -1197,7 +1469,8 @@ noscript {
   text-decoration: underline;
 }
 
-.briefing-toggle {
+.briefing-toggle,
+.pulse-toggle {
   min-height: 38px;
   border-radius: 9px;
   padding: 8px 12px;
@@ -1210,7 +1483,9 @@ noscript {
 }
 
 .briefing-toggle:hover,
-.briefing-toggle[aria-expanded="true"] {
+.briefing-toggle[aria-expanded="true"],
+.pulse-toggle:hover,
+.pulse-toggle[aria-expanded="true"] {
   background: var(--ink);
   color: var(--surface);
 }
