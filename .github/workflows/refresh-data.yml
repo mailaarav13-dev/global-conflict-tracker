@@ -4,8 +4,15 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+    inputs:
+      refresh_newsapi:
+        description: "Also use NewsAPI quota for this manual run"
+        required: false
+        default: false
+        type: boolean
   schedule:
-    - cron: "17 */6 * * *"
+    - cron: "17 0,12 * * *"
+    - cron: "17 6,18 * * *"
 
 permissions:
   contents: write
@@ -34,7 +41,11 @@ jobs:
           node-version: 20
 
       - name: Refresh optional NewsAPI snapshot
-        if: github.event_name != 'push'
+        if: >-
+          github.event.schedule == '17 0,12 * * *' ||
+          (github.event_name == 'workflow_dispatch' && inputs.refresh_newsapi)
+        continue-on-error: true
+        timeout-minutes: 5
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
         run: |

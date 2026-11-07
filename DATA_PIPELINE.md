@@ -43,7 +43,9 @@ Search terms and ingestion limits live in `config/news-queries.json`.
 
 ## Scheduled refresh
 
-`.github/workflows/refresh-data.yml` runs at 17 minutes past every sixth hour and can also be started manually. The six-hour cadence keeps the default 24-query refresh within a typical 100-request daily allowance.
+`.github/workflows/refresh-data.yml` deploys code pushes immediately and performs a data refresh at 17 minutes past every sixth hour. GDELT runs on every scheduled data refresh. NewsAPI runs only at 00:17 and 12:17 UTC, keeping its 24-query refresh below the Developer plan's rolling request limits. Manual runs skip NewsAPI unless the `refresh_newsapi` option is explicitly enabled.
+
+Provider failures are nonfatal in the hosted workflow: validation and deployment continue using the last valid snapshot. The individual refresh scripts still fail locally on total provider outages so problems remain visible during development.
 
 To activate it in a GitHub repository, add this Actions secret.
 
