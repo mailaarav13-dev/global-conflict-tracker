@@ -1,0 +1,43 @@
+name: Refresh saved UCDP snapshot
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "41 3,15 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ucdp-snapshot-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Refresh sanitized UCDP snapshot
+        env:
+          UCDP_API_TOKEN: ${{ secrets.UCDP_API_TOKEN }}
+        run: npm run refresh:ucdp
+
+      - name: Commit changed snapshot
+        run: |
+          if git diff --quiet -- data/ucdp.json; then
+            echo "The saved UCDP snapshot is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ucdp.json
+          git commit -m "chore(data): refresh UCDP snapshot"
+          git push

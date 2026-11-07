@@ -33,6 +33,7 @@ npm run build:bootstrap
 npm run refresh:news
 npm run refresh:gdelt
 npm run refresh:briefings
+npm run refresh:ucdp
 npm run verify:ucdp
 npm run sync:supabase
 npm run refresh
@@ -48,11 +49,15 @@ Search terms and ingestion limits live in `config/news-queries.json`.
 
 `verify:ucdp` makes one authenticated, read-only request for a single UCDP GED record and validates the response without logging the token. Set `UCDP_API_TOKEN` locally or run the manual **Verify UCDP access** GitHub Actions workflow, which reads the repository secret.
 
+`refresh:ucdp` retrieves the configured UCDP GED Candidate release, strips source text and other unnecessary fields, calculates country aggregates, and atomically saves `data/ucdp.json`. It has a code-enforced maximum of five API requests per run and refuses to replace the saved snapshot if the result would exceed that budget or any request fails.
+
 ## Scheduled refresh
 
 `.github/workflows/refresh-data.yml` deploys code pushes immediately and performs a data refresh at 17 minutes past every sixth hour. Conflict-specific GDELT discovery and the broader world briefing run on every scheduled refresh. NewsAPI runs only at 00:17 and 12:17 UTC, keeping its 24-query refresh below the Developer plan's rolling request limits. Manual runs skip NewsAPI unless the `refresh_newsapi` option is explicitly enabled.
 
 Provider failures are nonfatal in the hosted workflow: validation and deployment continue using the last valid snapshot. The individual refresh scripts still fail locally on total provider outages so problems remain visible during development.
+
+A separate UCDP workflow runs at 03:41 and 15:41 UTC (twice daily). At its maximum of five requests per run, it can consume no more than 10 authenticated requests per day. It commits the sanitized snapshot, and that commit triggers the normal static deployment. Website visitors only download the saved JSON file and never call UCDP or receive the token.
 
 To activate it in a GitHub repository, add this Actions secret.
 

@@ -1,0 +1,10 @@
+{
+  "dataset": "gedevents",
+  "dataset_label": "UCDP GED Candidate",
+  "version": "26.0.9",
+  "start_date": "2026-09-01",
+  "end_date": "2026-09-30",
+  "page_size": 1000,
+  "max_requests_per_run": 5,
+  "max_published_events": 250
+}

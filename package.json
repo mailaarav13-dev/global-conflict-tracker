@@ -19,6 +19,7 @@
     "refresh:news": "node scripts/refresh-news.mjs",
     "refresh:gdelt": "node scripts/refresh-gdelt.mjs",
     "refresh:briefings": "node scripts/refresh-briefings.mjs",
+    "refresh:ucdp": "node scripts/refresh-ucdp.mjs",
     "sync:supabase": "node scripts/sync-supabase.mjs",
     "refresh": "npm run refresh:news && npm run refresh:gdelt && npm run refresh:briefings && npm run build:bootstrap && npm run validate:data && npm run sync:supabase"
   }
