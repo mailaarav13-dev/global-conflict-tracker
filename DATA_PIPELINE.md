@@ -33,6 +33,7 @@ npm run build:bootstrap
 npm run refresh:news
 npm run refresh:gdelt
 npm run refresh:briefings
+npm run verify:ucdp
 npm run sync:supabase
 npm run refresh
 ```
@@ -44,6 +45,8 @@ npm run refresh
 Search terms and ingestion limits live in `config/news-queries.json`.
 
 `refresh:briefings` builds the separate World News panel. It uses GDELT first and Google News RSS as a resilient fallback, requires no credential, validates every article, and retains the last valid topic snapshot when providers fail. Topic definitions live in `config/briefing-topics.json`.
+
+`verify:ucdp` makes one authenticated, read-only request for a single UCDP GED record and validates the response without logging the token. Set `UCDP_API_TOKEN` locally or run the manual **Verify UCDP access** GitHub Actions workflow, which reads the repository secret.
 
 ## Scheduled refresh
 
