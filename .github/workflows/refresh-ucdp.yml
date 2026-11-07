@@ -7,15 +7,20 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
-  group: ucdp-snapshot-refresh
+  group: conflict-tracker-production
   cancel-in-progress: false
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Check out repository
         uses: actions/checkout@v6
@@ -29,6 +34,21 @@ jobs:
         env:
           UCDP_API_TOKEN: ${{ secrets.UCDP_API_TOKEN }}
         run: npm run refresh:ucdp
+
+      - name: Build production site with saved snapshot
+        run: npm run build:site
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+
+      - name: Deploy saved snapshot
+        id: deployment
+        uses: actions/deploy-pages@v4
 
       - name: Commit changed snapshot
         run: |
