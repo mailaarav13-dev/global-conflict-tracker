@@ -62,7 +62,7 @@ console.log(`Published ${Object.values(snapshot.items).flat().length} world brie
 async function fetchGdeltArticles(topic, config) {
   const url = new URL("https://api.gdeltproject.org/api/v2/doc/doc");
   url.search = new URLSearchParams({
-    query: topic.query,
+    query: `(${topic.query}) sourcelang:english`,
     mode: "artlist",
     format: "json",
     sort: "datedesc",
@@ -147,10 +147,11 @@ function decodeXml(value) {
 }
 
 function normalizeArticle(article) {
+  const language = cleanText(article?.language);
   const title = cleanText(article?.title);
   const url = cleanText(article?.url);
   const source = cleanText(article?.domain) || hostname(url);
-  if (!title || !normalizeUrl(url) || !source) return null;
+  if (!isEnglishLanguage(language) || !title || !normalizeUrl(url) || !source) return null;
   const publishedAt = parseGdeltDate(article?.seendate);
   return {
     title,
@@ -158,16 +159,22 @@ function normalizeArticle(article) {
     source,
     provider: "GDELT",
     ...(publishedAt ? { published_at: publishedAt } : {}),
-    ...(cleanText(article?.language) ? { language: cleanText(article.language) } : {}),
+    language: "English",
     ...(cleanText(article?.sourcecountry) ? { source_country: cleanText(article.sourcecountry) } : {}),
   };
 }
 
 function mergeArticles(existing, discovered, maximum) {
   return [...discovered, ...existing]
+    .filter((article) => isEnglishLanguage(article.language, true))
     .sort((a, b) => String(b.published_at ?? "").localeCompare(String(a.published_at ?? "")))
     .filter(uniqueArticle())
     .slice(0, maximum);
+}
+
+function isEnglishLanguage(value, allowMissing = false) {
+  const language = cleanText(value).toLowerCase();
+  return language ? ["en", "eng", "english"].includes(language) : allowMissing;
 }
 
 function uniqueArticle() {

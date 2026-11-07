@@ -172,6 +172,9 @@ export function validateNewsDocument(document, conflictIds = null) {
         }
         if (article.language !== undefined) {
           requireString(article.language, `${path}.language`, issues);
+          if (typeof article.language === "string" && !isEnglishLanguage(article.language)) {
+            issues.push(`${path}.language must be English`);
+          }
         }
         if (article.source_country !== undefined) {
           requireString(article.source_country, `${path}.source_country`, issues);
@@ -240,7 +243,12 @@ export function validateBriefingDocument(document, topicIds = null) {
         urls.add(article.url);
         if (article.published_at !== undefined) validateTimestamp(article.published_at, `${path}.published_at`, issues);
         if (article.provider !== undefined) requireString(article.provider, `${path}.provider`, issues);
-        if (article.language !== undefined) requireString(article.language, `${path}.language`, issues);
+        if (article.language !== undefined) {
+          requireString(article.language, `${path}.language`, issues);
+          if (typeof article.language === "string" && !isEnglishLanguage(article.language)) {
+            issues.push(`${path}.language must be English`);
+          }
+        }
         if (article.source_country !== undefined) requireString(article.source_country, `${path}.source_country`, issues);
       });
     }
@@ -265,6 +273,10 @@ function requireString(value, path, issues) {
   if (typeof value !== "string" || value.trim() === "") {
     issues.push(`${path} must be a non-empty string`);
   }
+}
+
+function isEnglishLanguage(value) {
+  return ["en", "eng", "english"].includes(String(value).trim().toLowerCase());
 }
 
 function requireEnum(value, allowed, path, issues) {

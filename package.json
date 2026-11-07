@@ -15,6 +15,7 @@
     "test": "npm run validate:data && npm run test:pipeline",
     "test:pipeline": "node scripts/test-news-refresh.mjs && node scripts/test-gdelt-refresh.mjs && node scripts/test-briefing-refresh.mjs",
     "validate:data": "node scripts/validate-data.mjs",
+    "clean:english": "node scripts/enforce-english.mjs",
     "verify:ucdp": "node scripts/verify-ucdp.mjs",
     "refresh:news": "node scripts/refresh-news.mjs",
     "refresh:gdelt": "node scripts/refresh-gdelt.mjs",

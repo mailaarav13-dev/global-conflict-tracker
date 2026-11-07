@@ -233,15 +233,6 @@
         "source_country": "Turkey"
       },
       {
-        "title": "Yemen : Watu 25 wauawa , Syria yatuma wanajeshi .",
-        "url": "https://www.dw.com/sw/mashambulizi-sanaa-yaua-25-syria-kutuma-maelfu-ya-wanajeshi-yemen/a-79885658",
-        "source": "dw.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-07T17:00:00Z",
-        "language": "Swahili",
-        "source_country": "Germany"
-      },
-      {
         "title": "Olabi outlines Syria efforts to build free and responsible media",
         "url": "https://sana.sy/en/syria/2356635/",
         "source": "sana.sy",
@@ -295,15 +286,6 @@
         "published_at": "2026-11-06T13:00:00Z",
         "language": "English",
         "source_country": "United States"
-      },
-      {
-        "title": "Les combats sintensifient entre les FARDC et le FRN sur laxe Kashebere - Kibati au Nord - Kivu",
-        "url": "https://www.radiookapi.net/2026/11/06/actualite/securite/les-combats-sintensifient-entre-les-fardc-et-le-frn-sur-laxe-kashebere",
-        "source": "radiookapi.net",
-        "provider": "GDELT",
-        "published_at": "2026-11-06T12:00:00Z",
-        "language": "French",
-        "source_country": "Democratic Republic of the Congo"
       }
     ],
     "somalia-al-shabaab-insurgency": [
@@ -405,42 +387,6 @@
     "venezuela-guyana-essequibo-dispute": [],
     "colombia-armed-groups-transition": [
       {
-        "title": "Ejército capturó a alias Carrito del Eln en el sur de Bolívar",
-        "url": "https://www.elinformador.com.co/index.php/judiciales/71-judiciales-local/361482-ejercito-capturo-a-alias-carrito-del-eln-en-el-sur-de-bolivar",
-        "source": "elinformador.com.co",
-        "provider": "GDELT",
-        "published_at": "2026-11-07T08:00:00Z",
-        "language": "Spanish",
-        "source_country": "Colombia"
-      },
-      {
-        "title": "Indignación en La Vega , Cauca : denuncian que el ELN asesinó a hombre con esquizofrenia",
-        "url": "https://www.elpais.com.co/judicial/indignacion-en-la-vega-cauca-por-muerte-de-un-hombre-con-esquizofrenia-tras-un-ataque-atribuido-al-eln-0614.html",
-        "source": "elpais.com.co",
-        "provider": "GDELT",
-        "published_at": "2026-11-07T02:00:00Z",
-        "language": "Spanish",
-        "source_country": "Colombia"
-      },
-      {
-        "title": "Fuerza Pública golpea disidencias de las Farc de Mordisco y Calarcá en el Valle y Antioquia ; abatidos cabecillas Pincher y El Flaco – Radio Santa Fe 1070 a . m . Noticias de Colombia",
-        "url": "https://www.radiosantafe.com/2026/11/06/fuerza-publica-golpea-disidencias-de-las-farc-de-mordisco-y-calarca-en-el-valle-y-antioquia-abatidos-cabecillas-pincher-y-el-flaco/",
-        "source": "radiosantafe.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-06T11:30:00Z",
-        "language": "Spanish",
-        "source_country": "Colombia"
-      },
-      {
-        "title": "JEP imputa a nueve exjefes de las FARC por el asesinato de 62 menores reclutados",
-        "url": "http://hsbnoticias.com/noticias/jep-imputa-a-nueve-exjefes-de-las-farc-por-el-asesinato-de-62-menores-reclutados-2",
-        "source": "hsbnoticias.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-06T06:30:00Z",
-        "language": "Spanish",
-        "source_country": "Colombia"
-      },
-      {
         "title": "Colombia Indicts FARC Leaders for Crimes Against Children Including Rape, Torture, Forced Abortions",
         "url": "https://www.breitbart.com/crime/2026/11/05/colombia-ex-farc-leaders-summoned-to-court-over-forced-recruitment-of-over-18600-minors-rape-torture-and-forced-abortion-of-dozens/",
         "source": "Breitbart News",
@@ -465,15 +411,6 @@
         "published_at": "2026-11-07T06:00:00Z",
         "language": "English",
         "source_country": "Armenia"
-      },
-      {
-        "title": "Dubes Azerbaijan Sampaikan Terima Kasih kepada Indonesia , Ini yang Melatarbelakanginya",
-        "url": "https://koran-jakarta.com/2026-11-07/dubes-azerbaijan-sampaikan-terima-kasih-kepada-indonesia-ini-yang-melatarbelakanginya",
-        "source": "koran-jakarta.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-07T00:00:00Z",
-        "language": "Indonesian",
-        "source_country": "Indonesia"
       },
       {
         "title": "Azerbaijani Ombudsperson calls for international action on post - war humanitarian challenges",
@@ -573,17 +510,7 @@
         "published_at": "2026-11-06T00:00:00Z"
       }
     ],
-    "india-pakistan-kashmir-conflict": [
-      {
-        "title": "China - Bangladesh Fighter Jet Deal ; Pakistan Pilots To Train Near India Border",
-        "url": "https://www.divyabhaskar.co.in/international/news/china-bangladesh-fighter-jet-pakistan-pilot-training-jessore-border-139608195.html",
-        "source": "divyabhaskar.co.in",
-        "provider": "GDELT",
-        "published_at": "2026-11-06T04:30:00Z",
-        "language": "Gujarati",
-        "source_country": "India"
-      }
-    ],
+    "india-pakistan-kashmir-conflict": [],
     "ethiopia-northern-conflict": [
       {
         "title": "Drones, Paperwork and Proxy War: What a Seized Memo Says About the Battle for Tigray",

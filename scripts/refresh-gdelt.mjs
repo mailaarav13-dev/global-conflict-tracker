@@ -83,7 +83,7 @@ console.log(`Published ${Object.values(snapshot.items).flat().length} combined a
 async function fetchGdeltArticles({ attempts, match, maxArticles, maxRecords, query, timespan, timeoutMs }) {
   const url = new URL("https://api.gdeltproject.org/api/v2/doc/doc");
   url.search = new URLSearchParams({
-    query: toGdeltQuery(query),
+    query: `${toGdeltQuery(query)} sourcelang:english`,
     mode: "artlist",
     format: "json",
     sort: "datedesc",
@@ -108,12 +108,13 @@ async function fetchGdeltArticles({ attempts, match, maxArticles, maxRecords, qu
   const candidates = [];
 
   for (const article of payload.articles) {
+    const language = cleanText(article?.language);
     const title = cleanText(article?.title);
     const articleUrl = cleanText(article?.url);
     const normalizedUrl = normalizeUrl(articleUrl);
     const source = cleanText(article?.domain) || hostname(articleUrl);
 
-    if (!title || !normalizedUrl || !source || seen.has(normalizedUrl)) {
+    if (!isEnglishLanguage(language) || !title || !normalizedUrl || !source || seen.has(normalizedUrl)) {
       continue;
     }
     if (!headlineMatches(title, match)) {
@@ -130,7 +131,7 @@ async function fetchGdeltArticles({ attempts, match, maxArticles, maxRecords, qu
         source,
         provider: "GDELT",
         ...(publishedAt ? { published_at: publishedAt } : {}),
-        ...(cleanText(article?.language) ? { language: cleanText(article.language) } : {}),
+        language: "English",
         ...(cleanText(article?.sourcecountry)
           ? { source_country: cleanText(article.sourcecountry) }
           : {}),
@@ -153,6 +154,7 @@ function mergeArticles(existing, discovered, maximum) {
       String(second.published_at ?? "").localeCompare(String(first.published_at ?? "")),
     )
     .filter((article) => {
+      if (!isEnglishLanguage(article.language, true)) return false;
       const url = normalizeUrl(article.url);
       const title = cleanText(article.title).toLowerCase();
       if (!url || !title || seenUrls.has(url) || seenTitles.has(title)) {
@@ -163,6 +165,11 @@ function mergeArticles(existing, discovered, maximum) {
       return true;
     })
     .slice(0, maximum);
+}
+
+function isEnglishLanguage(value, allowMissing = false) {
+  const language = cleanText(value).toLowerCase();
+  return language ? ["en", "eng", "english"].includes(language) : allowMissing;
 }
 
 function headlineMatches(title, match) {

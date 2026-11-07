@@ -47,6 +47,8 @@ Search terms and ingestion limits live in `config/news-queries.json`.
 
 `refresh:briefings` builds the separate World News panel. It uses GDELT first and Google News RSS as a resilient fallback, requires no credential, validates every article, and retains the last valid topic snapshot when providers fail. Topic definitions live in `config/briefing-topics.json`.
 
+All public headline feeds are English-only. NewsAPI and Google News are queried in English; GDELT queries include an English source-language constraint and results with non-English language metadata are discarded. Snapshot validation rejects any explicitly non-English article, and `npm run clean:english` removes legacy records before rebuilding the packaged bundle.
+
 `verify:ucdp` makes one authenticated, read-only request for a single UCDP GED record and validates the response without logging the token. Set `UCDP_API_TOKEN` locally or run the manual **Verify UCDP access** GitHub Actions workflow, which reads the repository secret.
 
 `refresh:ucdp` retrieves the configured UCDP GED Candidate release, strips source text and other unnecessary fields, calculates country aggregates, and atomically saves `data/ucdp.json`. It has a code-enforced maximum of five API requests per run and refuses to replace the saved snapshot if the result would exceed that budget or any request fails.
