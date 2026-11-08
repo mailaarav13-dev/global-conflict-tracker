@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T18:02:07.364Z",
+  "generated_at": "2026-11-08T22:16:54.550Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
@@ -113,6 +113,42 @@
     ],
     "myanmar-civil-war": [
       {
+        "title": "Over 4 Million Displaced in Myanmar as Humanitarian Crisis Deepens , UN Envoy Says",
+        "url": "https://www.bnionline.net/en/news/over-4-million-displaced-myanmar-humanitarian-crisis-deepens-un-envoy-says",
+        "source": "bnionline.net",
+        "provider": "GDELT",
+        "published_at": "2026-11-07T06:00:00Z",
+        "language": "English",
+        "source_country": "Myanmar"
+      },
+      {
+        "title": "Reinforced Junta Column Advances Into Kawlin Following Heavy Losses in Indaw",
+        "url": "https://www.bnionline.net/en/news/reinforced-junta-column-advances-kawlin-following-heavy-losses-indaw",
+        "source": "bnionline.net",
+        "provider": "GDELT",
+        "published_at": "2026-11-07T06:00:00Z",
+        "language": "English",
+        "source_country": "Myanmar"
+      },
+      {
+        "title": "Myanmar to hold by - elections in April , including in areas where fighting persists",
+        "url": "https://www.newindianexpress.com/world/2026/Nov/06/myanmar-to-hold-by-elections-in-april-including-in-areas-where-fighting-persists-2",
+        "source": "newindianexpress.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T11:30:00Z",
+        "language": "English",
+        "source_country": "India"
+      },
+      {
+        "title": "Myanmar announces by - elections expanding parliament writ",
+        "url": "https://www.freemalaysiatoday.com/category/world/2026/11/06/myanmar-announces-by-elections-expanding-parliament-writ",
+        "source": "freemalaysiatoday.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T11:00:00Z",
+        "language": "English",
+        "source_country": "Malaysia"
+      },
+      {
         "title": "Myanmar to hold by-elections in April",
         "url": "https://punchng.com/myanmar-to-hold-by-elections-in-april/",
         "source": "The Punch",
@@ -135,30 +171,6 @@
         "url": "https://www.thegatewaypundit.com/2026/11/un-investigators-want-names-pilots-who-bombed-burma/",
         "source": "Thegatewaypundit.com",
         "published_at": "2026-11-02T02:45:00Z"
-      },
-      {
-        "title": "Myanmar Junta’s Scam Crackdown Pushes Fraud Networks Deeper Inland",
-        "url": "https://www.thegatewaypundit.com/2026/11/myanmar-juntas-scam-crackdown-pushes-fraud-networks-deeper/",
-        "source": "Thegatewaypundit.com",
-        "published_at": "2026-11-01T13:00:13Z"
-      },
-      {
-        "title": "Burma’s Junta Bombs Civilian Targets While Inviting Rebels to Peace Talks",
-        "url": "https://www.thegatewaypundit.com/2026/10/burmas-junta-bombs-civilian-targets-while-inviting-rebels/",
-        "source": "Thegatewaypundit.com",
-        "published_at": "2026-11-01T01:20:16Z"
-      },
-      {
-        "title": "Iranian Fuel, Russian and Chinese Jets: Who Keeps Burma’s Junta Bombing Civilians?",
-        "url": "https://www.thegatewaypundit.com/2026/10/iranian-fuel-russian-chinese-jets-who-keeps-burmas/",
-        "source": "Thegatewaypundit.com",
-        "published_at": "2026-10-31T22:40:22Z"
-      },
-      {
-        "title": "UN investigator: Myanmar junta attacks civilians to terrorize them as arms buys fuel war",
-        "url": "https://abcnews.com/US/wireStory/investigator-myanmar-junta-attacks-civilians-terrorize-arms-buys-137713528",
-        "source": "Abcnews.com",
-        "published_at": "2026-10-30T18:15:04Z"
       }
     ],
     "yemen-civil-war": [
@@ -213,6 +225,33 @@
     ],
     "south-china-sea-dispute": [
       {
+        "title": "Philippines rebukes officials over public comments about China",
+        "url": "https://www.freemalaysiatoday.com/category/world/2026/11/08/philippines-rebukes-officials-over-public-comments-about-china",
+        "source": "freemalaysiatoday.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-08T14:30:00Z",
+        "language": "English",
+        "source_country": "Malaysia"
+      },
+      {
+        "title": "Report highlights China role in sustaining peace , stability in South China Sea",
+        "url": "http://www.beijingbulletin.com/news/279419205/report-highlights-china-role-in-sustaining-peace-stability-in-south-china-sea",
+        "source": "beijingbulletin.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-08T09:00:00Z",
+        "language": "English",
+        "source_country": "China"
+      },
+      {
+        "title": "China Focus : Report highlights China role in sustaining peace , stability in South China Sea",
+        "url": "http://www.bruneinews.net/news/279418707/china-focus-report-highlights-china-role-in-sustaining-peace-stability-in-south-china-sea",
+        "source": "bruneinews.net",
+        "provider": "GDELT",
+        "published_at": "2026-11-07T18:00:00Z",
+        "language": "English",
+        "source_country": "Malaysia"
+      },
+      {
         "title": "China warns Philippines to be cautious over South China Sea",
         "url": "https://nypost.com/2026/11/04/world-news/china-warns-philippines-to-be-cautious-over-south-china-sea/",
         "source": "New York Post",
@@ -220,7 +259,34 @@
       }
     ],
     "israel-iran-confrontation": [],
-    "libya-fragmentation": [],
+    "libya-fragmentation": [
+      {
+        "title": "Egypt Reopens Tripoli Embassy After 12 Years",
+        "url": "https://www.riotimesonline.com/egypt-reopens-tripoli-embassy-after-12-years/",
+        "source": "riotimesonline.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-08T11:30:00Z",
+        "language": "English",
+        "source_country": "Brazil"
+      },
+      {
+        "title": "Egypt reopens embassy in Tripoli after 12 - year closure - Xinhua",
+        "url": "https://english.news.cn/africa/20261108/82fd0720aa8b4bf6b7b69c4642b823e0/c.html",
+        "source": "english.news.cn",
+        "provider": "GDELT",
+        "published_at": "2026-11-08T00:00:00Z",
+        "language": "English"
+      },
+      {
+        "title": "Egypt reopens embassy in Tripoli after 12 - year closure",
+        "url": "http://www.bignewsnetwork.com/news/279418849/egypt-reopens-embassy-in-tripoli-after-12-year-closure",
+        "source": "bignewsnetwork.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-07T22:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      }
+    ],
     "syria-transition-crisis": [
       {
         "title": "Syria rules out troop deployment to Yemen , says military ties with Saudi Arabia could expand",
@@ -315,10 +381,31 @@
         "published_at": "2026-11-06T10:35:18Z"
       },
       {
-        "title": "Somalia's top court rejects president's term extension amid political crisis",
+        "title": "Somalia Supreme court rejects President Hassan Sheikh Mohamud term extension",
         "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o",
-        "source": "BBC News",
-        "published_at": "2026-11-06T08:04:46Z"
+        "source": "bbc.co.uk",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T08:30:00Z",
+        "language": "English",
+        "source_country": "United Kingdom"
+      },
+      {
+        "title": "Somali refugee loses court bid over status withdrawal",
+        "url": "https://www.thesouthafrican.com/news/somali-refugee-loses-high-court-battle-to-keep-status-in-south-africa/",
+        "source": "thesouthafrican.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T08:30:00Z",
+        "language": "English",
+        "source_country": "South Africa"
+      },
+      {
+        "title": "After Nearly Two Decades of International Support , Somalia Still Cannot Secure Its Own Capital",
+        "url": "https://wardheernews.com/after-nearly-two-decades-of-international-support-somalia-still-cannot-secure-its-own-capital/",
+        "source": "wardheernews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-05T23:30:00Z",
+        "language": "English",
+        "source_country": "Somalia"
       },
       {
         "title": "Somalia president accused of ordering chief justice’s arrest",
@@ -343,18 +430,6 @@
         "url": "https://punchng.com/uganda-begins-troop-withdrawal-from-somalia/",
         "source": "The Punch",
         "published_at": "2026-11-02T12:09:42Z"
-      },
-      {
-        "title": "Uganda starts withdrawing troops from Somalia",
-        "url": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do",
-        "source": "BBC News",
-        "published_at": "2026-11-02T08:40:35Z"
-      },
-      {
-        "title": "US Military Accused of “Weaponizing” El Niño Against Somali Civilians",
-        "url": "https://www.motherjones.com/politics/2026/10/us-military-africom-weaponizing-el-nino-somali-civilians-women-children-al-shabaab-airstrikes-drones-flooding-usaid/",
-        "source": "Mother Jones",
-        "published_at": "2026-10-29T11:30:00Z"
       }
     ],
     "haiti-gang-crisis": [
