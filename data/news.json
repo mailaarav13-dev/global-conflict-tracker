@@ -1,9 +1,18 @@
 {
-  "generated_at": "2026-11-08T06:05:50.177Z",
+  "generated_at": "2026-11-08T13:35:52.591Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
     "russia-ukraine-war": [
+      {
+        "title": "Departing UN chief warns of moment of truth in efforts to curb global warming",
+        "url": "https://www.bridgwatermercury.co.uk/news/national/26709296.departing-un-chief-warns-moment-truth-efforts-curb-global-warming/",
+        "source": "bridgwatermercury.co.uk",
+        "provider": "GDELT",
+        "published_at": "2026-11-08T11:30:00Z",
+        "language": "English",
+        "source_country": "United Kingdom"
+      },
       {
         "title": "Drone and missile attacks wound 9 in Ukraine",
         "url": "https://www.mercurynews.com/2026/11/07/drone-and-missile-attacks-wound-9-as-ukraine-prepares-for-talks-with-russia-and-the-us/",
@@ -74,10 +83,45 @@
     ],
     "sudan-civil-war": [
       {
+        "title": "Millions in Sudan risk losing shelter as aid funding runs dry",
+        "url": "https://www.radiotamazuj.org/en/news/article/millions-in-sudan-risk-losing-shelter-as-aid-funding-runs-dry",
+        "source": "radiotamazuj.org",
+        "provider": "GDELT",
+        "published_at": "2026-11-07T10:00:00Z",
+        "language": "English",
+        "source_country": "South Sudan"
+      },
+      {
         "title": "Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns",
         "url": "https://www.aljazeera.com/news/2026/11/6/millions-fleeing-sudans-war-risk-losing-shelter-as-funds-run-low-un-warns",
         "source": "Al Jazeera English",
         "published_at": "2026-11-06T16:10:51Z"
+      },
+      {
+        "title": "Opinion| The unbreakable political shackle : A case of South Sudan",
+        "url": "https://www.radiotamazuj.org/en/news/article/opinion-the-unbreakable-political-shackle-a-case-of-south-sudan",
+        "source": "radiotamazuj.org",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T09:30:00Z",
+        "language": "English",
+        "source_country": "South Sudan"
+      },
+      {
+        "title": "Sudan capital gripped by crime wave blamed on SAF militias",
+        "url": "https://www.thenationalnews.com/news/mena/2026/11/06/sudans-capital-gripped-by-crime-wave-blamed-on-safs-militias/",
+        "source": "thenationalnews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T04:30:00Z",
+        "language": "English"
+      },
+      {
+        "title": "Vegetation is claiming El Fasher , one year after it was depopulated by the RSF",
+        "url": "https://article.wn.com/view/2026/11/06/Vegetation_is_claiming_El_Fasher_one_year_after_it_was_depop/",
+        "source": "article.wn.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T04:00:00Z",
+        "language": "English",
+        "source_country": "United States"
       },
       {
         "title": "Refugee influx and foreign aid cuts strain South Sudan's health care system",
@@ -96,12 +140,6 @@
         "url": "https://www.hurriyetdailynews.com/ethiopia-sudan-expel-diplomats-after-attacks-claim-229050",
         "source": "Hurriyet Daily News",
         "published_at": "2026-11-05T08:55:00Z"
-      },
-      {
-        "title": "Sudan, Ethiopia order tit-for-tat diplomatic expulsions",
-        "url": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-04T23:43:26Z"
       }
     ],
     "myanmar-civil-war": [
