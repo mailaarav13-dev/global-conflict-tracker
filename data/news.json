@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T06:31:34.236Z",
+  "generated_at": "2026-11-09T16:32:47.866Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
@@ -254,6 +254,33 @@
     "libya-fragmentation": [],
     "syria-transition-crisis": [
       {
+        "title": "Saudi Arabia turns to Syria for help as fighting with Houthis escalates",
+        "url": "https://www.therecord.com/news/world/saudi-arabia-turns-to-syria-for-help-as-fighting-with-houthis-escalates/article_a228e406-e4ae-5974-a153-2a7f7c105a46.html",
+        "source": "therecord.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-08T21:00:00Z",
+        "language": "English",
+        "source_country": "Canada"
+      },
+      {
+        "title": "Syria to send fighters to Saudi Arabia border with Yemen",
+        "url": "https://www.wsbradio.com/news/world/saudi-arabia-turns/AI7YZEROL42FBDBLVIOPLBFMVY/",
+        "source": "wsbradio.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-08T20:30:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Arab News | Syria 218 million fruit trees face challenges from drought and climate change",
+        "url": "https://www.arabnews.com/middle-east/syrias-218-million-fruit-trees-face-challenges-from-drought-and-climate-change-3010511",
+        "source": "arabnews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-08T20:00:00Z",
+        "language": "English",
+        "source_country": "Saudi Arabia"
+      },
+      {
         "title": "Syria may send thousands of troops to fight Houthis",
         "url": "https://biztoc.com/x/055a34a7749af896",
         "source": "Biztoc.com",
@@ -286,6 +313,15 @@
     ],
     "sahel-jihadist-insurgency": [
       {
+        "title": "Nigeria Rules Out Ceasefire With Boko Haram , ISWAP As Insurgent Attacks Surge In Northeast",
+        "url": "https://naija247news.com/nigeria-rules-out-ceasefire-with-boko-haram-iswap-as-insurgent-attacks-surge-in-northeast/",
+        "source": "naija247news.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T03:30:00Z",
+        "language": "English",
+        "source_country": "Nigeria"
+      },
+      {
         "title": "Why Ukraine may be involved in Mali's conflict",
         "url": "https://www.dw.com/en/why-ukraine-may-be-involved-in-malis-conflict/a-79743423",
         "source": "DW (English)",
@@ -294,10 +330,28 @@
     ],
     "drc-eastern-conflict": [
       {
+        "title": "South Africa : Kabila Accused of Betraying South Africa Over Congo Rebel Links",
+        "url": "https://allafrica.com/stories/202611090083.html",
+        "source": "allafrica.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-09T06:00:00Z",
+        "language": "English",
+        "source_country": "Nigeria"
+      },
+      {
         "title": "Armed men kill at least 33 in village in Ebola-hit eastern DRC",
         "url": "https://www.aljazeera.com/news/2026/11/6/armed-men-kill-at-least-33-in-village-in-ebola-hit-eastern-drc",
         "source": "Al Jazeera English",
         "published_at": "2026-11-06T19:07:06Z"
+      },
+      {
+        "title": "IS - linked militants kill at least 33 in eastern Congo village attack , civil society says",
+        "url": "https://www.the-messenger.com/news/world/article_aefeae91-5433-59c5-b2a1-b3c87b7a86d3.html",
+        "source": "the-messenger.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T13:00:00Z",
+        "language": "English",
+        "source_country": "United States"
       }
     ],
     "somalia-al-shabaab-insurgency": [
