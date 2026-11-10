@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-11-10T19:42:44.769Z",
-  "provider": "newsapi.org",
+  "generated_at": "2026-11-10T23:32:49.152Z",
+  "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
     "russia-ukraine-war": [
+      {
+        "title": "Envoy Jared Kushner says Trump ‘determined’ to end Ukraine war, as prez tells ‘60 Minutes’ country will be ‘different shape’",
+        "url": "https://nypost.com/2026/11/09/us-news/envoy-jared-kushner-says-trump-determined-to-end-ukraine-war-as-prez-tells-60-minutes-country-will-be-different-shape/",
+        "source": "New York Post",
+        "published_at": "2026-11-09T19:25:56Z"
+      },
+      {
+        "title": "Ukraine, EU 'coordinated positions' before Abu Dhabi talks: Zelenskyy",
+        "url": "https://www.channelnewsasia.com/world/ukraine-russia-talks-abu-dhabi-eu-us-zelenskyy-6536831",
+        "source": "CNA",
+        "published_at": "2026-11-09T18:45:23Z"
+      },
       {
         "title": "Russia-US-Ukraine trilateral: what you need to know about the talks that could define Europe’s security architecture",
         "url": "https://rt-english.com/russia/648600-russia-us-ukraine-trilateral/",
         "source": "Rt-english.com",
         "published_at": "2026-11-09T18:43:45Z"
+      },
+      {
+        "title": "Russian investigative newspaper Novaya Gazeta closes citing gov’t clampdown",
+        "url": "https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-09T18:21:38Z"
       },
       {
         "title": "Russia-Ukraine peace talks: In Abu Dhabi, US to look for security guarantees for both",
@@ -27,44 +45,44 @@
         "url": "https://biztoc.com/x/0de135a6b1199ecf",
         "source": "Biztoc.com",
         "published_at": "2026-11-09T17:54:19Z"
-      },
-      {
-        "title": "Russian investigative newspaper Novaya Gazeta closes citing gov’t clampdown",
-        "url": "https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-09T18:21:38Z"
-      },
-      {
-        "title": "Ukraine, EU 'coordinated positions' before Abu Dhabi talks: Zelenskyy",
-        "url": "https://www.channelnewsasia.com/world/ukraine-russia-talks-abu-dhabi-eu-us-zelenskyy-6536831",
-        "source": "CNA",
-        "published_at": "2026-11-09T18:45:23Z"
-      },
-      {
-        "title": "Envoy Jared Kushner says Trump ‘determined’ to end Ukraine war, as prez tells ‘60 Minutes’ country will be ‘different shape’",
-        "url": "https://nypost.com/2026/11/09/us-news/envoy-jared-kushner-says-trump-determined-to-end-ukraine-war-as-prez-tells-60-minutes-country-will-be-different-shape/",
-        "source": "New York Post",
-        "published_at": "2026-11-09T19:25:56Z"
       }
     ],
     "israel-gaza-war": [
       {
-        "title": "Trump's Board of Peace criticizes Israel, Hamas following Gaza floods",
-        "url": "https://www.israelnationalnews.com/news/435917",
-        "source": "Israelnationalnews.com",
-        "published_at": "2026-11-09T18:39:00Z"
+        "title": "Handing Gaza Children the Mic - Progressive . org",
+        "url": "https://progressive.org/latest/handing-gazas-children-the-mic-ghayad-20261109/",
+        "source": "progressive.org",
+        "provider": "GDELT",
+        "published_at": "2026-11-10T03:30:00Z",
+        "language": "English",
+        "source_country": "United States"
       },
       {
-        "title": "Board of Peace criticizes both Israel and Hamas",
-        "url": "https://www.israelnationalnews.com/flashes/697082",
-        "source": "Israelnationalnews.com",
-        "published_at": "2026-11-09T18:04:12Z"
+        "title": "Gaza flooding sparks Board of Peace criticism of Israel following Blair visit",
+        "url": "https://www.ynetnews.com/article/h1zx82yrzg",
+        "source": "ynetnews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-10T03:00:00Z",
+        "language": "English",
+        "source_country": "Israel"
       },
       {
-        "title": "IDF: Over 91,000 tents, 8,200 trucks of winter supplies enter Gaza",
-        "url": "https://www.israelnationalnews.com/news/435915",
-        "source": "Israelnationalnews.com",
-        "published_at": "2026-11-09T17:52:14Z"
+        "title": "FOREIGN BOOTS NEAR GAZA : Israel Clears First Multinational Contingent As Defense Officials Battle Any Turkish Role",
+        "url": "https://www.theyeshivaworld.com/news/israel-news/2620920/foreign-boots-near-gaza-israel-clears-first-multinational-contingent-as-defense-officials-battle-any-turkish-role.html",
+        "source": "theyeshivaworld.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-10T01:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Gaza - born anti - Israel writer challenges Fetterman in 2028 primary",
+        "url": "https://www.clevelandjewishnews.com/jns/gaza-born-anti-israel-writer-challenges-fetterman-in-2028-primary/article_bd4194b0-478a-59fb-8b03-c4139cf20c9b.html",
+        "source": "clevelandjewishnews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-10T01:00:00Z",
+        "language": "English",
+        "source_country": "Israel"
       },
       {
         "title": "Gaza-born Democratic Socialist launches primary bid against Sen John Fetterman",
@@ -79,37 +97,19 @@
         "published_at": "2026-11-09T18:55:42Z"
       },
       {
-        "title": "Jerusalem Daily: Deadly aftermath of Gaza rainstorm continues",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/jerusalem-daily-deadly-aftermath-of-gaza-rainstorm-continues",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-09T17:55:47Z"
+        "title": "Trump's Board of Peace criticizes Israel, Hamas following Gaza floods",
+        "url": "https://www.israelnationalnews.com/news/435917",
+        "source": "Israelnationalnews.com",
+        "published_at": "2026-11-09T18:39:00Z"
       },
       {
-        "title": "As Gaza faces another cruel winter, Israel mocks the consequences of its own actions",
-        "url": "https://www.haaretz.com/israel-news/haaretz-today/2026-11-09/ty-article/.highlight/as-gaza-faces-a-cruel-winter-israel-mocks-the-consequences-of-its-own-actions/000001a1-c14e-dd2c-a3b7-f54e33ff0000",
-        "source": "Haaretz",
-        "published_at": "2026-11-09T17:29:09Z"
-      },
-      {
-        "title": "Democrats' war on John Fetterman begins as Gaza-born Ivy Leaguer launches early bid to end pro-Israel senator's career",
-        "url": "https://www.dailymail.com/news/us-politics/article-16278489/Democrats-war-John-Fetterman-begins-Gaza-born-Ivy-Leaguer-launches-early-bid-end-pro-Israel-senators-career.html",
-        "source": "Dailymail.com",
-        "published_at": "2026-11-09T16:57:27Z"
+        "title": "Board of Peace criticizes both Israel and Hamas",
+        "url": "https://www.israelnationalnews.com/flashes/697082",
+        "source": "Israelnationalnews.com",
+        "published_at": "2026-11-09T18:04:12Z"
       }
     ],
     "sudan-civil-war": [
-      {
-        "title": "Leaked UN Report Says UAE Hired Colombian Mercenaries for Sudan’s RSF",
-        "url": "https://www.naturalnews.com/2026-11-09-leaked-un-report-uae-hired-colombian-mercenaries.html",
-        "source": "Naturalnews.com",
-        "published_at": "2026-11-09T06:00:00Z"
-      },
-      {
-        "title": "Sudan's War and the Horn of Africa Conflict: Alliances that Cross Borders",
-        "url": "https://www.ibtimes.com.au/tigrayan-fighters-sudan-ethiopia-war-horn-africa-1878149",
-        "source": "Ibtimes.com.au",
-        "published_at": "2026-11-09T03:29:25Z"
-      },
       {
         "title": "Sudan teachers go on strike over meagre salaries and dilapidated schools",
         "url": "https://www.aljazeera.com/economy/2026/11/9/sudan-teachers-go-on-strike-over-meagre-salaries-and-dilapidated-schools",
@@ -117,10 +117,22 @@
         "published_at": "2026-11-09T13:08:35Z"
       },
       {
+        "title": "Leaked UN Report Says UAE Hired Colombian Mercenaries for Sudan’s RSF",
+        "url": "https://www.naturalnews.com/2026-11-09-leaked-un-report-uae-hired-colombian-mercenaries.html",
+        "source": "Naturalnews.com",
+        "published_at": "2026-11-09T06:00:00Z"
+      },
+      {
         "title": "Sudan War: Ethiopia's Relations with Port Sudan Strained Over 'Tigrayan Mercenaries'",
         "url": "https://radaronline.com/p/sudan-war-ethiopias-relations-port-sudan-strained-tigrayan-mercenaries/",
         "source": "Radaronline.com",
         "published_at": "2026-11-09T06:00:00Z"
+      },
+      {
+        "title": "Sudan's War and the Horn of Africa Conflict: Alliances that Cross Borders",
+        "url": "https://www.ibtimes.com.au/tigrayan-fighters-sudan-ethiopia-war-horn-africa-1878149",
+        "source": "Ibtimes.com.au",
+        "published_at": "2026-11-09T03:29:25Z"
       },
       {
         "title": "Sudan’s military again detains International Criminal Court fugitive Haroun, lawyers say",
@@ -148,18 +160,6 @@
       }
     ],
     "myanmar-civil-war": [
-      {
-        "title": "Myanmar Junta’s Scam Crackdown Pushes Fraud Networks Deeper Inland",
-        "url": "https://www.thegatewaypundit.com/2026/11/myanmar-juntas-scam-crackdown-pushes-fraud-networks-deeper/",
-        "source": "Thegatewaypundit.com",
-        "published_at": "2026-11-01T13:00:13Z"
-      },
-      {
-        "title": "Burma’s Junta Bombs Civilian Targets While Inviting Rebels to Peace Talks",
-        "url": "https://www.thegatewaypundit.com/2026/10/burmas-junta-bombs-civilian-targets-while-inviting-rebels/",
-        "source": "Thegatewaypundit.com",
-        "published_at": "2026-11-01T01:20:16Z"
-      },
       {
         "title": "How China's hunger for green stones fuels Myanmar's civil war",
         "url": "https://www.abc.net.au/news/2026-11-10/china-hunger-for-jade-fuel-myanmar-war/107296662",
@@ -195,6 +195,18 @@
         "url": "https://www.thegatewaypundit.com/2026/11/un-investigators-want-names-pilots-who-bombed-burma/",
         "source": "Thegatewaypundit.com",
         "published_at": "2026-11-02T02:45:00Z"
+      },
+      {
+        "title": "Myanmar Junta’s Scam Crackdown Pushes Fraud Networks Deeper Inland",
+        "url": "https://www.thegatewaypundit.com/2026/11/myanmar-juntas-scam-crackdown-pushes-fraud-networks-deeper/",
+        "source": "Thegatewaypundit.com",
+        "published_at": "2026-11-01T13:00:13Z"
+      },
+      {
+        "title": "Burma’s Junta Bombs Civilian Targets While Inviting Rebels to Peace Talks",
+        "url": "https://www.thegatewaypundit.com/2026/10/burmas-junta-bombs-civilian-targets-while-inviting-rebels/",
+        "source": "Thegatewaypundit.com",
+        "published_at": "2026-11-01T01:20:16Z"
       }
     ],
     "yemen-civil-war": [
@@ -215,12 +227,6 @@
         "url": "https://news.un.org/en/story/2026/11/1168768",
         "source": "UN News",
         "published_at": "2026-11-09T12:00:00Z"
-      },
-      {
-        "title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates",
-        "url": "https://www.un.org/sustainabledevelopment/blog/2026/11/world-news-in-brief-el-ninos-11-trillion-price-tag-mozambique-and-yemen-updates/",
-        "source": "UN News",
-        "published_at": "2026-11-09T12:00:00Z"
       }
     ],
     "south-china-sea-dispute": [
@@ -232,6 +238,42 @@
       }
     ],
     "israel-iran-confrontation": [
+      {
+        "title": "Nearly 80 percent of Britons see Israel as a threat to world peace",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nearly-80-percent-britons-see-israel-threat-world-peace",
+        "source": "middleeasteye.net",
+        "provider": "GDELT",
+        "published_at": "2026-11-10T06:00:00Z",
+        "language": "English",
+        "source_country": "Israel"
+      },
+      {
+        "title": "Trump sees positive momentum on Iran after Qatar PM talks",
+        "url": "https://www.jacarandafm.com/news/news/trump-sees-positive-momentum-after-qatar-talks/",
+        "source": "jacarandafm.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-10T06:00:00Z",
+        "language": "English",
+        "source_country": "South Africa"
+      },
+      {
+        "title": "How Israel new parliament can make Netanyahu life difficult",
+        "url": "https://www.ewn.co.za/2026/11/10/how-israels-new-parliament-can-make-netanyahus-life-difficult",
+        "source": "ewn.co.za",
+        "provider": "GDELT",
+        "published_at": "2026-11-10T05:30:00Z",
+        "language": "English",
+        "source_country": "South Africa"
+      },
+      {
+        "title": "Trump says Iran war is effectively over : How the conflict unfolded",
+        "url": "https://www.business-standard.com/world-news/trump-says-iran-war-is-effectively-over-how-the-conflict-unfolded-126111000144_1.html",
+        "source": "business-standard.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-10T05:30:00Z",
+        "language": "English",
+        "source_country": "India"
+      },
       {
         "title": "Iran's Ghalibaf: Israel dragging US into endless war",
         "url": "https://biztoc.com/x/0ef8fb50ad1ba421",
@@ -257,6 +299,32 @@
         "url": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya",
         "source": "Al Jazeera English",
         "published_at": "2026-11-08T13:27:57Z"
+      },
+      {
+        "title": "Egypt Reopens Tripoli Embassy After 12 Years",
+        "url": "https://www.riotimesonline.com/egypt-reopens-tripoli-embassy-after-12-years/",
+        "source": "riotimesonline.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-08T11:30:00Z",
+        "language": "English",
+        "source_country": "Brazil"
+      },
+      {
+        "title": "Egypt reopens embassy in Tripoli after 12 - year closure - Xinhua",
+        "url": "https://english.news.cn/africa/20261108/82fd0720aa8b4bf6b7b69c4642b823e0/c.html",
+        "source": "english.news.cn",
+        "provider": "GDELT",
+        "published_at": "2026-11-08T00:00:00Z",
+        "language": "English"
+      },
+      {
+        "title": "Egypt reopens embassy in Tripoli after 12 - year closure",
+        "url": "http://www.bignewsnetwork.com/news/279418849/egypt-reopens-embassy-in-tripoli-after-12-year-closure",
+        "source": "bignewsnetwork.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-07T22:00:00Z",
+        "language": "English",
+        "source_country": "United States"
       }
     ],
     "syria-transition-crisis": [
@@ -281,6 +349,15 @@
     ],
     "sahel-jihadist-insurgency": [
       {
+        "title": "Nigeria Rules Out Ceasefire With Boko Haram , ISWAP As Insurgent Attacks Surge In Northeast",
+        "url": "https://naija247news.com/nigeria-rules-out-ceasefire-with-boko-haram-iswap-as-insurgent-attacks-surge-in-northeast/",
+        "source": "naija247news.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T03:30:00Z",
+        "language": "English",
+        "source_country": "Nigeria"
+      },
+      {
         "title": "Why Ukraine may be involved in Mali's conflict",
         "url": "https://www.dw.com/en/why-ukraine-may-be-involved-in-malis-conflict/a-79743423",
         "source": "DW (English)",
@@ -296,6 +373,12 @@
       }
     ],
     "somalia-al-shabaab-insurgency": [
+      {
+        "title": "Somali court rejects presidential term extension",
+        "url": "https://rt-english.com/africa/648514-somalia-court-rules-president-term-illegal/",
+        "source": "Rt-english.com",
+        "published_at": "2026-11-06T10:35:18Z"
+      },
       {
         "title": "Somalia's top court rejects president's term extension amid political crisis",
         "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o",
@@ -333,12 +416,6 @@
         "published_at": "2026-11-02T08:40:35Z"
       },
       {
-        "title": "Somali court rejects presidential term extension",
-        "url": "https://rt-english.com/africa/648514-somalia-court-rules-president-term-illegal/",
-        "source": "Rt-english.com",
-        "published_at": "2026-11-06T10:35:18Z"
-      },
-      {
         "title": "US Military Accused of “Weaponizing” El Niño Against Somali Civilians",
         "url": "https://www.motherjones.com/politics/2026/10/us-military-africom-weaponizing-el-nino-somali-civilians-women-children-al-shabaab-airstrikes-drones-flooding-usaid/",
         "source": "Mother Jones",
@@ -347,16 +424,16 @@
     ],
     "haiti-gang-crisis": [
       {
-        "title": "‘One less gang leader’: Haiti’s prime minister celebrates police operation",
-        "url": "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-07T05:02:49Z"
-      },
-      {
         "title": "Haiti Kills Gang Boss Mathias Saintil as 2,000 Salvadoran Troops Join Offensive and 400 Mawozo Seeks Talks",
         "url": "https://www.ibtimes.com.au/haiti-gang-leader-killed-salvadoran-offensive-port-au-prince-1878193",
         "source": "Ibtimes.com.au",
         "published_at": "2026-11-09T09:11:32Z"
+      },
+      {
+        "title": "‘One less gang leader’: Haiti’s prime minister celebrates police operation",
+        "url": "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-07T05:02:49Z"
       },
       {
         "title": "Haitian gang reaches out to state disarmament group as gunfights persist",
@@ -454,6 +531,12 @@
     ],
     "korean-armistice-standoff": [
       {
+        "title": "UN Report Highlights North Korea’s Deepening Repression",
+        "url": "https://www.hrw.org/news/2026/11/09/un-report-highlights-north-koreas-deepening-repression",
+        "source": "Human Rights Watch",
+        "published_at": "2026-11-09T18:01:26Z"
+      },
+      {
         "title": "Volodymyr Zelensky Claims Russia Attacking Ukraine with North Korean Missiles",
         "url": "https://www.breitbart.com/national-security/2026/11/09/volodymyr-zelensky-claims-russia-attacking-ukraine-with-north-korean-missiles/",
         "source": "Breitbart News",
@@ -466,12 +549,6 @@
         "published_at": "2026-11-07T16:29:36Z"
       },
       {
-        "title": "UN Report Highlights North Korea’s Deepening Repression",
-        "url": "https://www.hrw.org/news/2026/11/09/un-report-highlights-north-koreas-deepening-repression",
-        "source": "Human Rights Watch",
-        "published_at": "2026-11-09T18:01:26Z"
-      },
-      {
         "title": "North Korea’s Binance hack raises global financial security concerns",
         "url": "https://www.voanews.com/a/north-koreas-binance-hack-raises-global-financial-security-concerns/8219819.html",
         "source": "VOA News",
@@ -481,16 +558,16 @@
     "india-pakistan-kashmir-conflict": [],
     "ethiopia-northern-conflict": [
       {
-        "title": "Sudan's War and the Horn of Africa Conflict: Alliances that Cross Borders",
-        "url": "https://www.ibtimes.com.au/tigrayan-fighters-sudan-ethiopia-war-horn-africa-1878149",
-        "source": "Ibtimes.com.au",
-        "published_at": "2026-11-09T03:29:25Z"
-      },
-      {
         "title": "Sudan War: Ethiopia's Relations with Port Sudan Strained Over 'Tigrayan Mercenaries'",
         "url": "https://radaronline.com/p/sudan-war-ethiopias-relations-port-sudan-strained-tigrayan-mercenaries/",
         "source": "Radaronline.com",
         "published_at": "2026-11-09T06:00:00Z"
+      },
+      {
+        "title": "Sudan's War and the Horn of Africa Conflict: Alliances that Cross Borders",
+        "url": "https://www.ibtimes.com.au/tigrayan-fighters-sudan-ethiopia-war-horn-africa-1878149",
+        "source": "Ibtimes.com.au",
+        "published_at": "2026-11-09T03:29:25Z"
       },
       {
         "title": "Drones, Paperwork and Proxy War: What a Seized Memo Says About the Battle for Tigray",
