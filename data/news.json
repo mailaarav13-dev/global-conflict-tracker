@@ -1,9 +1,36 @@
 {
-  "generated_at": "2026-11-10T07:23:39.186Z",
+  "generated_at": "2026-11-10T15:03:01.154Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
     "russia-ukraine-war": [
+      {
+        "title": "US - brokered talks are set to start in Abu Dhabi to discuss Ukraine - Russia peace deal",
+        "url": "https://www.thesunchronicle.com/news/nation_world/us-brokered-talks-are-set-to-start-in-abu-dhabi-to-discuss-ukraine-russia-peace/article_f1b15d77-5ea3-52e6-98b5-a95c4ed68375.html",
+        "source": "thesunchronicle.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-10T06:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "G7 attention in Paris turns to Ukraine while US - mediated talks get underway in Abu Dhabi – Winnipeg Free Press",
+        "url": "https://www.winnipegfreepress.com/world/2026/11/10/g7-attention-in-paris-turns-to-ukraine-while-us-mediated-talks-get-underway-in-abu-dhabi",
+        "source": "winnipegfreepress.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-10T06:00:00Z",
+        "language": "English",
+        "source_country": "Canada"
+      },
+      {
+        "title": "Novaya Gazeta Closes Moscow Offices , Last Major Independent Russian Newspaper",
+        "url": "https://www.rozanaspokesman.com/news/world/101126/novaya-gazeta-russias-last-major-independent-newspaper-closes-mos.html",
+        "source": "rozanaspokesman.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-10T06:00:00Z",
+        "language": "English",
+        "source_country": "India"
+      },
       {
         "title": "Trump Says Russia-Ukraine Peace Deal Is 'Very Close,' Blames Zelenskyy-Putin 'Hatred' for Delays: 'Only…",
         "url": "https://biztoc.com/x/a55cf90f4c93b659",
@@ -207,6 +234,42 @@
     ],
     "south-china-sea-dispute": [
       {
+        "title": "Japan to provide coastal radar and drones to the Philippines under US$27mil deal",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/10/japan-to-provide-coastal-radar-and-drones-to-the-philippines-under-us27mil-deal",
+        "source": "thestar.com.my",
+        "provider": "GDELT",
+        "published_at": "2026-11-10T02:30:00Z",
+        "language": "English",
+        "source_country": "Malaysia"
+      },
+      {
+        "title": "Philippine Coast Guard Bolsters Surveillance With Turboprop Planes From U . S .",
+        "url": "https://www.eurasiareview.com/10112026-philippine-coast-guard-bolsters-surveillance-with-turboprop-planes-from-u-s/",
+        "source": "eurasiareview.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-10T02:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Philippines rebukes officials over public comments about China",
+        "url": "https://www.freemalaysiatoday.com/category/world/2026/11/08/philippines-rebukes-officials-over-public-comments-about-china",
+        "source": "freemalaysiatoday.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-08T14:30:00Z",
+        "language": "English",
+        "source_country": "Malaysia"
+      },
+      {
+        "title": "Report highlights China role in sustaining peace , stability in South China Sea",
+        "url": "http://www.beijingbulletin.com/news/279419205/report-highlights-china-role-in-sustaining-peace-stability-in-south-china-sea",
+        "source": "beijingbulletin.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-08T09:00:00Z",
+        "language": "English",
+        "source_country": "China"
+      },
+      {
         "title": "Ahead of summit, Beijing tells Quad: Don't rake up South China sea row",
         "url": "https://timesofindia.indiatimes.com/world/china/ahead-of-summit-beijing-tells-quad-dont-rake-up-south-china-sea-row/articleshow/135648667.cms",
         "source": "The Times of India",
@@ -353,6 +416,33 @@
     ],
     "haiti-gang-crisis": [
       {
+        "title": "From a quiet life to the terror of armed gangs : The story of Haiti Kenscoff district · Global Voices",
+        "url": "https://globalvoices.org/2026/11/09/from-a-quiet-life-to-the-terror-of-armed-gangs-the-story-of-haitis-kenscoff-district/",
+        "source": "globalvoices.org",
+        "provider": "GDELT",
+        "published_at": "2026-11-10T01:00:00Z",
+        "language": "English",
+        "source_country": "Russia"
+      },
+      {
+        "title": "Haitian gang aims for peace in letter to UN | The Arkansas Democrat - Gazette",
+        "url": "https://www.arkansasonline.com/news/2026/nov/08/haitian-gang-aims-for-peace-in-letter-to-un/",
+        "source": "arkansasonline.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-08T11:30:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Powerful Haitian gang reaches out to government disarmament group",
+        "url": "https://www.wsbradio.com/news/world/powerful-haitian/DDRPLMWXNM36TK5NVKSUN4RECA/",
+        "source": "wsbradio.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-07T06:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
         "title": "‘One less gang leader’: Haiti’s prime minister celebrates police operation",
         "url": "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation",
         "source": "Al Jazeera English",
@@ -365,6 +455,15 @@
         "published_at": "2026-11-07T01:32:21Z"
       },
       {
+        "title": "Can El Salvador Bukele Troops Do What The Haiti Police Cant ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+        "url": "https://dominicanrepublicpost.com/can-el-salvadors-bukele-troops-do-what-the-haiti-police-cant/",
+        "source": "dominicanrepublicpost.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T06:30:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
         "title": "Nayib Bukele: Haitian Gangs 'Don't Want to Fight Us'",
         "url": "https://www.breitbart.com/latin-america/2026/11/05/nayib-bukele-haitian-gangs-dont-want-to-fight-us/",
         "source": "Breitbart News",
@@ -375,24 +474,6 @@
         "url": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti",
         "source": "Al Jazeera English",
         "published_at": "2026-11-05T02:10:07Z"
-      },
-      {
-        "title": "Haitian police say they found vehicle of 4 missing Salvadorans as search continues",
-        "url": "https://abcnews.com/International/wireStory/haitian-police-found-vehicle-4-missing-salvadorans-search-137846644",
-        "source": "Abcnews.com",
-        "published_at": "2026-11-04T19:01:24Z"
-      },
-      {
-        "title": "Bukele’s warning to Haitian gang leaders that his forces will 'finish' them as he did in El Salvador",
-        "url": "https://www.foxnews.com/world/bukeles-warning-haitian-gang-leaders-forces-finish-el-salvador",
-        "source": "Fox News",
-        "published_at": "2026-11-04T18:06:46Z"
-      },
-      {
-        "title": "Haitians Roll Out Welcome Mat For Bukele’s Anti-Gang Forces",
-        "url": "https://dailycaller.com/2026/11/04/haitians-nayib-bukele-anti-gang-forces",
-        "source": "The Daily Caller",
-        "published_at": "2026-11-04T16:27:25Z"
       }
     ],
     "mexico-cartel-conflict": [
