@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T06:22:02.639Z",
+  "generated_at": "2026-11-11T14:33:49.826Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
@@ -248,6 +248,24 @@
     ],
     "israel-iran-confrontation": [
       {
+        "title": "Israel has detained dozens of Syrians . Families are desperate for answers",
+        "url": "http://www.cecildaily.com/ap/world/israel-has-detained-dozens-of-syrians-families-are-desperate-for-answers/article_a3bea94b-9271-572a-ad65-fac692caeae4.html",
+        "source": "cecildaily.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T06:30:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "US Treasury chief moved after Iranian threats : sources",
+        "url": "https://www.merimbulanewsweekly.com.au/story/9390082/us-treasury-chief-moved-after-iranian-threats-sources/",
+        "source": "merimbulanewsweekly.com.au",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T06:30:00Z",
+        "language": "English",
+        "source_country": "Australia"
+      },
+      {
         "title": "The Iranian regime is executing athlete dissidents. Why? And what can be done?",
         "url": "https://theconversation.com/the-iranian-regime-is-executing-athlete-dissidents-why-and-what-can-be-done-295449",
         "source": "The Conversation Africa",
@@ -263,6 +281,15 @@
       }
     ],
     "syria-transition-crisis": [
+      {
+        "title": "Israel has detained dozens of Syrians . Families are desperate for answers",
+        "url": "http://www.cecildaily.com/ap/world/israel-has-detained-dozens-of-syrians-families-are-desperate-for-answers/article_a3bea94b-9271-572a-ad65-fac692caeae4.html",
+        "source": "cecildaily.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T06:30:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
       {
         "title": "Israel has detained dozens of Syrians . Families are desperate for answers – Winnipeg Free Press",
         "url": "https://www.winnipegfreepress.com/world/2026/11/11/israel-has-detained-dozens-of-syrians-families-are-desperate-for-answers",
@@ -312,6 +339,15 @@
       }
     ],
     "sahel-jihadist-insurgency": [
+      {
+        "title": "Nigeria Rules Out Ceasefire With Boko Haram , ISWAP As Insurgent Attacks Surge In Northeast",
+        "url": "https://naija247news.com/nigeria-rules-out-ceasefire-with-boko-haram-iswap-as-insurgent-attacks-surge-in-northeast/",
+        "source": "naija247news.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T03:30:00Z",
+        "language": "English",
+        "source_country": "Nigeria"
+      },
       {
         "title": "Why Ukraine may be involved in Mali's conflict",
         "url": "https://www.dw.com/en/why-ukraine-may-be-involved-in-malis-conflict/a-79743423",
