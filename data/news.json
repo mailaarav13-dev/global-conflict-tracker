@@ -1,115 +1,97 @@
 {
-  "generated_at": "2026-11-10T23:32:49.152Z",
+  "generated_at": "2026-11-11T06:22:02.639Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
     "russia-ukraine-war": [
       {
-        "title": "Envoy Jared Kushner says Trump ‘determined’ to end Ukraine war, as prez tells ‘60 Minutes’ country will be ‘different shape’",
-        "url": "https://nypost.com/2026/11/09/us-news/envoy-jared-kushner-says-trump-determined-to-end-ukraine-war-as-prez-tells-60-minutes-country-will-be-different-shape/",
-        "source": "New York Post",
-        "published_at": "2026-11-09T19:25:56Z"
+        "title": "U.S. demands a seat for Europe at Ukraine peace talks - POLITICO.eu",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186673420",
+        "source": "Slashdot.org",
+        "published_at": "2026-11-10T06:12:29Z"
       },
       {
-        "title": "Ukraine, EU 'coordinated positions' before Abu Dhabi talks: Zelenskyy",
-        "url": "https://www.channelnewsasia.com/world/ukraine-russia-talks-abu-dhabi-eu-us-zelenskyy-6536831",
-        "source": "CNA",
-        "published_at": "2026-11-09T18:45:23Z"
+        "title": "U.S., Russia and Ukraine open trilateral talks in Abu Dhabi as Europe scrambles for a seat at the table",
+        "url": "https://www.naturalnews.com/2026-11-10-russia-ukraine-talks-abu-dhabi-europe.html",
+        "source": "Naturalnews.com",
+        "published_at": "2026-11-10T06:00:00Z"
       },
       {
-        "title": "Russia-US-Ukraine trilateral: what you need to know about the talks that could define Europe’s security architecture",
-        "url": "https://rt-english.com/russia/648600-russia-us-ukraine-trilateral/",
-        "source": "Rt-english.com",
-        "published_at": "2026-11-09T18:43:45Z"
+        "title": "India speaks with Russia, Ukraine ahead of US-led peace talks",
+        "url": "https://www.thehindubusinessline.com/news/world/india-speaks-with-russia-ukraine-ahead-of-us-led-peace-talks/article71684994.ece",
+        "source": "BusinessLine",
+        "published_at": "2026-11-10T05:13:19Z"
       },
       {
-        "title": "Russian investigative newspaper Novaya Gazeta closes citing gov’t clampdown",
-        "url": "https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown",
+        "title": "‘Europe belongs at this table,’ Germany tells US before Ukraine talks",
+        "url": "https://www.aljazeera.com/news/2026/11/10/europe-belongs-at-this-table-germany-tells-us-before-ukraine-talks",
         "source": "Al Jazeera English",
-        "published_at": "2026-11-09T18:21:38Z"
+        "published_at": "2026-11-10T05:02:33Z"
       },
       {
-        "title": "Russia-Ukraine peace talks: In Abu Dhabi, US to look for security guarantees for both",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/russia-ukraine-peace-talks-in-abu-dhabi-us-to-look-for-security-guarantees-for-both/articleshow/135690919.cms",
-        "source": "The Times of India",
-        "published_at": "2026-11-09T18:16:14Z"
+        "title": "Ukraine: Russian Drone Attacks Endanger Rail Travel",
+        "url": "https://www.hrw.org/news/2026/11/10/ukraine-russian-drone-attacks-endanger-rail-travel",
+        "source": "Human Rights Watch",
+        "published_at": "2026-11-10T05:00:00Z"
       },
       {
-        "title": "Russia-Ukraine peace talks led by U.S. will look at security guarantees for both sides",
-        "url": "https://biztoc.com/x/abc410a2400783f5",
+        "title": "Trump sees 'strong inclination' to end Russia-Ukraine war ahead of U.S.-brokered peace talks",
+        "url": "https://biztoc.com/x/20530a938ca36fb0",
         "source": "Biztoc.com",
-        "published_at": "2026-11-09T17:54:46Z"
+        "published_at": "2026-11-10T04:52:03Z"
       },
       {
-        "title": "Russia and Ukraine exchange strikes a day before U.S.-brokered talks are scheduled to begin",
-        "url": "https://biztoc.com/x/0de135a6b1199ecf",
-        "source": "Biztoc.com",
-        "published_at": "2026-11-09T17:54:19Z"
+        "title": "US-mediated talks with Russia and Ukraine to start in Abu Dhabi",
+        "url": "https://www.channelnewsasia.com/world/united-states-talks-russia-ukraine-abu-dhabi-6538206",
+        "source": "CNA",
+        "published_at": "2026-11-10T04:47:06Z"
       }
     ],
     "israel-gaza-war": [
       {
-        "title": "Handing Gaza Children the Mic - Progressive . org",
-        "url": "https://progressive.org/latest/handing-gazas-children-the-mic-ghayad-20261109/",
-        "source": "progressive.org",
-        "provider": "GDELT",
-        "published_at": "2026-11-10T03:30:00Z",
-        "language": "English",
-        "source_country": "United States"
+        "title": "Protesters Occupy Microsoft Data Center Site in Amsterdam Over Gaza, AI Concerns",
+        "url": "https://www.naturalnews.com/2026-11-10-protesters-occupy-microsoft-data-center-amsterdam-gaza-ai.html",
+        "source": "Naturalnews.com",
+        "published_at": "2026-11-10T06:00:00Z"
       },
       {
-        "title": "Gaza flooding sparks Board of Peace criticism of Israel following Blair visit",
-        "url": "https://www.ynetnews.com/article/h1zx82yrzg",
-        "source": "ynetnews.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-10T03:00:00Z",
-        "language": "English",
-        "source_country": "Israel"
+        "title": "How Hamas Targeted Jewish Families",
+        "url": "https://www.americanthinker.com/articles/2026/11/How Hamas Targeted Jewish Families/",
+        "source": "Americanthinker.com",
+        "published_at": "2026-11-10T05:00:00Z"
       },
       {
-        "title": "FOREIGN BOOTS NEAR GAZA : Israel Clears First Multinational Contingent As Defense Officials Battle Any Turkish Role",
-        "url": "https://www.theyeshivaworld.com/news/israel-news/2620920/foreign-boots-near-gaza-israel-clears-first-multinational-contingent-as-defense-officials-battle-any-turkish-role.html",
-        "source": "theyeshivaworld.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-10T01:00:00Z",
-        "language": "English",
-        "source_country": "United States"
+        "title": "The October 7 attack and Hamas nuclear logic",
+        "url": "https://www.hoover.org/research/october-7-attack-and-hamas-nuclear-logic",
+        "source": "Hoover.org",
+        "published_at": "2026-11-10T00:00:00Z"
       },
       {
-        "title": "Gaza - born anti - Israel writer challenges Fetterman in 2028 primary",
-        "url": "https://www.clevelandjewishnews.com/jns/gaza-born-anti-israel-writer-challenges-fetterman-in-2028-primary/article_bd4194b0-478a-59fb-8b03-c4139cf20c9b.html",
-        "source": "clevelandjewishnews.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-10T01:00:00Z",
-        "language": "English",
-        "source_country": "Israel"
+        "title": "Ask about Gaza and Israel accuses you of paving the way for the next Holocaust",
+        "url": "https://www.haaretz.com/opinion/2026-11-10/ty-article-opinion/.premium/ask-about-gaza-and-israel-accuses-you-of-paving-the-way-for-the-next-holocaust/000001a1-c215-d29f-afb5-d37532130000",
+        "source": "Haaretz",
+        "published_at": "2026-11-09T22:25:08Z"
       },
       {
         "title": "Gaza-born Democratic Socialist launches primary bid against Sen John Fetterman",
-        "url": "https://www.foxnews.com/politics/gaza-born-democratic-socialist-launches-primary-bid-against-sen-john-fetterman",
-        "source": "Fox News",
-        "published_at": "2026-11-09T19:06:34Z"
+        "url": "https://freerepublic.com/focus/f-news/4402427/posts",
+        "source": "Freerepublic.com",
+        "published_at": "2026-11-09T22:08:23Z"
       },
       {
-        "title": "Board of Peace urges Israel to allow more aid into Gaza",
-        "url": "https://biztoc.com/x/3408e7768bf9d74c",
-        "source": "Biztoc.com",
-        "published_at": "2026-11-09T18:55:42Z"
-      },
-      {
-        "title": "Trump's Board of Peace criticizes Israel, Hamas following Gaza floods",
-        "url": "https://www.israelnationalnews.com/news/435917",
-        "source": "Israelnationalnews.com",
-        "published_at": "2026-11-09T18:39:00Z"
-      },
-      {
-        "title": "Board of Peace criticizes both Israel and Hamas",
-        "url": "https://www.israelnationalnews.com/flashes/697082",
-        "source": "Israelnationalnews.com",
-        "published_at": "2026-11-09T18:04:12Z"
+        "title": "Israel Is Rapidly Turning the Yellow Line Into a Permanent Border in Gaza",
+        "url": "https://truthout.org/articles/israel-is-rapidly-turning-the-yellow-line-into-a-permanent-border-in-gaza/",
+        "source": "Truthout",
+        "published_at": "2026-11-09T20:17:02Z"
       }
     ],
     "sudan-civil-war": [
+      {
+        "title": "Why Sudan's Civil War Is Becoming a U.S. National Security Threat",
+        "url": "https://oilprice.com/Geopolitics/Africa/Why-Sudans-Civil-War-Is-Becoming-a-US-National-Security-Threat.html",
+        "source": "OilPrice.com",
+        "published_at": "2026-11-09T21:00:00Z"
+      },
       {
         "title": "Sudan teachers go on strike over meagre salaries and dilapidated schools",
         "url": "https://www.aljazeera.com/economy/2026/11/9/sudan-teachers-go-on-strike-over-meagre-salaries-and-dilapidated-schools",
@@ -139,27 +121,15 @@
         "url": "https://abcnews.com/International/wireStory/sudans-military-detains-international-criminal-court-fugitive-haroun-137956175",
         "source": "Abcnews.com",
         "published_at": "2026-11-08T18:57:07Z"
-      },
-      {
-        "title": "Sudan war and climate change see parents struggle to feed their children",
-        "url": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-07T10:36:32Z"
-      },
-      {
-        "title": "South Sudanese churches work for peace as tensions mount",
-        "url": "https://www.christiantoday.com/news/south-sudanese-churches-work-for-peace-as-tensions-mount",
-        "source": "Christiantoday.com",
-        "published_at": "2026-11-07T07:25:00Z"
-      },
-      {
-        "title": "Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns",
-        "url": "https://www.aljazeera.com/news/2026/11/6/millions-fleeing-sudans-war-risk-losing-shelter-as-funds-run-low-un-warns",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-06T16:10:51Z"
       }
     ],
     "myanmar-civil-war": [
+      {
+        "title": "Myanmar’s El Niño threat shows why extreme heat is also a question of inequality",
+        "url": "https://theconversation.com/myanmars-el-nino-threat-shows-why-extreme-heat-is-also-a-question-of-inequality-294870",
+        "source": "The Conversation Africa",
+        "published_at": "2026-11-10T03:11:26Z"
+      },
       {
         "title": "How China's hunger for green stones fuels Myanmar's civil war",
         "url": "https://www.abc.net.au/news/2026-11-10/china-hunger-for-jade-fuel-myanmar-war/107296662",
@@ -201,35 +171,74 @@
         "url": "https://www.thegatewaypundit.com/2026/11/myanmar-juntas-scam-crackdown-pushes-fraud-networks-deeper/",
         "source": "Thegatewaypundit.com",
         "published_at": "2026-11-01T13:00:13Z"
-      },
-      {
-        "title": "Burma’s Junta Bombs Civilian Targets While Inviting Rebels to Peace Talks",
-        "url": "https://www.thegatewaypundit.com/2026/10/burmas-junta-bombs-civilian-targets-while-inviting-rebels/",
-        "source": "Thegatewaypundit.com",
-        "published_at": "2026-11-01T01:20:16Z"
       }
     ],
     "yemen-civil-war": [
       {
-        "title": "Yemen government forces claim new advances as Houthi border attacks resume",
-        "url": "https://www.aljazeera.com/news/2026/11/9/yemen-government-forces-claim-new-advances-as-houthi-border-attacks-resume",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-09T18:37:03Z"
+        "title": "Saudi strikes target Yemen oil company building",
+        "url": "https://biztoc.com/x/45cc70b9174d8d5f",
+        "source": "Biztoc.com",
+        "published_at": "2026-11-10T05:53:27Z"
       },
       {
-        "title": "Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
-        "url": "https://www.aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-09T13:15:27Z"
+        "title": "Coalition: Houthi missile over Riyadh intercepted",
+        "url": "https://biztoc.com/x/cf653e074d72e144",
+        "source": "Biztoc.com",
+        "published_at": "2026-11-10T03:35:54Z"
       },
       {
-        "title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates",
-        "url": "https://news.un.org/en/story/2026/11/1168768",
-        "source": "UN News",
-        "published_at": "2026-11-09T12:00:00Z"
+        "title": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
+        "url": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-10T03:17:51Z"
+      },
+      {
+        "title": "Two Houthi missiles fired towards Riyadh intercepted, says Saudi-led coalition",
+        "url": "https://economictimes.indiatimes.com/news/defence/two-houthi-missiles-fired-towards-riyadh-intercepted-says-saudi-led-coalition/articleshow/135696696.cms",
+        "source": "The Times of India",
+        "published_at": "2026-11-10T02:09:04Z"
+      },
+      {
+        "title": "Saudi Arabia intercepts ballistic missile launched by Houthis",
+        "url": "https://www.israelnationalnews.com/flashes/697102",
+        "source": "Israelnationalnews.com",
+        "published_at": "2026-11-10T00:54:32Z"
+      },
+      {
+        "title": "Saudi-led coalition intercepts Houthi ballistic missile",
+        "url": "https://biztoc.com/x/6041b3152322e1b2",
+        "source": "Biztoc.com",
+        "published_at": "2026-11-10T00:48:04Z"
       }
     ],
     "south-china-sea-dispute": [
+      {
+        "title": "China and ASEAN make progress on South China Sea pact but cant finish talks this year",
+        "url": "https://www.wsls.com/news/world/2026/11/11/china-and-asean-make-progress-on-south-china-sea-pact-but-cant-finish-talks-this-year/",
+        "source": "wsls.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T05:30:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "The Sea We Call Home : A New CGTN Documentary on the South China Sea",
+        "url": "http://www.bruneinews.net/news/279425509/the-sea-we-call-home-a-new-cgtn-documentary-on-the-south-china-sea",
+        "source": "bruneinews.net",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T05:30:00Z",
+        "language": "English",
+        "source_country": "Malaysia"
+      },
+      {
+        "title": "The South China Sea , Frame by Frame",
+        "url": "http://www.bruneinews.net/news/279425512/the-south-china-sea-frame-by-frame",
+        "source": "bruneinews.net",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T05:30:00Z",
+        "language": "English",
+        "source_country": "Malaysia"
+      },
       {
         "title": "Ahead of summit, Beijing tells Quad: Don't rake up South China sea row",
         "url": "https://timesofindia.indiatimes.com/world/china/ahead-of-summit-beijing-tells-quad-dont-rake-up-south-china-sea-row/articleshow/135648667.cms",
@@ -239,58 +248,10 @@
     ],
     "israel-iran-confrontation": [
       {
-        "title": "Nearly 80 percent of Britons see Israel as a threat to world peace",
-        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nearly-80-percent-britons-see-israel-threat-world-peace",
-        "source": "middleeasteye.net",
-        "provider": "GDELT",
-        "published_at": "2026-11-10T06:00:00Z",
-        "language": "English",
-        "source_country": "Israel"
-      },
-      {
-        "title": "Trump sees positive momentum on Iran after Qatar PM talks",
-        "url": "https://www.jacarandafm.com/news/news/trump-sees-positive-momentum-after-qatar-talks/",
-        "source": "jacarandafm.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-10T06:00:00Z",
-        "language": "English",
-        "source_country": "South Africa"
-      },
-      {
-        "title": "How Israel new parliament can make Netanyahu life difficult",
-        "url": "https://www.ewn.co.za/2026/11/10/how-israels-new-parliament-can-make-netanyahus-life-difficult",
-        "source": "ewn.co.za",
-        "provider": "GDELT",
-        "published_at": "2026-11-10T05:30:00Z",
-        "language": "English",
-        "source_country": "South Africa"
-      },
-      {
-        "title": "Trump says Iran war is effectively over : How the conflict unfolded",
-        "url": "https://www.business-standard.com/world-news/trump-says-iran-war-is-effectively-over-how-the-conflict-unfolded-126111000144_1.html",
-        "source": "business-standard.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-10T05:30:00Z",
-        "language": "English",
-        "source_country": "India"
-      },
-      {
-        "title": "Iran's Ghalibaf: Israel dragging US into endless war",
-        "url": "https://biztoc.com/x/0ef8fb50ad1ba421",
-        "source": "Biztoc.com",
-        "published_at": "2026-11-09T17:39:46Z"
-      },
-      {
-        "title": "Blinken and Pompeo agree: End of US military aid won't hurt Israel ties",
-        "url": "https://www.israelnationalnews.com/news/435913",
-        "source": "Israelnationalnews.com",
-        "published_at": "2026-11-09T17:34:48Z"
-      },
-      {
-        "title": "Murphy Oil Bets on Israeli Gas Near Leviathan",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Murphy-Oil-Bets-on-Israeli-Gas-Near-Leviathan.html",
-        "source": "OilPrice.com",
-        "published_at": "2026-11-09T17:30:00Z"
+        "title": "The Iranian regime is executing athlete dissidents. Why? And what can be done?",
+        "url": "https://theconversation.com/the-iranian-regime-is-executing-athlete-dissidents-why-and-what-can-be-done-295449",
+        "source": "The Conversation Africa",
+        "published_at": "2026-11-10T03:26:16Z"
       }
     ],
     "libya-fragmentation": [
@@ -299,35 +260,26 @@
         "url": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya",
         "source": "Al Jazeera English",
         "published_at": "2026-11-08T13:27:57Z"
-      },
-      {
-        "title": "Egypt Reopens Tripoli Embassy After 12 Years",
-        "url": "https://www.riotimesonline.com/egypt-reopens-tripoli-embassy-after-12-years/",
-        "source": "riotimesonline.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-08T11:30:00Z",
-        "language": "English",
-        "source_country": "Brazil"
-      },
-      {
-        "title": "Egypt reopens embassy in Tripoli after 12 - year closure - Xinhua",
-        "url": "https://english.news.cn/africa/20261108/82fd0720aa8b4bf6b7b69c4642b823e0/c.html",
-        "source": "english.news.cn",
-        "provider": "GDELT",
-        "published_at": "2026-11-08T00:00:00Z",
-        "language": "English"
-      },
-      {
-        "title": "Egypt reopens embassy in Tripoli after 12 - year closure",
-        "url": "http://www.bignewsnetwork.com/news/279418849/egypt-reopens-embassy-in-tripoli-after-12-year-closure",
-        "source": "bignewsnetwork.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-07T22:00:00Z",
-        "language": "English",
-        "source_country": "United States"
       }
     ],
     "syria-transition-crisis": [
+      {
+        "title": "Israel has detained dozens of Syrians . Families are desperate for answers – Winnipeg Free Press",
+        "url": "https://www.winnipegfreepress.com/world/2026/11/11/israel-has-detained-dozens-of-syrians-families-are-desperate-for-answers",
+        "source": "winnipegfreepress.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T05:30:00Z",
+        "language": "English",
+        "source_country": "Canada"
+      },
+      {
+        "title": "Jordan ties with Syria at all - time high despite attacks , says ex - prime minister",
+        "url": "https://www.thenationalnews.com/news/mena/2026/11/10/jordans-ties-with-syria-at-all-time-high-despite-attacks-says-ex-prime-minister/",
+        "source": "thenationalnews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-10T03:30:00Z",
+        "language": "English"
+      },
       {
         "title": "From Palestine to Lebanon, and now Syria, Israel is destroying the Arab olive harvest",
         "url": "https://mondoweiss.net/2026/11/from-palestine-to-lebanon-and-now-syria-israel-is-destroying-the-arab-olive-harvest/",
@@ -342,21 +294,24 @@
       },
       {
         "title": "Saudi Arabia turns to Syria for help as fighting with Houthis escalates",
-        "url": "https://abcnews.com/International/wireStory/saudi-arabia-turns-syria-fighting-houthis-escalates-137956922",
-        "source": "Abcnews.com",
-        "published_at": "2026-11-08T18:56:47Z"
+        "url": "https://www.therecord.com/news/world/saudi-arabia-turns-to-syria-for-help-as-fighting-with-houthis-escalates/article_a228e406-e4ae-5974-a153-2a7f7c105a46.html",
+        "source": "therecord.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-08T21:00:00Z",
+        "language": "English",
+        "source_country": "Canada"
+      },
+      {
+        "title": "Syria to send fighters to Saudi Arabia border with Yemen",
+        "url": "https://www.wsbradio.com/news/world/saudi-arabia-turns/AI7YZEROL42FBDBLVIOPLBFMVY/",
+        "source": "wsbradio.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-08T20:30:00Z",
+        "language": "English",
+        "source_country": "United States"
       }
     ],
     "sahel-jihadist-insurgency": [
-      {
-        "title": "Nigeria Rules Out Ceasefire With Boko Haram , ISWAP As Insurgent Attacks Surge In Northeast",
-        "url": "https://naija247news.com/nigeria-rules-out-ceasefire-with-boko-haram-iswap-as-insurgent-attacks-surge-in-northeast/",
-        "source": "naija247news.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-06T03:30:00Z",
-        "language": "English",
-        "source_country": "Nigeria"
-      },
       {
         "title": "Why Ukraine may be involved in Mali's conflict",
         "url": "https://www.dw.com/en/why-ukraine-may-be-involved-in-malis-conflict/a-79743423",
@@ -374,16 +329,46 @@
     ],
     "somalia-al-shabaab-insurgency": [
       {
+        "title": "US Announces Its 91st Airstrike of the Year in Somalia",
+        "url": "https://news.antiwar.com/2026/11/08/us-announces-its-91st-airstrike-of-the-year-in-somalia/",
+        "source": "news.antiwar.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-09T00:30:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
         "title": "Somali court rejects presidential term extension",
         "url": "https://rt-english.com/africa/648514-somalia-court-rules-president-term-illegal/",
         "source": "Rt-english.com",
         "published_at": "2026-11-06T10:35:18Z"
       },
       {
-        "title": "Somalia's top court rejects president's term extension amid political crisis",
+        "title": "Somalia Supreme court rejects President Hassan Sheikh Mohamud term extension",
         "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o",
-        "source": "BBC News",
-        "published_at": "2026-11-06T08:04:46Z"
+        "source": "bbc.co.uk",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T08:30:00Z",
+        "language": "English",
+        "source_country": "United Kingdom"
+      },
+      {
+        "title": "Somali refugee loses court bid over status withdrawal",
+        "url": "https://www.thesouthafrican.com/news/somali-refugee-loses-high-court-battle-to-keep-status-in-south-africa/",
+        "source": "thesouthafrican.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T08:30:00Z",
+        "language": "English",
+        "source_country": "South Africa"
+      },
+      {
+        "title": "After Nearly Two Decades of International Support , Somalia Still Cannot Secure Its Own Capital",
+        "url": "https://wardheernews.com/after-nearly-two-decades-of-international-support-somalia-still-cannot-secure-its-own-capital/",
+        "source": "wardheernews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-05T23:30:00Z",
+        "language": "English",
+        "source_country": "Somalia"
       },
       {
         "title": "Somalia president accused of ordering chief justice’s arrest",
@@ -402,24 +387,6 @@
         "url": "https://www.dw.com/en/uganda-begins-withdrawing-troops-from-somalia-after-two-decades/a-79829903",
         "source": "DW (English)",
         "published_at": "2026-11-02T12:19:00Z"
-      },
-      {
-        "title": "Uganda begins troop withdrawal from Somalia",
-        "url": "https://punchng.com/uganda-begins-troop-withdrawal-from-somalia/",
-        "source": "The Punch",
-        "published_at": "2026-11-02T12:09:42Z"
-      },
-      {
-        "title": "Uganda starts withdrawing troops from Somalia",
-        "url": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do",
-        "source": "BBC News",
-        "published_at": "2026-11-02T08:40:35Z"
-      },
-      {
-        "title": "US Military Accused of “Weaponizing” El Niño Against Somali Civilians",
-        "url": "https://www.motherjones.com/politics/2026/10/us-military-africom-weaponizing-el-nino-somali-civilians-women-children-al-shabaab-airstrikes-drones-flooding-usaid/",
-        "source": "Mother Jones",
-        "published_at": "2026-10-29T11:30:00Z"
       }
     ],
     "haiti-gang-crisis": [
@@ -440,12 +407,6 @@
         "url": "https://abcnews.com/International/wireStory/powerful-haitian-gang-reaches-state-disarmament-group-gunfights-137932356",
         "source": "Abcnews.com",
         "published_at": "2026-11-07T01:32:21Z"
-      },
-      {
-        "title": "Nayib Bukele: Haitian Gangs 'Don't Want to Fight Us'",
-        "url": "https://www.breitbart.com/latin-america/2026/11/05/nayib-bukele-haitian-gangs-dont-want-to-fight-us/",
-        "source": "Breitbart News",
-        "published_at": "2026-11-05T18:26:09Z"
       }
     ],
     "mexico-cartel-conflict": [
@@ -511,22 +472,16 @@
     ],
     "taiwan-strait-tension": [
       {
-        "title": "The US, Singapore and Taiwan have all looked at Alice Huang or her company Megaspeed; here’s what each investigation covers",
-        "url": "https://economictimes.indiatimes.com/news/international/us/the-us-singapore-and-taiwan-have-all-looked-at-alice-huang-or-her-company-megaspeed-heres-what-each-investigation-covers/articleshow/135681066.cms",
+        "title": "Taiwan monitors China's 'area denial' exercises as naval activity intensifies",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/taiwan-monitors-chinas-area-denial-exercises-as-naval-activity-intensifies/articleshow/135697794.cms",
         "source": "The Times of India",
-        "published_at": "2026-11-09T14:42:59Z"
+        "published_at": "2026-11-10T03:25:01Z"
       },
       {
-        "title": "The Danger of Making Military Pressure the New Normal Around Taiwan",
-        "url": "https://english.khabarhub.com/2026/09/575070/",
-        "source": "Khabarhub.com",
-        "published_at": "2026-11-09T14:12:47Z"
-      },
-      {
-        "title": "What Donald Trump needs to understand about China and Taiwan",
-        "url": "https://biztoc.com/x/b8ab430e1a163638",
-        "source": "Biztoc.com",
-        "published_at": "2026-11-09T14:06:29Z"
+        "title": "AI demand unlikely to be derailed by Nvidia CEO controversy: Taiwan supply chain executives",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-demand-unlikely-to-be-derailed-by-nvidia-ceo-controversy-taiwan-supply-chain-executives/articleshow/135697752.cms",
+        "source": "The Times of India",
+        "published_at": "2026-11-10T03:16:33Z"
       }
     ],
     "korean-armistice-standoff": [
@@ -558,6 +513,12 @@
     "india-pakistan-kashmir-conflict": [],
     "ethiopia-northern-conflict": [
       {
+        "title": "In northern Ethiopia, conflict pushes a strained healthcare system to the brink",
+        "url": "https://www.npr.org/2026/11/09/nx-s1-5987949/in-northern-ethiopia-conflict-pushes-a-strained-healthcare-system-to-the-brink",
+        "source": "NPR",
+        "published_at": "2026-11-09T22:25:13Z"
+      },
+      {
         "title": "Sudan War: Ethiopia's Relations with Port Sudan Strained Over 'Tigrayan Mercenaries'",
         "url": "https://radaronline.com/p/sudan-war-ethiopias-relations-port-sudan-strained-tigrayan-mercenaries/",
         "source": "Radaronline.com",
@@ -568,12 +529,6 @@
         "url": "https://www.ibtimes.com.au/tigrayan-fighters-sudan-ethiopia-war-horn-africa-1878149",
         "source": "Ibtimes.com.au",
         "published_at": "2026-11-09T03:29:25Z"
-      },
-      {
-        "title": "Drones, Paperwork and Proxy War: What a Seized Memo Says About the Battle for Tigray",
-        "url": "https://www.fairobserver.com/politics/drones-paperwork-and-proxy-war-what-a-seized-memo-says-about-the-battle-for-tigray/",
-        "source": "Fair Observer",
-        "published_at": "2026-11-05T13:06:37Z"
       }
     ],
     "nigeria-internal-security-crisis": [],
