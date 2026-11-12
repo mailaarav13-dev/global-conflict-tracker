@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T19:41:35.192Z",
+  "generated_at": "2026-11-12T00:53:10.856Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
@@ -43,6 +43,42 @@
     ],
     "israel-gaza-war": [
       {
+        "title": "Israel Rejects Board Of Peace Criticism Over Gaza Flooding , Blames Hamas For Blocking Reconstruction",
+        "url": "https://www.i24news.tv/en/news/israel/artc-israel-rejects-board-of-peace-criticism-over-gaza-flooding-blames-hamas-for-blocking-reconstruction",
+        "source": "i24news.tv",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T06:30:00Z",
+        "language": "English",
+        "source_country": "Israel"
+      },
+      {
+        "title": "Thousands without shelter face lethal conditions in storm - hit Gaza as they wait for 150 , 000 tents",
+        "url": "https://www.aol.co.uk/articles/thousands-without-shelter-face-lethal-050032000.html",
+        "source": "aol.co.uk",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T06:30:00Z",
+        "language": "English",
+        "source_country": "United Kingdom"
+      },
+      {
+        "title": "Fresh concerns raised over Gaza doctor held by Israel for 23 months without charge",
+        "url": "https://www.aol.co.uk/articles/fresh-concerns-raised-over-gaza-050029000.html",
+        "source": "aol.co.uk",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T05:30:00Z",
+        "language": "English",
+        "source_country": "United Kingdom"
+      },
+      {
+        "title": "Hamas disarmament non - negotiable for reconstruction : Israel backs Trump 20 - point plan for Gaza",
+        "url": "http://www.iranherald.com/news/279425626/hamas-disarmament-non-negotiable-for-reconstruction-israel-backs-trump-20-point-plan-for-gaza",
+        "source": "iranherald.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T05:00:00Z",
+        "language": "English",
+        "source_country": "Iran"
+      },
+      {
         "title": "Arab party leader: Netanyahu told me he and Hamas' Sinwar 'understand each other'",
         "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-10/ty-article/.premium/arab-party-leader-netanyahu-said-he-and-hamas-sinwar-understand-each-other/000001a1-c698-d0f7-adfb-f7b9901f0000",
         "source": "Haaretz",
@@ -65,27 +101,27 @@
         "url": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son",
         "source": "Al Jazeera English",
         "published_at": "2026-11-10T15:49:36Z"
-      },
-      {
-        "title": "Ahmed Moor, a Gaza-born Philadelphian, is John Fetterman's first 2028 challenger",
-        "url": "https://freerepublic.com/focus/f-news/4402502/posts",
-        "source": "Freerepublic.com",
-        "published_at": "2026-11-10T15:46:49Z"
-      },
-      {
-        "title": "Israeli air strike kills father and son in Gaza, medics say",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/11/10/israeli-air-strike-kills-father-and-son-in-gaza-medics-say/",
-        "source": "The Irish Times",
-        "published_at": "2026-11-10T15:21:24Z"
-      },
-      {
-        "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-        "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o",
-        "source": "BBC News",
-        "published_at": "2026-11-10T15:21:18Z"
       }
     ],
     "sudan-civil-war": [
+      {
+        "title": "Sudan Burhan Leaves Saudi Arabia Alone On The Yemen Front - OpEd",
+        "url": "https://www.eurasiareview.com/10112026-sudans-burhan-leaves-saudi-arabia-alone-on-the-yemen-front-oped/",
+        "source": "eurasiareview.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T04:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "South Sudan Courts Oil Investors as Sudan Warring Forces Take Their Share",
+        "url": "https://oilprice.com/Energy/Crude-Oil/South-Sudan-Courts-Oil-Investors-as-Sudans-Warring-Forces-Take-Their-Share.html",
+        "source": "oilprice.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T02:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
       {
         "title": "Why Sudan’s Civil War Is Becoming a U.S. National Security Threat",
         "url": "https://www.nakedcapitalism.com/2026/11/why-sudans-civil-war-is-becoming-a-u-s-national-security-threat.html",
@@ -99,10 +135,22 @@
         "published_at": "2026-11-10T17:04:02Z"
       },
       {
-        "title": "Why Sudan's Civil War Is Becoming a U.S. National Security Threat",
+        "title": "Sudan : Proxy Politics and Border Clashes - an Escalating Crisis Between Sudan and Ethiopia",
+        "url": "https://allafrica.com/stories/202611100043.html",
+        "source": "allafrica.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-10T06:00:00Z",
+        "language": "English",
+        "source_country": "Nigeria"
+      },
+      {
+        "title": "Why Sudan Civil War Is Becoming a U . S . National Security Threat",
         "url": "https://oilprice.com/Geopolitics/Africa/Why-Sudans-Civil-War-Is-Becoming-a-US-National-Security-Threat.html",
-        "source": "OilPrice.com",
-        "published_at": "2026-11-09T21:00:00Z"
+        "source": "oilprice.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-10T01:00:00Z",
+        "language": "English",
+        "source_country": "United States"
       },
       {
         "title": "Sudan teachers go on strike over meagre salaries and dilapidated schools",
@@ -112,6 +160,15 @@
       }
     ],
     "myanmar-civil-war": [
+      {
+        "title": "Myanmar Small Oil Fields Become a Prize as Fuel Prices Rise",
+        "url": "https://econotimes.com/Myanmar-s-Small-Oil-Fields-Become-a-Prize-as-Fuel-Prices-Rise-1774996",
+        "source": "econotimes.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T06:30:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
       {
         "title": "Myanmar summons German envoy over controversial video",
         "url": "https://www.aljazeera.com/news/2026/11/10/myanmar-summons-german-diplomat-following-controversial-facebook-video",
@@ -131,6 +188,15 @@
         "published_at": "2026-11-10T09:25:30Z"
       },
       {
+        "title": "Myanmar El Nino threat shows why extreme heat is also a question of inequality",
+        "url": "http://www.myanmarnews.net/news/279422973/myanmar-el-nino-threat-shows-why-extreme-heat-is-also-a-question-of-inequality",
+        "source": "myanmarnews.net",
+        "provider": "GDELT",
+        "published_at": "2026-11-10T05:00:00Z",
+        "language": "English",
+        "source_country": "Myanmar"
+      },
+      {
         "title": "Myanmar’s El Niño threat shows why extreme heat is also a question of inequality",
         "url": "https://theconversation.com/myanmars-el-nino-threat-shows-why-extreme-heat-is-also-a-question-of-inequality-294870",
         "source": "The Conversation Africa",
@@ -147,22 +213,37 @@
         "url": "https://www.channelnewsasia.com/asia/myanmar-asean-diplomacy-humanitarian-aid-6530151",
         "source": "CNA",
         "published_at": "2026-11-08T22:00:00Z"
-      },
-      {
-        "title": "Myanmar to hold by-elections in April",
-        "url": "https://punchng.com/myanmar-to-hold-by-elections-in-april/",
-        "source": "The Punch",
-        "published_at": "2026-11-06T09:04:23Z"
-      },
-      {
-        "title": "Myanmar to hold by-elections in April, including in areas where fighting persists",
-        "url": "https://abcnews.com/International/wireStory/myanmar-hold-elections-april-including-areas-fighting-persists-137903196",
-        "source": "Abcnews.com",
-        "published_at": "2026-11-06T07:48:10Z"
       }
     ],
     "yemen-civil-war": [],
     "south-china-sea-dispute": [
+      {
+        "title": "China and ASEAN make progress on South China Sea pact but cant finish talks this year",
+        "url": "https://www.wsls.com/news/world/2026/11/11/china-and-asean-make-progress-on-south-china-sea-pact-but-cant-finish-talks-this-year/",
+        "source": "wsls.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T05:30:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "The Sea We Call Home : A New CGTN Documentary on the South China Sea",
+        "url": "http://www.bruneinews.net/news/279425509/the-sea-we-call-home-a-new-cgtn-documentary-on-the-south-china-sea",
+        "source": "bruneinews.net",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T05:30:00Z",
+        "language": "English",
+        "source_country": "Malaysia"
+      },
+      {
+        "title": "The South China Sea , Frame by Frame",
+        "url": "http://www.bruneinews.net/news/279425512/the-south-china-sea-frame-by-frame",
+        "source": "bruneinews.net",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T05:30:00Z",
+        "language": "English",
+        "source_country": "Malaysia"
+      },
       {
         "title": "Ahead of summit, Beijing tells Quad: Don't rake up South China sea row",
         "url": "https://timesofindia.indiatimes.com/world/china/ahead-of-summit-beijing-tells-quad-dont-rake-up-south-china-sea-row/articleshow/135648667.cms",
@@ -211,6 +292,15 @@
       }
     ],
     "sahel-jihadist-insurgency": [
+      {
+        "title": "Nigeria Rules Out Ceasefire With Boko Haram , ISWAP As Insurgent Attacks Surge In Northeast",
+        "url": "https://naija247news.com/nigeria-rules-out-ceasefire-with-boko-haram-iswap-as-insurgent-attacks-surge-in-northeast/",
+        "source": "naija247news.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T03:30:00Z",
+        "language": "English",
+        "source_country": "Nigeria"
+      },
       {
         "title": "Why Ukraine may be involved in Mali's conflict",
         "url": "https://www.dw.com/en/why-ukraine-may-be-involved-in-malis-conflict/a-79743423",
@@ -272,10 +362,46 @@
     ],
     "haiti-gang-crisis": [
       {
+        "title": "Bukele Delivers On Promise To Bomb Haitian Gang Mansion Usinc Crowdsourced Coordinates",
+        "url": "https://dailycaller.com/2026/11/10/bukele-haiti-400-mawozo-gang-headquarters-razed/",
+        "source": "dailycaller.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T02:30:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Salvadoran troops target Haitian gang , leaving 20 dead",
+        "url": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead",
+        "source": "aljazeera.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T00:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "From a quiet life to the terror of armed gangs : The story of Haiti Kenscoff district · Global Voices",
+        "url": "https://globalvoices.org/2026/11/09/from-a-quiet-life-to-the-terror-of-armed-gangs-the-story-of-haitis-kenscoff-district/",
+        "source": "globalvoices.org",
+        "provider": "GDELT",
+        "published_at": "2026-11-10T01:00:00Z",
+        "language": "English",
+        "source_country": "Russia"
+      },
+      {
         "title": "Haiti Kills Gang Boss Mathias Saintil as 2,000 Salvadoran Troops Join Offensive and 400 Mawozo Seeks Talks",
         "url": "https://www.ibtimes.com.au/haiti-gang-leader-killed-salvadoran-offensive-port-au-prince-1878193",
         "source": "Ibtimes.com.au",
         "published_at": "2026-11-09T09:11:32Z"
+      },
+      {
+        "title": "Haitian gang aims for peace in letter to UN | The Arkansas Democrat - Gazette",
+        "url": "https://www.arkansasonline.com/news/2026/nov/08/haitian-gang-aims-for-peace-in-letter-to-un/",
+        "source": "arkansasonline.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-08T11:30:00Z",
+        "language": "English",
+        "source_country": "United States"
       },
       {
         "title": "‘One less gang leader’: Haiti’s prime minister celebrates police operation",
