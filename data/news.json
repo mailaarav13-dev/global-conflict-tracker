@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T07:15:08.529Z",
+  "generated_at": "2026-11-12T15:26:38.394Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
@@ -226,6 +226,24 @@
     ],
     "sahel-jihadist-insurgency": [
       {
+        "title": "Rival Terror Groups Devastate The Sahel",
+        "url": "https://www.eurasiareview.com/12112026-rival-terror-groups-devastate-the-sahel/",
+        "source": "eurasiareview.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T03:45:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Nigeria Rules Out Ceasefire With Boko Haram , ISWAP As Insurgent Attacks Surge In Northeast",
+        "url": "https://naija247news.com/nigeria-rules-out-ceasefire-with-boko-haram-iswap-as-insurgent-attacks-surge-in-northeast/",
+        "source": "naija247news.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-06T03:30:00Z",
+        "language": "English",
+        "source_country": "Nigeria"
+      },
+      {
         "title": "Why Ukraine may be involved in Mali's conflict",
         "url": "https://www.dw.com/en/why-ukraine-may-be-involved-in-malis-conflict/a-79743423",
         "source": "DW (English)",
@@ -400,10 +418,46 @@
     ],
     "armenia-azerbaijan-peace-process": [
       {
+        "title": "Azerbaijan European influence grows as Baku secures 2028 summit",
+        "url": "https://www.azernews.az/analysis/267259.html",
+        "source": "azernews.az",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T05:30:00Z",
+        "language": "English",
+        "source_country": "Azerbaijan"
+      },
+      {
+        "title": "CSTO strips Armenia of voting rights over unfulfilled obligations",
+        "url": "https://akipress.com/news:930834:CSTO_strips_Armenia_of_voting_rights_over_unfulfilled_obligations/",
+        "source": "akipress.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T03:30:00Z",
+        "language": "English",
+        "source_country": "Kyrgyzstan"
+      },
+      {
         "title": "Özel calls Aliyev to mark Azerbaijan’s Victory Day",
         "url": "https://www.hurriyetdailynews.com/ozel-calls-aliyev-to-mark-azerbaijans-victory-day-229191",
         "source": "Hurriyet Daily News",
         "published_at": "2026-11-09T11:35:09Z"
+      },
+      {
+        "title": "Azerbaijan flag tells story of independence , loss and national resilience",
+        "url": "https://www.azernews.az/analysis/267067.html",
+        "source": "azernews.az",
+        "provider": "GDELT",
+        "published_at": "2026-11-09T06:00:00Z",
+        "language": "English",
+        "source_country": "Azerbaijan"
+      },
+      {
+        "title": "Moroccan newspaper highlights Azerbaijan Victory Day",
+        "url": "https://news.az/news/moroccan-newspaper-highlights-azerbaijans-victory-day",
+        "source": "news.az",
+        "provider": "GDELT",
+        "published_at": "2026-11-09T00:30:00Z",
+        "language": "English",
+        "source_country": "Azerbaijan"
       }
     ],
     "taiwan-strait-tension": [
