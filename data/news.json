@@ -1,67 +1,115 @@
 {
-  "generated_at": "2026-11-12T23:47:20.370Z",
+  "generated_at": "2026-11-13T06:50:28.078Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
     "russia-ukraine-war": [
       {
-        "title": "Ukraine Peace Talks Wrap With No Major Breakthroughs",
-        "url": "https://biztoc.com/x/f6f110f3e6019fea",
-        "source": "Biztoc.com",
-        "published_at": "2026-11-11T19:47:28Z"
+        "title": "Ukraine peace talks: US envoys arrive in Russia to meet with Putin",
+        "url": "https://www.dw.com/en/ukraine-peace-talks-us-envoys-arrive-in-russia-to-meet-with-putin/live-79925580",
+        "source": "DW (English)",
+        "published_at": "2026-11-12T06:35:00Z"
       },
       {
-        "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-        "url": "https://freerepublic.com/focus/f-news/4402666/posts",
-        "source": "Freerepublic.com",
-        "published_at": "2026-11-11T19:35:53Z"
+        "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
+        "url": "https://abcnews.com/International/wireStory/ireland-faces-pressure-stop-sending-russia-ingredient-vital-138069912",
+        "source": "Abcnews.com",
+        "published_at": "2026-11-12T06:34:35Z"
       },
       {
-        "title": "Russia and Ukraine agree to prisoner swap, but little else, in U.S.-mediated talks - The Washington Post",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186691330",
-        "source": "Slashdot.org",
-        "published_at": "2026-11-11T19:33:31Z"
+        "title": "U.S. envoys arrive in Russia for Putin meeting after Ukraine talks",
+        "url": "https://www.hurriyetdailynews.com/us-envoys-witkoff-kushner-arrive-in-moscow-for-talks-with-putin-229299",
+        "source": "Hurriyet Daily News",
+        "published_at": "2026-11-12T06:24:00Z"
       },
       {
-        "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough - NPR",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186691200",
-        "source": "Slashdot.org",
-        "published_at": "2026-11-11T19:12:57Z"
+        "title": "Ukraine struck Russian warship near Finland",
+        "url": "https://yle.fi/a/74-20256496",
+        "source": "YLE News",
+        "published_at": "2026-11-12T06:00:48Z"
+      },
+      {
+        "title": "Russia, Ukraine and U.S. Conclude First Day of Abu Dhabi Peace Talks",
+        "url": "https://www.naturalnews.com/2026-11-12-russia-ukraine-us-conclude-abu-dhabi-peace-talks.html",
+        "source": "Naturalnews.com",
+        "published_at": "2026-11-12T06:00:00Z"
+      },
+      {
+        "title": "Russia’s industrial warfare campaign intensifies as Kyiv refuses to negotiate",
+        "url": "https://www.naturalnews.com/2026-11-12-russias-industrial-warfare-campaign-intensifies-as-kyiv-refuses-to-negotiate.html",
+        "source": "Naturalnews.com",
+        "published_at": "2026-11-12T06:00:00Z"
+      },
+      {
+        "title": "Russia, Ukraine reach deal on prisoner swap, but trust gap holds back talks",
+        "url": "https://www.business-standard.com/world-news/russia-ukraine-reach-deal-on-prisoner-swap-but-trust-gap-holds-back-talks-126111200268_1.html",
+        "source": "Business Standard",
+        "published_at": "2026-11-12T05:10:54Z"
       }
     ],
     "israel-gaza-war": [
       {
-        "title": "Hamas obstructed attempts to protect Palestinian civilians before the devastating winter storms that flooded tens of thousands of tents",
-        "url": "https://freerepublic.com/focus/f-news/4402672/posts",
-        "source": "Freerepublic.com",
-        "published_at": "2026-11-11T19:50:29Z"
+        "title": "Israeli strike on a Gaza hospital kills 6 people, health authorities say",
+        "url": "https://www.wral.com/news/ap/50b54-israeli-strike-on-a-gaza-hospital-kills-6-people-health-authorities-say/",
+        "source": "WRAL.com",
+        "published_at": "2026-11-12T06:32:45Z"
       },
       {
-        "title": "Israeli Quadcopter Drones Set Fire to Gaza Tent Camp, Displacing 800 Palestinians",
-        "url": "https://activistpost.com/israeli-quadcopter-drones-set-fire-to-gaza-tent-camp-displacing-800-palestinians/",
-        "source": "Activistpost.com",
-        "published_at": "2026-11-11T17:00:00Z"
+        "title": "IDF confirms elimination of Hamas brigade commander",
+        "url": "https://www.israelnationalnews.com/news/436062",
+        "source": "Israelnationalnews.com",
+        "published_at": "2026-11-12T06:11:16Z"
       },
       {
-        "title": "Palestinian American activist refused UK entry for Gaza fundraiser",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/palestinian-american-activist-refused-uk-entry-for-gaza-fundraiser",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-11T16:52:59Z"
+        "title": "Hamas says Israeli attack on Gaza hospital a 'war crime'",
+        "url": "https://biztoc.com/x/003aee6bb57dd44a",
+        "source": "Biztoc.com",
+        "published_at": "2026-11-12T05:02:04Z"
       },
       {
-        "title": "Israeli army kills Palestinian footballer Mahmoud Kamal Abdel-Malek in Gaza",
-        "url": "https://www.aljazeera.com/sports/2026/11/11/israeli-army-kills-palestinian-footballer-mahmoud-kamal-abdel-malek-in-gaza",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-11T16:48:48Z"
+        "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+        "url": "https://www.bbc.com/news/articles/ckzd9p7e4eqeo",
+        "source": "BBC News",
+        "published_at": "2026-11-12T03:32:54Z"
       },
       {
-        "title": "As Gaza floods subside, Palestinians assess human and material damage",
-        "url": "https://www.aljazeera.com/features/2026/11/11/as-gaza-flood-waters-subside-palestinians-assess-human-and-material-damage",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-11T14:04:17Z"
+        "title": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
+        "source": "BBC News",
+        "published_at": "2026-11-12T03:32:54Z"
+      },
+      {
+        "title": "Israeli strike kills six at Gaza hospital - civil defence",
+        "url": "https://www.rte.ie/news/2026/1112/1598900-gaza-israel-strikes/",
+        "source": "RTE",
+        "published_at": "2026-11-12T01:32:56Z"
+      },
+      {
+        "title": "Six killed in Israeli strike at Gaza hospital",
+        "url": "https://www.rte.ie/news/2026/1112/1598900-gaza-israel/",
+        "source": "RTE",
+        "published_at": "2026-11-12T01:32:56Z"
+      },
+      {
+        "title": "Gaza report: Senior Hamas official eliminated in IDF strike in Khan Yunis",
+        "url": "https://www.israelnationalnews.com/news/436051",
+        "source": "Israelnationalnews.com",
+        "published_at": "2026-11-12T00:30:44Z"
       }
     ],
     "sudan-civil-war": [
+      {
+        "title": "Amnesty says UN, South Sudan officials failed to prevent village massacre",
+        "url": "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-12T04:00:24Z"
+      },
+      {
+        "title": "UN peacekeepers failed to protect civilians before South Sudan massacre, Amnesty says",
+        "url": "https://abcnews.com/International/wireStory/peacekeepers-failed-protect-civilians-south-sudan-massacre-amnesty-138059244",
+        "source": "Abcnews.com",
+        "published_at": "2026-11-11T21:34:11Z"
+      },
       {
         "title": "South Sudan’s historic vote could trigger crisis – envoys",
         "url": "https://rt-english.com/africa/648699-au-un-warn-south-sudans-historic-vote-could-trigger-instability/",
@@ -97,18 +145,6 @@
         "url": "https://oilprice.com/Energy/Crude-Oil/South-Sudan-Courts-Oil-Investors-as-Sudans-Warring-Forces-Take-Their-Share.html",
         "source": "OilPrice.com",
         "published_at": "2026-11-11T00:00:00Z"
-      },
-      {
-        "title": "Why Sudan’s Civil War Is Becoming a U.S. National Security Threat",
-        "url": "https://www.nakedcapitalism.com/2026/11/why-sudans-civil-war-is-becoming-a-u-s-national-security-threat.html",
-        "source": "Nakedcapitalism.com",
-        "published_at": "2026-11-10T18:18:42Z"
-      },
-      {
-        "title": "South Sudan's authorities must allow UNMISS to operate without obstruction: UK statement at the UN Security Council",
-        "url": "https://www.gov.uk/government/speeches/south-sudans-authorities-must-allow-unmiss-to-operate-without-obstruction-uk-statement-at-the-un-security-council",
-        "source": "Www.gov.uk",
-        "published_at": "2026-11-10T17:04:02Z"
       }
     ],
     "myanmar-civil-war": [
@@ -140,6 +176,12 @@
         "source_country": "United States"
       },
       {
+        "title": "ASEAN: Increase Pressure on Myanmar Junta to End Abuses",
+        "url": "https://www.hrw.org/news/2026/11/11/asean-increase-pressure-on-myanmar-junta-to-end-abuses",
+        "source": "Human Rights Watch",
+        "published_at": "2026-11-12T02:00:00Z"
+      },
+      {
         "title": "Myanmar’s civil war is threatening a major peatland discovery",
         "url": "https://www.resilience.org/stories/2026-11-11/myanmars-civil-war-is-threatening-a-major-peatland-discovery/",
         "source": "Resilience",
@@ -165,44 +207,32 @@
         "url": "https://www.channelnewsasia.com/commentary/myanmar-asean-summit-reintegration-malaysia-visit-6538936",
         "source": "CNA",
         "published_at": "2026-11-10T22:00:00Z"
-      },
-      {
-        "title": "Myanmar summons German envoy over controversial video",
-        "url": "https://www.aljazeera.com/news/2026/11/10/myanmar-summons-german-diplomat-following-controversial-facebook-video",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-10T18:03:06Z"
       }
     ],
     "yemen-civil-war": [
       {
-        "title": "Security Council 2140 Committee Discusses Final Report Submitted by Panel of Experts on Yemen Pursuant to Paragraph 19 of Resolution 2801 (2025)",
-        "url": "https://press.un.org/en/2026/sc16505.doc.htm",
-        "source": "UN News",
-        "published_at": "2026-11-11T17:42:15Z"
+        "title": "Fighting intensifies in Yemen as Houthis deny targeting Mecca",
+        "url": "https://www.aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-12T04:41:17Z"
       },
       {
-        "title": "Saudi Arabia Thwarts Fresh Houthi Missile Attack On Capital",
-        "url": "https://biztoc.com/x/15bcebf869e1070a",
+        "title": "Houthi rebels’ fresh demands put Chinese firms in a dilemma, analyst warns",
+        "url": "https://biztoc.com/x/3a9b04f99cc6cef7",
         "source": "Biztoc.com",
-        "published_at": "2026-11-11T16:19:08Z"
+        "published_at": "2026-11-12T04:01:08Z"
       },
       {
-        "title": "Saudi-led coalition intercepts 3 Houthi missiles targeting Riyadh",
-        "url": "https://cryptobriefing.com/saudi-led-coalition-intercepts-3-houthi-missiles-targeting-riyadh/",
-        "source": "Crypto Briefing",
-        "published_at": "2026-11-11T14:03:33Z"
-      },
-      {
-        "title": "Houthis: Saudi F-15 jet intercepted over Sanaa",
-        "url": "https://biztoc.com/x/2e9efa7b8c4d3e63",
+        "title": "Houthi missile debris falls in Mecca region",
+        "url": "https://biztoc.com/x/48995118abe5f791",
         "source": "Biztoc.com",
-        "published_at": "2026-11-11T09:56:38Z"
+        "published_at": "2026-11-12T01:14:22Z"
       },
       {
-        "title": "Houthi forces claim interception of Saudi F-15 over Sanaa amid rising tensions",
-        "url": "https://cryptobriefing.com/houthi-forces-claim-interception-of-saudi-f-15-over-sanaa-amid-rising-tensions/",
-        "source": "Crypto Briefing",
-        "published_at": "2026-11-11T09:20:34Z"
+        "title": "Egypt Helps Saudi Arabia Defend ‘Sensitive Sites’ Against Houthi Attacks",
+        "url": "https://www.breitbart.com/middle-east/2026/11/11/egypt-helps-saudi-arabia-defend-sensitive-sites-against-houthi-attacks/",
+        "source": "Breitbart News",
+        "published_at": "2026-11-12T00:41:56Z"
       }
     ],
     "south-china-sea-dispute": [
@@ -233,121 +263,70 @@
     ],
     "israel-iran-confrontation": [
       {
-        "title": "Trump and Netanyahu Clash Over Iran : Heated Debate on War Strategy Reported",
-        "url": "https://openthemagazine.com/world/trump-netanyahu-iran-war-clash-shouting-match-from-hell-reported-as-leaders-disagree",
-        "source": "openthemagazine.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-12T07:00:00Z",
-        "language": "English",
-        "source_country": "India"
+        "title": "Where the US's war with Iran stands after the midterms",
+        "url": "https://www.dw.com/en/where-the-uss-war-with-iran-stands-after-the-midterms/a-79918176",
+        "source": "DW (English)",
+        "published_at": "2026-11-12T05:50:00Z"
       },
       {
-        "title": "Iran tells COP31 it wants compensation for environmental damage from US - Israeli strikes",
-        "url": "https://www.asiaone.com:443/asia/iran-tells-cop31-it-wants-compensation-environmental-damage-us-israeli-strikes",
-        "source": "asiaone.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-12T07:00:00Z",
-        "language": "English",
-        "source_country": "Singapore"
+        "title": "Iran says it will not allow enriched nuclear material to leave country",
+        "url": "https://www.business-standard.com/world-news/iran-says-it-will-not-allow-enriched-nuclear-material-to-leave-country-126111200277_1.html",
+        "source": "Business Standard",
+        "published_at": "2026-11-12T05:14:06Z"
       },
       {
-        "title": "Strait of Hormuz Latest : Iran Vows Waterway Will Never Return to Pre - War Status as More Tankers Hit Mines",
-        "url": "https://www.ibtimes.com.au/iran-strait-hormuz-prewar-status-shipping-concerns-1878465",
-        "source": "ibtimes.com.au",
-        "provider": "GDELT",
-        "published_at": "2026-11-12T07:00:00Z",
-        "language": "English",
-        "source_country": "Australia"
+        "title": "Iran tells COP31 it wants compensation for environmental damage from US-Israeli strikes",
+        "url": "https://www.thehindubusinessline.com/news/world/iran-tells-cop31-it-wants-compensation-for-environmental-damage-from-us-israeli-strikes/article71692293.ece",
+        "source": "BusinessLine",
+        "published_at": "2026-11-12T04:58:18Z"
       },
       {
-        "title": "Iran will not allow enriched nuclear material to leave the country , security chief says",
-        "url": "https://www.asiaone.com:443/asia/iran-will-not-allow-enriched-nuclear-material-leave-country-security-chief-says",
-        "source": "asiaone.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-12T07:00:00Z",
-        "language": "English",
-        "source_country": "Singapore"
+        "title": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
+        "url": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-12T03:50:42Z"
       },
       {
-        "title": "Can Iran attack Israel with its own Operation Spiderweb?",
-        "url": "https://www.haaretz.com/israel-news/security-aviation/2026-11-11/ty-article-magazine/drones-from-within-could-iran-launch-its-own-operation-spiderweb-in-israel/000001a1-bffe-d7bb-a7a5-ffff7e900000",
-        "source": "Haaretz",
-        "published_at": "2026-11-11T17:16:00Z"
+        "title": "Hormuz will never return to pre-war status, says Iran's chief negotiator",
+        "url": "https://www.business-standard.com/world-news/hormuz-will-never-return-to-pre-war-status-says-iran-s-chief-negotiator-126111200051_1.html",
+        "source": "Business Standard",
+        "published_at": "2026-11-12T02:22:17Z"
       },
       {
-        "title": "Instead of war with Iran: Ex-Mossad chief's proposal",
-        "url": "https://www.israelnationalnews.com/news/436034",
-        "source": "Israelnationalnews.com",
-        "published_at": "2026-11-11T16:49:42Z"
+        "title": "Trump and Netanyahu reportedly get into 'shouting match from hell' amid argument to resume all-out war in Iran",
+        "url": "https://www.dailymail.com/news/article-16285749/Trump-Netanyahu-reportedly-shouting-match-hell-amid-argument-resume-war-Iran.html",
+        "source": "Dailymail.com",
+        "published_at": "2026-11-12T02:20:40Z"
       },
       {
-        "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-        "url": "https://www.bbc.com/news/articles/cqr7gr0010r2o",
-        "source": "BBC News",
-        "published_at": "2026-11-11T16:24:06Z"
+        "title": "“Shouting Match From Hell”: Trump And Netanyahu Bitterly Disagree About New Military Action Against Iran",
+        "url": "http://theeconomiccollapseblog.com/shouting-match-from-hell-trump-and-netanyahu-bitterly-disagree-about-new-military-action-against-iran/",
+        "source": "Theeconomiccollapseblog.com",
+        "published_at": "2026-11-12T02:05:08Z"
+      },
+      {
+        "title": "Netanyahu asks military to prepare for Iran 2.0 as opposition demands no strikes before next govt",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/netanyahu-asks-military-to-prepare-for-iran-2-0-as-opposition-demands-no-strikes-before-next-govt/articleshow/135752080.cms",
+        "source": "The Times of India",
+        "published_at": "2026-11-12T01:55:51Z"
       }
     ],
-    "libya-fragmentation": [
-      {
-        "title": "Egypt Reopens Tripoli Embassy After 12 Years",
-        "url": "https://www.riotimesonline.com/egypt-reopens-tripoli-embassy-after-12-years/",
-        "source": "riotimesonline.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-08T11:30:00Z",
-        "language": "English",
-        "source_country": "Brazil"
-      },
-      {
-        "title": "Egypt reopens embassy in Tripoli after 12 - year closure - Xinhua",
-        "url": "https://english.news.cn/africa/20261108/82fd0720aa8b4bf6b7b69c4642b823e0/c.html",
-        "source": "english.news.cn",
-        "provider": "GDELT",
-        "published_at": "2026-11-08T00:00:00Z",
-        "language": "English"
-      },
-      {
-        "title": "Egypt reopens embassy in Tripoli after 12 - year closure",
-        "url": "http://www.bignewsnetwork.com/news/279418849/egypt-reopens-embassy-in-tripoli-after-12-year-closure",
-        "source": "bignewsnetwork.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-07T22:00:00Z",
-        "language": "English",
-        "source_country": "United States"
-      }
-    ],
+    "libya-fragmentation": [],
     "syria-transition-crisis": [
+      {
+        "title": "Israel detained 49 Syrians since Assad's fall. Families are still waiting for answers",
+        "url": "https://www.haaretz.com/middle-east-news/syria/2026-11-12/ty-article/israel-detained-dozens-of-syrians-their-families-still-await-answers/000001a1-cafc-dd4d-a9b9-ebfe63d20000",
+        "source": "Haaretz",
+        "published_at": "2026-11-11T22:32:46Z"
+      },
       {
         "title": "Syria’s Christians Face Kidnappings and “Jizya” Protection Tax Demands as Population Falls 80 Percent",
         "url": "https://www.thegatewaypundit.com/2026/11/syrias-christians-face-kidnappings-jizya-protection-tax-demands/",
         "source": "Thegatewaypundit.com",
         "published_at": "2026-11-10T23:40:27Z"
-      },
-      {
-        "title": "China is wiring Syria. Could its Smart Meters put Israel at risk?",
-        "url": "https://www.israelnationalnews.com/news/435986",
-        "source": "Israelnationalnews.com",
-        "published_at": "2026-11-10T20:40:07Z"
       }
     ],
     "sahel-jihadist-insurgency": [
-      {
-        "title": "Rival Terror Groups Devastate The Sahel",
-        "url": "https://www.eurasiareview.com/12112026-rival-terror-groups-devastate-the-sahel/",
-        "source": "eurasiareview.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-12T03:45:00Z",
-        "language": "English",
-        "source_country": "United States"
-      },
-      {
-        "title": "Nigeria Rules Out Ceasefire With Boko Haram , ISWAP As Insurgent Attacks Surge In Northeast",
-        "url": "https://naija247news.com/nigeria-rules-out-ceasefire-with-boko-haram-iswap-as-insurgent-attacks-surge-in-northeast/",
-        "source": "naija247news.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-06T03:30:00Z",
-        "language": "English",
-        "source_country": "Nigeria"
-      },
       {
         "title": "Why Ukraine may be involved in Mali's conflict",
         "url": "https://www.dw.com/en/why-ukraine-may-be-involved-in-malis-conflict/a-79743423",
@@ -355,81 +334,8 @@
         "published_at": "2026-10-26T14:58:00Z"
       }
     ],
-    "drc-eastern-conflict": [
-      {
-        "title": "SKNVibes | Fighting in eastern DRC threatens Ebola response as countries tighten travel restrictions",
-        "url": "https://www.sknvibes.com/news/newsdetails.cfm/128057",
-        "source": "sknvibes.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-11T04:00:00Z",
-        "language": "English",
-        "source_country": "Saint Kitts and Nevis"
-      },
-      {
-        "title": "World : DR Congo armed rebellion advances in eastern offensiv",
-        "url": "https://www.newvision.co.ug/category/world/dr-congo-armed-rebellion-advances-in-eastern-NV_243896_112026",
-        "source": "newvision.co.ug",
-        "provider": "GDELT",
-        "published_at": "2026-11-10T06:00:00Z",
-        "language": "English",
-        "source_country": "Uganda"
-      },
-      {
-        "title": "South Africa : Kabila Accused of Betraying South Africa Over Congo Rebel Links",
-        "url": "https://allafrica.com/stories/202611090083.html",
-        "source": "allafrica.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-09T06:00:00Z",
-        "language": "English",
-        "source_country": "Nigeria"
-      },
-      {
-        "title": "IS - linked militants kill at least 33 in eastern Congo village attack , civil society says",
-        "url": "https://www.the-messenger.com/news/world/article_aefeae91-5433-59c5-b2a1-b3c87b7a86d3.html",
-        "source": "the-messenger.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-06T13:00:00Z",
-        "language": "English",
-        "source_country": "United States"
-      }
-    ],
+    "drc-eastern-conflict": [],
     "somalia-al-shabaab-insurgency": [
-      {
-        "title": "White House defends secret detention of Somali",
-        "url": "https://spacewar.com/white-house-defends-secret-detention-of-somali-999/",
-        "source": "spacewar.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-12T01:30:00Z",
-        "language": "English",
-        "source_country": "Iraq"
-      },
-      {
-        "title": "Hassan Sheikh Failure to Hold the Country Together Raises Fears of an Al - Shabaab Advance on Mogadishu",
-        "url": "https://wardheernews.com/hassan-sheikhs-failure-to-hold-the-country-together-raises-fears-of-an-al-shabaab-advance-on-mogadishu/",
-        "source": "wardheernews.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-11T06:30:00Z",
-        "language": "English",
-        "source_country": "Somalia"
-      },
-      {
-        "title": "International Intervention Comes Too Late : Somalia Political Crisis Has Passed the Point of Diplomatic Rescue",
-        "url": "https://wardheernews.com/international-intervention-comes-too-late-somalias-political-crisis-has-passed-the-point-of-diplomatic-rescue/",
-        "source": "wardheernews.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-11T06:30:00Z",
-        "language": "English",
-        "source_country": "Somalia"
-      },
-      {
-        "title": "US Announces Its 91st Airstrike of the Year in Somalia",
-        "url": "https://news.antiwar.com/2026/11/08/us-announces-its-91st-airstrike-of-the-year-in-somalia/",
-        "source": "news.antiwar.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-09T00:30:00Z",
-        "language": "English",
-        "source_country": "United States"
-      },
       {
         "title": "Somali court rejects presidential term extension",
         "url": "https://rt-english.com/africa/648514-somalia-court-rules-president-term-illegal/",
@@ -453,9 +359,39 @@
         "url": "https://rt-english.com/africa/648281-uganda-withdrawing-troops-from-somalia/",
         "source": "Rt-english.com",
         "published_at": "2026-11-03T11:12:21Z"
+      },
+      {
+        "title": "Uganda begins withdrawing troops from Somalia after two decades",
+        "url": "https://www.dw.com/en/uganda-begins-withdrawing-troops-from-somalia-after-two-decades/a-79829903",
+        "source": "DW (English)",
+        "published_at": "2026-11-02T12:19:00Z"
+      },
+      {
+        "title": "Uganda begins troop withdrawal from Somalia",
+        "url": "https://punchng.com/uganda-begins-troop-withdrawal-from-somalia/",
+        "source": "The Punch",
+        "published_at": "2026-11-02T12:09:42Z"
       }
     ],
     "haiti-gang-crisis": [
+      {
+        "title": "El Salvador-backed air assault destroys Haiti gang headquarters amid search for missing troops",
+        "url": "https://www.foxnews.com/world/el-salvador-air-assault-destroys-haiti-gang-headquarters-search-missing-troops",
+        "source": "Fox News",
+        "published_at": "2026-11-12T01:04:45Z"
+      },
+      {
+        "title": "El Salvador is exporting the ‘Bukele model’ to Haiti – but the gang offensive is a gamble for both nations",
+        "url": "https://theconversation.com/el-salvador-is-exporting-the-bukele-model-to-haiti-but-the-gang-offensive-is-a-gamble-for-both-nations-296390",
+        "source": "The Conversation Africa",
+        "published_at": "2026-11-11T23:58:06Z"
+      },
+      {
+        "title": "U.S. Diplomats Reportedly Pushing Back On El Salvador Battling Haiti Gangs Despite Trump's Public Support",
+        "url": "https://freerepublic.com/focus/f-news/4402707/posts",
+        "source": "Freerepublic.com",
+        "published_at": "2026-11-11T23:52:30Z"
+      },
       {
         "title": "Nayib Bukele Destroys Haitian Gang Headquarters Identified on X Community Notes",
         "url": "https://www.breitbart.com/latin-america/2026/11/11/nayib-bukele-destroys-haitian-gang-headquarters-identified-on-x-community-notes/",
@@ -485,24 +421,6 @@
         "url": "https://www.americanthinker.com/blog/2026/11/el-salvador-s-troops-pound-haiti-s-gangs-and-gangsters-including-barbecue-suddenly-want-to-talk-peace/",
         "source": "Americanthinker.com",
         "published_at": "2026-11-11T05:00:00Z"
-      },
-      {
-        "title": "El Salvador calls in ‘X killstreak’ on Haitian gang HQ (VIDEO)",
-        "url": "https://rt-english.com/news/648669-bukele-salvador-haiti-strike-x/",
-        "source": "Rt-english.com",
-        "published_at": "2026-11-11T03:59:07Z"
-      },
-      {
-        "title": "El Salvador fires missiles on Haitian gang hideout",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/el-salvador-fires-missiles-on-haitian-gang-hideout",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-11T03:00:23Z"
-      },
-      {
-        "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
-        "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo",
-        "source": "BBC News",
-        "published_at": "2026-11-11T02:47:59Z"
       }
     ],
     "mexico-cartel-conflict": [
@@ -511,6 +429,12 @@
         "url": "https://www.cbsnews.com/news/ryan-wedding-cartel-drug-trafficking-mexico/",
         "source": "CBS News",
         "published_at": "2026-11-11T14:12:40Z"
+      },
+      {
+        "title": "Accused Drug Kingpin Allegedly Carried Real Police ID",
+        "url": "https://www.newser.com/story/399800/accused-drug-kingpin-allegedly-carried-real-police-id.html",
+        "source": "Newser",
+        "published_at": "2026-11-11T12:25:00Z"
       },
       {
         "title": "Slain cartel boss 'The General' provided Ryan Wedding with fake police ID to evade capture, U.S. alleges",
@@ -547,12 +471,6 @@
         "url": "https://www.cbsnews.com/news/us-girl-shot-dead-police-cartel-chase-mexico/",
         "source": "CBS News",
         "published_at": "2026-11-09T11:30:15Z"
-      },
-      {
-        "title": "Mexico arrests an alleged cartel leader wanted in the US and 19 others after a raid using DEA intelligence, with authorities linking the suspect to a mayor's killing and extortion of avocado producers",
-        "url": "https://timesofindia.indiatimes.com/world/us/mexico-arrests-an-alleged-cartel-leader-wanted-in-the-us-and-19-others-after-a-raid-using-dea-intelligence-with-authorities-linking-the-suspect-to-a-mayors-killing-and-extortion-of-avocado-producers/articleshow/135673934.cms",
-        "source": "The Times of India",
-        "published_at": "2026-11-09T07:32:35Z"
       }
     ],
     "venezuela-guyana-essequibo-dispute": [],
@@ -574,43 +492,61 @@
     ],
     "taiwan-strait-tension": [
       {
-        "title": "Unfazed by Taiwan suspending investment talks , Anwar says numbers going up",
-        "url": "https://www.malaysiakini.com/news/888950-anwar-unfazed-by-taiwan-suspending-investment-talks-says-numbers-going-up",
-        "source": "malaysiakini.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-12T07:00:00Z",
-        "language": "English",
-        "source_country": "Malaysia"
+        "title": "Xi declares Taiwan âreunificationâ inevitable days before Trump meeting",
+        "url": "https://www.naturalnews.com/2026-11-12-xi-taiwan-reunification-trump-meeting.html",
+        "source": "Naturalnews.com",
+        "published_at": "2026-11-12T06:00:00Z"
       },
       {
-        "title": "China Xi says Taiwan reunification must happen as history cannot be stopped",
-        "url": "https://www.koreatimes.co.kr/world/20261112/chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped",
-        "source": "koreatimes.co.kr",
-        "provider": "GDELT",
-        "published_at": "2026-11-12T05:30:00Z",
-        "language": "English",
-        "source_country": "South Korea"
+        "title": "G7 foreign ministers say China's actions east of Taiwan threaten stability",
+        "url": "https://www.thehindubusinessline.com/news/world/g7-foreign-ministers-say-chinas-actions-east-of-taiwan-threaten-stability/article71692306.ece",
+        "source": "BusinessLine",
+        "published_at": "2026-11-12T05:58:07Z"
       },
       {
-        "title": "G7 Foreign Ministers say China actions east of Taiwan threaten stability",
-        "url": "https://www.thehindu.com/news/international/g7-foreign-ministers-say-chinas-actions-east-of-taiwan-threaten-stability/article71692205.ece",
-        "source": "thehindu.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-12T03:45:00Z",
-        "language": "English",
-        "source_country": "India"
+        "title": "Chinese President Xi Jinping says Taiwan 'reunification' must happen as history cannot be stopped",
+        "url": "https://www.channelnewsasia.com/east-asia/china-xi-jinping-taiwan-reunification-history-6544911",
+        "source": "CNA",
+        "published_at": "2026-11-12T05:52:24Z"
       },
       {
-        "title": "Taiwan Says China Ran Area Denial Drills With Carrier Group",
-        "url": "https://www.hngn.com/articles/273796/20261111/taiwan-says-china-ran-area-denial-drills-carrier-group.htm",
-        "source": "hngn.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-12T03:45:00Z",
-        "language": "English",
-        "source_country": "United States"
+        "title": "Chinese woman accused of spying on Nvidia chief entered Taiwan 8 times",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinese-woman-accused-of-spying-on-nvidia-chief-entered-taiwan-8-times/articleshow/135755596.cms",
+        "source": "The Times of India",
+        "published_at": "2026-11-12T04:45:53Z"
+      },
+      {
+        "title": "'Tide of history cannot be stopped': Xi renews call for Taiwan reunification",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/tide-of-history-cannot-be-stopped-xi-renews-call-for-taiwan-reunification/articleshow/135755299.cms",
+        "source": "The Times of India",
+        "published_at": "2026-11-12T04:33:22Z"
+      },
+      {
+        "title": "Jensen Huang Heat Intensifies As Taiwan Revokes Entry for Alleged Spy Who Slipped In On Hong Kong Passport -…",
+        "url": "https://biztoc.com/x/01d40c6c8d9cae2d",
+        "source": "Biztoc.com",
+        "published_at": "2026-11-12T03:30:40Z"
+      },
+      {
+        "title": "G7 members raise alarm over China's activities near Taiwan",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/g7-members-raise-alarm-over-chinas-activities-near-taiwan/articleshow/135753356.cms",
+        "source": "The Times of India",
+        "published_at": "2026-11-12T03:20:38Z"
       }
     ],
     "korean-armistice-standoff": [
+      {
+        "title": "South Korea sees little prospect of US-North Korea contact around APEC",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/south-korea-sees-little-prospect-of-us-north-korea-contact-around-apec/articleshow/135753411.cms",
+        "source": "The Times of India",
+        "published_at": "2026-11-12T03:13:37Z"
+      },
+      {
+        "title": "North Korean Escapee Exposes The Truth About The ‘World’s Most Dangerous 13YO’ Tipped As Kim Jong-Un’s Heir",
+        "url": "https://www.boredpanda.com/north-korea-escapee-exposes-truth-about-kim-jong-un-heir/",
+        "source": "Boredpanda.com",
+        "published_at": "2026-11-11T23:39:30Z"
+      },
       {
         "title": "North Korea revises constitution, calls South Korea separate state & drops reunification",
         "url": "https://timesofindia.indiatimes.com/world/rest-of-world/north-korea-revises-constitution-calls-south-korea-separate-state-drops-reunification-goal/articleshow/135744366.cms",
@@ -622,40 +558,9 @@
         "url": "https://www.channelnewsasia.com/east-asia/north-korea-hacker-binance-crypto-theft-heist-6541766",
         "source": "CNA",
         "published_at": "2026-11-11T04:15:41Z"
-      },
-      {
-        "title": "'Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent",
-        "url": "https://www.npr.org/2026/11/10/g-s1-152795/like-gods-reigning-over-humans-many-defectors-see-daughter-of-north-koreas-kim-as-heir-apparent",
-        "source": "NPR",
-        "published_at": "2026-11-10T14:16:53Z"
-      },
-      {
-        "title": "North Korean defectors see Kim Jong Un’s daughter as heir apparent: ‘Like gods reigning over humans’",
-        "url": "https://nypost.com/2026/11/10/world-news/north-korean-defectors-see-kim-jong-uns-daughter-as-heir-apparent/",
-        "source": "New York Post",
-        "published_at": "2026-11-10T09:00:22Z"
       }
     ],
-    "india-pakistan-kashmir-conflict": [
-      {
-        "title": "I Opposed The Release of Terrorists In 1989 and 1999 : Farooq Abdullah | Kashmir Life - Latest News & Breaking News from Kashmir",
-        "url": "https://kashmirlife.net/i-opposed-the-release-of-terrorists-in-1989-and-1999-farooq-abdullah-460213/",
-        "source": "kashmirlife.net",
-        "provider": "GDELT",
-        "published_at": "2026-11-08T13:30:00Z",
-        "language": "English",
-        "source_country": "India"
-      },
-      {
-        "title": "Vajpayee and Gujral Refused to Speak ; I Stood Up for India at the UN : Farooq Abdullah | Kashmir Life",
-        "url": "https://kashmirlife.net/vajpayee-and-gujral-refused-to-speak-i-stood-up-for-india-at-the-un-farooq-abdullah-460211/",
-        "source": "kashmirlife.net",
-        "provider": "GDELT",
-        "published_at": "2026-11-08T13:30:00Z",
-        "language": "English",
-        "source_country": "India"
-      }
-    ],
+    "india-pakistan-kashmir-conflict": [],
     "ethiopia-northern-conflict": [
       {
         "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
@@ -707,16 +612,6 @@
         "published_at": "2026-11-11T14:06:27Z"
       }
     ],
-    "ecuador-organized-crime-crisis": [
-      {
-        "title": "Ecuador Steps Up Offensive Against Illegal Gold And Transnational Crime Finances - Analysis",
-        "url": "https://www.eurasiareview.com/12112026-ecuador-steps-up-offensive-against-illegal-gold-and-transnational-crime-finances-analysis/",
-        "source": "eurasiareview.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-12T03:30:00Z",
-        "language": "English",
-        "source_country": "United States"
-      }
-    ]
+    "ecuador-organized-crime-crisis": []
   }
 }
