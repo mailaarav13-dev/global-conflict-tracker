@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T06:50:28.078Z",
+  "generated_at": "2026-11-13T14:44:45.939Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
@@ -484,10 +484,46 @@
     ],
     "armenia-azerbaijan-peace-process": [
       {
+        "title": "Azerbaijan European influence grows as Baku secures 2028 summit",
+        "url": "https://www.azernews.az/analysis/267259.html",
+        "source": "azernews.az",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T05:30:00Z",
+        "language": "English",
+        "source_country": "Azerbaijan"
+      },
+      {
+        "title": "CSTO strips Armenia of voting rights over unfulfilled obligations",
+        "url": "https://akipress.com/news:930834:CSTO_strips_Armenia_of_voting_rights_over_unfulfilled_obligations/",
+        "source": "akipress.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T03:30:00Z",
+        "language": "English",
+        "source_country": "Kyrgyzstan"
+      },
+      {
         "title": "Özel calls Aliyev to mark Azerbaijan’s Victory Day",
         "url": "https://www.hurriyetdailynews.com/ozel-calls-aliyev-to-mark-azerbaijans-victory-day-229191",
         "source": "Hurriyet Daily News",
         "published_at": "2026-11-09T11:35:09Z"
+      },
+      {
+        "title": "Azerbaijan flag tells story of independence , loss and national resilience",
+        "url": "https://www.azernews.az/analysis/267067.html",
+        "source": "azernews.az",
+        "provider": "GDELT",
+        "published_at": "2026-11-09T06:00:00Z",
+        "language": "English",
+        "source_country": "Azerbaijan"
+      },
+      {
+        "title": "Moroccan newspaper highlights Azerbaijan Victory Day",
+        "url": "https://news.az/news/moroccan-newspaper-highlights-azerbaijans-victory-day",
+        "source": "news.az",
+        "provider": "GDELT",
+        "published_at": "2026-11-09T00:30:00Z",
+        "language": "English",
+        "source_country": "Azerbaijan"
       }
     ],
     "taiwan-strait-tension": [
@@ -560,7 +596,26 @@
         "published_at": "2026-11-11T04:15:41Z"
       }
     ],
-    "india-pakistan-kashmir-conflict": [],
+    "india-pakistan-kashmir-conflict": [
+      {
+        "title": "I Opposed The Release of Terrorists In 1989 and 1999 : Farooq Abdullah | Kashmir Life - Latest News & Breaking News from Kashmir",
+        "url": "https://kashmirlife.net/i-opposed-the-release-of-terrorists-in-1989-and-1999-farooq-abdullah-460213/",
+        "source": "kashmirlife.net",
+        "provider": "GDELT",
+        "published_at": "2026-11-08T13:30:00Z",
+        "language": "English",
+        "source_country": "India"
+      },
+      {
+        "title": "Vajpayee and Gujral Refused to Speak ; I Stood Up for India at the UN : Farooq Abdullah | Kashmir Life",
+        "url": "https://kashmirlife.net/vajpayee-and-gujral-refused-to-speak-i-stood-up-for-india-at-the-un-farooq-abdullah-460211/",
+        "source": "kashmirlife.net",
+        "provider": "GDELT",
+        "published_at": "2026-11-08T13:30:00Z",
+        "language": "English",
+        "source_country": "India"
+      }
+    ],
     "ethiopia-northern-conflict": [
       {
         "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
