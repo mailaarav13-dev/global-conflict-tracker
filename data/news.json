@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T19:47:44.996Z",
+  "generated_at": "2026-11-13T23:43:15.352Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
@@ -354,6 +354,15 @@
         "published_at": "2026-11-12T15:45:02Z"
       },
       {
+        "title": "El Salvador is exporting the Bukele model to Haiti - but the gang offensive is a gamble for both nations",
+        "url": "http://www.caribbeanherald.com/news/279427292/el-salvador-is-exporting-the-bukele-model-to-haiti-but-the-gang-offensive-is-a-gamble-for-both-nations",
+        "source": "caribbeanherald.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T07:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
         "title": "El Salvador-backed air assault destroys Haiti gang headquarters amid search for missing troops",
         "url": "https://www.foxnews.com/world/el-salvador-air-assault-destroys-haiti-gang-headquarters-search-missing-troops",
         "source": "Fox News",
@@ -388,12 +397,6 @@
         "url": "https://abcnews.com/International/wireStory/el-salvadors-bukele-makes-political-gamble-haiti-gang-138040031",
         "source": "Abcnews.com",
         "published_at": "2026-11-11T11:50:44Z"
-      },
-      {
-        "title": "Salvador President Bukele crowdsources location of Haitian gang leader's HQ on X - then destroys it in military strike",
-        "url": "https://www.dailymail.com/news/article-16283829/Salvador-crowdsources-location-Haitian-gang-leader-HQ-military-strike.html",
-        "source": "Dailymail.com",
-        "published_at": "2026-11-11T10:48:50Z"
       }
     ],
     "mexico-cartel-conflict": [
@@ -445,10 +448,46 @@
     ],
     "armenia-azerbaijan-peace-process": [
       {
+        "title": "Georgia and Armenia at an Investment Crossroads",
+        "url": "https://finchannel.com/georgia-and-armenia-at-an-investment-crossroads/141541/opinion/2026/11/",
+        "source": "finchannel.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-13T18:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Azerbaijan European influence grows as Baku secures 2028 summit",
+        "url": "https://www.azernews.az/analysis/267259.html",
+        "source": "azernews.az",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T05:30:00Z",
+        "language": "English",
+        "source_country": "Azerbaijan"
+      },
+      {
+        "title": "CSTO strips Armenia of voting rights over unfulfilled obligations",
+        "url": "https://akipress.com/news:930834:CSTO_strips_Armenia_of_voting_rights_over_unfulfilled_obligations/",
+        "source": "akipress.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T03:30:00Z",
+        "language": "English",
+        "source_country": "Kyrgyzstan"
+      },
+      {
         "title": "Özel calls Aliyev to mark Azerbaijan’s Victory Day",
         "url": "https://www.hurriyetdailynews.com/ozel-calls-aliyev-to-mark-azerbaijans-victory-day-229191",
         "source": "Hurriyet Daily News",
         "published_at": "2026-11-09T11:35:09Z"
+      },
+      {
+        "title": "Azerbaijan flag tells story of independence , loss and national resilience",
+        "url": "https://www.azernews.az/analysis/267067.html",
+        "source": "azernews.az",
+        "provider": "GDELT",
+        "published_at": "2026-11-09T06:00:00Z",
+        "language": "English",
+        "source_country": "Azerbaijan"
       }
     ],
     "taiwan-strait-tension": [
