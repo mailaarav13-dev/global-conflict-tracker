@@ -1,9 +1,45 @@
 {
-  "generated_at": "2026-11-14T18:06:05.208Z",
+  "generated_at": "2026-11-14T22:34:36.337Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
     "russia-ukraine-war": [
+      {
+        "title": "Trump to meet Xi and Putin in trilateral talks in China",
+        "url": "https://www.cbc.bb/main-stories/trump-to-meet-xi-and-putin-in-trilateral-talks-in-china/",
+        "source": "cbc.bb",
+        "provider": "GDELT",
+        "published_at": "2026-11-14T20:00:00Z",
+        "language": "English",
+        "source_country": "Barbados"
+      },
+      {
+        "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO - Grenada Chronicle – Daily Grenada And Caribbean News",
+        "url": "https://grenadachronicle.com/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato/",
+        "source": "grenadachronicle.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-14T20:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
+        "url": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice",
+        "source": "aljazeera.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-13T18:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Russia Oil Revenues Hit Five - Month High on Crude Rally , IEA Says",
+        "url": "https://gcaptain.com/russia-oil-revenues-hit-five-month-high-on-crude-rally-iea-says/",
+        "source": "gcaptain.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-13T18:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
       {
         "title": "Estonia latest country to ban Russian athletes",
         "url": "https://www.bbc.com/sport/articles/cm4gn9lvlgy2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
@@ -27,24 +63,6 @@
         "url": "https://nypost.com/2026/11/13/world-news/ukraine-fires-nearly-1200-drones-at-russia-as-us-led-talks-consider-wider-european-security/",
         "source": "New York Post",
         "published_at": "2026-11-13T16:53:24Z"
-      },
-      {
-        "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
-        "url": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-13T16:44:56Z"
-      },
-      {
-        "title": "Russia's Demands Are A Big Barrier To A Ukraine Peace Deal. What Are They?",
-        "url": "https://www.rferl.org/a/russia-us-ukraine-draconian-demands-war/33898149.html",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "published_at": "2026-11-13T16:36:55Z"
-      },
-      {
-        "title": "Ukraine Hits 9th Russian Oil Refinery Since Start of Nov",
-        "url": "https://www.rigzone.com/news/wire/ukraine_hits_9th_russian_oil_refinery_since_start_of_nov-13-nov-2026-185083-article/",
-        "source": "Rigzone",
-        "published_at": "2026-11-13T16:20:57Z"
       }
     ],
     "israel-gaza-war": [
@@ -167,6 +185,33 @@
         "published_at": "2026-11-12T14:50:36Z"
       },
       {
+        "title": "ASEAN : Increase Pressure on Myanmar Junta to End Abuses",
+        "url": "http://www.philippinetimes.com/news/279427469/asean-increase-pressure-on-myanmar-junta-to-end-abuses",
+        "source": "philippinetimes.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T04:00:00Z",
+        "language": "English",
+        "source_country": "Philippines"
+      },
+      {
+        "title": "Myanmar Tests Indonesia Leadership - OpEd",
+        "url": "https://www.eurasiareview.com/12112026-myanmar-tests-indonesias-leadership-oped/",
+        "source": "eurasiareview.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T03:45:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "ASEAN Urged to Pressure Myanmar Junta to End Abuses",
+        "url": "https://www.miragenews.com/asean-urged-to-pressure-myanmar-junta-to-end-1776106/",
+        "source": "miragenews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T03:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
         "title": "ASEAN: Increase Pressure on Myanmar Junta to End Abuses",
         "url": "https://www.hrw.org/news/2026/11/11/asean-increase-pressure-on-myanmar-junta-to-end-abuses",
         "source": "Human Rights Watch",
@@ -177,24 +222,6 @@
         "url": "https://www.resilience.org/stories/2026-11-11/myanmars-civil-war-is-threatening-a-major-peatland-discovery/",
         "source": "Resilience",
         "published_at": "2026-11-11T08:00:26Z"
-      },
-      {
-        "title": "West Asia crisis fuels crude conflict in Myanmar civil war",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/west-asia-crisis-fuels-crude-conflict-in-myanmar-civil-war/articleshow/135723038.cms",
-        "source": "The Times of India",
-        "published_at": "2026-11-11T02:32:36Z"
-      },
-      {
-        "title": "Commentary: ASEAN must hold the line on Five-Point Consensus for Myanmar’s reintegration",
-        "url": "https://www.channelnewsasia.com/commentary/myanmar-asean-summit-reintegration-malaysia-visit-6538936",
-        "source": "CNA",
-        "published_at": "2026-11-10T22:00:00Z"
-      },
-      {
-        "title": "Myanmar summons German envoy over controversial video",
-        "url": "https://www.aljazeera.com/news/2026/11/10/myanmar-summons-german-diplomat-following-controversial-facebook-video",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-10T18:03:06Z"
       }
     ],
     "yemen-civil-war": [
@@ -262,6 +289,42 @@
       }
     ],
     "israel-iran-confrontation": [
+      {
+        "title": "With shifting Iran rhetoric , Trump leaves Mideast in limbo",
+        "url": "https://www.wisn.com/article/iran-rhetoric-elections-trump-mideast-limbo/74431136",
+        "source": "wisn.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-14T21:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "IRAN SHOWDOWN : Trump Weighs Halting New Strikes Despite Israeli Pressure As U . S . Tightens Economic Blockade",
+        "url": "https://www.theyeshivaworld.com/news/israel-news/2623104/iran-showdown-trump-weighs-halting-new-strikes-despite-israeli-pressure-as-u-s-tightens-economic-blockade.html",
+        "source": "theyeshivaworld.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-14T21:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "BIG BREAKING : Trump scales back public appearances over Iranian drone threat",
+        "url": "https://therightscoop.com/big-breaking-trump-scales-back-public-appearances-over-iranian-drone-threat/",
+        "source": "therightscoop.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-14T21:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Netanyahu Calls For Escalation Of Iran War In Plea For Unity Government With Eisenkot",
+        "url": "https://www.ibtimes.com/netanyahu-eisenkot-unity-government-iran-nuclear-threat-3809771",
+        "source": "ibtimes.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-14T21:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
       {
         "title": "Van Hollen's challenge to Schumer comes amid upheaval over Israel in the Democratic Party",
         "url": "https://www.haaretz.com/us-news/2026-11-13/ty-article/.premium/van-hollen-takes-on-schumer-as-democrats-split-over-israel/000001a1-d5d9-d59b-a1f3-dddd1c600000",
