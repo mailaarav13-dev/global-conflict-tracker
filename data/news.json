@@ -1,26 +1,20 @@
 {
-  "generated_at": "2026-11-14T06:20:08.514Z",
-  "provider": "newsapi.org",
+  "generated_at": "2026-11-14T13:42:39.144Z",
+  "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
     "russia-ukraine-war": [
-      {
-        "title": "Every cargo ship is a target: Russia strikes again off Odessa as talks go nowhere",
-        "url": "https://www.naturalnews.com/2026-11-13-cargo-ship-target-russia-strikes-odessa.html",
-        "source": "Naturalnews.com",
-        "published_at": "2026-11-13T06:00:00Z"
-      },
-      {
-        "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks - BBC",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186705310",
-        "source": "Slashdot.org",
-        "published_at": "2026-11-13T04:32:57Z"
-      },
       {
         "title": "Ukraine war: Finland, Norway block visas for Russian athletes",
         "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/ukraine-war-finland-norway-block-visas-for-russian-athletes/articleshow/135790916.cms",
         "source": "The Times of India",
         "published_at": "2026-11-13T06:04:03Z"
+      },
+      {
+        "title": "Every cargo ship is a target: Russia strikes again off Odessa as talks go nowhere",
+        "url": "https://www.naturalnews.com/2026-11-13-cargo-ship-target-russia-strikes-odessa.html",
+        "source": "Naturalnews.com",
+        "published_at": "2026-11-13T06:00:00Z"
       },
       {
         "title": "Ukraine says the Starshield speed limit is back and Russian 'strikes have already gone through'",
@@ -39,26 +33,20 @@
         "url": "https://abcnews.com/International/wireStory/europe-pushes-seat-ukraine-peace-talks-lacks-unified-138101804",
         "source": "Abcnews.com",
         "published_at": "2026-11-13T05:39:40Z"
+      },
+      {
+        "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks - BBC",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186705310",
+        "source": "Slashdot.org",
+        "published_at": "2026-11-13T04:32:57Z"
       }
     ],
     "israel-gaza-war": [
-      {
-        "title": "Trial Date Set for Gaza Man Accused of Aiding Hamas in October 7 Attack",
-        "url": "https://www.breitbart.com/immigration/2026/11/12/trial-date-set-gaza-man-accused-aiding-hamas-october-7-attack/",
-        "source": "Breitbart News",
-        "published_at": "2026-11-13T01:55:40Z"
-      },
       {
         "title": "Israeli airstrike on Gazaâs Nasser Hospital kills six, renews questions about protected status of medical facilities under ceasefire",
         "url": "https://www.naturalnews.com/2026-11-13-israeli-airstrike-on-gazas-nasser-hospital-kills-six.html",
         "source": "Naturalnews.com",
         "published_at": "2026-11-13T06:00:00Z"
-      },
-      {
-        "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-        "url": "https://thechronicle.com.gh/israeli-strike-on-gaza-hospital-kills-six-palestinians-health-ministry-says/",
-        "source": "Thechronicle.com.gh",
-        "published_at": "2026-11-13T01:15:33Z"
       },
       {
         "title": "Turkiye’s Erdogan at COP31 decries Israel’s Ecocide in Gaza, Calls for attendees to End Aid Blockade",
@@ -73,6 +61,12 @@
         "published_at": "2026-11-13T02:00:36Z"
       },
       {
+        "title": "Trial Date Set for Gaza Man Accused of Aiding Hamas in October 7 Attack",
+        "url": "https://www.breitbart.com/immigration/2026/11/12/trial-date-set-gaza-man-accused-aiding-hamas-october-7-attack/",
+        "source": "Breitbart News",
+        "published_at": "2026-11-13T01:55:40Z"
+      },
+      {
         "title": "Shawn Mendes Scolded by Jewish Nonprofit for Calling Gaza Conflict a Genocide: ‘Irresponsible’",
         "url": "https://www.thewrap.com/culture-lifestyle/culture/shawn-mendes-scolded-by-jewish-nonprofit-gaza-genocide-ccfp/",
         "source": "TheWrap",
@@ -83,6 +77,12 @@
         "url": "https://www.bbc.co.uk/news/av/world-middle-east-28412360",
         "source": "BBC News",
         "published_at": "2026-11-13T01:22:50Z"
+      },
+      {
+        "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+        "url": "https://thechronicle.com.gh/israeli-strike-on-gaza-hospital-kills-six-palestinians-health-ministry-says/",
+        "source": "Thechronicle.com.gh",
+        "published_at": "2026-11-13T01:15:33Z"
       },
       {
         "title": "Israel bars French presidential hopeful over Gaza flotilla pledge",
@@ -99,22 +99,37 @@
         "published_at": "2026-11-12T10:50:35Z"
       },
       {
-        "title": "UN Report Alleges UAE Sent Colombian Mercenaries to Sudan as Nusseibeh Seeks Top UN Post",
-        "url": "https://www.naturalnews.com/2026-11-11-un-report-uae-sent-colombian-mercenaries-sudan.html",
-        "source": "Naturalnews.com",
-        "published_at": "2026-11-11T06:00:00Z"
-      },
-      {
-        "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
-        "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o",
-        "source": "BBC News",
-        "published_at": "2026-11-11T00:19:42Z"
+        "title": "Sudan Gold Export Earnings Soar , but the Money Is Not Reaching the Poor",
+        "url": "https://allafrica.com/stories/202611120008.html",
+        "source": "allafrica.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T05:30:00Z",
+        "language": "English",
+        "source_country": "Nigeria"
       },
       {
         "title": "Amnesty says UN, South Sudan officials failed to prevent village massacre",
         "url": "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre",
         "source": "Al Jazeera English",
         "published_at": "2026-11-12T04:00:24Z"
+      },
+      {
+        "title": "UN Peacekeepers Failed To Protect Civilians Before South Sudan Massacre : Amnesty",
+        "url": "https://www.deccanchronicle.com/world/un-peacekeepers-failed-to-protect-civilians-before-south-sudan-massacre-amnesty-2003675",
+        "source": "deccanchronicle.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T04:00:00Z",
+        "language": "English",
+        "source_country": "India"
+      },
+      {
+        "title": "South Sudan President Salva Kiir on Faith , War and His Hope for Peace : Forgive Them",
+        "url": "https://cbn.com/news/world/south-sudan-president-salva-kiir-faith-war-and-his-hope-peace-forgive-them",
+        "source": "cbn.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T01:30:00Z",
+        "language": "English",
+        "source_country": "United States"
       },
       {
         "title": "UN peacekeepers failed to protect civilians before South Sudan massacre, Amnesty says",
@@ -133,21 +148,9 @@
         "url": "https://www.bbc.co.uk/news/videos/cm894wg251pzo",
         "source": "BBC News",
         "published_at": "2026-11-11T09:28:36Z"
-      },
-      {
-        "title": "Viní Jr invites Sudanese boy who lost both legs to Spain",
-        "url": "https://punchng.com/vini-jr-invites-sudanese-boy-who-lost-both-legs-to-spain/",
-        "source": "The Punch",
-        "published_at": "2026-11-11T09:20:09Z"
       }
     ],
     "myanmar-civil-war": [
-      {
-        "title": "ASEAN: Increase Pressure on Myanmar Junta to End Abuses",
-        "url": "https://www.hrw.org/news/2026/11/11/asean-increase-pressure-on-myanmar-junta-to-end-abuses",
-        "source": "Human Rights Watch",
-        "published_at": "2026-11-12T02:00:00Z"
-      },
       {
         "title": "‘White Tiger Column’ Directors on How Myanmar’s Resistance Speaks to Political Youth Movements in Brazil, Serbia and the U.S.: ‘Revolution Is on the Lips of a Lot of People’",
         "url": "https://variety.com/2026/film/global/white-tiger-column-directors-myanmar-brazil-serbia-us-1236946083/",
@@ -159,6 +162,12 @@
         "url": "http://www.hollywoodreporter.com/movies/movie-news/white-tiger-column-doc-film-myanmar-resistance-idfa-teaser-1236753175/",
         "source": "Hollywood Reporter",
         "published_at": "2026-11-12T14:50:36Z"
+      },
+      {
+        "title": "ASEAN: Increase Pressure on Myanmar Junta to End Abuses",
+        "url": "https://www.hrw.org/news/2026/11/11/asean-increase-pressure-on-myanmar-junta-to-end-abuses",
+        "source": "Human Rights Watch",
+        "published_at": "2026-11-12T02:00:00Z"
       },
       {
         "title": "Myanmar’s civil war is threatening a major peatland discovery",
@@ -193,34 +202,28 @@
     ],
     "yemen-civil-war": [
       {
+        "title": "Houthis claim drone strikes on Riyadh, Saudi military sites; coalition says drones intercepted",
+        "url": "https://economictimes.indiatimes.com/news/defence/houthi-militants-launch-drone-strikes-on-riyadh-and-saudi-military-targets-coalition-forces-intercept-attacks/articleshow/135786442.cms",
+        "source": "The Times of India",
+        "published_at": "2026-11-13T02:12:05Z"
+      },
+      {
         "title": "Fighting intensifies in Yemen as Houthis deny targeting Mecca",
         "url": "https://thechronicle.com.gh/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca/",
         "source": "Thechronicle.com.gh",
         "published_at": "2026-11-13T01:18:32Z"
       },
       {
+        "title": "Iran war live: Riyadh, China discuss Houthis as group claims Aramco attacks",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-13T00:00:26Z"
+      },
+      {
         "title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
         "url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions",
         "source": "Al Jazeera English",
         "published_at": "2026-11-12T23:52:38Z"
-      },
-      {
-        "title": "Security Council Updates Yemen Sanctions Regime to Address Evolving Houthi Threats through Resolution 2837 (2026)",
-        "url": "https://press.un.org/en/2026/sc16508.doc.htm",
-        "source": "UN News",
-        "published_at": "2026-11-12T22:52:25Z"
-      },
-      {
-        "title": "This resolution demonstrates this Council’s determination to take decisive action against reckless attacks by the Houthis in Yemen: UK Explanation of Vote at the UN Security Council",
-        "url": "https://www.gov.uk/government/speeches/this-resolution-demonstrates-this-councils-determination-to-take-decisive-action-against-reckless-attacks-by-the-houthis-in-yemen-uk-explanation-of-vo",
-        "source": "Www.gov.uk",
-        "published_at": "2026-11-12T20:53:40Z"
-      },
-      {
-        "title": "Houthis claim drone strikes on Riyadh, Saudi military sites; coalition says drones intercepted",
-        "url": "https://economictimes.indiatimes.com/news/defence/houthi-militants-launch-drone-strikes-on-riyadh-and-saudi-military-targets-coalition-forces-intercept-attacks/articleshow/135786442.cms",
-        "source": "The Times of India",
-        "published_at": "2026-11-13T02:12:05Z"
       },
       {
         "title": "Saudi Arabia Turns to Syria for Troops as Iran-Backed Houthis Fire Missiles and Drones at Riyadh",
@@ -235,10 +238,16 @@
         "published_at": "2026-11-12T23:11:08Z"
       },
       {
-        "title": "Iran war live: Riyadh, China discuss Houthis as group claims Aramco attacks",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-13T00:00:26Z"
+        "title": "Security Council Updates Yemen Sanctions Regime to Address Evolving Houthi Threats through Resolution 2837 (2026)",
+        "url": "https://press.un.org/en/2026/sc16508.doc.htm",
+        "source": "UN News",
+        "published_at": "2026-11-12T22:52:25Z"
+      },
+      {
+        "title": "This resolution demonstrates this Council’s determination to take decisive action against reckless attacks by the Houthis in Yemen: UK Explanation of Vote at the UN Security Council",
+        "url": "https://www.gov.uk/government/speeches/this-resolution-demonstrates-this-councils-determination-to-take-decisive-action-against-reckless-attacks-by-the-houthis-in-yemen-uk-explanation-of-vo",
+        "source": "Www.gov.uk",
+        "published_at": "2026-11-12T20:53:40Z"
       }
     ],
     "south-china-sea-dispute": [
@@ -269,6 +278,42 @@
     ],
     "israel-iran-confrontation": [
       {
+        "title": "Reports : U . N . Atomic Agency Increasingly Concerned Iran Wont Let It Inspect Uranium Facility Trump Bombed",
+        "url": "https://www.breitbart.com/middle-east/2026/11/13/reports-u-n-atomic-agency-increasingly-concerned-iran-wont-let-it-inspect-uranium-facility-trump-bombed/",
+        "source": "breitbart.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-13T18:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Can Netanyahu launch a strike on Iran before he leaves ?",
+        "url": "https://www.aljazeera.com/news/2026/11/13/can-netanyahu-launch-a-strike-on-iran-before-he-leaves",
+        "source": "aljazeera.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-13T18:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Will Democrats try to strip US - Israel initiative from Pentagon funding ?",
+        "url": "https://www.aljazeera.com/news/2026/11/13/will-democrats-try-to-strip-us-israel-initiative-from-pentagon-funding",
+        "source": "aljazeera.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-13T18:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "US Treasury warns against rate hikes during US - Iran war energy shock | US - Israel war on Iran News",
+        "url": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock",
+        "source": "aljazeera.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-13T18:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
         "title": "CENTCOM Tells Israel to Brace For Impact As Fears of Renewed Iran War Emerge",
         "url": "https://www.naturalnews.com/2026-11-13-centcom-warns-israel-prepare-renewed-iran-conflict.html",
         "source": "Naturalnews.com",
@@ -296,12 +341,6 @@
     "libya-fragmentation": [],
     "syria-transition-crisis": [
       {
-        "title": "Israel detained 49 Syrians since Assad's fall. Families are still waiting for answers",
-        "url": "https://www.haaretz.com/middle-east-news/syria/2026-11-12/ty-article/israel-detained-dozens-of-syrians-their-families-still-await-answers/000001a1-cafc-dd4d-a9b9-ebfe63d20000",
-        "source": "Haaretz",
-        "published_at": "2026-11-11T22:32:46Z"
-      },
-      {
         "title": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
         "url": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects",
         "source": "Al Jazeera English",
@@ -312,6 +351,12 @@
         "url": "https://www.thegatewaypundit.com/2026/11/saudi-arabia-turns-syria-troops-as-iran-backed/",
         "source": "Thegatewaypundit.com",
         "published_at": "2026-11-12T23:40:42Z"
+      },
+      {
+        "title": "Israel detained 49 Syrians since Assad's fall. Families are still waiting for answers",
+        "url": "https://www.haaretz.com/middle-east-news/syria/2026-11-12/ty-article/israel-detained-dozens-of-syrians-their-families-still-await-answers/000001a1-cafc-dd4d-a9b9-ebfe63d20000",
+        "source": "Haaretz",
+        "published_at": "2026-11-11T22:32:46Z"
       }
     ],
     "sahel-jihadist-insurgency": [
@@ -328,6 +373,15 @@
         "published_at": "2026-11-12T12:42:14Z"
       },
       {
+        "title": "Rival Terror Groups Devastate The Sahel",
+        "url": "https://www.eurasiareview.com/12112026-rival-terror-groups-devastate-the-sahel/",
+        "source": "eurasiareview.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T03:45:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
         "title": "Why Ukraine may be involved in Mali's conflict",
         "url": "https://www.dw.com/en/why-ukraine-may-be-involved-in-malis-conflict/a-79743423",
         "source": "DW (English)",
@@ -336,6 +390,48 @@
     ],
     "drc-eastern-conflict": [],
     "somalia-al-shabaab-insurgency": [
+      {
+        "title": "Somalian Government Must Respect Judicial Independence And Rule Of Law : UN Experts",
+        "url": "https://www.scoop.co.nz/stories/WO2611/S00106/somalian-government-must-respect-judicial-independence-and-rule-of-law-un-experts.htm",
+        "source": "scoop.co.nz",
+        "provider": "GDELT",
+        "published_at": "2026-11-13T00:45:00Z",
+        "language": "English",
+        "source_country": "New Zealand"
+      },
+      {
+        "title": "White House defends secret detention of Somali",
+        "url": "https://spacewar.com/white-house-defends-secret-detention-of-somali-999/",
+        "source": "spacewar.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T01:30:00Z",
+        "language": "English",
+        "source_country": "Iraq"
+      },
+      {
+        "title": "Hassan Sheikh Failure to Hold the Country Together Raises Fears of an Al - Shabaab Advance on Mogadishu",
+        "url": "https://wardheernews.com/hassan-sheikhs-failure-to-hold-the-country-together-raises-fears-of-an-al-shabaab-advance-on-mogadishu/",
+        "source": "wardheernews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T06:30:00Z",
+        "language": "English",
+        "source_country": "Somalia"
+      },
+      {
+        "title": "International Intervention Comes Too Late : Somalia Political Crisis Has Passed the Point of Diplomatic Rescue",
+        "url": "https://wardheernews.com/international-intervention-comes-too-late-somalias-political-crisis-has-passed-the-point-of-diplomatic-rescue/",
+        "source": "wardheernews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T06:30:00Z",
+        "language": "English",
+        "source_country": "Somalia"
+      },
+      {
+        "title": "Somali court rejects presidential term extension",
+        "url": "https://rt-english.com/africa/648514-somalia-court-rules-president-term-illegal/",
+        "source": "Rt-english.com",
+        "published_at": "2026-11-06T10:35:18Z"
+      },
       {
         "title": "Somalia's top court rejects president's term extension amid political crisis",
         "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o",
@@ -353,26 +449,20 @@
         "url": "https://rt-english.com/africa/648281-uganda-withdrawing-troops-from-somalia/",
         "source": "Rt-english.com",
         "published_at": "2026-11-03T11:12:21Z"
-      },
-      {
-        "title": "Somali court rejects presidential term extension",
-        "url": "https://rt-english.com/africa/648514-somalia-court-rules-president-term-illegal/",
-        "source": "Rt-english.com",
-        "published_at": "2026-11-06T10:35:18Z"
       }
     ],
     "haiti-gang-crisis": [
-      {
-        "title": "Amnesty International USA Gets Thoroughly Ratioed After Lecturing Bukele and Haiti PM on “Human Rights” While Salvadoran Forces Smash Gang Headquarters",
-        "url": "https://www.thegatewaypundit.com/2026/11/amnesty-international-usa-gets-thoroughly-ratioed-after-lecturing/",
-        "source": "Thegatewaypundit.com",
-        "published_at": "2026-11-12T15:45:02Z"
-      },
       {
         "title": "After Trump Said “Do What You Have to Do,” Bukele’s Salvadoran Troops Help Strike Gang That Kidnapped 16 American Christian Missionaries",
         "url": "https://www.thegatewaypundit.com/2026/11/after-trump-said-do-what-you-have-do/",
         "source": "Thegatewaypundit.com",
         "published_at": "2026-11-12T19:40:56Z"
+      },
+      {
+        "title": "Amnesty International USA Gets Thoroughly Ratioed After Lecturing Bukele and Haiti PM on “Human Rights” While Salvadoran Forces Smash Gang Headquarters",
+        "url": "https://www.thegatewaypundit.com/2026/11/amnesty-international-usa-gets-thoroughly-ratioed-after-lecturing/",
+        "source": "Thegatewaypundit.com",
+        "published_at": "2026-11-12T15:45:02Z"
       },
       {
         "title": "El Salvador-backed air assault destroys Haiti gang headquarters amid search for missing troops",
@@ -413,22 +503,28 @@
     ],
     "mexico-cartel-conflict": [
       {
+        "title": "Treasury Sanctions Two Guatemalan Drug Trafficking Organizations Backing Sinaloa Cartel and CJNG",
+        "url": "https://newsroomamerica.com/a/YhreVqcG0LaGcs02LcxKHZRBE7/ofac_sanctions_guatemala_s_los_mendoza_and_los_huistas_dtos_for_supporting_mexico_s_sinaloa_cartel_and_cjng_targeting_trafficking_corridors_along_the_honduran_and_mexican_borders.html",
+        "source": "newsroomamerica.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-13T18:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Mexican Cartel Leader Known As Tony Montana Sentenced for Armed Drug Trafficking",
+        "url": "https://finchannel.com/mexican-cartel-leader-known-as-tony-montana-sentenced-for-armed-drug-trafficking/141538/crime/2026/11/",
+        "source": "finchannel.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-13T18:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
         "title": "DOJ: U.S. Cartel-Connected U.S. Gangster Used Corrupt Mexican Officials to Protect Olympian Drug Lord",
         "url": "https://www.breitbart.com/border/2026/11/12/doj-u-s-cartel-connected-u-s-gangster-used-corrupt-mexican-officials-to-protect-olympian-drug-lord/",
         "source": "Breitbart News",
         "published_at": "2026-11-12T20:57:59Z"
-      },
-      {
-        "title": "Cartel boss helped Olympian traffic drugs, evade capture, U.S. says",
-        "url": "https://www.cbsnews.com/news/ryan-wedding-cartel-drug-trafficking-mexico/",
-        "source": "CBS News",
-        "published_at": "2026-11-11T14:12:40Z"
-      },
-      {
-        "title": "American girl, 7, shot dead by Mexican police who mistook her family for drug cartel, stricken mother says",
-        "url": "https://www.dailymail.com/news/article-16281969/American-girl-Mexico-shot-dead-police-cartel-Aranza.html",
-        "source": "Dailymail.com",
-        "published_at": "2026-11-10T16:49:10Z"
       },
       {
         "title": "Young American Girl, 7, Shot Dead by Mexican Police During High-Speed Cartel Chase Near U.S. Border",
@@ -437,22 +533,34 @@
         "published_at": "2026-11-12T19:50:16Z"
       },
       {
-        "title": "Slain cartel boss 'The General' provided Ryan Wedding with fake police ID to evade capture, U.S. alleges",
-        "url": "https://www.cbc.ca/news/world/vazquez-wedding-charges-9.7417199",
-        "source": "CBC News",
-        "published_at": "2026-11-10T23:19:15Z"
-      },
-      {
-        "title": "American 7-Year-Old Girl Fatally Shot By Mexican Police In Anti-Cartel Operation Near Border",
-        "url": "https://dailycaller.com/2026/11/10/american-girl-shot-mexican-police-border-cartel",
-        "source": "The Daily Caller",
-        "published_at": "2026-11-10T15:34:28Z"
+        "title": "Cartel boss helped Olympian traffic drugs, evade capture, U.S. says",
+        "url": "https://www.cbsnews.com/news/ryan-wedding-cartel-drug-trafficking-mexico/",
+        "source": "CBS News",
+        "published_at": "2026-11-11T14:12:40Z"
       },
       {
         "title": "Accused Drug Kingpin Allegedly Carried Real Police ID",
         "url": "https://www.newser.com/story/399800/accused-drug-kingpin-allegedly-carried-real-police-id.html",
         "source": "Newser",
         "published_at": "2026-11-11T12:25:00Z"
+      },
+      {
+        "title": "American girl , 7 , killed during Mexican cartel operation ; mother blames police helicopter : report",
+        "url": "https://www.fox13news.com/news/american-girl-7-killed-during-mexican-cartel-operation-mother-blames-police-helicopter-report",
+        "source": "fox13news.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T06:30:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Fugitive helped Olympian run drug cartel and evade arrest , feds allege",
+        "url": "https://www.latimes.com/california/story/2026-11-10/fugitive-helped-olympian-run-drug-cartel-evade-arrest-feds-allege",
+        "source": "latimes.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T05:30:00Z",
+        "language": "English",
+        "source_country": "United States"
       }
     ],
     "venezuela-guyana-essequibo-dispute": [],
@@ -488,12 +596,6 @@
     ],
     "korean-armistice-standoff": [
       {
-        "title": "South Korea sees little prospect of US-North Korea contact around APEC",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/south-korea-sees-little-prospect-of-us-north-korea-contact-around-apec/articleshow/135753411.cms",
-        "source": "The Times of India",
-        "published_at": "2026-11-12T03:13:37Z"
-      },
-      {
         "title": "US disrupts North Korea's $400 million crypto scam, FBI says",
         "url": "https://www.dw.com/en/us-disrupts-north-koreas-400-million-crypto-scam-fbi-says/a-79935957",
         "source": "DW (English)",
@@ -504,6 +606,21 @@
         "url": "https://biztoc.com/x/e96d8205ccd955da",
         "source": "Biztoc.com",
         "published_at": "2026-11-12T19:01:27Z"
+      },
+      {
+        "title": "North Korea Kim Yo Jong criticizes UN over border blast",
+        "url": "http://www.caribbeanherald.com/news/279424224/north-korea-s-kim-yo-jong-criticizes-un-over-border-blast",
+        "source": "caribbeanherald.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T07:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "South Korea sees little prospect of US-North Korea contact around APEC",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/south-korea-sees-little-prospect-of-us-north-korea-contact-around-apec/articleshow/135753411.cms",
+        "source": "The Times of India",
+        "published_at": "2026-11-12T03:13:37Z"
       },
       {
         "title": "North Korean Escapee Exposes The Truth About The ‘World’s Most Dangerous 13YO’ Tipped As Kim Jong-Un’s Heir",
@@ -521,14 +638,51 @@
     "india-pakistan-kashmir-conflict": [],
     "ethiopia-northern-conflict": [
       {
+        "title": "Tigray displaced families fear renewed war as hopes of returning home fade - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+        "url": "https://dominicanrepublicpost.com/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade/",
+        "source": "dominicanrepublicpost.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T04:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Ethiopia Naval Chief Issues Stark Red Sea Warning : Military Force Remains an Option if Diplomacy Fails",
+        "url": "https://wardheernews.com/ethiopias-naval-chief-issues-stark-red-sea-warning-military-force-remains-an-option-if-diplomacy-fails/",
+        "source": "wardheernews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T01:30:00Z",
+        "language": "English",
+        "source_country": "Somalia"
+      },
+      {
         "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
         "url": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade",
         "source": "Al Jazeera English",
         "published_at": "2026-11-11T01:11:04Z"
+      },
+      {
+        "title": "In northern Ethiopia , conflict pushes a strained healthcare system to the brink",
+        "url": "https://www.wkyufm.org/2026-11-09/in-northern-ethiopia-conflict-pushes-a-strained-healthcare-system-to-the-brink",
+        "source": "wkyufm.org",
+        "provider": "GDELT",
+        "published_at": "2026-11-10T03:30:00Z",
+        "language": "English",
+        "source_country": "United States"
       }
     ],
     "nigeria-internal-security-crisis": [],
     "afghanistan-governance-security-crisis": [],
-    "ecuador-organized-crime-crisis": []
+    "ecuador-organized-crime-crisis": [
+      {
+        "title": "Ecuador Steps Up Offensive Against Illegal Gold And Transnational Crime Finances - Analysis",
+        "url": "https://www.eurasiareview.com/12112026-ecuador-steps-up-offensive-against-illegal-gold-and-transnational-crime-finances-analysis/",
+        "source": "eurasiareview.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T03:30:00Z",
+        "language": "English",
+        "source_country": "United States"
+      }
+    ]
   }
 }
