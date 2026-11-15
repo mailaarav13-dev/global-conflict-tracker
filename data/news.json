@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T18:57:24.694Z",
+  "generated_at": "2026-11-15T22:58:07.633Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
@@ -245,7 +245,26 @@
         "published_at": "2026-11-14T07:46:36Z"
       }
     ],
-    "libya-fragmentation": [],
+    "libya-fragmentation": [
+      {
+        "title": "Washington is reshaping security in North Africa . Congress needs to ask how .",
+        "url": "https://www.atlanticcouncil.org/blogs/menasource/washington-is-reshaping-security-in-north-africa-congress-needs-to-ask-how/",
+        "source": "atlanticcouncil.org",
+        "provider": "GDELT",
+        "published_at": "2026-11-13T18:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Libya Signals Tourism Revival with Nationwide Cultural Caravan After Years of Conflict",
+        "url": "https://eturbonews.com/libya-tourism-revival-cultural-artistic-tourism-caravan-heritage-domestic-travel/",
+        "source": "eturbonews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-13T00:45:00Z",
+        "language": "English",
+        "source_country": "United States"
+      }
+    ],
     "syria-transition-crisis": [
       {
         "title": "Syria continues diplomatic outreach as two killed in countryside explosion",
