@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T06:35:14.756Z",
+  "generated_at": "2026-11-15T14:05:00.535Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
@@ -18,6 +18,33 @@
       }
     ],
     "israel-gaza-war": [
+      {
+        "title": "From a 1990 double murder to Hamas leader : Khalil al - Hayya hidden past revealed",
+        "url": "https://www.ynetnews.com/article/ryzcfciafl",
+        "source": "ynetnews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-15T07:45:00Z",
+        "language": "English",
+        "source_country": "Israel"
+      },
+      {
+        "title": "Israeli military says it struck senior member of Hamas military wing",
+        "url": "https://article.wn.com/view/2026/11/15/Israeli_military_says_it_struck_senior_member_of_Hamas_milit_o/",
+        "source": "article.wn.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-15T07:45:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "IDF confirms elimination of Hamas Rafah Brigade Commander 2 months after he took command",
+        "url": "https://www.israelnationalnews.com/news/436211",
+        "source": "israelnationalnews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-15T07:45:00Z",
+        "language": "English",
+        "source_country": "Israel"
+      },
       {
         "title": "UN says Israeli policies worsened deadly impact of Gaza winter storm",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_un-israeli-policies-worsened-gaza-storms-impact-131126",
@@ -51,10 +78,37 @@
         "published_at": "2026-11-12T10:50:35Z"
       },
       {
+        "title": "Sudan Gold Export Earnings Soar , but the Money Is Not Reaching the Poor",
+        "url": "https://allafrica.com/stories/202611120008.html",
+        "source": "allafrica.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T05:30:00Z",
+        "language": "English",
+        "source_country": "Nigeria"
+      },
+      {
         "title": "Amnesty says UN, South Sudan officials failed to prevent village massacre",
         "url": "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre",
         "source": "Al Jazeera English",
         "published_at": "2026-11-12T04:00:24Z"
+      },
+      {
+        "title": "UN Peacekeepers Failed To Protect Civilians Before South Sudan Massacre : Amnesty",
+        "url": "https://www.deccanchronicle.com/world/un-peacekeepers-failed-to-protect-civilians-before-south-sudan-massacre-amnesty-2003675",
+        "source": "deccanchronicle.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T04:00:00Z",
+        "language": "English",
+        "source_country": "India"
+      },
+      {
+        "title": "South Sudan President Salva Kiir on Faith , War and His Hope for Peace : Forgive Them",
+        "url": "https://cbn.com/news/world/south-sudan-president-salva-kiir-faith-war-and-his-hope-peace-forgive-them",
+        "source": "cbn.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T01:30:00Z",
+        "language": "English",
+        "source_country": "United States"
       },
       {
         "title": "UN peacekeepers failed to protect civilians before South Sudan massacre, Amnesty says",
@@ -73,24 +127,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cm894wg251pzo",
         "source": "BBC News",
         "published_at": "2026-11-11T09:28:36Z"
-      },
-      {
-        "title": "Viní Jr invites Sudanese boy who lost both legs to Spain",
-        "url": "https://punchng.com/vini-jr-invites-sudanese-boy-who-lost-both-legs-to-spain/",
-        "source": "The Punch",
-        "published_at": "2026-11-11T09:20:09Z"
-      },
-      {
-        "title": "UN Report Alleges UAE Sent Colombian Mercenaries to Sudan as Nusseibeh Seeks Top UN Post",
-        "url": "https://www.naturalnews.com/2026-11-11-un-report-uae-sent-colombian-mercenaries-sudan.html",
-        "source": "Naturalnews.com",
-        "published_at": "2026-11-11T06:00:00Z"
-      },
-      {
-        "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
-        "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o",
-        "source": "BBC News",
-        "published_at": "2026-11-11T00:19:42Z"
       }
     ],
     "myanmar-civil-war": [
@@ -113,6 +149,33 @@
         "published_at": "2026-11-12T14:50:36Z"
       },
       {
+        "title": "ASEAN : Increase Pressure on Myanmar Junta to End Abuses",
+        "url": "http://www.philippinetimes.com/news/279427469/asean-increase-pressure-on-myanmar-junta-to-end-abuses",
+        "source": "philippinetimes.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T04:00:00Z",
+        "language": "English",
+        "source_country": "Philippines"
+      },
+      {
+        "title": "Myanmar Tests Indonesia Leadership - OpEd",
+        "url": "https://www.eurasiareview.com/12112026-myanmar-tests-indonesias-leadership-oped/",
+        "source": "eurasiareview.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T03:45:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "ASEAN Urged to Pressure Myanmar Junta to End Abuses",
+        "url": "https://www.miragenews.com/asean-urged-to-pressure-myanmar-junta-to-end-1776106/",
+        "source": "miragenews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T03:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
         "title": "ASEAN: Increase Pressure on Myanmar Junta to End Abuses",
         "url": "https://www.hrw.org/news/2026/11/11/asean-increase-pressure-on-myanmar-junta-to-end-abuses",
         "source": "Human Rights Watch",
@@ -123,24 +186,6 @@
         "url": "https://www.resilience.org/stories/2026-11-11/myanmars-civil-war-is-threatening-a-major-peatland-discovery/",
         "source": "Resilience",
         "published_at": "2026-11-11T08:00:26Z"
-      },
-      {
-        "title": "West Asia crisis fuels crude conflict in Myanmar civil war",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/west-asia-crisis-fuels-crude-conflict-in-myanmar-civil-war/articleshow/135723038.cms",
-        "source": "The Times of India",
-        "published_at": "2026-11-11T02:32:36Z"
-      },
-      {
-        "title": "Commentary: ASEAN must hold the line on Five-Point Consensus for Myanmar’s reintegration",
-        "url": "https://www.channelnewsasia.com/commentary/myanmar-asean-summit-reintegration-malaysia-visit-6538936",
-        "source": "CNA",
-        "published_at": "2026-11-10T22:00:00Z"
-      },
-      {
-        "title": "Myanmar summons German envoy over controversial video",
-        "url": "https://www.aljazeera.com/news/2026/11/10/myanmar-summons-german-diplomat-following-controversial-facebook-video",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-10T18:03:06Z"
       }
     ],
     "yemen-civil-war": [
