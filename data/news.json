@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T06:32:06.696Z",
+  "generated_at": "2026-11-16T15:59:04.470Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
@@ -263,6 +263,24 @@
     ],
     "israel-iran-confrontation": [
       {
+        "title": "China Turns to Iraqi Oil as U . S . Blockade Chokes Iranian Supply",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Turns-to-Iraqi-Oil-as-US-Blockade-Chokes-Iranian-Supply.html",
+        "source": "oilprice.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-16T08:15:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Third time the charm ? Israel risks another Iran war without learning from past fail",
+        "url": "https://www.ynetnews.com/opinions-analysis/article/rkbd9xdafl",
+        "source": "ynetnews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-16T08:15:00Z",
+        "language": "English",
+        "source_country": "Israel"
+      },
+      {
         "title": "Military Intelligence : Hezbollah highly likely to join if war with Iran resumes",
         "url": "https://www.israelnationalnews.com/news/436212",
         "source": "israelnationalnews.com",
@@ -308,22 +326,28 @@
         "url": "https://freerepublic.com/focus/f-bloggers/4403086/posts",
         "source": "Freerepublic.com",
         "published_at": "2026-11-15T04:00:16Z"
-      },
-      {
-        "title": "Dem Rep.-elect Hamawy Dodges on if Israel Has Right to Exist, Defends Moral Equivalence Between U.S., Iran",
-        "url": "https://www.breitbart.com/clips/2026/11/14/dem-rep-elect-hamawy-dodges-on-if-israel-has-right-to-exist-defends-moral-equivalence-between-u-s-iran/",
-        "source": "Breitbart News",
-        "published_at": "2026-11-15T03:37:46Z"
-      },
-      {
-        "title": "Netanyahu urges talks ‘without preconditions’ on unity government; Eisenkot rejects PM’s ‘spin’ - The Times of Israel",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186726042",
-        "source": "Slashdot.org",
-        "published_at": "2026-11-15T01:33:02Z"
       }
     ],
     "libya-fragmentation": [],
     "syria-transition-crisis": [
+      {
+        "title": "Syria continues diplomatic outreach as two killed in countryside explosion",
+        "url": "https://www.jpost.com/middle-east/article-914909",
+        "source": "jpost.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-15T07:45:00Z",
+        "language": "English",
+        "source_country": "Israel"
+      },
+      {
+        "title": "A bomb rips through a Damascus suburb killing 2 including a child",
+        "url": "http://www.dailyadvance.com/news/world/a-bomb-rips-through-a-damascus-suburb-killing-2-including-a-child/article_94c98f10-4833-53cf-b519-63a4adb41d2d.html",
+        "source": "dailyadvance.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-15T07:45:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
       {
         "title": "Explosion near Syria’s capital kills father and child",
         "url": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child",
@@ -331,10 +355,13 @@
         "published_at": "2026-11-14T22:43:12Z"
       },
       {
-        "title": "A bomb rips through a Damascus suburb killing 2 including a child",
+        "title": "Bomb rips through Damascus suburb killing 2 including a child",
         "url": "https://abcnews.com/International/wireStory/bomb-rips-damascus-suburb-killing-2-including-child-138145860",
-        "source": "Abcnews.com",
-        "published_at": "2026-11-14T19:12:03Z"
+        "source": "abcnews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-14T20:00:00Z",
+        "language": "English",
+        "source_country": "United States"
       },
       {
         "title": "All-female Kurdish force in Syria to join Interior Ministry",
@@ -559,6 +586,15 @@
         "url": "https://biztoc.com/x/b845117ebd30f343",
         "source": "Biztoc.com",
         "published_at": "2026-11-14T07:28:30Z"
+      },
+      {
+        "title": "Ecuador Steps Up Offensive Against Illegal Gold And Transnational Crime Finances - Analysis",
+        "url": "https://www.eurasiareview.com/12112026-ecuador-steps-up-offensive-against-illegal-gold-and-transnational-crime-finances-analysis/",
+        "source": "eurasiareview.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T03:30:00Z",
+        "language": "English",
+        "source_country": "United States"
       }
     ]
   }
