@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T08:00:34.590Z",
+  "generated_at": "2026-11-17T16:12:06.970Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
@@ -71,6 +71,15 @@
         "url": "https://www.antiwar.com/blog/2026/11/15/scenes-that-are-impossible-to-bear-70-bodies-including-10-children-recovered-from-gaza-rubble/",
         "source": "Antiwar.com",
         "published_at": "2026-11-15T20:16:42Z"
+      },
+      {
+        "title": "From a 1990 double murder to Hamas leader : Khalil al - Hayya hidden past revealed",
+        "url": "https://www.ynetnews.com/article/ryzcfciafl",
+        "source": "ynetnews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-15T07:45:00Z",
+        "language": "English",
+        "source_country": "Israel"
       }
     ],
     "sudan-civil-war": [
@@ -201,6 +210,24 @@
     ],
     "south-china-sea-dispute": [
       {
+        "title": "Philippines falls short of South China Sea code deal as talks move to Singapore in 2027 - Philippine Canadian Inquirer Nationwide Filipino Newspaper",
+        "url": "https://canadianinquirer.net/2026/11/16/philippines-falls-short-of-south-china-sea-code-deal-as-talks-move-to-singapore-in-2027/",
+        "source": "canadianinquirer.net",
+        "provider": "GDELT",
+        "published_at": "2026-11-16T08:15:00Z",
+        "language": "English",
+        "source_country": "Philippines"
+      },
+      {
+        "title": "Trump trade tariffs take center stage at ASEAN summit as leaders seek new markets - Philippine Canadian Inquirer Nationwide Filipino Newspaper",
+        "url": "https://canadianinquirer.net/2026/11/16/trumps-trade-tariffs-take-center-stage-at-asean-summit-as-leaders-seek-new-markets/",
+        "source": "canadianinquirer.net",
+        "provider": "GDELT",
+        "published_at": "2026-11-16T08:15:00Z",
+        "language": "English",
+        "source_country": "Philippines"
+      },
+      {
         "title": "Prabowo urges ASEAN, China to conclude South China Sea CoC talks",
         "url": "https://en.antaranews.com/news/442955/prabowo-urges-asean-china-to-conclude-south-china-sea-coc-talks",
         "source": "Antaranews.com",
@@ -223,6 +250,24 @@
         "url": "https://timesofindia.indiatimes.com/world/rest-of-world/philippines-china-tensions-key-events-that-have-deepened-south-china-sea-rift/articleshow/135852950.cms",
         "source": "The Times of India",
         "published_at": "2026-11-15T10:21:01Z"
+      },
+      {
+        "title": "Philippines , Australia sign defence cooperation pact",
+        "url": "https://www.freemalaysiatoday.com/category/world/2026/11/15/philippines-australia-sign-defence-pact-with-eye-on-china",
+        "source": "freemalaysiatoday.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-15T07:45:00Z",
+        "language": "English",
+        "source_country": "Malaysia"
+      },
+      {
+        "title": "PM to highlight Philippines ties ahead of Trump meeting",
+        "url": "https://www.mandurahmail.com.au/story/9391656/pm-to-highlight-philippines-ties-ahead-of-trump-meeting/",
+        "source": "mandurahmail.com.au",
+        "provider": "GDELT",
+        "published_at": "2026-11-14T21:00:00Z",
+        "language": "English",
+        "source_country": "Australia"
       }
     ],
     "israel-iran-confrontation": [
@@ -323,6 +368,24 @@
     ],
     "somalia-al-shabaab-insurgency": [
       {
+        "title": "Somalia launches National Defence University and rebuilds army hospital",
+        "url": "https://kenya-today.com/report-somalia-launches-national-defence-university-and-rebuilds-army-hospital-27789/",
+        "source": "kenya-today.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-16T08:15:00Z",
+        "language": "English",
+        "source_country": "Kenya"
+      },
+      {
+        "title": "World : US to back UN Support Office in Somalia for another y",
+        "url": "https://www.newvision.co.ug/category/world/us-to-back-un-support-office-in-somalia-for-a-NV_244235_112026",
+        "source": "newvision.co.ug",
+        "provider": "GDELT",
+        "published_at": "2026-11-16T08:15:00Z",
+        "language": "English",
+        "source_country": "Uganda"
+      },
+      {
         "title": "Somalia: We would not have recovered without the international community",
         "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/15/somalia-we-would-not-have-recovered-without-the-international-community",
         "source": "Al Jazeera English",
@@ -333,6 +396,15 @@
         "url": "https://freerepublic.com/focus/f-news/4403094/posts",
         "source": "Freerepublic.com",
         "published_at": "2026-11-15T05:06:16Z"
+      },
+      {
+        "title": "Somalian Government Must Respect Judicial Independence And Rule Of Law : UN Experts",
+        "url": "https://www.scoop.co.nz/stories/WO2611/S00106/somalian-government-must-respect-judicial-independence-and-rule-of-law-un-experts.htm",
+        "source": "scoop.co.nz",
+        "provider": "GDELT",
+        "published_at": "2026-11-13T00:45:00Z",
+        "language": "English",
+        "source_country": "New Zealand"
       },
       {
         "title": "Somali court rejects presidential term extension",
@@ -351,12 +423,6 @@
         "url": "https://punchng.com/somalia-president-accused-of-ordering-chief-justices-arrest/",
         "source": "The Punch",
         "published_at": "2026-11-05T18:52:39Z"
-      },
-      {
-        "title": "Uganda begins pulling troops out of Somalia",
-        "url": "https://rt-english.com/africa/648281-uganda-withdrawing-troops-from-somalia/",
-        "source": "Rt-english.com",
-        "published_at": "2026-11-03T11:12:21Z"
       }
     ],
     "haiti-gang-crisis": [
@@ -546,6 +612,15 @@
         "url": "https://biztoc.com/x/b845117ebd30f343",
         "source": "Biztoc.com",
         "published_at": "2026-11-14T07:28:30Z"
+      },
+      {
+        "title": "Ecuador Steps Up Offensive Against Illegal Gold And Transnational Crime Finances - Analysis",
+        "url": "https://www.eurasiareview.com/12112026-ecuador-steps-up-offensive-against-illegal-gold-and-transnational-crime-finances-analysis/",
+        "source": "eurasiareview.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T03:30:00Z",
+        "language": "English",
+        "source_country": "United States"
       }
     ]
   }
