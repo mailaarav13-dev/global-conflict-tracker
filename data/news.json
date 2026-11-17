@@ -1,29 +1,65 @@
 {
-  "generated_at": "2026-11-17T01:59:22.436Z",
+  "generated_at": "2026-11-17T08:00:34.590Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
     "russia-ukraine-war": [
       {
-        "title": "The Irish Times view on Ukraine: progress on ending the war remains elusive",
-        "url": "https://www.irishtimes.com/opinion/editorials/2026/11/15/the-irish-times-view-on-ukraine-progress-on-ending-the-war-remains-elusive/",
-        "source": "The Irish Times",
-        "published_at": "2026-11-15T21:45:00Z"
+        "title": "Russia is letting conscripts dodge army service by joining its drone forces for 1 year",
+        "url": "https://www.businessinsider.com/russia-conscripts-skip-army-service-joining-drone-forces-2026-11#article",
+        "source": "Business Insider",
+        "published_at": "2026-11-16T07:47:43Z"
       },
       {
-        "title": "Ukraine backs Estonia, urges action on Russia",
-        "url": "https://biztoc.com/x/44df3fbcb5c9b508",
+        "title": "Korybko: Ukraine's Membership In NATO Is Unacceptable For Russia Under Any Conditions",
+        "url": "https://biztoc.com/x/0532795682749856",
         "source": "Biztoc.com",
-        "published_at": "2026-11-15T19:19:46Z"
+        "published_at": "2026-11-16T07:14:42Z"
       },
       {
-        "title": "Zelensky: Russia respects only force",
-        "url": "https://biztoc.com/x/f91f49ed6d7941bf",
-        "source": "Biztoc.com",
-        "published_at": "2026-11-15T19:04:10Z"
+        "title": "Russia’s Andreeva defeats Ukraine’s Svitolina 7-5, 6-3 to win WTA Finals",
+        "url": "https://www.aljazeera.com/sports/2026/11/16/russias-andreeva-defeats-ukraines-svitolina-7-5-6-3-to-win-wta-finals",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-16T07:13:00Z"
+      },
+      {
+        "title": "Alleged cartel boss says Ukraine scam call centers paid up to $370 million in annual bribes",
+        "url": "https://www.naturalnews.com/2026-11-16-ukraine-scam-call-centers-paid-annual-bribes.html",
+        "source": "Naturalnews.com",
+        "published_at": "2026-11-16T06:00:00Z"
       }
     ],
     "israel-gaza-war": [
+      {
+        "title": "Australia's Wong urges Israel to allow aid into Gaza",
+        "url": "https://biztoc.com/x/c5b1ca429f1a18fa",
+        "source": "Biztoc.com",
+        "published_at": "2026-11-16T04:27:41Z"
+      },
+      {
+        "title": "Israel accuses arrested AFP journalist of Hamas links",
+        "url": "https://rt-english.com/news/648878-israel-arrests-afp-journalist-over/",
+        "source": "Rt-english.com",
+        "published_at": "2026-11-16T04:03:27Z"
+      },
+      {
+        "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+        "url": "https://thechronicle.com.gh/israel-kills-hamas-commander-in-strike-on-gaza-camp-officials-say/",
+        "source": "Thechronicle.com.gh",
+        "published_at": "2026-11-16T00:31:09Z"
+      },
+      {
+        "title": "Israel kills top Hamas commander who had plans to ‘carry out terror attacks’",
+        "url": "https://nypost.com/2026/11/15/world-news/israel-kills-top-hamas-commander-with-plans-to-carry-out-terror-attacks-officials/",
+        "source": "New York Post",
+        "published_at": "2026-11-15T22:59:17Z"
+      },
+      {
+        "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
+        "url": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-15T22:06:38Z"
+      },
       {
         "title": "Who can force Israel to implement Gaza ceasefire deal?",
         "url": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal",
@@ -35,33 +71,15 @@
         "url": "https://www.antiwar.com/blog/2026/11/15/scenes-that-are-impossible-to-bear-70-bodies-including-10-children-recovered-from-gaza-rubble/",
         "source": "Antiwar.com",
         "published_at": "2026-11-15T20:16:42Z"
-      },
-      {
-        "title": "Joint Foreign Ministers Statement on Gaza",
-        "url": "https://www.gov.uk/government/news/joint-foreign-ministers-statement-on-gaza--2",
-        "source": "Www.gov.uk",
-        "published_at": "2026-11-15T19:03:43Z"
-      },
-      {
-        "title": "Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jerusalem-daily-mass-funeral-in-gaza-as-netanyahu-clings-to-power",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-15T15:01:54Z"
-      },
-      {
-        "title": "Gaza families bury bodies of loved ones trapped for years under rubble",
-        "url": "https://www.aljazeera.com/features/2026/11/15/gaza-families-bury-bodies-of-loved-ones-trapped-for-years-under-rubble",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-15T13:45:02Z"
-      },
-      {
-        "title": "Senior Hamas commander who helped oversee Oct. 7 attack killed in Israeli strike in Gaza",
-        "url": "https://www.cbc.ca/news/world/hamas-killed-gaza-israel-9.7422641",
-        "source": "CBC News",
-        "published_at": "2026-11-15T13:18:18Z"
       }
     ],
     "sudan-civil-war": [
+      {
+        "title": "Ethiopia and Sudan accusations of backing armed fighters as fears of conflict grow",
+        "url": "https://abcnews.com/International/wireStory/ethiopia-sudan-accuse-backing-armed-fighters-fears-wider-138170200",
+        "source": "Abcnews.com",
+        "published_at": "2026-11-16T06:38:26Z"
+      },
       {
         "title": "Drone attacks on power stations plunge Sudan’s cities into darkness",
         "url": "https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness",
@@ -103,12 +121,6 @@
         "url": "https://www.dw.com/en/sudan-misery-worsens-amid-plummeting-aid-for-displaced-people/a-79938864",
         "source": "DW (English)",
         "published_at": "2026-11-14T08:31:00Z"
-      },
-      {
-        "title": "Drone strike kills nine civilians in war-torn Sudan",
-        "url": "https://rt-english.com/africa/648741-sudan-rsf-drone-attack-killed-civilians/",
-        "source": "Rt-english.com",
-        "published_at": "2026-11-12T10:50:35Z"
       }
     ],
     "myanmar-civil-war": [
@@ -145,49 +157,61 @@
     ],
     "yemen-civil-war": [
       {
-        "title": "Yemen’s Houthis claim missile strikes on Riyadh airport and financial centre",
-        "url": "https://www.thehindubusinessline.com/news/world/yemens-houthis-claim-missile-strikes-on-riyadh-airport-and-financial-centre/article71705956.ece",
-        "source": "BusinessLine",
-        "published_at": "2026-11-15T21:43:38Z"
+        "title": "Yemeni forces pull back from key strait as Houthis near Aden",
+        "url": "https://www.hurriyetdailynews.com/yemeni-forces-pull-back-from-key-strait-as-houthis-near-aden-229435",
+        "source": "Hurriyet Daily News",
+        "published_at": "2026-11-16T05:39:38Z"
       },
       {
-        "title": "Yemen’s Houthis target King Khalid Airport and Riyadh financial center with ballistic missiles",
-        "url": "https://cryptobriefing.com/yemens-houthis-target-king-khalid-airport-and-riyadh-financial-center-with/",
-        "source": "Crypto Briefing",
-        "published_at": "2026-11-15T18:13:30Z"
+        "title": "Yemen: Saudi-backed Forces Retreat, Leaving Houthis in Command of Bab al-Mandab Strait",
+        "url": "https://www.juancole.com/2026/11/retreat-leaving-houthis.html",
+        "source": "Juancole.com",
+        "published_at": "2026-11-16T05:15:13Z"
       },
       {
-        "title": "Houthis deny targeting Mecca and Medina",
-        "url": "https://biztoc.com/x/cc5c90b27a229bb7",
-        "source": "Biztoc.com",
-        "published_at": "2026-11-15T18:03:03Z"
+        "title": "Major Red Sea strait falls under full Houthi control as Yemeni forces retreat",
+        "url": "https://freerepublic.com/focus/f-news/4403172/posts",
+        "source": "Freerepublic.com",
+        "published_at": "2026-11-16T03:35:11Z"
       },
       {
-        "title": "Yemeni government forces redeploy from Bab al-Mandeb to defend Aden",
-        "url": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden",
+        "title": "Yemen forces retreat near Bab el-Mandeb in setback in war against Houthis",
+        "url": "https://www.business-standard.com/world-news/yemen-forces-retreat-near-bab-el-mandeb-in-setback-in-war-against-houthis-126111600084_1.html",
+        "source": "Business Standard",
+        "published_at": "2026-11-16T03:14:35Z"
+      },
+      {
+        "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo",
+        "source": "BBC News",
+        "published_at": "2026-11-16T03:08:31Z"
+      },
+      {
+        "title": "Houthis advance in Yemen as government forces move to defend Aden",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden",
         "source": "Al Jazeera English",
-        "published_at": "2026-11-15T17:33:00Z"
+        "published_at": "2026-11-16T02:22:29Z"
       },
       {
-        "title": "Saudi Arabia intercepts Houthi drones over Mecca region",
-        "url": "https://cryptobriefing.com/saudi-arabia-intercepts-houthi-drones-over-mecca-region/",
-        "source": "Crypto Briefing",
-        "published_at": "2026-11-15T14:25:16Z"
-      },
-      {
-        "title": "Second explosion reported in Marib amid rising tensions with Houthis",
-        "url": "https://cryptobriefing.com/second-explosion-reported-in-marib-amid-rising-tensions-with-houthis/",
-        "source": "Crypto Briefing",
-        "published_at": "2026-11-15T14:23:20Z"
-      },
-      {
-        "title": "Yemeni govt forces retreat from strait in major setback",
-        "url": "https://www.rte.ie/news/middle-east/2026/1115/1599287-yemen-govt-retreat/",
-        "source": "RTE",
-        "published_at": "2026-11-15T13:57:54Z"
+        "title": "Yemen: Anti-Houthi forces pull back as rebels advance",
+        "url": "https://www.dw.com/en/yemen-anti-houthi-forces-pull-back-as-rebels-advance/a-79953692",
+        "source": "DW (English)",
+        "published_at": "2026-11-15T23:29:00Z"
       }
     ],
     "south-china-sea-dispute": [
+      {
+        "title": "Prabowo urges ASEAN, China to conclude South China Sea CoC talks",
+        "url": "https://en.antaranews.com/news/442955/prabowo-urges-asean-china-to-conclude-south-china-sea-coc-talks",
+        "source": "Antaranews.com",
+        "published_at": "2026-11-16T07:44:55Z"
+      },
+      {
+        "title": "ASEAN, China fall short of agreeing on South China Sea code",
+        "url": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-16T02:46:35Z"
+      },
       {
         "title": "ASEAN, China reach provisional agreement on 80% of South China Sea code, says Philippines",
         "url": "https://www.channelnewsasia.com/asia/asean-philippines-south-china-sea-myanmar-haze-6553056",
@@ -199,24 +223,48 @@
         "url": "https://timesofindia.indiatimes.com/world/rest-of-world/philippines-china-tensions-key-events-that-have-deepened-south-china-sea-rift/articleshow/135852950.cms",
         "source": "The Times of India",
         "published_at": "2026-11-15T10:21:01Z"
-      },
-      {
-        "title": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
-        "url": "https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-15T08:07:08Z"
       }
     ],
     "israel-iran-confrontation": [
       {
-        "title": "Iran Downs US Aircraft As Israel Prepares ‘Unprecedented Strikes’ Amidst Election Turmoil",
-        "url": "https://activistpost.com/iran-downs-us-aircraft-as-israel-prepares-unprecedented-strikes-amidst-election-turmoil/",
-        "source": "Activistpost.com",
-        "published_at": "2026-11-15T14:00:00Z"
+        "title": "How Russia is preparing Iran for the next escalation",
+        "url": "https://www.aljazeera.com/opinions/2026/11/16/how-russia-is-preparing-iran-for-the-next-escalation",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-16T06:57:31Z"
+      },
+      {
+        "title": "The threat from Isfahan: Iran retains ability to rebuild its nuclear program",
+        "url": "https://www.israelnationalnews.com/news/436272",
+        "source": "Israelnationalnews.com",
+        "published_at": "2026-11-16T05:18:47Z"
       }
     ],
     "libya-fragmentation": [],
     "syria-transition-crisis": [
+      {
+        "title": "Israel's next government should seek a peace deal with Syria",
+        "url": "https://www.haaretz.com/opinion/editorial/2026-11-16/ty-article-opinion/.premium/israels-next-government-should-seek-a-peace-deal-with-syria/000001a1-e0f3-d1ce-a9a3-e0f37b9a0000",
+        "source": "Haaretz",
+        "published_at": "2026-11-16T01:15:41Z"
+      },
+      {
+        "title": "Syria continues diplomatic outreach as two killed in countryside explosion",
+        "url": "https://www.jpost.com/middle-east/article-914909",
+        "source": "jpost.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-15T07:45:00Z",
+        "language": "English",
+        "source_country": "Israel"
+      },
+      {
+        "title": "A bomb rips through a Damascus suburb killing 2 including a child",
+        "url": "http://www.dailyadvance.com/news/world/a-bomb-rips-through-a-damascus-suburb-killing-2-including-a-child/article_94c98f10-4833-53cf-b519-63a4adb41d2d.html",
+        "source": "dailyadvance.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-15T07:45:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
       {
         "title": "Explosion near Syria’s capital kills father and child",
         "url": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child",
@@ -224,10 +272,13 @@
         "published_at": "2026-11-14T22:43:12Z"
       },
       {
-        "title": "A bomb rips through a Damascus suburb killing 2 including a child",
+        "title": "Bomb rips through Damascus suburb killing 2 including a child",
         "url": "https://abcnews.com/International/wireStory/bomb-rips-damascus-suburb-killing-2-including-child-138145860",
-        "source": "Abcnews.com",
-        "published_at": "2026-11-14T19:12:03Z"
+        "source": "abcnews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-14T20:00:00Z",
+        "language": "English",
+        "source_country": "United States"
       }
     ],
     "sahel-jihadist-insurgency": [
@@ -242,6 +293,15 @@
         "url": "https://rt-english.com/africa/648749-russian-algeria-envoy-accuses-ukraine-training-sahel-militants/",
         "source": "Rt-english.com",
         "published_at": "2026-11-12T12:42:14Z"
+      },
+      {
+        "title": "Rival Terror Groups Devastate The Sahel",
+        "url": "https://www.eurasiareview.com/12112026-rival-terror-groups-devastate-the-sahel/",
+        "source": "eurasiareview.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T03:45:00Z",
+        "language": "English",
+        "source_country": "United States"
       },
       {
         "title": "Why Ukraine may be involved in Mali's conflict",
@@ -259,15 +319,6 @@
         "published_at": "2026-11-11T04:00:00Z",
         "language": "English",
         "source_country": "Saint Kitts and Nevis"
-      },
-      {
-        "title": "World : DR Congo armed rebellion advances in eastern offensiv",
-        "url": "https://www.newvision.co.ug/category/world/dr-congo-armed-rebellion-advances-in-eastern-NV_243896_112026",
-        "source": "newvision.co.ug",
-        "provider": "GDELT",
-        "published_at": "2026-11-10T06:00:00Z",
-        "language": "English",
-        "source_country": "Uganda"
       }
     ],
     "somalia-al-shabaab-insurgency": [
@@ -320,15 +371,27 @@
         "url": "https://www.breitbart.com/latin-america/2026/11/13/el-salvador-finds-several-human-skulls-haitian-soccer-stadium-liberated-gangs/",
         "source": "Breitbart News",
         "published_at": "2026-11-13T20:25:54Z"
-      },
-      {
-        "title": "The chaos in El Salvador before Bukele was never an accident, and the chaos in Haiti today is not an accident either. The media told you that the gangs were just poor boys who went bad on their own, but that story falls apart the moment you ask",
-        "url": "https://freerepublic.com/focus/f-chat/4402933/posts",
-        "source": "Freerepublic.com",
-        "published_at": "2026-11-13T17:48:48Z"
       }
     ],
     "mexico-cartel-conflict": [
+      {
+        "title": "Mexico's cartel 'godfather' convicted in American DEA agent's murder dies at age 80",
+        "url": "https://www.foxnews.com/world/mexicos-cartel-godfather-convicted-american-dea-agents-murder-dies-age-80",
+        "source": "Fox News",
+        "published_at": "2026-11-16T01:54:06Z"
+      },
+      {
+        "title": "Founder of Guadalajara cartel dies in hospital after decades in prison",
+        "url": "https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-16T00:51:23Z"
+      },
+      {
+        "title": "Founder of notorious Guadalajara cartel, imprisoned since 1989, dies at 80",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_49a1fe6e-84e0-468f-89ac-c9ec94371405",
+        "source": "Yahoo Entertainment",
+        "published_at": "2026-11-15T23:07:08Z"
+      },
       {
         "title": "Say hello to our little cell: Mexican drug lord nicknamed ‘El Tony Montana’ gets 22.5 years in US prison",
         "url": "https://nypost.com/2026/11/13/us-news/el-tony-montana-brother-of-late-mexican-cartel-boss-el-mencho-sentenced-to-22-5-years/",
@@ -340,18 +403,6 @@
         "url": "https://abcnews.com/US/wireStory/brother-slain-mexican-cartel-leader-sentenced-22-years-138115626",
         "source": "Abcnews.com",
         "published_at": "2026-11-13T17:24:43Z"
-      },
-      {
-        "title": "DOJ: U.S. Cartel-Connected U.S. Gangster Used Corrupt Mexican Officials to Protect Olympian Drug Lord",
-        "url": "https://www.breitbart.com/border/2026/11/12/doj-u-s-cartel-connected-u-s-gangster-used-corrupt-mexican-officials-to-protect-olympian-drug-lord/",
-        "source": "Breitbart News",
-        "published_at": "2026-11-12T20:57:59Z"
-      },
-      {
-        "title": "Young American Girl, 7, Shot Dead by Mexican Police During High-Speed Cartel Chase Near U.S. Border",
-        "url": "https://radaronline.com/p/american-girl-7-shot-dead-mexican-police-high-speed-cartel-chase-us-border/",
-        "source": "Radaronline.com",
-        "published_at": "2026-11-12T19:50:16Z"
       }
     ],
     "venezuela-guyana-essequibo-dispute": [],
@@ -383,6 +434,41 @@
         "url": "https://biztoc.com/x/79bcdf226eabedca",
         "source": "Biztoc.com",
         "published_at": "2026-11-15T14:43:55Z"
+      },
+      {
+        "title": "Trump , Xi and Putin plan joint meeting",
+        "url": "https://nagalandpost.com/trump-xi-and-putin-plan-joint-meeting/",
+        "source": "nagalandpost.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-15T07:45:00Z",
+        "language": "English"
+      },
+      {
+        "title": "Trump , Xi and Putin plan an unprecedented joint meeting , White House says",
+        "url": "https://www.kcbd.com/2026/11/14/trump-xi-putin-plan-an-unprecedented-joint-meeting-white-house-says/",
+        "source": "kcbd.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-14T20:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Unfazed by Taiwan suspending investment talks , Anwar says numbers going up",
+        "url": "https://www.malaysiakini.com/news/888950-anwar-unfazed-by-taiwan-suspending-investment-talks-says-numbers-going-up",
+        "source": "malaysiakini.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T07:00:00Z",
+        "language": "English",
+        "source_country": "Malaysia"
+      },
+      {
+        "title": "China Xi says Taiwan reunification must happen as history cannot be stopped",
+        "url": "https://www.koreatimes.co.kr/world/20261112/chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped",
+        "source": "koreatimes.co.kr",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T05:30:00Z",
+        "language": "English",
+        "source_country": "South Korea"
       }
     ],
     "korean-armistice-standoff": [
@@ -401,6 +487,12 @@
     ],
     "india-pakistan-kashmir-conflict": [],
     "ethiopia-northern-conflict": [
+      {
+        "title": "Ethiopia and Sudan accusations of backing armed fighters as fears of conflict grow",
+        "url": "https://abcnews.com/International/wireStory/ethiopia-sudan-accuse-backing-armed-fighters-fears-wider-138170200",
+        "source": "Abcnews.com",
+        "published_at": "2026-11-16T06:38:26Z"
+      },
       {
         "title": "Ethiopia blames Egypt, Eritrea for Tigray attacks",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/ethiopia-blames-egypt-eritrea-for-tigray-attacks",
@@ -424,21 +516,6 @@
         "published_at": "2026-11-11T01:30:00Z",
         "language": "English",
         "source_country": "Somalia"
-      },
-      {
-        "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
-        "url": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-11T01:11:04Z"
-      },
-      {
-        "title": "In northern Ethiopia , conflict pushes a strained healthcare system to the brink",
-        "url": "https://www.wkyufm.org/2026-11-09/in-northern-ethiopia-conflict-pushes-a-strained-healthcare-system-to-the-brink",
-        "source": "wkyufm.org",
-        "provider": "GDELT",
-        "published_at": "2026-11-10T03:30:00Z",
-        "language": "English",
-        "source_country": "United States"
       }
     ],
     "nigeria-internal-security-crisis": [
