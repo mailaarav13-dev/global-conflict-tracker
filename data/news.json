@@ -1,9 +1,15 @@
 {
-  "generated_at": "2026-11-16T22:00:06.573Z",
-  "provider": "newsapi.org",
+  "generated_at": "2026-11-17T01:59:22.436Z",
+  "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
     "russia-ukraine-war": [
+      {
+        "title": "The Irish Times view on Ukraine: progress on ending the war remains elusive",
+        "url": "https://www.irishtimes.com/opinion/editorials/2026/11/15/the-irish-times-view-on-ukraine-progress-on-ending-the-war-remains-elusive/",
+        "source": "The Irish Times",
+        "published_at": "2026-11-15T21:45:00Z"
+      },
       {
         "title": "Ukraine backs Estonia, urges action on Russia",
         "url": "https://biztoc.com/x/44df3fbcb5c9b508",
@@ -15,21 +21,9 @@
         "url": "https://biztoc.com/x/f91f49ed6d7941bf",
         "source": "Biztoc.com",
         "published_at": "2026-11-15T19:04:10Z"
-      },
-      {
-        "title": "The Irish Times view on Ukraine: progress on ending the war remains elusive",
-        "url": "https://www.irishtimes.com/opinion/editorials/2026/11/15/the-irish-times-view-on-ukraine-progress-on-ending-the-war-remains-elusive/",
-        "source": "The Irish Times",
-        "published_at": "2026-11-15T21:45:00Z"
       }
     ],
     "israel-gaza-war": [
-      {
-        "title": "Senior Hamas commander who helped oversee Oct. 7 attack killed in Israeli strike in Gaza",
-        "url": "https://www.cbc.ca/news/world/hamas-killed-gaza-israel-9.7422641",
-        "source": "CBC News",
-        "published_at": "2026-11-15T13:18:18Z"
-      },
       {
         "title": "Who can force Israel to implement Gaza ceasefire deal?",
         "url": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal",
@@ -59,21 +53,15 @@
         "url": "https://www.aljazeera.com/features/2026/11/15/gaza-families-bury-bodies-of-loved-ones-trapped-for-years-under-rubble",
         "source": "Al Jazeera English",
         "published_at": "2026-11-15T13:45:02Z"
+      },
+      {
+        "title": "Senior Hamas commander who helped oversee Oct. 7 attack killed in Israeli strike in Gaza",
+        "url": "https://www.cbc.ca/news/world/hamas-killed-gaza-israel-9.7422641",
+        "source": "CBC News",
+        "published_at": "2026-11-15T13:18:18Z"
       }
     ],
     "sudan-civil-war": [
-      {
-        "title": "Drone strike kills nine civilians in war-torn Sudan",
-        "url": "https://rt-english.com/africa/648741-sudan-rsf-drone-attack-killed-civilians/",
-        "source": "Rt-english.com",
-        "published_at": "2026-11-12T10:50:35Z"
-      },
-      {
-        "title": "How SAF successes in Sudan’s Kordofan could turn tide against the RSF",
-        "url": "https://www.aljazeera.com/news/2026/11/14/how-saf-successes-in-sudans-kordofan-could-turn-tide-against-the-rsf",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-14T12:49:17Z"
-      },
       {
         "title": "Drone attacks on power stations plunge Sudan’s cities into darkness",
         "url": "https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness",
@@ -85,6 +73,12 @@
         "url": "https://www.dw.com/en/south-sudan-pushes-back-elections-amid-violent-flare-ups/a-79949622",
         "source": "DW (English)",
         "published_at": "2026-11-14T20:53:00Z"
+      },
+      {
+        "title": "How SAF successes in Sudan’s Kordofan could turn tide against the RSF",
+        "url": "https://www.aljazeera.com/news/2026/11/14/how-saf-successes-in-sudans-kordofan-could-turn-tide-against-the-rsf",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-14T12:49:17Z"
       },
       {
         "title": "South Sudan postpones first national elections again, to February 2027",
@@ -109,6 +103,12 @@
         "url": "https://www.dw.com/en/sudan-misery-worsens-amid-plummeting-aid-for-displaced-people/a-79938864",
         "source": "DW (English)",
         "published_at": "2026-11-14T08:31:00Z"
+      },
+      {
+        "title": "Drone strike kills nine civilians in war-torn Sudan",
+        "url": "https://rt-english.com/africa/648741-sudan-rsf-drone-attack-killed-civilians/",
+        "source": "Rt-english.com",
+        "published_at": "2026-11-12T10:50:35Z"
       }
     ],
     "myanmar-civil-war": [
@@ -117,12 +117,6 @@
         "url": "https://economictimes.indiatimes.com/news/international/world-news/aseans-myanmar-dilemma-deepens-as-thailand-pushes-for-juntas-return/articleshow/135795441.cms",
         "source": "The Times of India",
         "published_at": "2026-11-13T08:23:52Z"
-      },
-      {
-        "title": "ASEAN: Increase Pressure on Myanmar Junta to End Abuses",
-        "url": "https://www.hrw.org/news/2026/11/11/asean-increase-pressure-on-myanmar-junta-to-end-abuses",
-        "source": "Human Rights Watch",
-        "published_at": "2026-11-12T02:00:00Z"
       },
       {
         "title": "‘White Tiger Column’ Directors on How Myanmar’s Resistance Speaks to Political Youth Movements in Brazil, Serbia and the U.S.: ‘Revolution Is on the Lips of a Lot of People’",
@@ -135,6 +129,12 @@
         "url": "http://www.hollywoodreporter.com/movies/movie-news/white-tiger-column-doc-film-myanmar-resistance-idfa-teaser-1236753175/",
         "source": "Hollywood Reporter",
         "published_at": "2026-11-12T14:50:36Z"
+      },
+      {
+        "title": "ASEAN: Increase Pressure on Myanmar Junta to End Abuses",
+        "url": "https://www.hrw.org/news/2026/11/11/asean-increase-pressure-on-myanmar-junta-to-end-abuses",
+        "source": "Human Rights Watch",
+        "published_at": "2026-11-12T02:00:00Z"
       },
       {
         "title": "Myanmar’s civil war is threatening a major peatland discovery",
@@ -157,10 +157,10 @@
         "published_at": "2026-11-15T18:13:30Z"
       },
       {
-        "title": "Yemeni govt forces retreat from strait in major setback",
-        "url": "https://www.rte.ie/news/middle-east/2026/1115/1599287-yemen-govt-retreat/",
-        "source": "RTE",
-        "published_at": "2026-11-15T13:57:54Z"
+        "title": "Houthis deny targeting Mecca and Medina",
+        "url": "https://biztoc.com/x/cc5c90b27a229bb7",
+        "source": "Biztoc.com",
+        "published_at": "2026-11-15T18:03:03Z"
       },
       {
         "title": "Yemeni government forces redeploy from Bab al-Mandeb to defend Aden",
@@ -181,10 +181,10 @@
         "published_at": "2026-11-15T14:23:20Z"
       },
       {
-        "title": "Houthis deny targeting Mecca and Medina",
-        "url": "https://biztoc.com/x/cc5c90b27a229bb7",
-        "source": "Biztoc.com",
-        "published_at": "2026-11-15T18:03:03Z"
+        "title": "Yemeni govt forces retreat from strait in major setback",
+        "url": "https://www.rte.ie/news/middle-east/2026/1115/1599287-yemen-govt-retreat/",
+        "source": "RTE",
+        "published_at": "2026-11-15T13:57:54Z"
       }
     ],
     "south-china-sea-dispute": [
@@ -218,16 +218,16 @@
     "libya-fragmentation": [],
     "syria-transition-crisis": [
       {
-        "title": "A bomb rips through a Damascus suburb killing 2 including a child",
-        "url": "https://abcnews.com/International/wireStory/bomb-rips-damascus-suburb-killing-2-including-child-138145860",
-        "source": "Abcnews.com",
-        "published_at": "2026-11-14T19:12:03Z"
-      },
-      {
         "title": "Explosion near Syria’s capital kills father and child",
         "url": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child",
         "source": "Al Jazeera English",
         "published_at": "2026-11-14T22:43:12Z"
+      },
+      {
+        "title": "A bomb rips through a Damascus suburb killing 2 including a child",
+        "url": "https://abcnews.com/International/wireStory/bomb-rips-damascus-suburb-killing-2-including-child-138145860",
+        "source": "Abcnews.com",
+        "published_at": "2026-11-14T19:12:03Z"
       }
     ],
     "sahel-jihadist-insurgency": [
@@ -250,7 +250,26 @@
         "published_at": "2026-10-26T14:58:00Z"
       }
     ],
-    "drc-eastern-conflict": [],
+    "drc-eastern-conflict": [
+      {
+        "title": "SKNVibes | Fighting in eastern DRC threatens Ebola response as countries tighten travel restrictions",
+        "url": "https://www.sknvibes.com/news/newsdetails.cfm/128057",
+        "source": "sknvibes.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T04:00:00Z",
+        "language": "English",
+        "source_country": "Saint Kitts and Nevis"
+      },
+      {
+        "title": "World : DR Congo armed rebellion advances in eastern offensiv",
+        "url": "https://www.newvision.co.ug/category/world/dr-congo-armed-rebellion-advances-in-eastern-NV_243896_112026",
+        "source": "newvision.co.ug",
+        "provider": "GDELT",
+        "published_at": "2026-11-10T06:00:00Z",
+        "language": "English",
+        "source_country": "Uganda"
+      }
+    ],
     "somalia-al-shabaab-insurgency": [
       {
         "title": "Somalia: We would not have recovered without the international community",
@@ -263,6 +282,12 @@
         "url": "https://freerepublic.com/focus/f-news/4403094/posts",
         "source": "Freerepublic.com",
         "published_at": "2026-11-15T05:06:16Z"
+      },
+      {
+        "title": "Somali court rejects presidential term extension",
+        "url": "https://rt-english.com/africa/648514-somalia-court-rules-president-term-illegal/",
+        "source": "Rt-english.com",
+        "published_at": "2026-11-06T10:35:18Z"
       },
       {
         "title": "Somalia's top court rejects president's term extension amid political crisis",
@@ -281,12 +306,6 @@
         "url": "https://rt-english.com/africa/648281-uganda-withdrawing-troops-from-somalia/",
         "source": "Rt-english.com",
         "published_at": "2026-11-03T11:12:21Z"
-      },
-      {
-        "title": "Somali court rejects presidential term extension",
-        "url": "https://rt-english.com/africa/648514-somalia-court-rules-president-term-illegal/",
-        "source": "Rt-english.com",
-        "published_at": "2026-11-06T10:35:18Z"
       }
     ],
     "haiti-gang-crisis": [
@@ -311,6 +330,12 @@
     ],
     "mexico-cartel-conflict": [
       {
+        "title": "Say hello to our little cell: Mexican drug lord nicknamed ‘El Tony Montana’ gets 22.5 years in US prison",
+        "url": "https://nypost.com/2026/11/13/us-news/el-tony-montana-brother-of-late-mexican-cartel-boss-el-mencho-sentenced-to-22-5-years/",
+        "source": "New York Post",
+        "published_at": "2026-11-13T18:42:04Z"
+      },
+      {
         "title": "Brother of slain Mexican cartel leader is sentenced to 22 years in prison for drug trafficking plot",
         "url": "https://abcnews.com/US/wireStory/brother-slain-mexican-cartel-leader-sentenced-22-years-138115626",
         "source": "Abcnews.com",
@@ -327,12 +352,6 @@
         "url": "https://radaronline.com/p/american-girl-7-shot-dead-mexican-police-high-speed-cartel-chase-us-border/",
         "source": "Radaronline.com",
         "published_at": "2026-11-12T19:50:16Z"
-      },
-      {
-        "title": "Say hello to our little cell: Mexican drug lord nicknamed ‘El Tony Montana’ gets 22.5 years in US prison",
-        "url": "https://nypost.com/2026/11/13/us-news/el-tony-montana-brother-of-late-mexican-cartel-boss-el-mencho-sentenced-to-22-5-years/",
-        "source": "New York Post",
-        "published_at": "2026-11-13T18:42:04Z"
       }
     ],
     "venezuela-guyana-essequibo-dispute": [],
@@ -354,16 +373,16 @@
     ],
     "taiwan-strait-tension": [
       {
-        "title": "USAF \"Nuclear Sniffer\" Jet Spotted Near Taiwan Strait",
-        "url": "https://biztoc.com/x/79bcdf226eabedca",
-        "source": "Biztoc.com",
-        "published_at": "2026-11-15T14:43:55Z"
-      },
-      {
         "title": "Cheap full-service flights from Budapest to Taiwan for €477",
         "url": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-taiwan-e477/",
         "source": "Fly4free.com",
         "published_at": "2026-11-15T21:00:00Z"
+      },
+      {
+        "title": "USAF \"Nuclear Sniffer\" Jet Spotted Near Taiwan Strait",
+        "url": "https://biztoc.com/x/79bcdf226eabedca",
+        "source": "Biztoc.com",
+        "published_at": "2026-11-15T14:43:55Z"
       }
     ],
     "korean-armistice-standoff": [
@@ -389,10 +408,37 @@
         "published_at": "2026-11-14T12:28:19Z"
       },
       {
+        "title": "Tigray displaced families fear renewed war as hopes of returning home fade - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+        "url": "https://dominicanrepublicpost.com/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade/",
+        "source": "dominicanrepublicpost.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T04:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Ethiopia Naval Chief Issues Stark Red Sea Warning : Military Force Remains an Option if Diplomacy Fails",
+        "url": "https://wardheernews.com/ethiopias-naval-chief-issues-stark-red-sea-warning-military-force-remains-an-option-if-diplomacy-fails/",
+        "source": "wardheernews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-11T01:30:00Z",
+        "language": "English",
+        "source_country": "Somalia"
+      },
+      {
         "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
         "url": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade",
         "source": "Al Jazeera English",
         "published_at": "2026-11-11T01:11:04Z"
+      },
+      {
+        "title": "In northern Ethiopia , conflict pushes a strained healthcare system to the brink",
+        "url": "https://www.wkyufm.org/2026-11-09/in-northern-ethiopia-conflict-pushes-a-strained-healthcare-system-to-the-brink",
+        "source": "wkyufm.org",
+        "provider": "GDELT",
+        "published_at": "2026-11-10T03:30:00Z",
+        "language": "English",
+        "source_country": "United States"
       }
     ],
     "nigeria-internal-security-crisis": [
@@ -405,16 +451,16 @@
     ],
     "afghanistan-governance-security-crisis": [
       {
-        "title": "Cricket Scotland Restricts Afghanistan Ties Over Womens Rights",
-        "url": "https://www.khaama.com/cricket-scotland-restricts-afghanistan-ties-womens-rights/",
-        "source": "Khaama.com",
-        "published_at": "2026-11-15T00:04:49Z"
-      },
-      {
         "title": "Barred By The Taliban, Afghan Girls And Women Now Shut Out Of School In Iran And Pakistan Too",
         "url": "https://www.rferl.org/a/afghanistan-girls-women-education-taliban-iran-pakistan/33897996.html",
         "source": "Radio Free Europe/ Radio Liberty",
         "published_at": "2026-11-15T11:59:32Z"
+      },
+      {
+        "title": "Cricket Scotland Restricts Afghanistan Ties Over Womens Rights",
+        "url": "https://www.khaama.com/cricket-scotland-restricts-afghanistan-ties-womens-rights/",
+        "source": "Khaama.com",
+        "published_at": "2026-11-15T00:04:49Z"
       }
     ],
     "ecuador-organized-crime-crisis": [
