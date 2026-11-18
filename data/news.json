@@ -1,62 +1,32 @@
 {
-  "generated_at": "2026-11-18T15:49:57.155Z",
+  "generated_at": "2026-11-18T20:36:38.407Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
     "russia-ukraine-war": [
       {
-        "title": "Ukraine strikes major Russian bridge as aerial attacks escalate",
-        "url": "https://www.richmondandtwickenhamtimes.co.uk/news/national/26735858.ukraine-strikes-major-russian-bridge-aerial-attacks-escalate/",
-        "source": "richmondandtwickenhamtimes.co.uk",
-        "provider": "GDELT",
-        "published_at": "2026-11-18T01:15:00Z",
-        "language": "English",
-        "source_country": "United Kingdom"
+        "title": "Ukrainian Drones Target 2 Oil Refineries Deep Inside Russia",
+        "url": "https://www.rigzone.com/news/wire/ukrainian_drones_target_2_oil_refineries_deep_inside_russia-17-nov-2026-185104-article/",
+        "source": "Rigzone",
+        "published_at": "2026-11-17T20:00:00Z"
       },
       {
-        "title": "Trump to meet Marcos in Manila before China talks",
-        "url": "https://www.yasstribune.com.au/story/9393804/trump-to-meet-marcos-in-manila-before-china-talks/",
-        "source": "yasstribune.com.au",
-        "provider": "GDELT",
-        "published_at": "2026-11-18T01:15:00Z",
-        "language": "English",
-        "source_country": "Australia"
+        "title": "US scolds Ukraine over deep strikes ahead of fresh Russia peace talks",
+        "url": "https://www.politico.eu/article/us-scold-ukraine-strikes-russia-peace-talks-elbridge-colby/",
+        "source": "POLITICO.eu",
+        "published_at": "2026-11-17T19:53:42Z"
       },
       {
-        "title": "Putin's Crimean bridge is 'seriously damaged' in second attack by Ukraine drones as section 'collapses into river'",
-        "url": "https://www.dailymail.com/news/article-16298675/Putins-Crimean-bridge-seriously-damaged-second-attack-Ukraine-drones-section-collapses-river.html",
-        "source": "Dailymail.com",
-        "published_at": "2026-11-17T07:19:42Z"
+        "title": "A Kremlin trap? Europe sees danger in Vladimir Putin’s new demand in U.S. talks - NBC News",
+        "url": "https://slashdot.org/firehose.pl?op=view&id=186761216",
+        "source": "Slashdot.org",
+        "published_at": "2026-11-17T19:53:39Z"
       },
       {
-        "title": "Russia and Ukraine exchange strikes on bridges ahead of Xi-Trump-Putin summit",
-        "url": "https://www.thejournal.ie/russia-ukraine-bridge-strikes-7228359-Nov2026/",
-        "source": "TheJournal.ie",
-        "published_at": "2026-11-17T07:15:34Z"
-      },
-      {
-        "title": "Russia, Ukraine exchange strikes on bridges ahead of Xi-Trump-Putin summit",
-        "url": "https://www.channelnewsasia.com/world/russia-ukraine-exchange-strikes-bridges-ahead-xi-trump-putin-summit-6556551",
-        "source": "CNA",
-        "published_at": "2026-11-17T07:15:28Z"
-      },
-      {
-        "title": "Russia claims 'massive' strike across Ukraine",
-        "url": "https://biztoc.com/x/02a2f54da1c67fe2",
+        "title": "'The symbol of the occupation': Ukraine destroys span of Kerch Bridge linking Russia with Crimea",
+        "url": "https://biztoc.com/x/30684bf33941c85d",
         "source": "Biztoc.com",
-        "published_at": "2026-11-17T06:08:18Z"
-      },
-      {
-        "title": "Komyshuvakha: Ukraine accuses Russia of targeting rescue operation after strikes that killed 57",
-        "url": "https://www.bbc.com/news/articles/c30rk8x5g80qo",
-        "source": "BBC News",
-        "published_at": "2026-11-17T06:02:48Z"
-      },
-      {
-        "title": "European Leaders Agree on Multi-Country Team for Ukraine Peace Talks",
-        "url": "https://www.naturalnews.com/2026-11-17-european-leaders-agree-multi-country-team-ukraine-talks.html",
-        "source": "Naturalnews.com",
-        "published_at": "2026-11-17T06:00:00Z"
+        "published_at": "2026-11-17T19:51:50Z"
       }
     ],
     "israel-gaza-war": [
@@ -70,22 +40,28 @@
         "source_country": "United States"
       },
       {
-        "title": "Israel uses disinformation to conceal Gaza crimes: Duran",
-        "url": "https://www.hurriyetdailynews.com/israel-uses-disinformation-to-conceal-gaza-crimes-duran-229483",
-        "source": "Hurriyet Daily News",
-        "published_at": "2026-11-17T05:15:01Z"
+        "title": "Israel under pressure as winter rains lash Gaza - Financial Times",
+        "url": "https://slashdot.org/firehose.pl?op=view&id=186758260",
+        "source": "Slashdot.org",
+        "published_at": "2026-11-17T17:13:29Z"
       },
       {
-        "title": "DSA Candidate Challenging John Fetterman Won’t Answer If He’s ‘Very Pro-Hamas’ or Not",
-        "url": "https://www.mediaite.com/media/news/dsa-candidate-challenging-john-fetterman-wont-answer-if-hes-very-pro-hamas-or-not/",
-        "source": "Mediaite",
-        "published_at": "2026-11-17T03:12:56Z"
+        "title": "UK sanctions eight Israeli firms over West Bank settlements, targets Gaza aid-blocking group",
+        "url": "https://timesofindia.indiatimes.com/world/uk/uk-sanctions-eight-israeli-firms-over-west-bank-settlements-targets-gaza-aid-blocking-group/articleshow/135933959.cms",
+        "source": "The Times of India",
+        "published_at": "2026-11-17T17:02:51Z"
       },
       {
-        "title": "DSAer Dem PA Senate Candidate on if He's Pro-Hamas: That's Bad Faith, People 'Are Done with Israel'",
-        "url": "https://www.breitbart.com/clips/2026/11/16/dsaer-dem-pa-senate-candidate-on-if-hes-pro-hamas-thats-bad-faith-people-are-done-with-israel/",
-        "source": "Breitbart News",
-        "published_at": "2026-11-17T01:43:21Z"
+        "title": "Did Israel commit genocide in Gaza? Watch this court case for clues",
+        "url": "https://www.haaretz.com/world-news/2026-11-17/ty-article-magazine/.premium/did-israel-commit-genocide-in-gaza-watch-this-court-case-for-clues/000001a1-e962-d848-abeb-fbeac9b70000",
+        "source": "Haaretz",
+        "published_at": "2026-11-17T16:05:04Z"
+      },
+      {
+        "title": "Israeli gunfire, airstrikes kill four Palestinians in Gaza, including 6-year-old boy",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/israeli-gunfire-airstrikes-kill-four-palestinians-in-gaza-including-6-year-old-boy/articleshow/135930267.cms",
+        "source": "The Times of India",
+        "published_at": "2026-11-17T15:00:11Z"
       },
       {
         "title": "From a 1990 double murder to Hamas leader : Khalil al - Hayya hidden past revealed",
@@ -117,55 +93,28 @@
     ],
     "sudan-civil-war": [
       {
+        "title": "Watch: Archaeologists Find Medieval Church In War-Torn Sudan",
+        "url": "https://biztoc.com/x/5be07f0d6d9b4508",
+        "source": "Biztoc.com",
+        "published_at": "2026-11-17T13:14:15Z"
+      },
+      {
+        "title": "Sudanese priest who survived civil war is 'murdered' within six months of arriving in Britain",
+        "url": "https://www.dailymail.com/news/article-16298861/Sudanese-priest-civil-war-murdered-Britain.html",
+        "source": "Dailymail.com",
+        "published_at": "2026-11-17T10:37:16Z"
+      },
+      {
+        "title": "Sudanese rebel commander defects to army",
+        "url": "https://rt-english.com/africa/648946-rsf-commander-defects-sudanese-army/",
+        "source": "Rt-english.com",
+        "published_at": "2026-11-17T10:21:48Z"
+      },
+      {
         "title": "Sudanese army air attack kills 13 in western Sudan: Rights group",
         "url": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group",
         "source": "Al Jazeera English",
         "published_at": "2026-11-16T21:06:19Z"
-      },
-      {
-        "title": "To Understand the Muslim Brotherhood, Study Sudan",
-        "url": "https://www.fairobserver.com/region/middle_east_north_africa/to-understand-the-muslim-brotherhood-study-sudan/",
-        "source": "Fair Observer",
-        "published_at": "2026-11-16T13:03:36Z"
-      },
-      {
-        "title": "International organizations issue Sudan war plea",
-        "url": "https://rt-english.com/africa/648902-sudan-ceasefire-un-au-drone-attacks/",
-        "source": "Rt-english.com",
-        "published_at": "2026-11-16T11:32:52Z"
-      },
-      {
-        "title": "Ethiopia and Sudan accusations of backing armed fighters as fears of conflict grow",
-        "url": "https://abcnews.com/International/wireStory/ethiopia-sudan-accuse-backing-armed-fighters-fears-wider-138170200",
-        "source": "Abcnews.com",
-        "published_at": "2026-11-16T06:38:26Z"
-      },
-      {
-        "title": "Sudan Gold Export Earnings Soar , but the Money Is Not Reaching the Poor",
-        "url": "https://allafrica.com/stories/202611120008.html",
-        "source": "allafrica.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-12T05:30:00Z",
-        "language": "English",
-        "source_country": "Nigeria"
-      },
-      {
-        "title": "UN Peacekeepers Failed To Protect Civilians Before South Sudan Massacre : Amnesty",
-        "url": "https://www.deccanchronicle.com/world/un-peacekeepers-failed-to-protect-civilians-before-south-sudan-massacre-amnesty-2003675",
-        "source": "deccanchronicle.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-12T04:00:00Z",
-        "language": "English",
-        "source_country": "India"
-      },
-      {
-        "title": "South Sudan President Salva Kiir on Faith , War and His Hope for Peace : Forgive Them",
-        "url": "https://cbn.com/news/world/south-sudan-president-salva-kiir-faith-war-and-his-hope-peace-forgive-them",
-        "source": "cbn.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-12T01:30:00Z",
-        "language": "English",
-        "source_country": "United States"
       }
     ],
     "myanmar-civil-war": [
@@ -186,151 +135,77 @@
         "url": "https://www.thegatewaypundit.com/2026/11/burma-junta-bombs-maternity-clinic-bridge-rakhine-state/",
         "source": "Thegatewaypundit.com",
         "published_at": "2026-11-16T17:30:38Z"
-      },
-      {
-        "title": "ASEAN's Myanmar dilemma deepens as Thailand pushes for junta's return",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/aseans-myanmar-dilemma-deepens-as-thailand-pushes-for-juntas-return/articleshow/135795441.cms",
-        "source": "The Times of India",
-        "published_at": "2026-11-13T08:23:52Z"
       }
     ],
     "yemen-civil-war": [
       {
-        "title": "Amid Houthi advances: Saudi-backed forces withdraw from Bab al-Mandeb coast",
-        "url": "https://www.israelnationalnews.com/flashes/697656",
-        "source": "Israelnationalnews.com",
-        "published_at": "2026-11-17T06:38:49Z"
+        "title": "Fighting in Yemen has made crossing the Bab el-Mandeb even more dangerous – jeopardizing aid and refuge for millions",
+        "url": "https://theconversation.com/fighting-in-yemen-has-made-crossing-the-bab-el-mandeb-even-more-dangerous-jeopardizing-aid-and-refuge-for-millions-295106",
+        "source": "The Conversation Africa",
+        "published_at": "2026-11-17T19:48:54Z"
       },
       {
-        "title": "King Salman Fires Commander Of Anti-Houthi Coalition Amid Disastrous Setbacks",
-        "url": "https://biztoc.com/x/1f21366b58d09815",
+        "title": "Yemeni parliament approves law designating Houthis as ‘terrorists’",
+        "url": "https://www.aljazeera.com/news/2026/11/17/yemeni-parliament-approves-law-designating-houthis-as-terrorists",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-17T16:53:25Z"
+      },
+      {
+        "title": "UKMTO: Naval incident in Gulf of Aden near Yemen",
+        "url": "https://biztoc.com/x/7c194f455c31d2ee",
         "source": "Biztoc.com",
-        "published_at": "2026-11-17T02:50:16Z"
+        "published_at": "2026-11-17T16:33:38Z"
       },
       {
-        "title": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
-        "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden",
+        "title": "Houthi advance on Aden may spur resurgence of Yemen’s southern separatists",
+        "url": "https://www.aljazeera.com/news/2026/11/17/houthi-advance-on-aden-sparks-resurgence-of-yemens-southern-separatists",
         "source": "Al Jazeera English",
-        "published_at": "2026-11-17T01:38:13Z"
+        "published_at": "2026-11-17T15:26:55Z"
       },
       {
-        "title": "Live: Houthis advance in Yemen as tankers hit sea mines in Strait of Hormuz",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-16T23:57:49Z"
-      },
-      {
-        "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-        "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo",
-        "source": "BBC News",
-        "published_at": "2026-11-16T21:40:07Z"
+        "title": "How the Houthis outmaneuvered Saudi Arabia and Trump",
+        "url": "https://www.haaretz.com/middle-east-news/2026-11-17/ty-article/.premium/how-the-houthis-outmaneuvered-saudi-arabia-and-trump/000001a1-e8f5-d848-abeb-fafd39e60000",
+        "source": "Haaretz",
+        "published_at": "2026-11-17T12:08:35Z"
       }
     ],
     "south-china-sea-dispute": [
+      {
+        "title": "Why is a South China Sea Code of Conduct still unfinished after decades of talks?",
+        "url": "https://www.channelnewsasia.com/asia/cna-explains-south-china-sea-talks-unfinished-asean-6558131",
+        "source": "CNA",
+        "published_at": "2026-11-17T10:56:09Z"
+      },
       {
         "title": "ASEAN chief highlights unusually extensive haze talks, hurdles in South China Sea code negotiations",
         "url": "https://www.channelnewsasia.com/asia/asean-south-china-sea-haze-sec-gen-kao-kim-hourn-6557346",
         "source": "CNA",
         "published_at": "2026-11-17T06:38:54Z"
-      },
-      {
-        "title": "China, Asean pledge restraint as talks on South China Sea pact face key hurdles",
-        "url": "https://timesofindia.indiatimes.com/world/china/china-asean-pledge-restraint-as-talks-on-south-china-sea-pact-face-key-hurdles/articleshow/135888093.cms",
-        "source": "The Times of India",
-        "published_at": "2026-11-16T12:18:23Z"
-      },
-      {
-        "title": "Philippines falls short of South China Sea code deal as talks move to Singapore in 2027 - Philippine Canadian Inquirer Nationwide Filipino Newspaper",
-        "url": "https://canadianinquirer.net/2026/11/16/philippines-falls-short-of-south-china-sea-code-deal-as-talks-move-to-singapore-in-2027/",
-        "source": "canadianinquirer.net",
-        "provider": "GDELT",
-        "published_at": "2026-11-16T08:15:00Z",
-        "language": "English",
-        "source_country": "Philippines"
-      },
-      {
-        "title": "Trump trade tariffs take center stage at ASEAN summit as leaders seek new markets - Philippine Canadian Inquirer Nationwide Filipino Newspaper",
-        "url": "https://canadianinquirer.net/2026/11/16/trumps-trade-tariffs-take-center-stage-at-asean-summit-as-leaders-seek-new-markets/",
-        "source": "canadianinquirer.net",
-        "provider": "GDELT",
-        "published_at": "2026-11-16T08:15:00Z",
-        "language": "English",
-        "source_country": "Philippines"
-      },
-      {
-        "title": "Prabowo urges ASEAN, China to conclude South China Sea CoC talks",
-        "url": "https://en.antaranews.com/news/442955/prabowo-urges-asean-china-to-conclude-south-china-sea-coc-talks",
-        "source": "Antaranews.com",
-        "published_at": "2026-11-16T07:44:55Z"
-      },
-      {
-        "title": "Philippines , Australia sign defence cooperation pact",
-        "url": "https://www.freemalaysiatoday.com/category/world/2026/11/15/philippines-australia-sign-defence-pact-with-eye-on-china",
-        "source": "freemalaysiatoday.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-15T07:45:00Z",
-        "language": "English",
-        "source_country": "Malaysia"
-      },
-      {
-        "title": "PM to highlight Philippines ties ahead of Trump meeting",
-        "url": "https://www.mandurahmail.com.au/story/9391656/pm-to-highlight-philippines-ties-ahead-of-trump-meeting/",
-        "source": "mandurahmail.com.au",
-        "provider": "GDELT",
-        "published_at": "2026-11-14T21:00:00Z",
-        "language": "English",
-        "source_country": "Australia"
       }
     ],
     "israel-iran-confrontation": [
       {
-        "title": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet",
-        "url": "https://www.kwit.org/2026-11-17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet",
-        "source": "kwit.org",
-        "provider": "GDELT",
-        "published_at": "2026-11-18T01:15:00Z",
-        "language": "English",
-        "source_country": "United States"
-      },
-      {
-        "title": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation",
-        "url": "https://www.thisiswiltshire.co.uk/news/national/26736144.two-month-lull-ends-another-iranian-strike-bahrain-us-retaliation/",
-        "source": "thisiswiltshire.co.uk",
-        "provider": "GDELT",
-        "published_at": "2026-11-18T01:15:00Z",
-        "language": "English",
-        "source_country": "United Kingdom"
-      },
-      {
-        "title": "Nearly 100 , 000 Iranians Shelter In Turkey As War , Blockade And Repression Fuel Unprecedented Brain Drain",
-        "url": "https://www.foreignpolicyjournal.com/2026/11/17/nearly-100000-iranians-shelter-in-turkey-as-war-blockade-and-repression-fuel-unprecedented-brain-drain/",
-        "source": "foreignpolicyjournal.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-18T01:15:00Z",
-        "language": "English",
-        "source_country": "Israel"
-      },
-      {
-        "title": "The window of opportunity on Iran is getting narrower",
-        "url": "https://www.israelnationalnews.com/flashes/697661",
+        "title": "Pres. Herzog to Reza Pahlavi: 'I hope to see you coming back home to Iran'",
+        "url": "https://www.israelnationalnews.com/flashes/697740",
         "source": "Israelnationalnews.com",
-        "published_at": "2026-11-17T07:01:52Z"
-      },
-      {
-        "title": "Mossad alerts CIA to Iranian drone assassination plot against Trump",
-        "url": "https://www.naturalnews.com/2026-11-17-mossad-alerts-cia-iranian-drone-assassination-trump.html",
-        "source": "Naturalnews.com",
-        "published_at": "2026-11-17T06:00:00Z"
-      },
-      {
-        "title": "Exclusive: US intel indicates Iran developing plans to potentially detonate a dirty bomb in Washington, sources say - CNN",
-        "url": "https://slashdot.org/firehose.pl?op=view&id=186747800",
-        "source": "Slashdot.org",
-        "published_at": "2026-11-17T05:13:36Z"
+        "published_at": "2026-11-17T18:35:36Z"
       }
     ],
-    "libya-fragmentation": [],
+    "libya-fragmentation": [
+      {
+        "title": "Egypt challenges Turkey-Libya maritime deal at UN, as Tripoli signals readiness for talks",
+        "url": "https://en.protothema.gr/2026/11/17/egypt-challenges-turkey-libya-maritime-deal-at-un-as-tripoli-signals-readiness-for-talks/",
+        "source": "Protothema.gr",
+        "published_at": "2026-11-17T17:53:51Z"
+      }
+    ],
     "syria-transition-crisis": [
+      {
+        "title": "EU seeks to resurrect partnership with Syria",
+        "url": "https://www.hurriyetdailynews.com/eu-seeks-to-resurrect-partnership-with-syria-229537",
+        "source": "Hurriyet Daily News",
+        "published_at": "2026-11-17T14:33:39Z"
+      },
       {
         "title": "EU agrees to resurrect cooperation deal with Syria",
         "url": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria",
@@ -362,19 +237,16 @@
         "url": "https://rt-english.com/africa/648749-russian-algeria-envoy-accuses-ukraine-training-sahel-militants/",
         "source": "Rt-english.com",
         "published_at": "2026-11-12T12:42:14Z"
-      },
-      {
-        "title": "Rival Terror Groups Devastate The Sahel",
-        "url": "https://www.eurasiareview.com/12112026-rival-terror-groups-devastate-the-sahel/",
-        "source": "eurasiareview.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-12T03:45:00Z",
-        "language": "English",
-        "source_country": "United States"
       }
     ],
     "drc-eastern-conflict": [],
     "somalia-al-shabaab-insurgency": [
+      {
+        "title": "US Decides To Keep Funding Somalia Campaign, Reversing Planned Cuts",
+        "url": "https://dailycaller.com/2026/11/17/us-reverses-cuts-un-support-office-in-somalia-unsos-military-funding-african-union/",
+        "source": "The Daily Caller",
+        "published_at": "2026-11-17T13:58:44Z"
+      },
       {
         "title": "Somalia: We would not have recovered without the international community",
         "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/15/somalia-we-would-not-have-recovered-without-the-international-community",
@@ -386,21 +258,15 @@
         "url": "https://freerepublic.com/focus/f-news/4403094/posts",
         "source": "Freerepublic.com",
         "published_at": "2026-11-15T05:06:16Z"
-      },
-      {
-        "title": "Somali court rejects presidential term extension",
-        "url": "https://rt-english.com/africa/648514-somalia-court-rules-president-term-illegal/",
-        "source": "Rt-english.com",
-        "published_at": "2026-11-06T10:35:18Z"
-      },
-      {
-        "title": "Somalia's top court rejects president's term extension amid political crisis",
-        "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o",
-        "source": "BBC News",
-        "published_at": "2026-11-06T08:04:46Z"
       }
     ],
     "haiti-gang-crisis": [
+      {
+        "title": "Thousands demonstrate in Haiti’s capital to praise Bukele and Salvadoran troops fighting gangs",
+        "url": "https://abcnews.com/International/wireStory/thousands-demonstrate-haitis-capital-praise-bukele-salvadoran-troops-138217031",
+        "source": "Abcnews.com",
+        "published_at": "2026-11-17T17:32:41Z"
+      },
       {
         "title": "Robot dogs mounted with rifles deployed in anti-gang stadium operation in Haiti",
         "url": "https://www.foxnews.com/world/robot-dogs-mounted-rifles-deployed-anti-gang-stadium-operation-haiti",
@@ -450,6 +316,15 @@
         "url": "https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison",
         "source": "Al Jazeera English",
         "published_at": "2026-11-16T00:51:23Z"
+      },
+      {
+        "title": "Treasury Sanctions Two Guatemalan Drug Trafficking Organizations Backing Sinaloa Cartel and CJNG",
+        "url": "https://newsroomamerica.com/a/YhreVqcG0LaGcs02LcxKHZRBE7/ofac_sanctions_guatemala_s_los_mendoza_and_los_huistas_dtos_for_supporting_mexico_s_sinaloa_cartel_and_cjng_targeting_trafficking_corridors_along_the_honduran_and_mexican_borders.html",
+        "source": "newsroomamerica.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-13T18:00:00Z",
+        "language": "English",
+        "source_country": "United States"
       }
     ],
     "venezuela-guyana-essequibo-dispute": [],
@@ -477,46 +352,52 @@
     ],
     "taiwan-strait-tension": [
       {
-        "title": "Taiwan, Japan flag incursions by Russian aircraft as Putin set to arrive in China - Reuters",
-        "url": "https://slashdot.org/firehose.pl?op=view&id=186748928",
-        "source": "Slashdot.org",
-        "published_at": "2026-11-17T06:53:31Z"
+        "title": "Keeping America Out: Revisiting China’s Deterrence Strategy for Taiwan",
+        "url": "https://warontherocks.com/keeping-america-out-revisiting-chinas-deterrence-strategy-for-taiwan/",
+        "source": "War on the Rocks",
+        "published_at": "2026-11-17T18:30:16Z"
       },
       {
-        "title": "Taiwan urged to pursue affordable AI, as Jensen Huang's Nvidia exit adds uncertainty to AI hardware standards",
-        "url": "https://www.digitimes.com/news/a20261116PD238/taiwan-nvidia-jensen-huang-affordable-edge-ai-hardware.html",
-        "source": "Digitimes",
-        "published_at": "2026-11-17T06:51:09Z"
-      },
-      {
-        "title": "Taiwan may take a backseat when Xi and Trump meet for a third time at an APEC summit",
-        "url": "https://abcnews.com/Business/wireStory/taiwan-backseat-xi-trump-meet-time-apec-summit-138199342",
-        "source": "Abcnews.com",
-        "published_at": "2026-11-17T04:56:55Z"
-      },
-      {
-        "title": "China still doesn’t know what to do about Taiwan",
-        "url": "https://biztoc.com/x/2f208c8ad0cf901a",
+        "title": "Taiwan Semiconductor Falls 4% as U.S. Tightens AI Chip Curbs on China; Intel Drops 3%, AMD Slides 2%",
+        "url": "https://biztoc.com/x/e2a6176bb06478ab",
         "source": "Biztoc.com",
-        "published_at": "2026-11-17T00:48:37Z"
+        "published_at": "2026-11-17T17:04:20Z"
+      },
+      {
+        "title": "Taiwan Elections Show What the People Really Care About",
+        "url": "https://sinocism.com/p/taiwan-elections-show-what-the-people",
+        "source": "Sinocism.com",
+        "published_at": "2026-11-17T12:03:30Z"
       }
     ],
     "korean-armistice-standoff": [
+      {
+        "title": "Show HN: Automated satellite, seismic, and radar watch on North Korea",
+        "url": "https://savenorthkorea.org/watch",
+        "source": "Savenorthkorea.org",
+        "published_at": "2026-11-17T11:31:43Z"
+      },
       {
         "title": "North Korea is 'honing' its ballistic missiles in Ukraine with dozens of attacks a month, Zelenskyy says",
         "url": "https://biztoc.com/x/cf83f52c2df3353f",
         "source": "Biztoc.com",
         "published_at": "2026-11-17T05:37:40Z"
-      },
-      {
-        "title": "Trump says he might meet with North Korea's Kim Jong Un in China",
-        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6b6f5cc8-4558-44ee-b0fa-b8c6ee82b1b3",
-        "source": "Yahoo Entertainment",
-        "published_at": "2026-11-16T23:31:59Z"
       }
     ],
     "india-pakistan-kashmir-conflict": [],
     "ethiopia-northern-conflict": [
+      {
+        "title": "Fresh clashes at the Eritrean border — is Ethiopia sliding into a regional war?",
+        "url": "https://www.dw.com/en/fresh-clashes-at-the-eritrean-border-is-ethiopia-sliding-into-a-regional-war/a-79970353",
+        "source": "DW (English)",
+        "published_at": "2026-11-17T15:43:00Z"
+      },
+      {
+        "title": "Ethiopia-Eritrea border clashes raise fears of regional war",
+        "url": "https://www.dw.com/en/ethiopia-eritrea-border-clashes-raise-fears-of-regional-war/a-79970353",
+        "source": "DW (English)",
+        "published_at": "2026-11-17T15:43:00Z"
+      },
       {
         "title": "Ethiopia and Sudan accusations of backing armed fighters as fears of conflict grow",
         "url": "https://abcnews.com/International/wireStory/ethiopia-sudan-accuse-backing-armed-fighters-fears-wider-138170200",
@@ -532,6 +413,18 @@
     ],
     "nigeria-internal-security-crisis": [],
     "afghanistan-governance-security-crisis": [
+      {
+        "title": "ICE Cancels Deportation Flights for Afghan War Refugees But Continues to Jail Them",
+        "url": "https://truthout.org/articles/ice-cancels-deportation-flights-for-afghan-war-refugees-but-continues-to-jail-them/",
+        "source": "Truthout",
+        "published_at": "2026-11-17T20:15:11Z"
+      },
+      {
+        "title": "Afghanistan women defy Taliban ban to pursue their ambitions in secret",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/afghanistan-women-defy-taliban-ban-to-pursue-their-ambitions-in-secret",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-17T09:53:31Z"
+      },
       {
         "title": "Some Afghan women quietly defy Taliban bans",
         "url": "https://abcnews.com/International/wireStory/afghan-women-quietly-defy-taliban-bans-opening-secret-138200702",
@@ -549,12 +442,6 @@
         "url": "https://www.rferl.org/a/afghanistan-girls-women-education-taliban-iran-pakistan/33897996.html",
         "source": "Radio Free Europe/ Radio Liberty",
         "published_at": "2026-11-15T11:59:32Z"
-      },
-      {
-        "title": "Cricket Scotland Restricts Afghanistan Ties Over Womens Rights",
-        "url": "https://www.khaama.com/cricket-scotland-restricts-afghanistan-ties-womens-rights/",
-        "source": "Khaama.com",
-        "published_at": "2026-11-15T00:04:49Z"
       }
     ],
     "ecuador-organized-crime-crisis": [
