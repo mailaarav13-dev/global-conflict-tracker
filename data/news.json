@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T21:00:46.417Z",
+  "generated_at": "2026-11-18T01:05:48.356Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
@@ -41,6 +41,33 @@
         "url": "https://www.foxnews.com/politics/fettermans-gaza-born-challenger-calls-abolish-ice-oust-top-democratic-leaders",
         "source": "Fox News",
         "published_at": "2026-11-16T17:08:03Z"
+      },
+      {
+        "title": "From a 1990 double murder to Hamas leader : Khalil al - Hayya hidden past revealed",
+        "url": "https://www.ynetnews.com/article/ryzcfciafl",
+        "source": "ynetnews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-15T07:45:00Z",
+        "language": "English",
+        "source_country": "Israel"
+      },
+      {
+        "title": "Israeli military says it struck senior member of Hamas military wing",
+        "url": "https://article.wn.com/view/2026/11/15/Israeli_military_says_it_struck_senior_member_of_Hamas_milit_o/",
+        "source": "article.wn.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-15T07:45:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "IDF confirms elimination of Hamas Rafah Brigade Commander 2 months after he took command",
+        "url": "https://www.israelnationalnews.com/news/436211",
+        "source": "israelnationalnews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-15T07:45:00Z",
+        "language": "English",
+        "source_country": "Israel"
       }
     ],
     "sudan-civil-war": [
@@ -427,6 +454,41 @@
         "url": "https://rt-english.com/africa/648903-somalia-president-israel-and-taiwan-threaten-existence/",
         "source": "Rt-english.com",
         "published_at": "2026-11-16T12:10:06Z"
+      },
+      {
+        "title": "Trump , Xi and Putin plan joint meeting",
+        "url": "https://nagalandpost.com/trump-xi-and-putin-plan-joint-meeting/",
+        "source": "nagalandpost.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-15T07:45:00Z",
+        "language": "English"
+      },
+      {
+        "title": "Trump , Xi and Putin plan an unprecedented joint meeting , White House says",
+        "url": "https://www.kcbd.com/2026/11/14/trump-xi-putin-plan-an-unprecedented-joint-meeting-white-house-says/",
+        "source": "kcbd.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-14T20:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Unfazed by Taiwan suspending investment talks , Anwar says numbers going up",
+        "url": "https://www.malaysiakini.com/news/888950-anwar-unfazed-by-taiwan-suspending-investment-talks-says-numbers-going-up",
+        "source": "malaysiakini.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T07:00:00Z",
+        "language": "English",
+        "source_country": "Malaysia"
+      },
+      {
+        "title": "China Xi says Taiwan reunification must happen as history cannot be stopped",
+        "url": "https://www.koreatimes.co.kr/world/20261112/chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped",
+        "source": "koreatimes.co.kr",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T05:30:00Z",
+        "language": "English",
+        "source_country": "South Korea"
       }
     ],
     "korean-armistice-standoff": [
