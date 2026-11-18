@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T07:33:17.962Z",
+  "generated_at": "2026-11-18T15:49:57.155Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
@@ -61,6 +61,15 @@
     ],
     "israel-gaza-war": [
       {
+        "title": "Board of Peace delivers bleak report on Gaza , warning of ceasefire collapse without immediate action",
+        "url": "https://www.ksat.com/news/world/2026/11/17/board-of-peace-delivers-bleak-report-on-gaza-warning-of-ceasefire-collapse-without-immediate-action/",
+        "source": "ksat.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-18T01:15:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
         "title": "Israel uses disinformation to conceal Gaza crimes: Duran",
         "url": "https://www.hurriyetdailynews.com/israel-uses-disinformation-to-conceal-gaza-crimes-duran-229483",
         "source": "Hurriyet Daily News",
@@ -77,6 +86,33 @@
         "url": "https://www.breitbart.com/clips/2026/11/16/dsaer-dem-pa-senate-candidate-on-if-hes-pro-hamas-thats-bad-faith-people-are-done-with-israel/",
         "source": "Breitbart News",
         "published_at": "2026-11-17T01:43:21Z"
+      },
+      {
+        "title": "From a 1990 double murder to Hamas leader : Khalil al - Hayya hidden past revealed",
+        "url": "https://www.ynetnews.com/article/ryzcfciafl",
+        "source": "ynetnews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-15T07:45:00Z",
+        "language": "English",
+        "source_country": "Israel"
+      },
+      {
+        "title": "Israeli military says it struck senior member of Hamas military wing",
+        "url": "https://article.wn.com/view/2026/11/15/Israeli_military_says_it_struck_senior_member_of_Hamas_milit_o/",
+        "source": "article.wn.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-15T07:45:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "IDF confirms elimination of Hamas Rafah Brigade Commander 2 months after he took command",
+        "url": "https://www.israelnationalnews.com/news/436211",
+        "source": "israelnationalnews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-15T07:45:00Z",
+        "language": "English",
+        "source_country": "Israel"
       }
     ],
     "sudan-civil-war": [
@@ -326,6 +362,15 @@
         "url": "https://rt-english.com/africa/648749-russian-algeria-envoy-accuses-ukraine-training-sahel-militants/",
         "source": "Rt-english.com",
         "published_at": "2026-11-12T12:42:14Z"
+      },
+      {
+        "title": "Rival Terror Groups Devastate The Sahel",
+        "url": "https://www.eurasiareview.com/12112026-rival-terror-groups-devastate-the-sahel/",
+        "source": "eurasiareview.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T03:45:00Z",
+        "language": "English",
+        "source_country": "United States"
       }
     ],
     "drc-eastern-conflict": [],
