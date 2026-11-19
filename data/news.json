@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T07:29:42.665Z",
+  "generated_at": "2026-11-19T15:54:53.971Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
@@ -203,6 +203,15 @@
     ],
     "israel-iran-confrontation": [
       {
+        "title": "Iran protests erupt over bus crash killing 13 oil workers in Abdanan",
+        "url": "https://www.foxnews.com/world/protesters-call-regime-change-iran-following-deadly-crash-killed-13-oil-gas-workers",
+        "source": "foxnews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-18T17:30:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
         "title": "Report: Iran recruited Thais for attack on Israel",
         "url": "https://www.israelnationalnews.com/flashes/697793",
         "source": "Israelnationalnews.com",
@@ -213,6 +222,24 @@
         "url": "https://m.economictimes.com/news/international/world-news/finish-the-job-irans-exiled-shahs-son-urges-israel-west-to-help-topple-islamic-republic/articleshow/135946688.cms",
         "source": "Economictimes.com",
         "published_at": "2026-11-18T03:00:00Z"
+      },
+      {
+        "title": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet",
+        "url": "https://www.kwit.org/2026-11-17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet",
+        "source": "kwit.org",
+        "provider": "GDELT",
+        "published_at": "2026-11-18T01:15:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation",
+        "url": "https://www.thisiswiltshire.co.uk/news/national/26736144.two-month-lull-ends-another-iranian-strike-bahrain-us-retaliation/",
+        "source": "thisiswiltshire.co.uk",
+        "provider": "GDELT",
+        "published_at": "2026-11-18T01:15:00Z",
+        "language": "English",
+        "source_country": "United Kingdom"
       }
     ],
     "libya-fragmentation": [
@@ -359,6 +386,15 @@
         "url": "https://www.foxnews.com/world/mexicos-cartel-godfather-convicted-american-dea-agents-murder-dies-age-80",
         "source": "Fox News",
         "published_at": "2026-11-16T01:54:06Z"
+      },
+      {
+        "title": "Treasury Sanctions Two Guatemalan Drug Trafficking Organizations Backing Sinaloa Cartel and CJNG",
+        "url": "https://newsroomamerica.com/a/YhreVqcG0LaGcs02LcxKHZRBE7/ofac_sanctions_guatemala_s_los_mendoza_and_los_huistas_dtos_for_supporting_mexico_s_sinaloa_cartel_and_cjng_targeting_trafficking_corridors_along_the_honduran_and_mexican_borders.html",
+        "source": "newsroomamerica.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-13T18:00:00Z",
+        "language": "English",
+        "source_country": "United States"
       }
     ],
     "venezuela-guyana-essequibo-dispute": [],
