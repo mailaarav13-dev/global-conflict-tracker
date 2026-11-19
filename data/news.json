@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T20:36:38.407Z",
+  "generated_at": "2026-11-19T00:32:33.255Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
@@ -197,6 +197,24 @@
         "url": "https://en.protothema.gr/2026/11/17/egypt-challenges-turkey-libya-maritime-deal-at-un-as-tripoli-signals-readiness-for-talks/",
         "source": "Protothema.gr",
         "published_at": "2026-11-17T17:53:51Z"
+      },
+      {
+        "title": "Washington is reshaping security in North Africa . Congress needs to ask how .",
+        "url": "https://www.atlanticcouncil.org/blogs/menasource/washington-is-reshaping-security-in-north-africa-congress-needs-to-ask-how/",
+        "source": "atlanticcouncil.org",
+        "provider": "GDELT",
+        "published_at": "2026-11-13T18:00:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Libya Signals Tourism Revival with Nationwide Cultural Caravan After Years of Conflict",
+        "url": "https://eturbonews.com/libya-tourism-revival-cultural-artistic-tourism-caravan-heritage-domestic-travel/",
+        "source": "eturbonews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-13T00:45:00Z",
+        "language": "English",
+        "source_country": "United States"
       }
     ],
     "syria-transition-crisis": [
@@ -272,6 +290,15 @@
         "url": "https://www.foxnews.com/world/robot-dogs-mounted-rifles-deployed-anti-gang-stadium-operation-haiti",
         "source": "Fox News",
         "published_at": "2026-11-15T00:51:47Z"
+      },
+      {
+        "title": "El Salvador is exporting the Bukele model to Haiti - but the gang offensive is a gamble for both nations",
+        "url": "http://www.caribbeanherald.com/news/279427292/el-salvador-is-exporting-the-bukele-model-to-haiti-but-the-gang-offensive-is-a-gamble-for-both-nations",
+        "source": "caribbeanherald.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-12T07:00:00Z",
+        "language": "English",
+        "source_country": "United States"
       }
     ],
     "mexico-cartel-conflict": [
