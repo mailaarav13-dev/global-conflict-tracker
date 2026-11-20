@@ -1,82 +1,88 @@
 {
-  "generated_at": "2026-11-20T15:36:43.752Z",
+  "generated_at": "2026-11-20T20:22:36.346Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
     "russia-ukraine-war": [
       {
-        "title": "Trump , Xi , Putin Hold Rare 3 - Way Talks On Nuclear Risks But Deliver No Breakthroughs",
-        "url": "https://www.oneindia.com/international/trump-xi-putin-hold-rare-3-way-talks-on-nuclear-risks-but-deliver-no-breakthroughs-8264789.html",
-        "source": "oneindia.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-20T06:45:00Z",
-        "language": "English",
-        "source_country": "India"
+        "title": "Taiwan reports 2 Russian military aircraft nearby for second time this week",
+        "url": "https://nypost.com/2026/11/19/world-news/taiwan-reports-2-russian-military-aircraft-nearby-for-second-time-this-week/",
+        "source": "New York Post",
+        "published_at": "2026-11-19T20:11:06Z"
       },
       {
-        "title": "Russia attacks bridges in Ukraine Kyiv , three killed",
-        "url": "https://www.centralwesterndaily.com.au/story/9395009/russia-attacks-bridges-in-ukraines-kyiv-three-killed/",
-        "source": "centralwesterndaily.com.au",
-        "provider": "GDELT",
-        "published_at": "2026-11-20T06:45:00Z",
-        "language": "English",
-        "source_country": "Australia"
+        "title": "Russia may launch new large-scale strike on Ukraine overnight",
+        "url": "https://biztoc.com/x/cebeb7b1c1cf9f51",
+        "source": "Biztoc.com",
+        "published_at": "2026-11-19T19:52:51Z"
       },
       {
-        "title": "Ukraine destruction of Crimean Bridge delivered major hit to Putin influence and Russia war effort",
-        "url": "https://www.abc.net.au/news/2026-11-20/ukraine-crimean-bridge-destruction-significance-explained/107408488",
-        "source": "abc.net.au",
-        "provider": "GDELT",
-        "published_at": "2026-11-20T06:45:00Z",
-        "language": "English",
-        "source_country": "Australia"
+        "title": "With Putin in the room, Carney condemns Russia's illegal invasion of Ukraine",
+        "url": "https://www.cbc.ca/news/politics/carney-putin-apec-ukraine-9.7428573",
+        "source": "CBC News",
+        "published_at": "2026-11-19T19:33:17Z"
       },
       {
-        "title": "Russia Takeover of Japanese Tobacco Assets Triggers $8 . 9 Billion Loss for Japan Tobacco – Sri Lanka Guardian",
-        "url": "https://slguardian.org/russias-takeover-of-japanese-tobacco-assets-triggers-8-9-billion-loss-for-japan-tobacco/",
-        "source": "slguardian.org",
-        "provider": "GDELT",
-        "published_at": "2026-11-20T06:45:00Z",
-        "language": "English",
-        "source_country": "Sri Lanka"
+        "title": "Elon Musk Widely Condemned For ‘Utter Nonsense’ Claim In Support of Russia’s Invasion of Ukraine",
+        "url": "https://www.mediaite.com/media/news/elon-musk-widely-condemned-for-utter-nonsense-claim-in-support-of-russias-invasion-of-ukraine/",
+        "source": "Mediaite",
+        "published_at": "2026-11-19T19:32:20Z"
       },
       {
-        "title": "Russia cannot bomb its way to victory: UK statement to the OSCE",
-        "url": "https://www.gov.uk/government/speeches/russia-cannot-bomb-its-way-to-victory-uk-statement-to-the-osce",
-        "source": "Www.gov.uk",
-        "published_at": "2026-11-19T07:05:05Z"
+        "title": "Trump Pentagon Blasts Ukraine’s Russia Strikes, NATO Allies Fire Back",
+        "url": "https://freerepublic.com/focus/f-news/4403660/posts",
+        "source": "Freerepublic.com",
+        "published_at": "2026-11-19T19:22:55Z"
       },
       {
-        "title": "Martin to join Zelenskyy in Berlin for 'Coalition of the Willing' talks today",
-        "url": "https://www.thejournal.ie/micheal-martin-zelenskyy-berlin-summit-7230835-Nov2026/",
-        "source": "TheJournal.ie",
-        "published_at": "2026-11-19T06:30:31Z"
-      },
-      {
-        "title": "Trump-Xi-Putin meeting agenda: Nuclear arms, ending wars in Iran and Ukraine likely on discussion table",
-        "url": "https://m.economictimes.com/news/international/world-news/donald-trump-xi-jinping-putin-meeting-agenda-nuclear-arms-ending-wars-in-iran-and-ukraine-likely-on-discussion-table/articleshow/135979602.cms",
-        "source": "Economictimes.com",
-        "published_at": "2026-11-19T06:18:13Z"
+        "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+        "url": "https://www.bbc.com/news/articles/ckzd9nln5e6go",
+        "source": "BBC News",
+        "published_at": "2026-11-19T19:16:21Z"
       }
     ],
     "israel-gaza-war": [
       {
-        "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza - The Guardian",
-        "url": "https://slashdot.org/firehose.pl?op=view&id=186789194",
-        "source": "Slashdot.org",
-        "published_at": "2026-11-19T04:52:05Z"
-      },
-      {
-        "title": "Israeli tanks roll into Gaza amid top US commander’s visit",
-        "url": "https://rt-english.com/news/649040-israel-gaza-ground-operation/",
-        "source": "Rt-english.com",
-        "published_at": "2026-11-18T23:56:32Z"
-      },
-      {
-        "title": "Israel uses Gaza swimming video to minimise winter hardships",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships",
+        "title": "Save the Children: Gaza’s children face ‘unmatched dangers’",
+        "url": "https://www.aljazeera.com/news/2026/11/19/save-the-children-gazas-children-face-unmatched-dangers",
         "source": "Al Jazeera English",
-        "published_at": "2026-11-18T23:53:21Z"
+        "published_at": "2026-11-19T19:23:45Z"
+      },
+      {
+        "title": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-19T19:01:00Z"
+      },
+      {
+        "title": "Palestinians in Gaza face new displacement after Israeli army operation",
+        "url": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-19T18:46:10Z"
+      },
+      {
+        "title": "‘A huge moment’: Gaza students granted Irish study visas after challenging refusals",
+        "url": "https://www.thejournal.ie/gaza-study-visas-approved-high-court-7231658-Nov2026/",
+        "source": "TheJournal.ie",
+        "published_at": "2026-11-19T17:41:04Z"
+      },
+      {
+        "title": "Papal envoy to Holy Land: Gaza is ‘living tabernacle’ of Christ amid war",
+        "url": "https://www.ewtnnews.com/world/middle-east/papal-envoy-to-holy-land-gaza-is-living-tabernacle-of-christ-amid-war",
+        "source": "Ewtnnews.com",
+        "published_at": "2026-11-19T17:14:00Z"
+      },
+      {
+        "title": "EU sanctions Gaza Now news outlet and founder over Hamas financing",
+        "url": "https://www.israelnationalnews.com/news/436646",
+        "source": "Israelnationalnews.com",
+        "published_at": "2026-11-19T16:12:11Z"
+      },
+      {
+        "title": "Palestinians flee as Israeli tanks cross Gaza ceasefire’s ‘yellow line’",
+        "url": "https://www.nbcnews.com/world/middle-east/gaza-ceasefire-tested-israel-tanks-cross-yellow-line-ground-raid-rcna610169",
+        "source": "NBC News",
+        "published_at": "2026-11-19T15:58:08Z"
       }
     ],
     "sudan-civil-war": [
@@ -107,105 +113,126 @@
     ],
     "myanmar-civil-war": [
       {
-        "title": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
-        "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-19T05:13:13Z"
+        "title": "ICJ ruling on Myanmar shows that declaring a genocide is not enough",
+        "url": "https://www.jpost.com/opinion/article-915534",
+        "source": "jpost.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-20T06:45:00Z",
+        "language": "English",
+        "source_country": "Israel"
       },
       {
-        "title": "Burma’s Military Bombs Displaced People’s Camp in Rakhine State, Killing 12 Civilians",
-        "url": "https://www.thegatewaypundit.com/2026/11/burmas-military-bombs-displaced-peoples-camp-rakhine-state/",
-        "source": "Thegatewaypundit.com",
-        "published_at": "2026-11-19T01:00:04Z"
+        "title": "UN top court finds Myanmar responsible for genocide against the Rohingya",
+        "url": "https://www.newslaundry.com/2026/11/20/uns-top-court-finds-myanmar-responsible-for-genocide-against-the-rohingya",
+        "source": "newslaundry.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-20T06:15:00Z",
+        "language": "English",
+        "source_country": "India"
       },
       {
-        "title": "Burma’s Junta Officials Are Kidnapping Young Men and Selling Them to the Army",
-        "url": "https://www.thegatewaypundit.com/2026/11/burmas-junta-officials-are-kidnapping-young-men-selling/",
-        "source": "Thegatewaypundit.com",
-        "published_at": "2026-11-18T23:20:18Z"
+        "title": "After Myanmar genocide ruling , were already forgetting Rohingyas",
+        "url": "https://www.crikey.com.au/2026/11/20/rohingyas-myanmar-genocide-ruling-united-nations-israel/",
+        "source": "crikey.com.au",
+        "provider": "GDELT",
+        "published_at": "2026-11-20T02:45:00Z",
+        "language": "English",
+        "source_country": "Australia"
       },
       {
-        "title": "ICJ to Deliver Landmark Verdict on Myanmar",
-        "url": "https://foreignpolicy.com/2026/11/18/icj-myanmar-rohingya-genocide-case-landmark-verdict-israel-gaza/",
-        "source": "Foreign Policy",
-        "published_at": "2026-11-18T15:37:12Z"
+        "title": "Myanmar genocide ruling is a watershed moment in international justice – with huge ramifications for other cases",
+        "url": "https://theconversation.com/myanmar-genocide-ruling-is-a-watershed-moment-in-international-justice-with-huge-ramifications-for-other-cases-296987",
+        "source": "The Conversation Africa",
+        "published_at": "2026-11-19T17:06:27Z"
       },
       {
-        "title": "Top UN court to deliver judgment alleging Myanmar committed genocide against Rohingya",
-        "url": "https://abcnews.com/International/wireStory/top-court-deliver-judgment-case-alleging-myanmar-committed-138247041",
-        "source": "Abcnews.com",
-        "published_at": "2026-11-18T14:21:03Z"
+        "title": "Rohingya crisis unresolved as ICJ rules on Myanmar",
+        "url": "https://www.rte.ie/news/world/2026/1119/1599895-rohingya/",
+        "source": "RTE",
+        "published_at": "2026-11-19T16:04:31Z"
       },
       {
-        "title": "Misinformation-based preventive behaviors during the COVID-19 pandemic in Myanmar: A cross-sectional study",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362976",
-        "source": "Plos.org",
-        "published_at": "2026-11-18T14:00:00Z"
+        "title": "Top UN court says Myanmar committed genocide against the Rohingya minority in landmark ruling",
+        "url": "https://nypost.com/2026/11/19/world-news/myanmar-committed-genocide-against-the-rohingya-un-court/",
+        "source": "New York Post",
+        "published_at": "2026-11-19T15:14:59Z"
+      },
+      {
+        "title": "‘White Tiger Column’ Review: Young Resistance Fighters in Myanmar Are Trained for War, but Not Yet for Life, in a Delicate Doc Study",
+        "url": "https://variety.com/2026/film/news/white-tiger-column-review-1236952028/",
+        "source": "Variety",
+        "published_at": "2026-11-19T14:10:43Z"
+      },
+      {
+        "title": "Myanmar becomes the first state ever to be prosecuted for genocide following 2017 slaughter of the Rohingya",
+        "url": "https://www.dailymail.com/news/article-16305765/Myanmar-state-prosecuted-genocide-following-2017-slaughter-Rohingya.html",
+        "source": "Dailymail.com",
+        "published_at": "2026-11-19T13:47:38Z"
       }
     ],
     "yemen-civil-war": [
       {
-        "title": "The March of the Houthis: Saudi Arabia’s Coalition Collapses",
-        "url": "https://www.juancole.com/2026/11/houthis-coalition-collapses.html",
-        "source": "Juancole.com",
-        "published_at": "2026-11-19T05:06:03Z"
+        "title": "Iran-backed Houthi 'terrorist attack' hits Riyadh's tallest skyscraper and HQ of Saudi Public Investment Fund",
+        "url": "https://www.foxnews.com/world/iran-backed-houthi-terrorist-attack-hits-riyadh-tallest-skyscraper-hq-saudi-public-investment-fund",
+        "source": "Fox News",
+        "published_at": "2026-11-19T18:32:17Z"
       },
       {
-        "title": "Houthi missile threat towards Riyadh causes damage, Saudi-led coalition says",
-        "url": "https://m.economictimes.com/news/defence/houthi-missile-threat-towards-riyadh-causes-damage-saudi-led-coalition-says/articleshow/135976116.cms",
-        "source": "Economictimes.com",
-        "published_at": "2026-11-19T03:17:36Z"
+        "title": "Saudi Airstrike on Hotel in Yemen’s Red Sea Port City of Mocha Kills Nine: Health Ministry",
+        "url": "https://news.antiwar.com/2026/11/19/saudi-airstrike-on-hotel-in-yemens-red-sea-port-city-of-mocha-kills-nine-health-ministry/",
+        "source": "Antiwar.com",
+        "published_at": "2026-11-19T18:14:49Z"
       },
       {
-        "title": "Saudi authorities warn of potential security threat in Riyadh amid Houthi tensions",
-        "url": "https://cryptobriefing.com/saudi-authorities-warn-of-potential-security-threat-in-riyadh-amid-houthi/",
-        "source": "Crypto Briefing",
-        "published_at": "2026-11-19T01:46:12Z"
+        "title": "Houthi missiles hit Saudi skyscraper (VIDEO)",
+        "url": "https://rt-english.com/news/649129-houthis-strike-tower-riyadh/",
+        "source": "Rt-english.com",
+        "published_at": "2026-11-19T17:56:50Z"
       },
       {
-        "title": "Saudi-led coalition destroys Houthi missile platform",
-        "url": "https://biztoc.com/x/40e923e63611d848",
-        "source": "Biztoc.com",
-        "published_at": "2026-11-19T01:37:32Z"
-      },
-      {
-        "title": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz",
+        "title": "Yemen’s besieged city of Taiz faces a deepening water crisis",
+        "url": "https://www.aljazeera.com/news/2026/11/19/yemens-besieged-city-of-taiz-faces-a-deepening-water-crisis",
         "source": "Al Jazeera English",
-        "published_at": "2026-11-19T00:01:02Z"
+        "published_at": "2026-11-19T16:59:38Z"
       },
       {
-        "title": "Saudi Arabia Braces for Yemen War To Extend Well Into 2027",
-        "url": "https://biztoc.com/x/f9547ff0305ca98f",
+        "title": "Houthi missile damages Riyadh tower, no injuries reported",
+        "url": "https://cryptobriefing.com/houthi-missile-damages-riyadh-tower-no-injuries-reported/",
+        "source": "Crypto Briefing",
+        "published_at": "2026-11-19T15:19:46Z"
+      },
+      {
+        "title": "US warns Americans in Middle East of potential attacks, flight disruptions amid rising Iran-Houthi tensions",
+        "url": "https://timesofindia.indiatimes.com/world/us/us-warns-americans-in-middle-east-of-potential-attacks-flight-disruptions-amid-rising-iran-houthi-tensions/articleshow/135995907.cms",
+        "source": "The Times of India",
+        "published_at": "2026-11-19T14:45:01Z"
+      },
+      {
+        "title": "Houthi Attack Damages Saudi Capital’s Tallest Tower - WSJ",
+        "url": "https://slashdot.org/firehose.pl?op=view&id=186792608",
+        "source": "Slashdot.org",
+        "published_at": "2026-11-19T14:13:07Z"
+      },
+      {
+        "title": "\"Windows Blown Out\": PIF Skyscraper In Riyadh Reportedly Damaged Amid Houthi Attacks",
+        "url": "https://biztoc.com/x/335a7741393ac72d",
         "source": "Biztoc.com",
-        "published_at": "2026-11-18T20:33:25Z"
+        "published_at": "2026-11-19T13:16:01Z"
       }
     ],
     "south-china-sea-dispute": [],
     "israel-iran-confrontation": [
       {
-        "title": "Israel and US abstain from UN resolution condemning Iranian regime",
-        "url": "https://www.israelnationalnews.com/news/436593",
-        "source": "Israelnationalnews.com",
-        "published_at": "2026-11-19T06:59:04Z"
+        "title": "Top US General Huddles With Israel As Iran War Clouds Gather",
+        "url": "https://dailycaller.com/2026/11/19/brad-cooper-centcom-idf-mossad-meeting-iran-war/",
+        "source": "The Daily Caller",
+        "published_at": "2026-11-19T20:01:39Z"
       },
       {
-        "title": "Mossad chief lobbied Washington to restart war on Iran: Report",
-        "url": "https://i-epikaira.blogspot.com/2026/11/mossad-chief-lobbied-washington-to.html",
-        "source": "Blogspot.com",
-        "published_at": "2026-11-19T06:12:12Z"
-      },
-      {
-        "title": "Netanyahu presses Trump for a week of airstrikes on Iran with his career on the line",
-        "url": "https://www.naturalnews.com/2026-11-19-netanyahu-trump-week-airstrikes-iran.html",
-        "source": "Naturalnews.com",
-        "published_at": "2026-11-19T06:00:00Z"
-      },
-      {
-        "title": "Iran criticises IAEA chief Grossi over remarks on Israel-Iran nuclear safeguards",
-        "url": "https://m.economictimes.com/news/international/world-news/iran-criticises-iaea-chief-grossi-over-remarks-on-israel-iran-nuclear-safeguards/articleshow/135977437.cms",
-        "source": "Economictimes.com",
-        "published_at": "2026-11-19T04:29:13Z"
+        "title": "Trump ‘not rushing into’ Iran decision, says ‘we will see what happens’ in 2027",
+        "url": "https://nypost.com/2026/11/19/us-news/trump-not-rushing-into-iran-decision-says-we-will-see-what-happens-in-2027/",
+        "source": "New York Post",
+        "published_at": "2026-11-19T19:17:50Z"
       }
     ],
     "libya-fragmentation": [
@@ -217,6 +244,24 @@
       }
     ],
     "syria-transition-crisis": [
+      {
+        "title": "Landmines keep civilians in Northern Syria from rebuilding",
+        "url": "https://www.voanews.com/a/landmines-keep-civilians-in-northern-syria-from-rebuilding/8225493.html",
+        "source": "VOA News",
+        "published_at": "2026-11-19T18:36:58Z"
+      },
+      {
+        "title": "Syria's Christian leaders warn of 'grave' threat to community's future amid wave of attacks",
+        "url": "https://www.foxnews.com/world/syrias-christian-leaders-warn-grave-threat-communitys-future-amid-wave-attacks",
+        "source": "Fox News",
+        "published_at": "2026-11-19T15:55:51Z"
+      },
+      {
+        "title": "Inside women’s football’s difficult rise in Syria: ‘A joy that everyone in the country needed’",
+        "url": "https://sports.yahoo.com/articles/inside-women-football-difficult-rise-110026419.html",
+        "source": "Yahoo Entertainment",
+        "published_at": "2026-11-19T11:00:26Z"
+      },
       {
         "title": "What is the ‘endgame’ in Syria, as Israeli rivals look for new government?",
         "url": "https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government",
@@ -289,6 +334,24 @@
     ],
     "haiti-gang-crisis": [
       {
+        "title": "Heavy fighting erupts in Haiti as armed forces fight gangs to regain control of key corridor",
+        "url": "https://abcnews.com/International/wireStory/heavy-fighting-erupts-haiti-armed-forces-fight-gangs-138295678",
+        "source": "Abcnews.com",
+        "published_at": "2026-11-19T18:46:43Z"
+      },
+      {
+        "title": "El Salvador’s Bukele sends 2,000 troops and robot dogs to Haiti in dramatic gang-busting mission",
+        "url": "https://nypost.com/video/el-salvadors-bukele-sends-2000-troops-and-robot-dogs-to-haiti-in-dramatic-gang-busting-mission/",
+        "source": "New York Post",
+        "published_at": "2026-11-19T16:09:29Z"
+      },
+      {
+        "title": "Bukele’s War On Haitian Gangs Is Good News For America",
+        "url": "https://thefederalist.com/2026/11/19/bukeles-war-on-haitian-gangs-is-good-news-for-america/",
+        "source": "The Federalist",
+        "published_at": "2026-11-19T12:18:26Z"
+      },
+      {
         "title": "Bukele gets hero’s welcome from afar as thousands rally in Haiti after gang crackdown",
         "url": "https://www.foxnews.com/world/bukele-gets-heros-welcome-thousands-rally-haiti-gang-crackdown",
         "source": "Fox News",
@@ -317,21 +380,39 @@
         "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/haitians-rally-in-celebration-of-el-salvadors-anti-gang-troop-deployment",
         "source": "Al Jazeera English",
         "published_at": "2026-11-18T08:53:15Z"
-      },
-      {
-        "title": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
-        "url": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-17T23:09:00Z"
-      },
-      {
-        "title": "Thousands demonstrate in Haiti’s capital to praise Bukele and Salvadoran troops fighting gangs",
-        "url": "https://abcnews.com/International/wireStory/thousands-demonstrate-haitis-capital-praise-bukele-salvadoran-troops-138217031",
-        "source": "Abcnews.com",
-        "published_at": "2026-11-17T17:32:41Z"
       }
     ],
     "mexico-cartel-conflict": [
+      {
+        "title": "Aussie bikie world president cops US cartel sanctions",
+        "url": "https://www.areanews.com.au/story/9395079/aussie-bikie-world-president-cops-us-cartel-sanctions/",
+        "source": "areanews.com.au",
+        "provider": "GDELT",
+        "published_at": "2026-11-20T01:15:00Z",
+        "language": "English",
+        "source_country": "Australia"
+      },
+      {
+        "title": "US Sanctions Gangs Tied to Mexican Cartels",
+        "url": "https://www.riotimesonline.com/us-sanctions-comanchero-ndrangheta-mexican-cartels/",
+        "source": "riotimesonline.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-20T01:15:00Z",
+        "language": "English",
+        "source_country": "Brazil"
+      },
+      {
+        "title": "Terrorist Cartel Kills Innocent Man During Bombing Attack in Sinaloa, Mexico",
+        "url": "https://www.breitbart.com/border/2026/11/19/terrorist-cartel-kills-innocent-man-during-bombing-attack-in-sinaloa-mexico/",
+        "source": "Breitbart News",
+        "published_at": "2026-11-19T14:52:26Z"
+      },
+      {
+        "title": "Mexico’s anti-cartel operations seek to prove to Trump it is serious about security, as World Cup looms",
+        "url": "https://researchonline.lse.ac.uk/id/eprint/142129/",
+        "source": "Lse.ac.uk",
+        "published_at": "2026-11-19T11:45:04Z"
+      },
       {
         "title": "Mexico's cartel 'godfather' convicted in American DEA agent's murder dies at age 80",
         "url": "https://freerepublic.com/focus/f-news/4403456/posts",
@@ -355,24 +436,6 @@
         "url": "https://biztoc.com/x/492ddbb6c9394f07",
         "source": "Biztoc.com",
         "published_at": "2026-11-16T17:24:41Z"
-      },
-      {
-        "title": "Mexican drug kingpin Félix Gallardo, founder of Guadalajara cartel, dies at 80",
-        "url": "https://abcnews.com/International/wireStory/mexican-drug-kingpin-flix-gallardo-founder-guadalajara-cartel-138183861",
-        "source": "Abcnews.com",
-        "published_at": "2026-11-16T17:14:36Z"
-      },
-      {
-        "title": "Notorious Mexican Drug Lord Meets His End",
-        "url": "https://www.newser.com/story/400064/notorious-mexican-drug-lord-meets-his-end.html",
-        "source": "Newser",
-        "published_at": "2026-11-16T12:17:00Z"
-      },
-      {
-        "title": "Founder of Mexican drug cartels Gallardo dies in hospital",
-        "url": "https://www.rte.ie/news/world/2026/1116/1599346-felix-gallardo-death/",
-        "source": "RTE",
-        "published_at": "2026-11-16T08:58:33Z"
       }
     ],
     "venezuela-guyana-essequibo-dispute": [],
@@ -400,30 +463,24 @@
     ],
     "taiwan-strait-tension": [
       {
-        "title": "Takaichi reaffirms Taiwan policy, vows stronger defense",
-        "url": "https://biztoc.com/x/10bb28945790d767",
-        "source": "Biztoc.com",
-        "published_at": "2026-11-19T07:11:20Z"
+        "title": "Taiwan reports 2 Russian military aircraft nearby for second time this week",
+        "url": "https://nypost.com/2026/11/19/world-news/taiwan-reports-2-russian-military-aircraft-nearby-for-second-time-this-week/",
+        "source": "New York Post",
+        "published_at": "2026-11-19T20:11:06Z"
       },
       {
-        "title": "EU lawmakers accuse Chinese officials of intimidation over Taiwan",
-        "url": "https://www.politico.eu/article/eu-lawmakers-accuse-chinese-officials-of-intimidation-over-taiwan/",
-        "source": "POLITICO.eu",
-        "published_at": "2026-11-19T03:00:00Z"
-      },
-      {
-        "title": "China Watchdog Warns Trump Faces ‘2-On-1’ Showdown With Xi, Putin As Taiwan Risks Mount",
-        "url": "https://whmi.com/news/fox/china-watchdog-warns-trump-faces-2-on-1-showdown-xi-putin-taiwan-risks-mount",
-        "source": "WHMI",
-        "published_at": "2026-11-19T00:00:00Z"
+        "title": "Xi tells Trump US must do 'the right thing' over Taiwan to avoid 'great turbulence'",
+        "url": "https://abcnews.com/International/xi-tells-trump-us-thing-taiwan-avoid-great/story?id=138283818",
+        "source": "Abcnews.com",
+        "published_at": "2026-11-19T18:51:37Z"
       }
     ],
     "korean-armistice-standoff": [
       {
-        "title": "North Korea expanded uranium enrichment plant, says IAEA head",
-        "url": "https://www.dw.com/en/north-korea-expanded-uranium-enrichment-plant-says-iaea-head/a-79982758",
-        "source": "DW (English)",
-        "published_at": "2026-11-18T15:15:00Z"
+        "title": "North Korea is expanding its original uranium enrichment facility, UN nuclear watchdog says",
+        "url": "https://abcnews.com/International/wireStory/north-korea-expanding-original-uranium-enrichment-facility-nuclear-138276975",
+        "source": "Abcnews.com",
+        "published_at": "2026-11-19T07:29:33Z"
       }
     ],
     "india-pakistan-kashmir-conflict": [],
@@ -443,46 +500,10 @@
     ],
     "nigeria-internal-security-crisis": [
       {
-        "title": "Urgent Need To End Campaign Violence",
-        "url": "https://leadership.ng/urgent-need-to-end-campaign-violence/",
-        "source": "leadership.ng",
-        "provider": "GDELT",
-        "published_at": "2026-11-20T05:30:00Z",
-        "language": "English",
-        "source_country": "Nigeria"
-      },
-      {
-        "title": "DHQ denies supplying camouflage uniforms to suspected bandit",
-        "url": "https://punchng.com/dhq-denies-supplying-camouflage-uniforms-to-suspected-bandits/",
-        "source": "punchng.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-20T03:30:00Z",
-        "language": "English",
-        "source_country": "Nigeria"
-      },
-      {
-        "title": "Army defends Kwara bandit engagement, recovers 12 AK-47 rifles",
-        "url": "https://punchng.com/army-defends-kwara-bandit-engagement-recovers-12-ak-47-rifles/",
-        "source": "The Punch",
-        "published_at": "2026-11-18T23:40:45Z"
-      },
-      {
-        "title": "Risky GenAI use and ransomware see a rise in cyberattacks",
-        "url": "https://it-online.co.za/2026/11/16/risky-genai-use-and-ransomware-see-a-rise-in-cyberattacks/",
-        "source": "it-online.co.za",
-        "provider": "GDELT",
-        "published_at": "2026-11-16T08:15:00Z",
-        "language": "English",
-        "source_country": "South Africa"
-      },
-      {
-        "title": "At APC Presidential Campaign Rally In Jos , Tinubu Orders Decisive Security Action Against Plateau Attackers – THISDAYLIVE",
-        "url": "https://www.thisdaylive.com/2026/11/14/at-apc-presidential-campaign-rally-in-jos-tinubu-orders-decisive-security-action-against-plateau-attackers/",
-        "source": "thisdaylive.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-14T21:00:00Z",
-        "language": "English",
-        "source_country": "Nigeria"
+        "title": "From healing to hostage: Drivers of healthcare worker kidnapping in Nigeria",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362302",
+        "source": "Plos.org",
+        "published_at": "2026-11-19T14:00:00Z"
       }
     ],
     "afghanistan-governance-security-crisis": [
@@ -491,24 +512,6 @@
         "url": "https://truthout.org/articles/ice-cancels-deportation-flights-for-afghan-war-refugees-but-continues-to-jail-them/",
         "source": "Truthout",
         "published_at": "2026-11-17T20:15:11Z"
-      },
-      {
-        "title": "Afghanistan women defy Taliban ban to pursue their ambitions in secret",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/afghanistan-women-defy-taliban-ban-to-pursue-their-ambitions-in-secret",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-17T09:53:31Z"
-      },
-      {
-        "title": "Some Afghan women quietly defy Taliban bans",
-        "url": "https://abcnews.com/International/wireStory/afghan-women-quietly-defy-taliban-bans-opening-secret-138200702",
-        "source": "Abcnews.com",
-        "published_at": "2026-11-17T05:39:29Z"
-      },
-      {
-        "title": "OIC voices support for Afghan women amid doubts over change in Taliban’s policies",
-        "url": "https://www.voanews.com/a/oic-voices-support-for-afghan-women-amid-doubts-over-change-in-talibans-policies/8224312.html",
-        "source": "VOA News",
-        "published_at": "2026-11-16T20:56:15Z"
       }
     ],
     "ecuador-organized-crime-crisis": [
