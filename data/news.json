@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T07:20:05.051Z",
+  "generated_at": "2026-11-20T15:36:43.752Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
@@ -239,6 +239,15 @@
       }
     ],
     "drc-eastern-conflict": [
+      {
+        "title": "Congo Former President Turns Rebel Leader in Bid to Block Tshisekedi Third Term – Sri Lanka Guardian",
+        "url": "https://slguardian.org/congos-former-president-turns-rebel-leader-in-bid-to-block-tshisekedis-third-term/",
+        "source": "slguardian.org",
+        "provider": "GDELT",
+        "published_at": "2026-11-20T06:45:00Z",
+        "language": "English",
+        "source_country": "Sri Lanka"
+      },
       {
         "title": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
         "url": "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o",
