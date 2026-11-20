@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T20:41:42.487Z",
+  "generated_at": "2026-11-20T00:46:10.572Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
@@ -37,6 +37,42 @@
     ],
     "israel-gaza-war": [
       {
+        "title": "9 - month - old dies of hypothermia in Gaza as territory heads into winter season",
+        "url": "https://www.cbc.ca/news/world/baby-death-hypothermia-gaza-9.7428594",
+        "source": "cbc.ca",
+        "provider": "GDELT",
+        "published_at": "2026-11-20T00:15:00Z",
+        "language": "English",
+        "source_country": "Canada"
+      },
+      {
+        "title": "Papal envoy to Holy Land : Gaza is living tabernacle of Christ amid war – Catholic World Report",
+        "url": "https://www.catholicworldreport.com/2026/11/19/papal-envoy-to-holy-land-gaza-is-living-tabernacle-of-christ-amid-war/",
+        "source": "catholicworldreport.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-19T23:30:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Over 22 , 000 Palestinian children killed in Israel Gaza genocide : Foreign Ministry",
+        "url": "https://aa.com.tr/en/middle-east/over-22-000-palestinian-children-killed-in-israels-gaza-genocide-foreign-ministry/4131608",
+        "source": "aa.com.tr",
+        "provider": "GDELT",
+        "published_at": "2026-11-19T23:30:00Z",
+        "language": "English",
+        "source_country": "Turkey"
+      },
+      {
+        "title": "I support strong ties with Israel but condemn actions in Gaza : Rahul Gandhi , says India foreign policy must serve national interest",
+        "url": "http://www.arabherald.com/news/279443834/i-support-strong-ties-with-israel-but-condemn-actions-in-gaza-rahul-gandhi-says-india-foreign-policy-must-serve-national-interest",
+        "source": "arabherald.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-19T23:30:00Z",
+        "language": "English",
+        "source_country": "Syria"
+      },
+      {
         "title": "7 Members-Elect Vote Against Jeffries for Speaker, Citing Medicare for All, Gaza",
         "url": "https://truthout.org/articles/7-members-elect-vote-against-jeffries-for-speaker-citing-medicare-for-all-gaza/",
         "source": "Truthout",
@@ -59,24 +95,6 @@
         "url": "https://www.haaretz.com/us-news/2026-11-18/ty-article/.premium/citing-gaza-newly-elected-democrats-vote-against-hakeem-jeffries-for-speaker/000001a1-efea-d9ff-a7b5-ffee3a3d0000",
         "source": "Haaretz",
         "published_at": "2026-11-18T18:41:25Z"
-      },
-      {
-        "title": "Israel launches new ground operation in Gaza",
-        "url": "https://www.dw.com/en/israel-launches-new-ground-operation-in-gaza/a-79984958",
-        "source": "DW (English)",
-        "published_at": "2026-11-18T18:29:00Z"
-      },
-      {
-        "title": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
-        "url": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-18T18:22:26Z"
-      },
-      {
-        "title": "Israel launches ground operation in central Gaza, dozens flee - Reuters",
-        "url": "https://slashdot.org/firehose.pl?op=view&id=186782580",
-        "source": "Slashdot.org",
-        "published_at": "2026-11-18T17:53:52Z"
       }
     ],
     "sudan-civil-war": [
@@ -159,6 +177,15 @@
     ],
     "south-china-sea-dispute": [
       {
+        "title": "Letting Russia redraw Ukraine borders could set precedent for South China Sea Slovenia",
+        "url": "https://www.philstar.com/headlines/2026/11/20/2571203/letting-russia-redraw-ukraines-borders-could-set-precedent-south-china-sea-slovenia",
+        "source": "philstar.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-20T00:15:00Z",
+        "language": "English",
+        "source_country": "Philippines"
+      },
+      {
         "title": "Trump lauds defense alliance with Philippines ahead of China talks",
         "url": "https://www.mvariety.com/news/regional/trump-lauds-defense-alliance-with-philippines-ahead-of-china-talks/article_d1a256d1-76c7-4a99-b622-6806f9b79734.html",
         "source": "mvariety.com",
@@ -208,15 +235,6 @@
         "published_at": "2026-11-16T08:15:00Z",
         "language": "English",
         "source_country": "Philippines"
-      },
-      {
-        "title": "Philippines , Australia sign defence cooperation pact",
-        "url": "https://www.freemalaysiatoday.com/category/world/2026/11/15/philippines-australia-sign-defence-pact-with-eye-on-china",
-        "source": "freemalaysiatoday.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-15T07:45:00Z",
-        "language": "English",
-        "source_country": "Malaysia"
       }
     ],
     "israel-iran-confrontation": [
@@ -346,6 +364,15 @@
     ],
     "mexico-cartel-conflict": [
       {
+        "title": "Aussie bikie world president cops US cartel sanctions",
+        "url": "https://www.mandurahmail.com.au/story/9395079/aussie-bikie-world-president-cops-us-cartel-sanctions/",
+        "source": "mandurahmail.com.au",
+        "provider": "GDELT",
+        "published_at": "2026-11-20T00:15:00Z",
+        "language": "English",
+        "source_country": "Australia"
+      },
+      {
         "title": "Mexico's cartel 'godfather' convicted in American DEA agent's murder dies at age 80",
         "url": "https://freerepublic.com/focus/f-news/4403456/posts",
         "source": "Freerepublic.com",
@@ -386,15 +413,6 @@
         "url": "https://www.rte.ie/news/world/2026/1116/1599346-felix-gallardo-death/",
         "source": "RTE",
         "published_at": "2026-11-16T08:58:33Z"
-      },
-      {
-        "title": "Treasury Sanctions Two Guatemalan Drug Trafficking Organizations Backing Sinaloa Cartel and CJNG",
-        "url": "https://newsroomamerica.com/a/YhreVqcG0LaGcs02LcxKHZRBE7/ofac_sanctions_guatemala_s_los_mendoza_and_los_huistas_dtos_for_supporting_mexico_s_sinaloa_cartel_and_cjng_targeting_trafficking_corridors_along_the_honduran_and_mexican_borders.html",
-        "source": "newsroomamerica.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-13T18:00:00Z",
-        "language": "English",
-        "source_country": "United States"
       }
     ],
     "venezuela-guyana-essequibo-dispute": [],
@@ -412,6 +430,15 @@
         "url": "https://freerepublic.com/focus/f-news/4403220/posts",
         "source": "Freerepublic.com",
         "published_at": "2026-11-16T15:40:37Z"
+      },
+      {
+        "title": "Georgia and Armenia at an Investment Crossroads",
+        "url": "https://finchannel.com/georgia-and-armenia-at-an-investment-crossroads/141541/opinion/2026/11/",
+        "source": "finchannel.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-13T18:00:00Z",
+        "language": "English",
+        "source_country": "United States"
       },
       {
         "title": "Azerbaijan intensifies its European engagement at the EPC Summit",
