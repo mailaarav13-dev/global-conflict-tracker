@@ -1,102 +1,123 @@
 {
-  "generated_at": "2026-11-21T14:49:23.838Z",
+  "generated_at": "2026-11-21T19:21:09.095Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
     "russia-ukraine-war": [
       {
-        "title": "Missile attack on Zelenskiy hometown kills two",
-        "url": "https://www.perthnow.com.au/news/conflict/missile-attack-on-zelenskiys-hometown-kills-two-c-23195124",
-        "source": "perthnow.com.au",
-        "provider": "GDELT",
-        "published_at": "2026-11-21T13:30:00Z",
-        "language": "English",
-        "source_country": "Australia"
-      },
-      {
-        "title": "Shenzhen Summit Puts Limits of China – Russia Partnership in Focus",
-        "url": "https://www.theepochtimes.com/china/shenzhen-summit-puts-limits-of-china-russia-partnership-in-focus-6127510",
-        "source": "theepochtimes.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-21T13:30:00Z",
-        "language": "English",
-        "source_country": "United States"
-      },
-      {
-        "title": "Denmark urges EU to stop Russian tourist visas after foiled assassination plot",
-        "url": "http://www.jpost.com/international/article-915635",
-        "source": "jpost.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-21T13:30:00Z",
-        "language": "English",
-        "source_country": "Israel"
-      },
-      {
-        "title": "European troops from 11 countries drill in Poland for a potential postwar Ukraine mission",
-        "url": "https://abcnews.com/International/wireStory/european-troops-11-countries-drill-poland-potential-postwar-138313096",
-        "source": "Abcnews.com",
-        "published_at": "2026-11-20T07:01:39Z"
-      },
-      {
-        "title": "Ukraine's destruction of Putin's prized bridge a 'major hit to war effort'",
-        "url": "https://www.abc.net.au/news/2026-11-20/ukraine-crimean-bridge-destruction-significance-explained/107408488",
-        "source": "ABC News (AU)",
-        "published_at": "2026-11-20T06:04:57Z"
-      },
-      {
-        "title": "Russia hammers Ukraineâs bridges and missile plants hours after Putin vows revenge",
-        "url": "https://www.naturalnews.com/2026-11-20-russia-ukraine-bridges-missile-putin-revenge.html",
-        "source": "Naturalnews.com",
-        "published_at": "2026-11-20T06:00:00Z"
+        "title": "Poland Accuses Russia of Deliberately Violating Its Airspace",
+        "url": "https://biztoc.com/x/ed7a77d610d79c6b",
+        "source": "Biztoc.com",
+        "published_at": "2026-11-20T19:08:08Z"
       }
     ],
     "israel-gaza-war": [
       {
-        "title": "Gaza is the bait for Iran’s online information campaign",
-        "url": "https://www.israelnationalnews.com/news/436688",
-        "source": "Israelnationalnews.com",
-        "published_at": "2026-11-20T05:28:43Z"
+        "title": "IDF refuses ABC requests for evidence journalist was Hamas operative",
+        "url": "https://www.abc.net.au/news/2026-11-21/idf-gives-abc-no-evidence-palestinian-journalist-was-hamas/107407710",
+        "source": "ABC News (AU)",
+        "published_at": "2026-11-20T19:03:53Z"
       },
       {
-        "title": "ICJ Rohingya Genocide Ruling against Myanmar: Ramifications for Israel re: Gaza",
-        "url": "https://www.juancole.com/2026/11/rohingya-genocide-ramifications.html",
-        "source": "Juancole.com",
-        "published_at": "2026-11-20T05:06:41Z"
+        "title": "Gaza civil defence says Israeli strikes kill six",
+        "url": "https://www.rte.ie/news/middle-east/2026/1120/1600068-gaza-israel/",
+        "source": "RTE",
+        "published_at": "2026-11-20T18:57:13Z"
       },
       {
-        "title": "9-month-old dies of hypothermia in Gaza as territory heads into winter season",
-        "url": "https://www.cbc.ca/news/world/baby-death-hypothermia-gaza-9.7428594",
-        "source": "CBC News",
-        "published_at": "2026-11-19T23:28:53Z"
+        "title": "Six killed in Israeli strikes on Gaza",
+        "url": "https://punchng.com/six-killed-in-israeli-strikes-on-gaza/",
+        "source": "The Punch",
+        "published_at": "2026-11-20T18:40:55Z"
       },
       {
-        "title": "Jerusalem Daily: Israel launches ground offensive in Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-19T20:58:41Z"
+        "title": "Biden memoir draws fire for ‘denial’ as critics flag Gaza, racial-equity omissions",
+        "url": "https://www.foxnews.com/politics/biden-memoir-draws-fire-denial-critics-flag-gaza-racial-equity-omissions",
+        "source": "Fox News",
+        "published_at": "2026-11-20T16:08:51Z"
+      },
+      {
+        "title": "'Trump bad, Biden good' - Ask the people of Gaza if there's any difference in practice between the two American presidents. But our establishment is happy to laud one, and sneer at the other...",
+        "url": "https://www.dailymail.com/news/article-16293119/Trump-bad-Biden-good-Ask-people-Gaza-theres-difference-practice-two-American-presidents-establishment-happy-laud-one-sneer-other.html",
+        "source": "Dailymail.com",
+        "published_at": "2026-11-20T14:47:14Z"
       }
     ],
     "sudan-civil-war": [
+      {
+        "title": "Sudan army seeks to push RSF militants out of Blue Nile state",
+        "url": "https://news.az/news/sudan-army-seeks-to-push-rsf-militants-out-of-blue-nile-state",
+        "source": "news.az",
+        "provider": "GDELT",
+        "published_at": "2026-11-21T12:30:00Z",
+        "language": "English",
+        "source_country": "Azerbaijan"
+      },
+      {
+        "title": "Sudan war leaves disabled children missing out on education - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+        "url": "https://dominicanrepublicpost.com/sudans-war-leaves-disabled-children-missing-out-on-education/",
+        "source": "dominicanrepublicpost.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-20T21:45:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Sudan : Amnesty Calls for RSF Drone Attacks On Civilians in North Kordofan to Be Investigated As War Crimes",
+        "url": "https://allafrica.com/stories/202611200102.html",
+        "source": "allafrica.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-20T05:45:00Z",
+        "language": "English",
+        "source_country": "Nigeria"
+      },
+      {
+        "title": "Sudan Court Sentences Hemedti to Death Again Over Medical Fund Looting",
+        "url": "https://www.hngn.com/articles/273895/20261119/sudan-court-sentences-hemedti-death-again-over-medical-fund-looting.htm",
+        "source": "hngn.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-20T05:15:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
       {
         "title": "UN Watch: UN condemns Israel 4 times, massacres in Sudan 0",
         "url": "https://www.israelnationalnews.com/news/436552",
         "source": "Israelnationalnews.com",
         "published_at": "2026-11-18T18:01:51Z"
-      },
-      {
-        "title": "Sudan: Transfer War Crimes Suspects to ICC",
-        "url": "https://www.hrw.org/news/2026/11/18/sudan-transfer-war-crimes-suspects-to-icc",
-        "source": "Human Rights Watch",
-        "published_at": "2026-11-18T12:07:13Z"
-      },
-      {
-        "title": "Traumas of Sudan war lead to wave of drug addiction",
-        "url": "https://www.aljazeera.com/features/2026/11/18/traumas-of-sudan-war-is-seeing-a-wave-of-drug-addiction",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-18T10:35:06Z"
       }
     ],
     "myanmar-civil-war": [
+      {
+        "title": "ICJ Finds Myanmar Committed Genocide. What Comes Next?",
+        "url": "https://foreignpolicy.com/2026/11/20/myanmar-genocide-icj-ruling-rohingya-muslims-ukraine-gaza-tom-andrews-un/",
+        "source": "Foreign Policy",
+        "published_at": "2026-11-20T15:57:04Z"
+      },
+      {
+        "title": "Myanmar says international court’s genocide ruling ‘not fair’",
+        "url": "https://sylhetmirror.com/2026/11/20/myanmar-says-international-courts-genocide-ruling-not-fair/",
+        "source": "Sylhetmirror.com",
+        "published_at": "2026-11-20T14:57:36Z"
+      },
+      {
+        "title": "Myanmar Genocide Ruling Is a Watershed – with Huge Ramifications for South Africa v. Israel",
+        "url": "https://www.nakedcapitalism.com/2026/11/myanmar-genocide-ruling-is-a-watershed-with-huge-ramifications-for-south-africa-v-israel.html",
+        "source": "Nakedcapitalism.com",
+        "published_at": "2026-11-20T14:55:20Z"
+      },
+      {
+        "title": "Rights groups urge sanctions after top UN court finds Myanmar committed genocide against Rohingya",
+        "url": "https://abcnews.com/US/wireStory/rights-groups-urge-sanctions-after-top-court-finds-138315054",
+        "source": "Abcnews.com",
+        "published_at": "2026-11-20T13:45:33Z"
+      },
+      {
+        "title": "International court's ruling on Myanmar genocide means little for victims, but much for future cases",
+        "url": "https://www.cbc.ca/news/world/icj-genocide-decision-9.7429041",
+        "source": "CBC News",
+        "published_at": "2026-11-20T11:00:00Z"
+      },
       {
         "title": "ICJ Rohingya Genocide Ruling against Myanmar: Ramifications for Israel re: Gaza",
         "url": "https://www.juancole.com/2026/11/rohingya-genocide-ramifications.html",
@@ -114,128 +135,92 @@
         "url": "https://theconversation.com/a-seismic-icj-ruling-has-found-myanmar-responsible-for-genocide-but-will-it-help-the-rohingya-296700",
         "source": "The Conversation Africa",
         "published_at": "2026-11-20T00:35:00Z"
-      },
-      {
-        "title": "World Court Finds Myanmar Committed Rohingya Genocide",
-        "url": "https://www.hrw.org/news/2026/11/19/world-court-finds-myanmar-committed-rohingya-genocide",
-        "source": "Human Rights Watch",
-        "published_at": "2026-11-19T22:40:29Z"
-      },
-      {
-        "title": "Myanmar genocide ruling is a watershed moment in international justice – with huge ramifications for other cases",
-        "url": "https://theconversation.com/myanmar-genocide-ruling-is-a-watershed-moment-in-international-justice-with-huge-ramifications-for-other-cases-296987",
-        "source": "The Conversation Africa",
-        "published_at": "2026-11-19T17:06:27Z"
-      },
-      {
-        "title": "Rohingya crisis unresolved as ICJ rules on Myanmar",
-        "url": "https://www.rte.ie/news/world/2026/1119/1599895-rohingya/",
-        "source": "RTE",
-        "published_at": "2026-11-19T16:04:31Z"
-      },
-      {
-        "title": "Top UN court says Myanmar committed genocide against the Rohingya minority in landmark ruling",
-        "url": "https://nypost.com/2026/11/19/world-news/myanmar-committed-genocide-against-the-rohingya-un-court/",
-        "source": "New York Post",
-        "published_at": "2026-11-19T15:14:59Z"
       }
     ],
     "yemen-civil-war": [
       {
-        "title": "Oil Prices Rebound as Houthi Attacks Reignite Middle East Supply Fears",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rebound-as-Houthi-Attacks-Reignite-Middle-East-Supply-Fears.html",
-        "source": "OilPrice.com",
-        "published_at": "2026-11-20T05:51:00Z"
+        "title": "Houthis Order Ships to Leave Saudi Red Sea Ports After Hodeidah Airstrikes",
+        "url": "https://gcaptain.com/houthis-order-ships-to-leave-saudi-red-sea-ports-after-hodeidah-airstrikes/",
+        "source": "gcaptain.com",
+        "published_at": "2026-11-20T17:19:31Z"
       },
       {
-        "title": "Contaminated petrol leaves Yemeni drivers struggling to make ends meet",
-        "url": "https://www.aljazeera.com/news/2026/11/20/contaminated-petrol-leaves-yemeni-drivers-struggling-to-make-ends-meet",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-20T05:00:16Z"
-      },
-      {
-        "title": "Crude oil futures gain on reports of Houthi attack in Riyadh",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-gain-on-reports-of-houthi-attack-in-riyadh/article71723090.ece",
-        "source": "BusinessLine",
-        "published_at": "2026-11-20T04:29:47Z"
-      },
-      {
-        "title": "Saudi coalition intercepts Houthi missile",
-        "url": "https://biztoc.com/x/ce7e5d9cba3a70b2",
-        "source": "Biztoc.com",
-        "published_at": "2026-11-20T04:27:30Z"
-      },
-      {
-        "title": "Saudi Arabia says Houthi attack damaged Riyadh tower - Al Jazeera",
-        "url": "https://slashdot.org/firehose.pl?op=view&id=186802738",
+        "title": "Saudi Arabia attacks Yemen's Houthis and intercepts more missiles and drones, and other Mideast news - AP News",
+        "url": "https://slashdot.org/firehose.pl?op=view&id=186808496",
         "source": "Slashdot.org",
-        "published_at": "2026-11-20T04:13:15Z"
+        "published_at": "2026-11-20T16:13:18Z"
       },
       {
-        "title": "Oil prices rise on Houthi attacks on Riyadh, supply disruption concerns",
-        "url": "https://www.business-standard.com/markets/commodities/oil-prices-rise-on-houthi-attacks-on-riyadh-supply-disruption-concerns-126112000113_1.html",
-        "source": "Business Standard",
-        "published_at": "2026-11-20T03:14:12Z"
-      },
-      {
-        "title": "Saudis destroy Houthi drone in southern region",
-        "url": "https://biztoc.com/x/dda399d0f516d588",
+        "title": "Saudi coalition intercepts two Houthi missiles",
+        "url": "https://biztoc.com/x/9113b26433f13fac",
         "source": "Biztoc.com",
-        "published_at": "2026-11-20T03:11:31Z"
+        "published_at": "2026-11-20T15:50:55Z"
       },
       {
-        "title": "Oil Price Today (November 20): Brent crude rises to $93 as fresh Houthi attacks heighten worries. What are experts saying?",
-        "url": "https://m.economictimes.com/markets/commodities/news/oil-price-today-november-20-brent-crude-rises-to-93-as-fresh-houthi-attacks-heighten-worries-what-are-experts-saying/articleshow/136010579.cms",
+        "title": "UK: Armed skiff fired at bulk carrier off Yemeni coast",
+        "url": "https://biztoc.com/x/37db6fe3516b9d70",
+        "source": "Biztoc.com",
+        "published_at": "2026-11-20T15:20:32Z"
+      },
+      {
+        "title": "Saudi coalition strikes Houthi supply depot in Sanaa",
+        "url": "https://biztoc.com/x/91542c97bcbcacad",
+        "source": "Biztoc.com",
+        "published_at": "2026-11-20T15:20:27Z"
+      },
+      {
+        "title": "Saudi coalition launches 'special operation', Yemen's Houthis vow reprisals",
+        "url": "https://m.economictimes.com/news/defence/saudi-coalition-launches-special-operation-yemens-houthis-vow-reprisals/articleshow/136031547.cms",
         "source": "Economictimes.com",
-        "published_at": "2026-11-20T02:39:43Z"
+        "published_at": "2026-11-20T15:08:21Z"
+      },
+      {
+        "title": "Houthi attacks on Saudi Arabia - Reuters",
+        "url": "https://slashdot.org/firehose.pl?op=view&id=186807970",
+        "source": "Slashdot.org",
+        "published_at": "2026-11-20T14:52:49Z"
+      },
+      {
+        "title": "Saudi Arabia intercepts more Yemen Houthi missiles and drones, and other Mideast news",
+        "url": "https://abcnews.com/International/wireStory/saudi-arabia-intercepts-yemen-houthi-missiles-drones-mideast-138314659",
+        "source": "Abcnews.com",
+        "published_at": "2026-11-20T13:46:20Z"
       }
     ],
     "south-china-sea-dispute": [],
     "israel-iran-confrontation": [
       {
-        "title": "Trump insists Iran wont make an acceptable deal as concerns grow about next steps",
-        "url": "https://www.wsls.com/news/politics/2026/11/20/trump-insists-iran-wont-make-an-acceptable-deal-as-concerns-grow-about-next-steps/",
-        "source": "wsls.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-21T00:30:00Z",
-        "language": "English",
-        "source_country": "United States"
-      },
-      {
-        "title": "Araqchi says Iran wants diplomacy to end war ; Trump says terms unacceptable",
-        "url": "https://www.al-monitor.com/originals/2026/11/araqchi-says-iran-wants-diplomacy-end-war-trump-says-terms-unacceptable",
-        "source": "al-monitor.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-21T00:30:00Z",
-        "language": "English",
-        "source_country": "Israel"
-      },
-      {
-        "title": "Fears growing of return to all - out war between US , Iran",
-        "url": "https://www.dailyadvertiser.com.au/story/9395697/fears-growing-of-return-to-all-out-war-between-us-iran/",
-        "source": "dailyadvertiser.com.au",
-        "provider": "GDELT",
-        "published_at": "2026-11-21T00:30:00Z",
-        "language": "English",
-        "source_country": "Australia"
-      },
-      {
-        "title": "Ambassador Leiter: If Trump orders new Iran strikes, Israel will join the US",
-        "url": "https://www.israelnationalnews.com/flashes/698019",
+        "title": "Iran strike imminent? IDF Spokesperson urges public to ignore rumors",
+        "url": "https://www.israelnationalnews.com/flashes/698083",
         "source": "Israelnationalnews.com",
-        "published_at": "2026-11-20T02:24:19Z"
+        "published_at": "2026-11-20T18:50:28Z"
+      },
+      {
+        "title": "Trump: Iran wants a deal, but its terms are unacceptable",
+        "url": "https://www.israelnationalnews.com/flashes/698082",
+        "source": "Israelnationalnews.com",
+        "published_at": "2026-11-20T18:08:09Z"
+      },
+      {
+        "title": "Reporting Raises Fresh Questions About Israeli Role in CNN’s ‘Preposterous’ Iranian Dirty Bomb Story",
+        "url": "https://www.commondreams.org/news/iran-dirty-bomb-israel",
+        "source": "Common Dreams",
+        "published_at": "2026-11-20T17:39:31Z"
+      },
+      {
+        "title": "Israel Supplied The ‘Intel’ That Iran Is Planning Chemical Weapon Attack On Trump Officials: REPORT",
+        "url": "https://dailycaller.com/2026/11/20/scott-bessent-israel-intel-iran-planning-chemical-weapon-attack-on-trump-officials-report-benjamin-netanyahu/",
+        "source": "The Daily Caller",
+        "published_at": "2026-11-20T17:09:12Z"
+      },
+      {
+        "title": "Fresh US-Israel attack on Iran under consideration as tensions escalate - Report",
+        "url": "https://timesofindia.indiatimes.com/world/us/fresh-us-israel-attack-on-iran-under-consideration-as-tensions-escalate-report/articleshow/136034143.cms",
+        "source": "The Times of India",
+        "published_at": "2026-11-20T16:55:47Z"
       }
     ],
     "libya-fragmentation": [
-      {
-        "title": "Israel , Italy And The Eastern Med : Strategic Assets For European Energy Security In A Geopolitical Contested Area Of Hybrid Competition - Analysis",
-        "url": "https://www.eurasiareview.com/20112026-israel-italy-and-the-eastern-med-strategic-assets-for-european-energy-eecurity-in-a-geopolitical-contested-area-of-hybrid-competition-analysis/",
-        "source": "eurasiareview.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-20T03:15:00Z",
-        "language": "English",
-        "source_country": "United States"
-      },
       {
         "title": "Egypt challenges Turkey-Libya maritime deal at UN, as Tripoli signals readiness for talks",
         "url": "https://en.protothema.gr/2026/11/17/egypt-challenges-turkey-libya-maritime-deal-at-un-as-tripoli-signals-readiness-for-talks/",
@@ -310,14 +295,7 @@
         "published_at": "2026-11-12T12:42:14Z"
       }
     ],
-    "drc-eastern-conflict": [
-      {
-        "title": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
-        "url": "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o",
-        "source": "BBC News",
-        "published_at": "2026-11-18T05:11:42Z"
-      }
-    ],
+    "drc-eastern-conflict": [],
     "somalia-al-shabaab-insurgency": [
       {
         "title": "Somalia accuses UAE of secretly building military bases",
@@ -351,6 +329,12 @@
       }
     ],
     "haiti-gang-crisis": [
+      {
+        "title": "Florida Pastor Faces Life Behind Bars for Role in Plot to Assassinate Haitian President — as Killing Helped Armed Gangs Seize Control of Nation",
+        "url": "https://radaronline.com/p/florida-pastor-christian-emmanuel-sanon-life-behind-bars-role-plot-kill-haitian-president/",
+        "source": "Radaronline.com",
+        "published_at": "2026-11-20T19:00:00Z"
+      },
       {
         "title": "Thousands of Haitians celebrate Salvadorian anti-gang strikes (VIDEO)",
         "url": "https://rt-english.com/news/649101-haiti-el-salvador-troops-gangs/",
@@ -392,15 +376,36 @@
         "url": "https://nypost.com/video/el-salvadors-bukele-sends-2000-troops-and-robot-dogs-to-haiti-in-dramatic-gang-busting-mission/",
         "source": "New York Post",
         "published_at": "2026-11-19T16:09:29Z"
-      },
-      {
-        "title": "Bukele’s War On Haitian Gangs Is Good News For America",
-        "url": "https://thefederalist.com/2026/11/19/bukeles-war-on-haitian-gangs-is-good-news-for-america/",
-        "source": "The Federalist",
-        "published_at": "2026-11-19T12:18:26Z"
       }
     ],
     "mexico-cartel-conflict": [
+      {
+        "title": "Mexico detains top cartel boss El Chapo Isidro , one of FBI 10 most wanted fugitives",
+        "url": "http://www.idahopress.com/news/world/mexico-detains-top-cartel-boss-el-chapo-isidro-one-of-fbis-10-most-wanted-fugitives/article_d6338143-d6c7-5f3b-9a54-e1590ffb3ade.html",
+        "source": "idahopress.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-21T16:30:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Mexico captures top drug lord El Chapo Isidro",
+        "url": "https://cyprus-mail.com/2026/11/21/mexico-captures-top-drug-lord-el-chapo-isidro",
+        "source": "cyprus-mail.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-21T16:30:00Z",
+        "language": "English",
+        "source_country": "Cyprus"
+      },
+      {
+        "title": "Sinaloa , Mexico news today : Fausto Isidro Meza - Flores , or El Chapo Isidro , leader of Guasave cartel Los Mazatleco , is captured",
+        "url": "https://abc7ny.com/post/sinaloa-mexico-news-today-fausto-isidro-meza-flores-el-chapo-leader-guasave-cartel-los-mazatleco-is-captured/20063160/",
+        "source": "abc7ny.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-21T16:30:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
       {
         "title": "Terrorist Cartel Kills Innocent Man During Bombing Attack in Sinaloa, Mexico",
         "url": "https://www.breitbart.com/border/2026/11/19/terrorist-cartel-kills-innocent-man-during-bombing-attack-in-sinaloa-mexico/",
@@ -430,15 +435,18 @@
         "url": "https://www.breitbart.com/border/2026/11/16/cartel-gun-smugglers-sentenced-to-40-years-in-federal-prison/",
         "source": "Breitbart News",
         "published_at": "2026-11-17T01:06:04Z"
-      },
-      {
-        "title": "US Is Protecting Mexican Fugitive Prosecutor Who Brought CIA Into Cartel Raids: Report",
-        "url": "https://biztoc.com/x/492ddbb6c9394f07",
-        "source": "Biztoc.com",
-        "published_at": "2026-11-16T17:24:41Z"
       }
     ],
     "venezuela-guyana-essequibo-dispute": [
+      {
+        "title": "Venezuela Again Rejects Guyana Border Court",
+        "url": "https://www.riotimesonline.com/venezuela-rejects-icj-guyana-essequibo-border-court/",
+        "source": "riotimesonline.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-21T11:30:00Z",
+        "language": "English",
+        "source_country": "Brazil"
+      },
       {
         "title": "Guyana : US position on Essequibo unchanged",
         "url": "https://nowgrenada.com/2026/11/guyana-us-position-on-essequibo-unchanged/",
@@ -472,64 +480,50 @@
         "url": "https://freerepublic.com/focus/f-news/4403220/posts",
         "source": "Freerepublic.com",
         "published_at": "2026-11-16T15:40:37Z"
-      },
-      {
-        "title": "Azerbaijan intensifies its European engagement at the EPC Summit",
-        "url": "https://biztoc.com/x/a9ad808701a93c8f",
-        "source": "Biztoc.com",
-        "published_at": "2026-11-13T15:30:47Z"
       }
     ],
     "taiwan-strait-tension": [
       {
-        "title": "Taiwan and Japan Intercept Russian Tu-95 Bombers Flying Back from Vietnam",
-        "url": "https://theaviationist.com/2026/11/19/taiwan-japan-intercept-russian-tu-95/",
-        "source": "Theaviationist.com",
-        "published_at": "2026-11-19T21:54:50Z"
+        "title": "Why Taiwanese firms are reluctant to leave China, even as tensions rise",
+        "url": "https://theconversation.com/why-taiwanese-firms-are-reluctant-to-leave-china-even-as-tensions-rise-297000",
+        "source": "The Conversation Africa",
+        "published_at": "2026-11-20T14:27:14Z"
+      },
+      {
+        "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
+        "url": "https://biztoc.com/x/fd24d46adae10ffc",
+        "source": "Biztoc.com",
+        "published_at": "2026-11-20T13:33:12Z"
+      },
+      {
+        "title": "Meta gets a ‘China complaint’ from Taiwanese government; asked to check thousands of accounts that may be trying to...",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/meta-gets-a-china-complaint-from-taiwanese-government-asked-to-check-thousands-of-accounts-that-may-be-trying-to-/articleshow/136027576.cms",
+        "source": "The Times of India",
+        "published_at": "2026-11-20T12:44:54Z"
       }
     ],
     "korean-armistice-standoff": [
       {
-        "title": "Japan Secures Access to Indian Missile Ranges in Major Indo - Pacific Defence Push",
-        "url": "https://slguardian.org/japan-secures-access-to-indian-missile-ranges-in-major-indo-pacific-defence-push/",
-        "source": "slguardian.org",
-        "provider": "GDELT",
-        "published_at": "2026-11-20T06:45:00Z",
-        "language": "English",
-        "source_country": "Sri Lanka"
-      },
-      {
-        "title": "UN Nuclear Watchdog Voices Serious Concern As North Korea Expands Uranium Enrichment",
-        "url": "http://www.zerohedge.com/geopolitical/un-nuclear-watchdog-voices-serious-concern-north-korea-expands-uranium-enrichment",
-        "source": "zerohedge.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-20T06:45:00Z",
-        "language": "English",
-        "source_country": "United States"
+        "title": "Britain launching offensive cyber ops against Russia, China, Iran and North Korea, top commander reveals",
+        "url": "https://www.dailymail.com/news/article-16309027/britain-offensive-cyber-operations-russia-china-north-korea.html",
+        "source": "Dailymail.com",
+        "published_at": "2026-11-20T17:06:14Z"
       },
       {
         "title": "FBI Uncovers Chilling Cyberattack: North Korean Hackers Steal $400 Million Through Fake Video Meetings",
         "url": "https://www.naturalnews.com/2026-11-20-north-korean-hackers-steal-400m-through-fake-video.html",
         "source": "Naturalnews.com",
         "published_at": "2026-11-20T06:00:00Z"
-      },
-      {
-        "title": "N . Korea , Laos vow deeper cooperation in Pyongyang meeting",
-        "url": "https://www.koreaherald.com/article/10943538",
-        "source": "koreaherald.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-20T01:30:00Z",
-        "language": "English",
-        "source_country": "South Korea"
-      },
-      {
-        "title": "North Korea is expanding its original uranium enrichment facility, UN nuclear watchdog says",
-        "url": "https://abcnews.com/International/wireStory/north-korea-expanding-original-uranium-enrichment-facility-nuclear-138276975",
-        "source": "Abcnews.com",
-        "published_at": "2026-11-19T07:29:33Z"
       }
     ],
-    "india-pakistan-kashmir-conflict": [],
+    "india-pakistan-kashmir-conflict": [
+      {
+        "title": "Pakistan minister lands in India in a first since military standoff (VIDEO)",
+        "url": "https://rt-english.com/india/649163-pakistan-minister-lands-in-india/",
+        "source": "Rt-english.com",
+        "published_at": "2026-11-20T14:45:44Z"
+      }
+    ],
     "ethiopia-northern-conflict": [
       {
         "title": "Fresh clashes at the Eritrean border — is Ethiopia sliding into a regional war?",
@@ -546,38 +540,49 @@
     ],
     "nigeria-internal-security-crisis": [
       {
-        "title": "From healing to hostage: Drivers of healthcare worker kidnapping in Nigeria",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362302",
-        "source": "Plos.org",
-        "published_at": "2026-11-19T14:00:00Z"
-      }
-    ],
-    "afghanistan-governance-security-crisis": [],
-    "ecuador-organized-crime-crisis": [
+        "title": "NEYGA calls on Sultan , JNI to curb political attacks in mosques – The Sun Nigeria",
+        "url": "https://thesun.ng/neyga-calls-on-sultan-jni-to-curb-political-attacks-in-mosques/",
+        "source": "thesun.ng",
+        "provider": "GDELT",
+        "published_at": "2026-11-21T12:30:00Z",
+        "language": "English"
+      },
       {
-        "title": "Hegseth Proposes Joint Military Ops in Honduras , Warns U . S . Wont Cede Its Backyard",
-        "url": "https://www.latintimes.com/hegseth-asfura-pactos-defensa-operaciones-contra-narcotrafico-honduras-601616",
-        "source": "latintimes.com",
+        "title": "2027 : Afenifere warns against rising political violence",
+        "url": "https://punchng.com/2027-afenifere-warns-against-rising-political-violence/",
+        "source": "punchng.com",
         "provider": "GDELT",
         "published_at": "2026-11-20T21:45:00Z",
         "language": "English",
-        "source_country": "United States"
+        "source_country": "Nigeria"
       },
       {
-        "title": "US Sanctions Gangs Tied to Mexican Cartels",
-        "url": "https://www.riotimesonline.com/us-sanctions-comanchero-ndrangheta-mexican-cartels/",
-        "source": "riotimesonline.com",
+        "title": "Urgent Need To End Campaign Violence",
+        "url": "https://leadership.ng/urgent-need-to-end-campaign-violence/",
+        "source": "leadership.ng",
         "provider": "GDELT",
-        "published_at": "2026-11-20T01:15:00Z",
+        "published_at": "2026-11-20T05:30:00Z",
         "language": "English",
-        "source_country": "Brazil"
+        "source_country": "Nigeria"
       },
       {
-        "title": "The Unstoppable Prison Gangs Transforming Ecuador Into a Narco State",
-        "url": "https://biztoc.com/x/b845117ebd30f343",
-        "source": "Biztoc.com",
-        "published_at": "2026-11-14T07:28:30Z"
+        "title": "DHQ denies supplying camouflage uniforms to suspected bandit",
+        "url": "https://punchng.com/dhq-denies-supplying-camouflage-uniforms-to-suspected-bandits/",
+        "source": "punchng.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-20T03:30:00Z",
+        "language": "English",
+        "source_country": "Nigeria"
       }
-    ]
+    ],
+    "afghanistan-governance-security-crisis": [
+      {
+        "title": "How a small Toronto radio program is bringing Afghan women's voices to light",
+        "url": "https://www.cbc.ca/news/canada/toronto/afghan-women-radio-program-9.7428784",
+        "source": "CBC News",
+        "published_at": "2026-11-20T09:00:00Z"
+      }
+    ],
+    "ecuador-organized-crime-crisis": []
   }
 }
