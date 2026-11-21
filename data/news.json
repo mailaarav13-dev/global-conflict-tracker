@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T20:22:36.346Z",
+  "generated_at": "2026-11-21T00:06:25.543Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
@@ -476,6 +476,33 @@
       }
     ],
     "korean-armistice-standoff": [
+      {
+        "title": "Japan Secures Access to Indian Missile Ranges in Major Indo - Pacific Defence Push",
+        "url": "https://slguardian.org/japan-secures-access-to-indian-missile-ranges-in-major-indo-pacific-defence-push/",
+        "source": "slguardian.org",
+        "provider": "GDELT",
+        "published_at": "2026-11-20T06:45:00Z",
+        "language": "English",
+        "source_country": "Sri Lanka"
+      },
+      {
+        "title": "UN Nuclear Watchdog Voices Serious Concern As North Korea Expands Uranium Enrichment",
+        "url": "http://www.zerohedge.com/geopolitical/un-nuclear-watchdog-voices-serious-concern-north-korea-expands-uranium-enrichment",
+        "source": "zerohedge.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-20T06:45:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "N . Korea , Laos vow deeper cooperation in Pyongyang meeting",
+        "url": "https://www.koreaherald.com/article/10943538",
+        "source": "koreaherald.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-20T01:30:00Z",
+        "language": "English",
+        "source_country": "South Korea"
+      },
       {
         "title": "North Korea is expanding its original uranium enrichment facility, UN nuclear watchdog says",
         "url": "https://abcnews.com/International/wireStory/north-korea-expanding-original-uranium-enrichment-facility-nuclear-138276975",
