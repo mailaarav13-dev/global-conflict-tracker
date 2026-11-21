@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T19:21:09.095Z",
+  "generated_at": "2026-11-21T23:27:43.059Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
@@ -221,6 +221,15 @@
       }
     ],
     "libya-fragmentation": [
+      {
+        "title": "Israel , Italy And The Eastern Med : Strategic Assets For European Energy Security In A Geopolitical Contested Area Of Hybrid Competition - Analysis",
+        "url": "https://www.eurasiareview.com/20112026-israel-italy-and-the-eastern-med-strategic-assets-for-european-energy-eecurity-in-a-geopolitical-contested-area-of-hybrid-competition-analysis/",
+        "source": "eurasiareview.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-20T03:15:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
       {
         "title": "Egypt challenges Turkey-Libya maritime deal at UN, as Tripoli signals readiness for talks",
         "url": "https://en.protothema.gr/2026/11/17/egypt-challenges-turkey-libya-maritime-deal-at-un-as-tripoli-signals-readiness-for-talks/",
