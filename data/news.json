@@ -1,9 +1,45 @@
 {
-  "generated_at": "2026-11-22T19:43:54.927Z",
+  "generated_at": "2026-11-22T23:44:19.181Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
     "russia-ukraine-war": [
+      {
+        "title": "Drones likely cause as Russian ship explodes in Libya",
+        "url": "https://www.goulburnpost.com.au/story/9396102/drones-likely-cause-as-russian-ship-explodes-in-libya/",
+        "source": "goulburnpost.com.au",
+        "provider": "GDELT",
+        "published_at": "2026-11-22T22:30:00Z",
+        "language": "English",
+        "source_country": "Australia"
+      },
+      {
+        "title": "Burnham EU deal : British imperialism realigns for war - World Socialist Web Site",
+        "url": "https://www.wsws.org/en/articles/2026/11/22/ngsd-n22.html",
+        "source": "wsws.org",
+        "provider": "GDELT",
+        "published_at": "2026-11-22T22:30:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "WW3 fears erupt as Russia vows revenge against new NATO Iron Curtain move",
+        "url": "https://www.dailystar.co.uk/news/latest-news/ww3-fears-erupt-russia-vows-37904340",
+        "source": "dailystar.co.uk",
+        "provider": "GDELT",
+        "published_at": "2026-11-22T22:30:00Z",
+        "language": "English",
+        "source_country": "United Kingdom"
+      },
+      {
+        "title": "Ukraine allegedly turns to Israeli - developed , Italian - built satellite terminals to guide long - range strike drones deep inside Russia",
+        "url": "https://www.techradar.com/pro/no-starlink-no-problem-ukraines-strikes-on-kerch-bridge-made-possible-using-uav-repeaters-and-an-israeli-italian-satellite-comms-system-that-swaps-elon-musks-constellation-for-european-satellites",
+        "source": "techradar.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-22T22:30:00Z",
+        "language": "English",
+        "source_country": "United Kingdom"
+      },
       {
         "title": "Russian cargo ship struck by drones in Baltic Sea",
         "url": "https://rt-english.com/russia/649193-russian-ship-drones-baltic-sea/",
@@ -27,18 +63,6 @@
         "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126",
         "source": "Al Jazeera English",
         "published_at": "2026-11-21T18:42:38Z"
-      },
-      {
-        "title": "Russia-bound ship attacked in Gulf of Finland",
-        "url": "https://www.bbc.com/news/articles/cj752ddve27ko",
-        "source": "BBC News",
-        "published_at": "2026-11-21T18:22:09Z"
-      },
-      {
-        "title": "Mike Waltz warns Kremlin faces 'unsustainable' losses approaching WWII scale as Trump seeks deal",
-        "url": "https://www.foxnews.com/media/mike-waltz-warns-kremlin-faces-unsustainable-losses-approaching-wwii-scale-trump-seeks-deal",
-        "source": "Fox News",
-        "published_at": "2026-11-21T17:57:35Z"
       }
     ],
     "israel-gaza-war": [
@@ -443,6 +467,42 @@
     ],
     "mexico-cartel-conflict": [
       {
+        "title": "Put Cartel Suppliers On Trial In America - By Fransiscus Nanga Roka",
+        "url": "https://www.opinionnigeria.com/put-cartel-suppliers-on-trial-in-america-by-fransiscus-nanga-roka/",
+        "source": "opinionnigeria.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-22T21:30:00Z",
+        "language": "English",
+        "source_country": "Nigeria"
+      },
+      {
+        "title": "El Chapo Isidro : Who is the Mexican drug kingpin captured this weekend ?",
+        "url": "https://www.irishtimes.com/world/americas/2026/11/22/el-chapo-isidro-who-is-the-mexican-drug-kingpin-captured-this-weekend/",
+        "source": "irishtimes.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-22T19:00:00Z",
+        "language": "English",
+        "source_country": "Ireland"
+      },
+      {
+        "title": "Mexican forces arrest FBI - wanted fugitive Chapo Isidro in Sinaloa",
+        "url": "https://www.independent.co.ug/mexican-forces-arrest-fbi-wanted-fugitive-chapo-isidro-in-sinaloa/",
+        "source": "independent.co.ug",
+        "provider": "GDELT",
+        "published_at": "2026-11-22T12:30:00Z",
+        "language": "English",
+        "source_country": "Uganda"
+      },
+      {
+        "title": "FBI says its most - wanted drug lord El Chapo Isidro caught by Mexico with US assistance",
+        "url": "http://www.bignewsnetwork.com/news/279448522/fbi-says-its-most-wanted-drug-lord-el-chapo-isidro-caught-by-mexico-with-us-assistance",
+        "source": "bignewsnetwork.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-22T07:30:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
         "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off a burst of violence in Sinaloa",
         "url": "https://biztoc.com/x/2ae06c6a67011221",
         "source": "Biztoc.com",
@@ -465,30 +525,6 @@
         "url": "https://www.dailymail.com/news/article-16311215/drug-cartel-fbi-wanted-mexico-chapo-isidro.html",
         "source": "Dailymail.com",
         "published_at": "2026-11-21T18:08:39Z"
-      },
-      {
-        "title": "Mexico Arrests Sinaloa Drug Cartel Kingpin After Fierce Gun Battle",
-        "url": "https://www.breitbart.com/border/2026/11/21/mexico-arrest-sinaloa-kingpin-after-fierce-gun-battle/",
-        "source": "Breitbart News",
-        "published_at": "2026-11-21T17:58:26Z"
-      },
-      {
-        "title": "Mexico arrests drug kingpin on FBI's 10 Most Wanted, sparking violence in Sinaloa - CBS News",
-        "url": "https://slashdot.org/firehose.pl?op=view&id=186820580",
-        "source": "Slashdot.org",
-        "published_at": "2026-11-21T17:34:06Z"
-      },
-      {
-        "title": "Mexico detains top cartel boss El Chapo Isidro, one of FBI's 10 most wanted fugitives",
-        "url": "https://www.cbc.ca/news/world/mexico-detains-sinaloa-cartel-boss-el-chapo-isidro-9.7431280",
-        "source": "CBC News",
-        "published_at": "2026-11-21T16:32:44Z"
-      },
-      {
-        "title": "At least 11 people killed in Mexico's Sinaloa after capture of cartel boss, officials say",
-        "url": "https://www.yahoo.com/news/world/articles/mexico-detains-top-cartel-boss-132336521.html",
-        "source": "Yahoo Entertainment",
-        "published_at": "2026-11-21T13:23:36Z"
       }
     ],
     "venezuela-guyana-essequibo-dispute": [
@@ -529,6 +565,33 @@
       }
     ],
     "armenia-azerbaijan-peace-process": [
+      {
+        "title": "Italian Foreign Minister pays visit to Azerbaijan",
+        "url": "https://en.apa.az/foreign-policy/italian-foreign-minister-pays-visit-to-azerbaijan-537789",
+        "source": "en.apa.az",
+        "provider": "GDELT",
+        "published_at": "2026-11-22T21:30:00Z",
+        "language": "English",
+        "source_country": "Azerbaijan"
+      },
+      {
+        "title": "German FM : Amendments to Armenia Constitution are important for signing peace agreement",
+        "url": "https://en.apa.az/europe/german-fm-amendments-to-armenias-constitution-are-important-for-signing-peace-agreement-537632",
+        "source": "en.apa.az",
+        "provider": "GDELT",
+        "published_at": "2026-11-21T13:30:00Z",
+        "language": "English",
+        "source_country": "Azerbaijan"
+      },
+      {
+        "title": "Armenian PM : Launch of TRIPP project to be officially announced tomorrow",
+        "url": "https://en.apa.az/cis-countries/armenian-pm-launch-of-tripp-project-to-be-officially-announced-tomorrow-537644",
+        "source": "en.apa.az",
+        "provider": "GDELT",
+        "published_at": "2026-11-21T13:30:00Z",
+        "language": "English",
+        "source_country": "Azerbaijan"
+      },
       {
         "title": "First Muslim in U.S. Senate Opposes Military Aid to Azerbaijan",
         "url": "https://freerepublic.com/focus/f-news/4403220/posts",
@@ -611,16 +674,51 @@
     "ethiopia-northern-conflict": [],
     "nigeria-internal-security-crisis": [
       {
+        "title": "Security Reports : Afenifere Cautions Against Rising Political Violence",
+        "url": "https://leadership.ng/security-reports-afenifere-cautions-against-rising-political-violence/",
+        "source": "leadership.ng",
+        "provider": "GDELT",
+        "published_at": "2026-11-22T10:30:00Z",
+        "language": "English",
+        "source_country": "Nigeria"
+      },
+      {
         "title": "Military kills 21 ISWAP fighters, eight terrorists surrender",
         "url": "https://punchng.com/military-kills-21-iswap-fighters-eight-terrorists-surrender/",
         "source": "The Punch",
         "published_at": "2026-11-21T13:35:40Z"
       },
       {
+        "title": "NEYGA calls on Sultan , JNI to curb political attacks in mosques – The Sun Nigeria",
+        "url": "https://thesun.ng/neyga-calls-on-sultan-jni-to-curb-political-attacks-in-mosques/",
+        "source": "thesun.ng",
+        "provider": "GDELT",
+        "published_at": "2026-11-21T12:30:00Z",
+        "language": "English"
+      },
+      {
         "title": "Police probe attack on Edo NDC secretariat, invite LG chairman",
         "url": "https://punchng.com/police-probe-attack-on-edo-ndc-secretariat-invite-lg-chairman/",
         "source": "The Punch",
         "published_at": "2026-11-21T05:22:06Z"
+      },
+      {
+        "title": "2027 : Afenifere warns against rising political violence",
+        "url": "https://punchng.com/2027-afenifere-warns-against-rising-political-violence/",
+        "source": "punchng.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-20T21:45:00Z",
+        "language": "English",
+        "source_country": "Nigeria"
+      },
+      {
+        "title": "Urgent Need To End Campaign Violence",
+        "url": "https://leadership.ng/urgent-need-to-end-campaign-violence/",
+        "source": "leadership.ng",
+        "provider": "GDELT",
+        "published_at": "2026-11-20T05:30:00Z",
+        "language": "English",
+        "source_country": "Nigeria"
       }
     ],
     "afghanistan-governance-security-crisis": [
