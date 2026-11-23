@@ -1,8 +1,104 @@
 {
-  "generated_at": "2026-11-22T23:46:05.527Z",
+  "generated_at": "2026-11-23T07:43:55.645Z",
   "provider": "GDELT + Google News",
   "items": {
     "politics": [
+      {
+        "title": "Florida Supreme Court launches summer internship for 1L and 2L students - The Florida Bar",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOEFPcXR4anFUcmZEclEzM3VHWFVrVjZ3NEtBYjRXbmlPU3M4ZUFTVzQ0Wm81UEhtYlQyLWV0VzV2TjR5dE5yVVczVENIWjVMM01vaThIa0lDRXQxbWZMUkktcXIza0ZFRUpTSTNlMlVRekdWTEkwNi1vZGhJLVpleVZRY3hsU2NGdjV5Qi1qeWc5VXpqVlZ0X19QTUs0M3BVcGl3RGthdWhuYk1RM2NzX1pxbWdvQWFIZF9yVA?oc=5",
+        "source": "The Florida Bar",
+        "provider": "Google News",
+        "published_at": "2026-11-23T07:17:58.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Democracy 101: Bridging the civic literacy gap and empowering communities past election season - The Fulcrum",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd3ZQcXZNQ1lPWUl1M1VSS2o0MmhjQlFWMGVrOEtrYVNSODhLT2VnRlY1Tld4bmcwNXBPOVRaY2NqOV9BZ0kwSkRpdDlNTkR4UUw0N1hRbVNEdEJ4Vnp6TGRZWUZ5YktndUlsMFFrZ2VNeWhMYjBCaVZUVDZkblExM0Z3U0o0ckZnVDdEUmtKQ3IwVlNmX05sejlRT3hBUQ?oc=5",
+        "source": "The Fulcrum",
+        "provider": "Google News",
+        "published_at": "2026-11-23T05:49:25.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Appeals court: New Jersey school segregation lawsuit unresolved - NJ Spotlight News",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeEIxSDVfT0NNNzREU2Y3aVA2WGhmY3BmRGRLNWVFS3p6WXFkanR6V3d6V05ESTJ6bzZOb2RYMnZqWlV1VGF0Q2NBSmFGaEJ4N2xwWTc2SG1Idzd1TEk4OTg3dEJ5TW9sRzd4eGtkelIxVEc0YWlsVTA4cVhqMUU3QUN6RXNLMW9TWkJnMjh2ZkRHbjFCRXlJbXV2YXhNa2E3aEtVbWxR?oc=5",
+        "source": "NJ Spotlight News",
+        "provider": "Google News",
+        "published_at": "2026-11-23T05:31:50.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Columbia law professors discuss university democracy and trustee power at Columbia-AAUP event - Columbia Daily Spectator",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNenNVUzRuRXJJekhhWEN4ZVpaVkpzSEFhZHg1YUtDSG9fX2lrQzZ4V1ZDSFZlSWVCTmlCYTZhQVo5aURkWDdoQlJKNHJJSlhIVERNdER1Q3RQYXFIWDBMUXJNR01rTmRuWGNXeTVtblFXY3dGRzByZHllcThSaEpEVEcyY0stcE5IeXh1bm5LS3N4NV9KaVdBT2tSZ2xnSURXRnNOc2hLOGd3TWtJS0liRjN1X3ZydjluSjZ0elJLSUY1VnpHdlhpd0dMRWh5S3l0R3VxTHZ5U1UyQVU2?oc=5",
+        "source": "Columbia Daily Spectator",
+        "provider": "Google News",
+        "published_at": "2026-11-23T05:24:15.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Media Buying Briefing: The midterm elections offer a window into media buying for ’28 - Digiday",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGh1Z2ZlbU10Nm9NVlRUWHNsNFpIT05LNUVMRFdqXzA2cGIzRkJTYUFLcWhfQW1RMnpodXZ5ekR1WmxlUXF2QkFIM3pIQlBrdVNSeDA1RVNSMWNsNEZiTk1rUkRhTlBFVzRzZlAxbnJBVmVSMUdwM2JWWFRfcTFESmd2Wk1iVkNCM2xHVGpNbTRiOFlNSXBMWU1FcmZzNE9pQ3daVmtacm9xamR5WGpYbENfT3BZZ19J?oc=5",
+        "source": "Digiday",
+        "provider": "Google News",
+        "published_at": "2026-11-23T05:07:01.000Z",
+        "language": "English"
+      },
+      {
+        "title": "NCAI Urges Tribal Nations to Join Supreme Court Amicus Brief in Crypto.com v. Nevada - Native News Online",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX0YyaDluNEdId0tsa2szeV9HbEJ1UVpFazQ5SXV1aUNmdGt1VWpNQ28xVTIwc2JWdnl5eHNGTkJSVFVWV3ZQTHhydmRuYUdnRUtPa3R5ekhFZVNrX0RLakZCOVRpdl9LNE5WblI0Um5WM1VjNndueS1VNS1rVVIycmJJVWxSRGhWX3BtVEZnMTQwaTQyV3NldjAwRWd0ckVRMjVIVFRBWHktRGVyUlNuM3Fvak1sVFJWcS1tNThXTXhMS00?oc=5",
+        "source": "Native News Online",
+        "provider": "Google News",
+        "published_at": "2026-11-23T05:01:00.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Editorial: City government failure - Toledo Blade",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTzU0akdsZnVhTW9rR0puSHZCVXZCbEV6NTdvVVJfLU9BUUo1NkRYb3pCMkpoMjVQSGFkRXJCTjZSTWtYaUVlbldHMGpkTUFUb2dBYW52UjZ2dktIaUo5ampqUGNRV2hCY25nWFFlM3VXWkJVZGwteE1aQ0M0cFZETmJwdlYzMWszeEJYWVMwc3B0OXlZenZLa1pvZVBXS0IxUlo2QjdreEcxRkRJd0hGSg?oc=5",
+        "source": "Toledo Blade",
+        "provider": "Google News",
+        "published_at": "2026-11-23T04:38:47.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Tracking the 2026 Early Vote: Midterm Election Results - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CNDhGdFFLbHU0dnFMZGZ5T2Z4LVNzYk5Mb0lHNXZhQW56U09sX1RmWmRLZmlvRnQtOHNHUlZlS3NZckF2WHF0LXVZOHROTTBCMnQzbkM2X1JCYkY5RGpwamRubEc4M3lPaFE?oc=5",
+        "source": "NBC News",
+        "provider": "Google News",
+        "published_at": "2026-11-23T04:15:56.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Democrat Chuck Hubbard defeats GOP incumbent in North Carolina House race - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdHJEVkpMY1lCY0t4amFNXzZkM2VlbzA2YU05NjlNdFBILVdFSUJESmhKcnRlUFdXMUxLLWxGMFJJQ1RGamhzNjBkOFd4cTNuamQxLW5ZZ2JWb2hnS2Q2VmVEMWVoTUw0SEtxUG1GRGV5TUlWaXVOM01OenVtNVF3dFJiT2s4UWZlTHkzZlJzYjBPTXota1FZakkzQWxwNXFUNS13UXBBNmtUSHRidTdwbHJKbllRZUdiMXpSa0VscE95Q2k4VTNj?oc=5",
+        "source": "The Washington Post",
+        "provider": "Google News",
+        "published_at": "2026-11-23T03:41:02.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Knicks on the Court: Sunday, November 2 vs. Indiana Pacers - NBA.com",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWFRaN2dyVFBZUWRfZ3BEa1NzSXZ1eEhwdXdWa3pKTlg1blpINmZGZVVKaVNwZzllRnc4UHBlOUdkUm1sNl9hQ1oySDRDX0RHa3ZpR2xrM3dmYU5MNXhsVW96RXBSZThoc1RWTzRreGRpQXg5UktFeV9VRWxoYnd2bGhUZWgwSHpHcEppeEIxaWdkYlk?oc=5",
+        "source": "NBA.com",
+        "provider": "Google News",
+        "published_at": "2026-11-23T03:25:44.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Court approves $7.25 billion settlement with Bayer over claims Roundup weed killer caused cancer - WUSA9",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLWpBLVdlY1AxRG9TUVViTi1LWENLTnNlZ01abVRjanFGS3NQNkRsSDlOdU5uNUNsOHZwNThrVF84VFBhSWIzbHlEb0l6X1UtNG5PbEpBT1VrNkRiU3BYM1NtMTlBWWVzc09oamlLUTZMTVdUdWl3eUR4MmRvYUZvM281S3F1MnU4cEhTd1ZoQzlRd2ZFUDFtWmFOVW55aGpLRXNnQlA3eENMbmFPNWxfbWFsc21KOVl5Y1hFN0tLaDdEQXJDT01yck9JTXA?oc=5",
+        "source": "WUSA9",
+        "provider": "Google News",
+        "published_at": "2026-11-23T03:24:00.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Inside fiscal policy: A new dataset on government actions - CEPR",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObzktU2ZpMkN4R3ZmNldiUHd1WHpzNWJESjBLRnplTEZJaWlVMGJTazBNNUVZblBXWmdoS19rODZoTGhVQnVCd19HeWZucDZhVzNoMjFhWXlnOTRuR0xadHY3T29xYzJuN2lfS2w5N1lLUTcxZS1RcEI0U3lhU1hWZnFwSzJGRm5OYlE?oc=5",
+        "source": "CEPR",
+        "provider": "Google News",
+        "published_at": "2026-11-23T01:31:09.000Z",
+        "language": "English"
+      },
       {
         "title": "Early voting begins Monday in District 8 special election - KGNS",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaWNuTHpFMUdJTVI4Y2R1U0k3cnNIamhSMGNlalBkY2NHaFp3UDFQRW9EWWRsQjdkM2dTek1CTGJZd2VyZzY0NkNEaTlmRkF0eEFSbGZJYUZ5eTRqaUYtak05My1nR2JFMXpqc2lJSE4yakoxZ0JUdGM3RlJ1cWtFZndUVnhDNkVFTGFHRWFKZ24zc2FEVTEyR2xR?oc=5",
@@ -12,111 +108,103 @@
         "language": "English"
       },
       {
-        "title": "House Democrats will start next Congress with largest majority of 21st century - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdDFwYnhlcGdodzRLNmNMQXB4MFJkUXF0TUZMUk1Pa24yamNRUGNRWmxrc3MxRXN6bFdNWFRrR0JONnVxbVpJX0RhYzZBandZa3hIcXlNN0plN3lGYWM3NThPSEZhLXdfVUJ6VFVDS0EzQmFjRDhJVW9PVkl0NTFYRlhmTncxUktiMVl3WTJCQmhZMDNMTG0zaVJ2Rmw4ZU5jSVdvVkkzMllYU3BtZVNsbTg0UlcwWTVvZWMtaGI1cDlyT1ZtOFdZRTJ3?oc=5",
-        "source": "The Washington Post",
-        "provider": "Google News",
-        "published_at": "2026-11-22T23:14:42.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Democrat Chuck Hubbard defeats GOP incumbent in North Carolina House race - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdHJEVkpMY1lCY0t4amFNXzZkM2VlbzA2YU05NjlNdFBILVdFSUJESmhKcnRlUFdXMUxLLWxGMFJJQ1RGamhzNjBkOFd4cTNuamQxLW5ZZ2JWb2hnS2Q2VmVEMWVoTUw0SEtxUG1GRGV5TUlWaXVOM01OenVtNVF3dFJiT2s4UWZlTHkzZlJzYjBPTXota1FZakkzQWxwNXFUNS13UXBBNmtUSHRidTdwbHJKbllRZUdiMXpSa0VscE95Q2k4VTNj?oc=5",
-        "source": "The Washington Post",
-        "provider": "Google News",
-        "published_at": "2026-11-22T22:46:10.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Sheriff Bilal has never needed a court ruling to show her contempt | Mike Newall - Inquirer.com",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWUtjTmxuVDg3OFRZWHptZURyVEhiVmtuZjNqSzNfdnBtUzNEdUw4TWxmY1ViY3dhVFpBSWVPTEhzLVo5RVpXc2xKMHpFeUVYbmk1U0FRbjBDcmptd2J0Y0hjVlJsaVdHN0YxRWh3djAwY1N2Yzc1YXpTaXZrMmVvZHB4ZDM?oc=5",
-        "source": "Inquirer.com",
-        "provider": "Google News",
-        "published_at": "2026-11-22T22:00:00.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Libya's eastern government suspects drone attack caused explosion on Russian ship - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHNFQ2hvQUxyR05zYXIyVjczNjE3eEVLWWhMdk1mS01BQV91dy03OU5SSzVzbzlvVk1ManQ2TFhqU2xkRkhZcGthVlZad0E1aVRKU1E5ZWxJTWRQVG5UYmFYYmcxZGJ1TFc1YzE0a2E4XzQ4SGJLNjNlc0otTGhGRnRWTHpmeW1mWnVBLTNhYmFLU3JOUTVfSTliN19fMG9rRWlmeFdKNHFSU1JVTTdnQUNhUlBUWmRSTDVXUUJuUW9fNEV2cjNWdTlPZw?oc=5",
-        "source": "Reuters",
-        "provider": "Google News",
-        "published_at": "2026-11-22T21:44:25.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal - Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZlhyZjdYRzZCblJHeHNLcVM2Z1h6b0hoTnN5a1lXX2xRT1VVNHE0OXpBV2ZnS2ZFY092MDNWbFFPSzJ5LWFsU3JvN0dGUGIwbUl6VDU2U3ZZaUlNcTRUWkxJYnI2MGp2aTVmMDZLamxVZVZFd3c1YWFYSWw5NlN1N2gyLUUxZjFRbXFhZDhaOU9kNUVfdGhvSWpiWHp5VXlnVnVLR0ZXVllUTi1x0gGyAUFVX3lxTE5JRmJIdDhVUnl3eUw2bU0xVUhGWVBzWjJCT1ZURm5QdnVHbXNteGQ1WHQ4QWl1dmhuM01SZnhkdnI4OXFKRldjN2ttVUJscXk5Um1pNlRvQjVqX0JIMHBCT2Q2azRWX0xPZS13MEhNNjNsMVlRNC1UVERfa0JWMXo4MnZxdmQ1LVRMODlueWRmd2dBTFRnN0pkdDNrcjF6cjdWMWdrTUpLa0h4YlV0b2RDRmc?oc=5",
-        "source": "Al Jazeera",
-        "provider": "Google News",
-        "published_at": "2026-11-22T21:39:54.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Democrats secure largest House majority in election in three decades - The Hill",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc2ZVaE5jRUZTY04wQmUzN1VpYkQybXlhYUlqYy1wbFB2WlZIME5ZRDRzS0tialg5TDVtMHRJSk5McUlYR25YM1NIZEp1bkxUYXNWWjFqSnpsdXlOTlpoNDdyNEdNLTVCNmFPbDZVV0llbm9vQTZlcGhDNG5DM3BPWNIBhgFBVV95cUxObTlodm54N2hRUXhsZ05kdVYyX0RlNDZERjNRNk9UTEdrZVhCTGpPdEtqT0hVTzIzRjladm5YRXV4dkdUS1ZXMlJPNFpCVzhfdU5yVWFZZkhVVDVIdWtObFpnXzdGanVNbDZSOHRXaGNmM0t5bW52VU9aV2FQZHFHODY4NS1nUQ?oc=5",
-        "source": "The Hill",
-        "provider": "Google News",
-        "published_at": "2026-11-22T21:33:00.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Appeals court says federal law requiring accommodations for pregnant workers is unconstitutional - PBS",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbmtBZzlja3RTa3FReGdIamdkM0NudVpLYmRLVkItanFydlA1OXRSMDJlZFJsR19pYlpYbVEwN1FuTFRKV091SThnZ01RTTF4dW1vQ2lqZDRlRkZRazJJeURSRnA2RWJEMWFPNkpxZWVFd0RzZmJlWkNyNnVYN0RjRDRaWnU1eTJYVUh5ZG5wWndudjRJQ1BncjdGSjhvcFdxb1dWME9kTVdlVWtJN2JYN2tGUUpkc1pDYm0wT2RWMFFZV0lDV1daQWh3enc?oc=5",
-        "source": "PBS",
-        "provider": "Google News",
-        "published_at": "2026-11-22T21:21:26.000Z",
-        "language": "English"
-      },
-      {
-        "title": "U.S. Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa - PBS",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcE04UmszekRHMXFQUW1pVVNwRjVMeDJIa216NGlNdGpMUGVaak1xRUhmS1FrQ2hOQkw0VkgzX2NSRVNTWXF5MmxjMlhpRmwtZS1lY0hIQ3BXRmhBRk1YbnNBY3ROZnRJLUVtMDNTd1VxaWhmMjRlNkZubElBbkZHMUdKUmxaYkk5bUtVUGdRcFNhU1hBY3dMRDFFVTlUMFJ3UF9CZUVWb3lsNFg4N3pCZU1MZnp4bjNLUGVKNGpkVXk?oc=5",
-        "source": "PBS",
-        "provider": "Google News",
-        "published_at": "2026-11-22T20:18:46.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Antigay Republican Virginia Foxx lost to a father who had his gay daughter in mind when he decided to run - Advocate.com",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQl9KUlgxanJwX0FZUVY2NnRtUVNPM0NacGtaRUNPZC1nRDhUZTh0U1V5Z2RpV042NGwtMmdPMWxmazdBMVUyZzJpa094RUd2SjliNWFWSnZpYnpkbmZON0ZEQlVyQlZJcTFhbjVZWEI3N3JCRFM3Y1hLR2tabzVVcC0yWWw?oc=5",
-        "source": "Advocate.com",
-        "provider": "Google News",
-        "published_at": "2026-11-22T19:38:11.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Trump’s FBI is still probing Fulton County’s 2020 election results - Democracy Docket",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcVQxelpqZkp5NkRCd0hLZXBzNlp0eGJPQ1VUQ1FHUVF2ay1zbEplaElHZHRhYldHdXVzald1TER3S21PZktsbUlHUkE2V2dUOXYtVXhQcldSZEN2TDJvTF84Yms3SGYwdlptZTdtUGNyYUQycHNrOHhZM0F6QmFqU0JTaDBuUFk4WnNsRjVoYlJTMzA0a24wOUhETURhNnAxTmNHTG56cjZaRmFxYVE?oc=5",
-        "source": "Democracy Docket",
-        "provider": "Google News",
-        "published_at": "2026-11-22T19:18:27.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Trump keeps losing in court. Here’s how he gets what he wants anyway. - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa3ozYWpuVnplUHVVOUNiQVhUWWV4OGxCY016dlJ0SDd3VGdVbjZMUHI5VG5ZOWUtQWl0QV82NUsxNnk3d2xURm1rNTViSU1WMWVxY29JZW5PcDNkMnpsYm03bkZpZWFRdzFiOHVMUTh2TDFqWTJHaHF1eVNkRG83OS02bndqSU8xNDdYUGRqUGJNVzJPRVZhb2d6aExLMnFDN2VnMVdobFlRSU5LakRxWWhROFRfZw?oc=5",
-        "source": "The Washington Post",
-        "provider": "Google News",
-        "published_at": "2026-11-22T19:00:00.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992 - PBS",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ2F3ODFSZlJ1enZBelNTVXByYm5wS3VkQWRWTWNUSmJicTR6cEZkaVdkNjdRRFhmY3NKOFNrOUQ2bFRybGtJcXVCR0JycDA2SUdXanZKRGsxT0Rxc04xRnpicmpMU1BvRVNKZXkxWTNlVGJrbnpVdVBibzBVRlJoRm9RVC0tTEpIZHExellVdnNrSXJOOUNoZDBHZjhvemltOEhEaFA2X01nZHRPNmlSeW9VbXZaVHZWb3JXNmIySFpUU2PSAcgBQVVfeXFMT3BUaUhKUDEzUFZzOTlYWWZGVmljRVhFTU5iOVVnRy00OUxkMGx1aGprallHR1VKeUlMbkdvVXZ6OHUyckRZdkE4NEYxOU4wRktKanVSWUgyc050dDNjT2Nsck13U2pTSS05RFRSYUI1MDNrNXV4TzhRaXBobElrdlVwNnlaaUlLNDNGX19GX2FoOVdRRG9yM0g0NEZGdllkX1ZtT2NsWkxsbHZSUHhmRUc4SXVUUzZDOWIxd0xNZ0dObk1RMWpLNzE?oc=5",
-        "source": "PBS",
-        "provider": "Google News",
-        "published_at": "2026-11-22T18:24:22.000Z",
-        "language": "English"
-      },
-      {
         "title": "Democrats Clinch 258 House Seats, an Election-Year Record This Century - The New York Times",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRTlhVl9TdFB4TzZPMHExRjJKdGJvQmZJcDRTcWl5TzRlMUpoalpDRmpJdjdpZWlQQTZrSWhfU2lXRGdSZVJCWVpMUFVubjNzRGpfUHEwUEptdHJJODZ1dlNoVk83dlN6aFgyRkk3RlRwUGJ2VXdNNFZSTThfOWxnclFjVzV5RS1iZ0R5QTZVcVU1YWRvamc?oc=5",
         "source": "The New York Times",
         "provider": "Google News",
-        "published_at": "2026-11-22T18:08:39.000Z",
+        "published_at": "2026-11-22T23:30:08.000Z",
         "language": "English"
       }
     ],
     "security": [
+      {
+        "title": "The Top 3 Physical Security Trends of 2026 - Security Magazine",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS1V0bFo0MGVUQVJyZm16VVdxWUpQeHgxQ1pvV2N2bnlKOElfb0FnM2duUWRCS0ZEVTBOZ2NJYjdxaXYtRk5Ic2Q4OFRrSGNieEV6VTg4ZHliQkxrWGYySDlEVFgxd3FSTDhmcUJlc0lOdThpdXJFWFd6MktJcndhUEtYUHBDVjJUU3VyTEdnOTRiVTc2Z2c?oc=5",
+        "source": "Security Magazine",
+        "provider": "Google News",
+        "published_at": "2026-11-23T07:00:00.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Ukraine War, Day 1,733: 14+ Murdered Near Kyiv by Russia’s Attack - EA WorldView",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNl9ybzhPRDgyT1NzeC1jLUJGTDJWNE5Ud21KTzhDS2FhOGxkRElQREdtUF9mQXdBNnUyLVRESGU1UzdxVVhxbnVma1dhRVhQc1pWNWctSm5vN2lnWFp2R3dSSWE3SWZlNWJpRHl3S3VLaHhaRVFmaXkyUEd3TENGZ3Z0SURjZDhJVl9sMGNvdXI?oc=5",
+        "source": "EA WorldView",
+        "provider": "Google News",
+        "published_at": "2026-11-23T06:42:47.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Vikings Defense Unable to Disrupt 49ers Attack - Vikings.com",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbngwZDRZLWJpLTJiblQxcEVqYWs1ckhnZkd0blpZWDRaZWEwOXZ2dWkweWRlMFhra1BKMmdLVXNJam5EODJkcDFDUEpVQ2syWW9tZ2hZRFMxQlFmT0ZhejJHLWRDdzY3WmNJZWdObE1UTlJ4OXJybmp3aG1GU3JidA?oc=5",
+        "source": "Vikings.com",
+        "provider": "Google News",
+        "published_at": "2026-11-23T06:26:11.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Cowboys Break: Areas to Attack - Dallas Cowboys | Official Site of the Dallas Cowboys",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1T280N1FldFlUSFZCSkJzVk8weEhPbWdYdi0zX1RIQlFfU1hmNW02czNYRE00U3RtR3BtNG05MTF1SUVxVXRIR0ZiTUo3OTZiNjlwZ0lxTFpua09oc0hrR0dWWURrekdoWUltRkZtUmFzbzA?oc=5",
+        "source": "Dallas Cowboys | Official Site of the Dallas Cowboys",
+        "provider": "Google News",
+        "published_at": "2026-11-23T05:38:06.000Z",
+        "language": "English"
+      },
+      {
+        "title": "How Layered Data Security Protects Massive Genomic Biobanks - The Scientist",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYUhKNkpfTmloMmdzcGR3VHBDbUtOem5YY3R4Sk8zYjJrYl9JaGc4MFVhN0NES1RiZEk4clItNzh0enRMNDZobk5wMDhuaUQ0cTdGVXBCa2psaFF1WjNnOGNfcjB0dC13SkcwbFRIZE0tcXAzTXZOVmlNN2RpbWFKd1Q4X0lZV29JYXVlV0lIaFl6cy1RcmFNMzU0aGVDdDFwV3Bpem93?oc=5",
+        "source": "The Scientist",
+        "provider": "Google News",
+        "published_at": "2026-11-23T05:09:44.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Benin: Food Security Outlook - Amid ongoing harvests, insecurity in northern border areas constrains food access, October 2026 - May 2027 - ReliefWeb",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQOHNnZzQxQnlwSFE4M1ZfR2JjaEREcTNQZWRHMmptWUdMZlYzcTN5bW55MklJSlBqbWgxanBBNWVMZUxuSWRjcERDalF2aHdUc3hEd0dlalhuZWF4cXQyaTNXQ3FDT3VFVmV0Z3REM0tXeENSUnVhSEZIUTVDVU9JdU1NT0VoTzlqWVh4a0FaOE9od1JrWEVoS1J1ejQxT2JSZnJDcVJhSEZkMlZocElsZ3ljY1R2T0lDNGlEYUt6YmgwVFZkZjhyZ2VzWUtnbWVSRnk2TDRfRmVQNHZxTXRaMGlvaHd2UEdSQ3kxeERXcEhueE9R?oc=5",
+        "source": "ReliefWeb",
+        "provider": "Google News",
+        "published_at": "2026-11-23T05:07:27.000Z",
+        "language": "English"
+      },
+      {
+        "title": "California AG Bonta filed lawsuit against OpenAI over model security, public safety - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdmhmeEgxSkU1V2V3QmEtdlJ5RUR2U1FZVm5lajNFT1h3cUJnUW1XQUZRSUNLYnV6QkFFNWhMR0ZtbEtRSDRvQXJ3dThFRWFYMUlfbTNFUkFMN3JwTWVHbC11MjB5LUNia3JVMUxjWUtGV0dSa3V4V1JIMHNMdGpzd2JkOGotTnpRbmh5cHBSQ213NFhwOWs4MVZ4YzBKZ3FsUlRpVzFsMHNQS3VKTXVmRDRvS3dWWGhO?oc=5",
+        "source": "Reuters",
+        "provider": "Google News",
+        "published_at": "2026-11-23T04:26:00.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Ukraine war briefing: Russian cargo ship hit by drone in Baltic Sea as Finland PM says conflict ‘spilling over’ - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLXpOdWlXckdpLXNuT053QVpxMFlxNkVKbjRtY29vam5PSEgtdWw5VkI3T19HWkg0eGE2MUxrTUdkSlg0WGN1Z19NOHhQSDh2YVlmMHZoOTQ1UmFFQ2tqYkVrU0p2aGsxNkdydlVYOVJzTUFkVm5xcEJGMUt2ZGEwaDFzLXoxMkVibnZMcUx1MUhIZUJtS2MzTnNBbTl0Z0tfSkdoUWVaZ0V5VktzMU9OZEcweEZ2Y00xeFJDNmh2Yzg0QndsUm9NRklNWDVLSkJuU0thMnFCZmdPV2x4S0ZLdmtybVBRM3FGOHc?oc=5",
+        "source": "The Guardian",
+        "provider": "Google News",
+        "published_at": "2026-11-23T04:18:00.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YeVVuSzlMa1Vza0JNYXpXbGw2emp5RndTVHplTzB1QllobEw0SW5Dc3VyTFhwMFJnMkpRSEJEZnhPOFFZYWZhckZXaUlKdTZPRzNyOGNzLWp0YUZDOHM4N0xZQWZHVm9zOHRPbXp1a040YUHSAXhBVV95cUxNcG02RV9VeGk3SG90SjhQdWEyTGd3RVdNRmw4YkZreEZmY2JHUU5nVGNBQklaSmFES0ppelA3UmZFVFVUdVF0RzlzdVBtWWF1emF1U3o1N0x4T25VRDVTMS1Od3BWZnhTVERFN0hJd1Bud1hHdkk3MnA?oc=5",
+        "source": "CNBC",
+        "provider": "Google News",
+        "published_at": "2026-11-23T03:40:00.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RYTdJa3FLUUotRjRtWmFYcWsyT29UT0FCVDUycVp4MmlCMUkzUVR3cVJUVTJWNDlQX0JLbk01S29SZEtLM0lXZHdzX2U4N2JBVDdhVjN2TEdlczg?oc=5",
+        "source": "BBC",
+        "provider": "Google News",
+        "published_at": "2026-11-23T02:59:35.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Libya: Suspected drone attack hits Russian ship in Benghazi - DW.com",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Cc0JRSzFKT2dJZlgwcWtvZHl6dzd0Y0wwMUpsMVduakpKbHFpTjJlOHl6NWNaRjB5WFBJbzVUQWlCSU43eS1ib1F2d1QybFVCVmZnV1hnZGYybWN2Y0FWVk45OVVnRmRxZDZpaWNkWEN6MDNW0gF0QVVfeXFMTlA2eU9QVWdacHN6UUEzNWJYX2l0d3NxdTlpZVdVVTdhWTQ1bEhxWTh2VS1LdGExZUFDb21xWUV3Z0JUcGY0SXZVYmN6ZlJZRzVKOGhtenFnZHBZMTZvdFplV3dadTRmT0I1NGZTbDdjcDJNc1c?oc=5",
+        "source": "DW.com",
+        "provider": "Google News",
+        "published_at": "2026-11-22T22:31:52.000Z",
+        "language": "English"
+      },
       {
         "title": "Chicago crime: At least 4 Chinatown businesses burglarized along Wentworth Avenue, police say - ABC7 Chicago",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTDI5WFdzTGcweG1GLWVRR0ZlWjMzUVlONXVFcEV6MFVFczBBaHp0QU54ajRjb3JLZXVGUkFpckxRVUlzcDdvZlFGZDdBM1puVlBBdGRtQ19wSHN6dV93LVFDaVBGT3ZtS0cxNmFfaFpXd185cXloRjRxV3c2SUJwcndReUppSnVNRlQyYzNqdTZfMVNjRG5GVnBjYV84MGRteWg5enZIdWZndEFuQmlYc0tiaWFZY0hDMkNPZFFB0gHDAUFVX3lxTE9obTlVdUZNeXhKdlFmWW1sN0g3OTVsVWFweE1YeHBJWDk4YkRNLVM5NjRjOEJOQkhnY2dEVzBFRkdHcjFxc0tVbl9xTUF4azhheUZxOWRCaXg2X09jT2JCZ2VYdkkxb01SWEFURVZIQnkzQk5JVE5VNVFFTXBYN2lERW9fZVVqXzZhU3ZtNUQ0aXVINnI3WWZlWXF2OWVXVEpiQklnM25PV1ZIazZtTHBKX0U2dVI0YXBkVDRPTVJ4bDJGNA?oc=5",
@@ -140,211 +228,219 @@
         "provider": "Google News",
         "published_at": "2026-11-22T21:44:25.000Z",
         "language": "English"
-      },
-      {
-        "title": "15 military hospitals receive Leapfrog's highest Hospital Safety Grade - TRICARE Newsroom (.mil)",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMjZuV1VNOGxEcHhDRjVPOExyWVBHeUhiR2NIYkwzV25STDVadDFnaEU5VUhqNFQ5MVN6YTc2Tl9MbnR3QnJKVWlGTUlWQUtuSkVaR2Q3SjVSQTdQeXZxOWdVSFJadmpRQklDYzV1WVlzcld0WGY4R2p2b2NOSEZVOENaRHc3M0xSWlZUSVlTZWVSREVyZkFKSjdiQVZQUmJyMGt2a1NGRzM2c0tDTXdHUmMtR1FlYjN0Zzd0Q3hGQW92WXl1SUJ1N3daQjk?oc=5",
-        "source": "TRICARE Newsroom (.mil)",
-        "provider": "Google News",
-        "published_at": "2026-11-22T21:24:57.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Why Kazakhstan Deserves a Visit from a U.S. Sitting President - Georgetown University",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1luWmlqXzF5eVlSWEFQdXNJbXhLYXFoOENRc2R2bjVKNDg2RkMxRlpNZmpISUF2RFRLaGc3Vk5tRElqTG1HVUtwcXNyeFUzVDJyVFRjeV94MnRBSHNjampNWFItVjJIVTVlbTJjc2RVenZOaVlHS09XajdONVVHVm9GTER4VUktdlhmUmxsQURLOC03cVhiSjd5VTYyM0F0clZCNFZyWnYxemx2elZPeEM4YlJYUQ?oc=5",
-        "source": "Georgetown University",
-        "provider": "Google News",
-        "published_at": "2026-11-22T21:24:09.000Z",
-        "language": "English"
-      },
-      {
-        "title": "11/22/26 National Security and Korean News and Commentary - Small Wars Journal",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV1FPM1h5dlNlUEs2TUk2cVgwWFBHSTRCbUxzX1lqNXVza0pZMHdUamtNZGdtczRkNF9hbTY5N05RRDYxMTlNMWJjT08wbnVpVkt6Smg1dnV0NEZISjdVXzY4QmFWdkJiYjhreWRPbThVN1Znbm1HY3FvYl9rbi1JZlM3S202Y1ZielVaekFNSzA5eExhNjMteVlydWN1WHc?oc=5",
-        "source": "Small Wars Journal",
-        "provider": "Google News",
-        "published_at": "2026-11-22T21:01:41.000Z",
-        "language": "English"
-      },
-      {
-        "title": "EU-MED Peace and Security Forum 2026 - European External Action Service (EEAS)",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NTWVUcnpqTExhMUNQanpFYnBzYlpsSXZERTR4M2NHYTBVcWtVdllROUZrcXdIa1g2ajQxR3RXY3llVEJRSVB3SW9zSndnYjJndHBSQzlJLWRic19Eay1sWlVXQzRuZk5UTEJSNTdyYjRZbU9OUU5XYzJwUQ?oc=5",
-        "source": "European External Action Service (EEAS)",
-        "provider": "Google News",
-        "published_at": "2026-11-22T20:24:46.000Z",
-        "language": "English"
-      },
-      {
-        "title": "2 New Jersey Women Indicted in Faked Anti-Trump Slashing Attack - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUhWUVVJYnM2RUowczF1NjU2dk1fOV9ySG1XT3BGdjZPaGxvMGl2d09LREphN2FEVHVmVExVbUlXRy1lQXdJTzE5VW03YVNoVkwwMi00YjlRREZQRHZaRW9SVzZIbkVTLUV1dGdwYnNweThXbGF5VzNiUzJodFVlUndxVUVCWmhV?oc=5",
-        "source": "The New York Times",
-        "provider": "Google News",
-        "published_at": "2026-11-22T20:18:48.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Russian cargo ship leaves Finland’s territorial waters after drone attack - Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2NCaGF6MUxSRzUwVFhLTFAxUzR6bnU3TW5PSE9vQzRrRnk4Qnd3d0ZpQ1RMYk1wZEd3eHVla1lNOFhZTHktekYwZWJ2eElMaXRpamVCWWFrSEpUTVQxVjRpdHJ2WG9SSFp1aXVHTTBXUWVCdHFHTFJzc0I3Zks1dzZxNS1zWjhCTFhKR0tCM3RJdy1YLXJsTWhwSGhJUktORXJwaTBaQjHSAa4BQVVfeXFMTjJuTVlYMUFraG1VUWhHUXY5TTJiMF9SajVvX1lqLWNtOTRqaHNsei1OcUVuN1NuVU5ucDNoa2lZZFk3ZGkzRm1ybW50UllFcUZveEhIMDBnaG5pVmdzTktDeWpfejBrVk9kQ0NQV2pWNDBfcTJ0eHNfYTM0cUNaZjNTdVFWV3VWWWFEeS0wWDFMYTZrbHBMeEl5NzItRE1jRE5qZG5mdFJ5VUxoV3lB?oc=5",
-        "source": "Al Jazeera",
-        "provider": "Google News",
-        "published_at": "2026-11-22T19:55:45.000Z",
-        "language": "English"
-      },
-      {
-        "title": "U.S. intelligence chief says Trump's description of Putin as a 'friend' is 'entirely appropriate' - PBS",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNUdjYmJXazI4V25FVTFNTUVCNU1kQXlCRUdVMW90d2JrT1JWX2dkaWlBOVJqTzJ6anFZeW9rWkFOaDZqczZobXh6ZkxxUzc2c3QyVnViLXZVa1VuN3FpMHNDYWRIT1BkWGxHZ01TOEI1THUtbXdyeGd4RnRzel9zU0EwdU94UUdjajZpMnYzTUloMndpb0U0UHF3ZklvNXdQbjFNWDlqM3hGOHdZdk9mU09GR1RoMHV5VElVVlhiRTRxbUpZ0gHKAUFVX3lxTE1NRmhrWTVpbDNtWURtTTRKbHVfdF8taVk2ZWJFR0pxY0Q5R0pyMWtFbFc0YzBBR29LdWtBSUg4VzRJUFMtcUVYT0xfSlR3YWgxREZNMEtJMk1ZTjFWY0RNaHk4SXpZdTBHR1FzWGV6aE9fWjZFcHNTYjM3YXFVVUQzQjMzYm9XdF9zdWlxSWhQOWdrWElkVjhYZU92VFpydThLNjk4R0lFeFZEYVVBLWZNMmtDQUVURDUxT2l5U0V4Zm0xUWNMUXpmeEE?oc=5",
-        "source": "PBS",
-        "provider": "Google News",
-        "published_at": "2026-11-22T18:37:06.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Russian warship struck by suspected Ukrainian sea drones at Benghazi naval base, Libyan officials say - CBS News",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWGk5eW11S1dhZkZTNld1Y1NBbEJuNU5JUTdaa0o5bHQ5ZjJNaUx4aW41R3RDSFpWYmIwbDFwd1lOZVhlNHlDNmZnV2pxVjlfMDFTcFljRVJtaWo5cWZwX1VNM2x5eGZ3WUlyVXRKczd0RWRZY3M3Y1dFa0xVTzNfNnJKRGVodFRfclNqdW5BcDlpMnhCZXBnX0RZLVhFNjRNNGxzZmV2ZTBIVFdPcElKb2JMeWZ1aXhxZFVr?oc=5",
-        "source": "CBS News",
-        "provider": "Google News",
-        "published_at": "2026-11-22T18:20:27.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities - The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSFVTX1ZRdG95VXVFbTBCdEVjNDQxeUJCSC1zczMtNVJtSTNsX1Z4NkJFUGowNW1xNjNJUlJ3NkZuazFqM183NUhueGF0LU5xUzZocnFNR3N4WEktS3Ezelo3YldkT1I5dGMxYW1BZFZQNTVOQmlxMjM2cmlONjhhbEs2ZnJIRk9Rc1dHaXVJSzJuSlNibVNlOWp5ZU1qSGdYcE9adA?oc=5",
-        "source": "The Guardian",
-        "provider": "Google News",
-        "published_at": "2026-11-22T18:00:00.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Libya: Suspected drone attack hits Russian ship in Benghazi - DW.com",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Cc0JRSzFKT2dJZlgwcWtvZHl6dzd0Y0wwMUpsMVduakpKbHFpTjJlOHl6NWNaRjB5WFBJbzVUQWlCSU43eS1ib1F2d1QybFVCVmZnV1hnZGYybWN2Y0FWVk45OVVnRmRxZDZpaWNkWEN6MDNW0gF0QVVfeXFMTlA2eU9QVWdacHN6UUEzNWJYX2l0d3NxdTlpZVdVVTdhWTQ1bEhxWTh2VS1LdGExZUFDb21xWUV3Z0JUcGY0SXZVYmN6ZlJZRzVKOGhtenFnZHBZMTZvdFplV3dadTRmT0I1NGZTbDdjcDJNc1c?oc=5",
-        "source": "DW.com",
-        "provider": "Google News",
-        "published_at": "2026-11-22T17:27:26.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFODE1OHY1cFcwSGdUUGhHdVVsdVc2NU1YVHk0eEVRT2xyLUUyR2phMkpMYmR5ZC1uTk5PSnJKTDVtUkRaU0xzdUFlVGRXRmhkUU53UnM2czBrVGc?oc=5",
-        "source": "BBC",
-        "provider": "Google News",
-        "published_at": "2026-11-22T17:18:26.000Z",
-        "language": "English"
       }
     ],
     "economy": [
       {
-        "title": "US Stock Futures Open Higher After Tech Selloff: Markets Wrap - Bloomberg.com",
+        "title": "Stock Futures Rally After AI Rout, Havens Decline: Markets Wrap - Bloomberg.com",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFVRM2J2cTZ6eU02Qzk1TF83UmhsSEN3SlpHYjJuc2lDeXBVM0h6WkN2bEJCUlk5RnZNOFMta05FOXFqeTZQQWZnbFl2RG1WTWVNSXYwVWhZRFZxRkx6SDlhTWtUWk92UVBJa2FGWVk3ak9rOUVJYjZ6RDBqcUZCOEpiWmFVWGxvVmM1Y2prdDk2N19EZG0xWjU3aFV5QkJ6MjF4eExGSkd3TWxaWGRBVzhB?oc=5",
         "source": "Bloomberg.com",
         "provider": "Google News",
-        "published_at": "2026-11-22T23:36:15.000Z",
+        "published_at": "2026-11-23T07:08:00.000Z",
         "language": "English"
       },
       {
-        "title": "Dodgers And Twins Trade Former First-Round Picks To Provide Fresh Starts - Forbes",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObktUWExLLTg2Mk92dW53Q0hfYVJabEk1S3I3cjRXLUJkTzFldTRaRl82SXdFNkRvMno1R3hmbG55MUhNNWpxYkI2OUVLY1lGUUhRdGlSTmthUGtZbGhtbTZyTTQ3cW9RUWItWUpCNnVvcy1rek52cTJJOW54azFuQ0xTNEZ5emZZaTBSODJ5N0I0VTNkNzVHTGR0VXRJTXZoRWF3a0tsUVBnZGM5aV9aQ09IZFRUbzZTSXZia09CdVkyZUE?oc=5",
-        "source": "Forbes",
-        "provider": "Google News",
-        "published_at": "2026-11-22T23:22:17.000Z",
-        "language": "English"
-      },
-      {
-        "title": "James Bond’s Bare Wrist Sets Off Watch Industry War - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWGhWdW1YYVVOMUZPdDNGdzItMEFSQUk1elh6RllfUHptOURkMVZtbjhKOVhMRl9XdFNSNDMtcU9pVzZSTFlZWkxnN1FzdGh2aEZSaDctYWpSWWpXNEpBbGpTWjJTWGRSZUhibjIzQ3ZhZGtEWHBnbUFHVzRTdXo3UDFhZXMxdmMyS1BYUndMREMwVFNmTWNmd1ROZw?oc=5",
-        "source": "WSJ",
-        "provider": "Google News",
-        "published_at": "2026-11-22T22:55:41.000Z",
-        "language": "English"
-      },
-      {
-        "title": "The DK Metcalf Trade Has Been a Complete Disaster for the Steelers - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbWctc2tMVkhqaWZnUG45eUVoZnZYaW5Pd212c2stUXE3R2xycTJBV251YXc5VFlJcDNyeUZkaWpQd2Q4U0JVNkJMUEJOVm8tRlRwZ2lUMjQwa2g2N0N5SmhkS0NnUnJGQ010aHkwdk13VE4wdktfdkZSclVhNzY4Rg?oc=5",
-        "source": "Sports Illustrated",
-        "provider": "Google News",
-        "published_at": "2026-11-22T22:15:06.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Ticker: Key inflation report due this week - Boston Herald",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS1cxRkVVNm9xRUlKUXNhQkpqTE5CdU1fSGhWMmtUejE5T2xrRFBnM2UtUG5sN2tsZXlmYW1Idi1ucElld2xTb096RVZNQTVSaGcyaExxVzlrWEhERVowMUNEbk5BMG9KMlhHNzBCMExrTFNHdjN1VVgxNjh5aE5maFAtVnU5WjA0UGc?oc=5",
-        "source": "Boston Herald",
-        "provider": "Google News",
-        "published_at": "2026-11-22T22:14:54.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Mets' historic Tarik Skubal contract will change perspective of Dodgers trade - Dodgers Way",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRmlwQU9ERWZsbmdoUllxZkFvZERUemlWMWlUQVM2aDN5VWxoYnhnd1RGZFl4cl9HNmRyS1RmazYySzIzbkl3VzJEOElxSmh0Zml2VU5JeFZ4WkZxbGZ4VktLUjhJNTdqS3FGT0JlNVpodXhWOGxRWnUtTFAwNU1jVXE0aVpOWDE3RDNJMy1tdFdmTXFudFIzeFVDRTRUaFhy?oc=5",
-        "source": "Dodgers Way",
-        "provider": "Google News",
-        "published_at": "2026-11-22T22:12:52.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Why this might be a good time for fantasy managers to trade Derrick Henry - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRFJXVlg3REJoRWF6ZkpfNVBBZzNlNWJKS1ktNm9NWHNGa2hnQjNJdThpd3lxZ1JISzVqVm52VEY4cTU3aW5xMVQxenVxNGZ3NTdkT2R2ZHRwYWViWWVLTGpDejlGNjZCVEpPc1MtbjBHelNGaEVkWjJwR3ZEVDRNaW5jak9nLVFWYWxhbHVJaE9Fa2xNMlU0eg?oc=5",
-        "source": "ESPN",
-        "provider": "Google News",
-        "published_at": "2026-11-22T22:11:22.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Mets To Sign Tarik Skubal - MLB Trade Rumors",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DdEhsZFNPd3k1ZkgzOTFISDRuRFI5RXRSaEt6cENsMFp3cHB1Y2hhU0VGR1FoVzQxWlJHZGdtNjZlWWtJblJScnZ0ejQwX2ZfU2taV0FOd1B6VnhNcEcyMzVPYi1pamFUVjlHUUpJX2tIQTMtR0hWVA?oc=5",
-        "source": "MLB Trade Rumors",
-        "provider": "Google News",
-        "published_at": "2026-11-22T22:00:27.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Skubal expected to sign with team before Dec. 1 - MLB.com",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LOWduQnJwYnJzYWo0dW1sM2Vwd3piRVU0TEsxMHd6Rld0VVNhYWZXanpjb2pFaGxjR2p4a3dybnZZOW5CZS1VbVdTVWdVaHFmU013eVA5UQ?oc=5",
+        "title": "These 7 teams have the prospects to swing a big trade this offseason - MLB.com",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4bmF4N3VLNGp1NFNzVTNKTkRIdmpKU3JUcEZFNXdmSTN0bHNlTFhyMm1qbGNSbjhYNWpRUG53NHNMLXdjaFhtQjd1d2FqbFlRRXZsdnU4SUZKUjhrdXdWYlA3SG93SDNzdUlPU3NhSksxQVBWeDJzTlQ2a3hfQQ?oc=5",
         "source": "MLB.com",
         "provider": "Google News",
-        "published_at": "2026-11-22T21:49:31.000Z",
+        "published_at": "2026-11-23T06:49:31.000Z",
         "language": "English"
       },
       {
-        "title": "Democratic Rep says next Congress will focus on using AI to improve healthcare, jobs and agriculture - The Hill",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EUnhhYUR0YVhhbXNVY01qeEJSZzZ5MXlUa2FFQUw0Y0E3Y1ZzaDJVb2FIZmhhMjJyQlZ4TkpGWkN2bWY1OGtNLWkzMVhGeHVPYkhFYjVweUt2MzFRYUtZcDVMQld5bmpmWHZnUzJLa9IBdEFVX3lxTE9lR0wxSlZVNTRjMjQ3cHliQnp0WkRJYW0zdnpKVG9ZRkZqcXoxMUdkYXlDTlpaMm9fTm1EWTRJdDM5NWJWYXhjNXREb3NUTldNc1ZRR3hWZTRDWXpkcFNadjZSTVZSOEN5Rkk2alRRbVFnODZR?oc=5",
-        "source": "The Hill",
+        "title": "Asian stock markets tumble as AI bubble fears mount - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaWg2VjJNckwyMnpNTjV6cnBRckpmX2hndGxyM29qMnU0aml6bUNicGJPNXJKdzludzVfYVNhSHpJR0xhZjJMeHFDM3d4MldqQUJPbE9ha3VFbjMyLXFEeS1VSkFxejNJN2czNFlnMF9uNGdnb2lPUUdoTmZZeUFrbHFfNjVsZzc5QUVSR3hST2VYaDB1S2dYd0ktRWNoSHNmQUHSAacBQVVfeXFMUHlLZVl5SzNCcWd0RjktYlZwT2pDLXNDZmg1dzNKQ2k4VFZaa08xWjhQcEFubzhxYnpsZWxQU3ZIaGZSZlFzOGlrY3RRNUlLczVZRk8xN05VdkduMFRaVy03ME5zMWFtT0JSSWRqTzZ0cjVtUVBwYzJ5LWZhM0FiOFlSSlJHS1ZhcmZqeGlFdi1CLTBLeVpVSFNJVElhSnQxQmU4WS1hSWM?oc=5",
+        "source": "Al Jazeera",
         "provider": "Google News",
-        "published_at": "2026-11-22T20:52:00.000Z",
+        "published_at": "2026-11-23T06:22:30.000Z",
         "language": "English"
       },
       {
-        "title": "How much more air can come out of the AI trade? - The Economist",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd1B3MFpHSFJDWUxxYU5xd3JUU3FBaVFUVEc2a290UEVlaXVNWDlMSUFCNXlqWUtKekMzc1NEZEtPODJvOHJ6anhFdnpYLXlpd3RHLWc0TGcwOThYbmJSb0t2M2V2bTNyNXkza0ZrM0sxOTQwbUxUMUFKVlB2Z2hpaUd3MEZSckFISXdWTWJnRnpMYXpEeFU1Q20wQm9tNWM1VFZ4bjZsOGM?oc=5",
-        "source": "The Economist",
+        "title": "Dylan Larkin trade grades: Red Wings notch massive win in blockbuster NHL deal with Canadiens - CBS Sports",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWW9qSjVjVUV1aGtISUFfblRBVGt4bVRBRlBoR1NtWkluYzZEQnI4Yi1sSUdQdkcwZHlfYXRxUWs4MXc1WmZ4ekw5SC1hQV9raEsxRXloNUNfenNTVDkzRWtBZVRDUzhyVjBoSGpjejVBei0ySVJVRTZfUXB1dURFMHJoR2U?oc=5",
+        "source": "CBS Sports",
         "provider": "Google News",
-        "published_at": "2026-11-22T19:44:21.000Z",
+        "published_at": "2026-11-23T06:12:00.000Z",
         "language": "English"
       },
       {
-        "title": "Local farmers’ markets struggle to fund food assistance matching program - The Daily Tar Heel",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSHZMRWJFa01DdDU3b3FxSjRsR2s3ZEFqdjhZdkVzUGM1M2dXNEhMbzRjOVdsR2ZjbjBvalVnRWM5bm9NWVZxYnkxeEtGRzVyMlBuY29ObEUyZmg5RnJkQ3A5ZE9lS2J4UGVWbkVYcDBzUVlCbEQ3SHN2QmNBOVVXUDUtQmxvTmh0QjhyMkZUZW14QU1MOVE?oc=5",
-        "source": "The Daily Tar Heel",
+        "title": "Top Neurobro (bro) Exchanges & Markets | Blockworks Intel - Blockworks",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtYUM2ejVDaHNxSkpUbmZEaVlybHltU0Fxdk51OW9rZUNvcTdhcHZNNGxKUnVQamtMTnBTMnZvVnpYSC1Ib3paUzBsRk53TlBoTzRaV3dlYmNXX25VanZwQkRR?oc=5",
+        "source": "Blockworks",
         "provider": "Google News",
-        "published_at": "2026-11-22T19:20:45.000Z",
+        "published_at": "2026-11-23T05:58:24.000Z",
         "language": "English"
       },
       {
-        "title": "Inflation, Best Buy, Zoom, Dell, Deere, and More to Watch This Week - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWTdWRU9rX0ozSUVDYjdQX0hKMV9Ua25LOTN3Q2tpTWpvNlQwSDZQMTQ3ZjZ1cmgxMWdTSU9CTWRUWHd0Wk1qbDJ4Y20yY3NIN3JTRW5PX1ZUejRsZmVwSDVGcS1pTFFnM0ZuRzdveW1BOHBrVmhHS2xpTjRIY1JrR29ucFJYd2FBZVdR?oc=5",
-        "source": "Barron's",
+        "title": "Gold rises from 14-month low as markets await key US inflation data - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcnBFWkZLYUFtZG40ejNhc0xINGhEOGZWSnl2M1RabDhRbUstel9yOEtXTTczcW44cEw3b2lvbEMyaExOeDRLNnRWVFdOMU4xZDQ5bkd2YlJaUklBTWNMSDlFWDVZd2VxUEtpbXBqVUlMY3dDM0dmWXVfOW1CWG9oUVJIZ3BhWWltclFMZVF5ck1oZ2pUVUMwVWZVMVhlU1FrbmZuWGpLSW5jMUU?oc=5",
+        "source": "Reuters",
         "provider": "Google News",
-        "published_at": "2026-11-22T19:00:00.000Z",
+        "published_at": "2026-11-23T05:49:00.000Z",
         "language": "English"
       },
       {
-        "title": "Red Wings might be adjusting their ask in any Dylan Larkin trade - The Detroit News",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZmpqMWtvSnlaZzVONm9MZnlpUlVtTFFIcXFiUTJ0cmVDYTFVZ3E4UFdwQ2h3MV9fcnd3YlVkaXJIX3A0WWg1X0diaHcyZlEzQlh3LTJnb0NGeXZXMjY4OWhnYjBzTlNOWVBNVU9rcW1md3NNb0xtV3VWbEIyMHpkLUhDdXB4TVd2YkZVcVptcFpnLTVmWnRBZm8ySFY2bGZmRkZUNnhIbjZWb0NVeGdrWW43ZGRIMFZZeGRkWC0welhvS1VGMDRDZlYzd0o4SkhjdHNIN1BYT19UT0E?oc=5",
+        "title": "Larkin traded to Canadiens by Red Wings for package involving Dach, Hage - NHL.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVphRGFPMFVUb2ZLdExFNkdfUzU0bDcwRlV2QmZ3VTZRQ2ZLVGh5dTUzUHJGNEd2NGlIRnpZYU1rVW5Takx1ZFZzY1JwOEV1SlFGMmp2QWRHX1JpUGxIYkJIZkJFdzJpM3hOWFd6V0NUeHB3UU1tZVdRN2pvRmkzWXNLeFIxU2h1aDg0LURRbGtUYU5jT0hucHY4ejZaNWhXTXRtY2djY3lIVEdVVGlZ?oc=5",
+        "source": "NHL.com",
+        "provider": "Google News",
+        "published_at": "2026-11-23T05:36:58.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Larkin saga with Red Wings ends in blockbuster trade to Canadiens - NHL.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTnF4N2tEWG5ic0FuWXFwRVg3c2p3eUdsUjNMNmJ2U1RNSkMxUEdHekxXbnFtaG1scFVTN3h1X25FdzlxNEc1NXJCcEtEejNhaXAtbzlkNTlhX0dHSzMza0JfWE00SWpnb0Y4b2Zlbl81Vy13bHlTODRtQnlWSUVQeXNqNWprRHBlN0RlSlhGQS1fZjJXTnNR?oc=5",
+        "source": "NHL.com",
+        "provider": "Google News",
+        "published_at": "2026-11-23T04:42:58.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Red Wings trade Dylan Larkin to Montreal Canadiens - The Detroit News",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN2wwN2FFUWpfX2s3bnJONmRYUnBPTnlDUWJSeU9kTElta1pKQWhUeThLUC1FenNsRVVVa1VmX1BSRGNtRjNGZ0VxWGVrS1JCZkdacElRZUlGMEVSRk04VU1EekFtUjEzMWZTWUlmY3FaUl9ialVhbkRmczdJZlJhaW9pRHUxYVQyYjlwUUFSaHpCVkJzT2tJYS1XRHVRWC1mTkRoZEY4NmlYZjdRaEhNSUg3c2NIUGdUNXhFa3pwc0tKWnh1VHQ1OQ?oc=5",
         "source": "The Detroit News",
         "provider": "Google News",
-        "published_at": "2026-11-22T18:54:00.000Z",
+        "published_at": "2026-11-23T04:16:00.000Z",
+        "language": "English"
+      },
+      {
+        "title": "EU Inks Trade Deal With Indonesia to Cut Tariffs, Catalyze Investment - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmw2LTRaWkhrekF4b0RUY0J3djVhQzk3V2REZkVTRHFEaWZVUk9scjBpb3lMU0JtNlE5d1NnNk1kbTd3TlUwNWJ1YUs0ZXI3WmZWblNpOWIxWmlFNzhmaTUxclVFYllJcDJjall3YlctdkNpWDBZZXNHNWpMZnlrOHBHcjViN0JpTGhyV1pJLU5peEpuZWttM3UwTDdhdE1BdzhfbnhGZTN1RVlidUpaeQ?oc=5",
+        "source": "WSJ",
+        "provider": "Google News",
+        "published_at": "2026-11-23T03:44:00.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Bessent Warns Fed Risks Overtightening as US Markets Swoon - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcXh5Rm5oX0xZaXpqczkwRTFfM2gzWGFGQzNsOWZlVVFuOTU1dHgwN1YwektGRmFBOW5LWUltcUE2Q0d2YThXTFQtSHctaFZmcUFWWTRsX0dMaWpKRUtnd2cyUFViMGt6b2N1RGJRMmdmUjF4aUlJR1J2dDF5c2lTZXd4dlFyVG5IQ2hFR2VyTG8zTWZvQ09Oc25Cd2x1Q2pFMFQtOW9FMjV4RnR1Vmc?oc=5",
+        "source": "Bloomberg.com",
+        "provider": "Google News",
+        "published_at": "2026-11-23T03:29:00.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Red Wings trade Dylan Larkin to Montreal Canadiens, ending dramatic 5-month saga - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbWk2NlFmdnMtUUptOTJLQ1MxYnVoOWVXM2loREdqNzM3eHA5eW13VHdGXzI3UXFDZndRUXhBajdTd0dJdUVFTE9BTW1WRnN2dnZ5T0hnQnVPdWRISXhoc0Y4cmlzUGttYnVxZHI5NkRRdGNQMk96RWlWMkhLNU5iWU00Q2pRT21BeDVPQm83R0xZcmloM05uZTNR?oc=5",
+        "source": "The New York Times",
+        "provider": "Google News",
+        "published_at": "2026-11-23T03:17:44.000Z",
+        "language": "English"
+      },
+      {
+        "title": "NHL trade grades: Dylan Larkin addition is spectacular work by Montreal - The Athletic - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcmxEVzI0aWZXNjJoZkgzdzluZUV5UUw2TmlmbHdDOGpYWmJJaEJoRjV1dHg1Uk1BYlp0Q096MGZta1pHa2lhWUMtRjFPVGZ0SGJPUmZPUjg4RkhVandnUEVpZEMza1l4UXU3Z09wUWc5WjJJWG1tdGhyVm4yY0U2RGFpVHR2cGY4UHpXbDlob2l6YW04N1E?oc=5",
+        "source": "The New York Times",
+        "provider": "Google News",
+        "published_at": "2026-11-23T02:48:23.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Dylan Larkin, who requested to be traded by Detroit, dealt to Montreal - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUlRiWFo2NTNRclNXMk85UlpiaW14NlJPbFNOdFFhY1NxMnYyZmxKT2NoeW9ERzE2TGdWTHMxUGVYVno4OTRVVEtDQXFGWHJ6a0R5UFNEZ21nV0EzUjdHVVpBSF9MNENzRjYwaTMwUTRyWksyTTRSOU0ybjhIalpNRHB5Y1d1Zk1Fc2s4RUNXcWE0MkxRMm9DR1hjSUo?oc=5",
+        "source": "ESPN",
+        "provider": "Google News",
+        "published_at": "2026-11-23T02:18:00.000Z",
         "language": "English"
       }
     ],
     "climate": [
+      {
+        "title": "People-Centered Roadmap to Climate Action - The World Business Council for Sustainable Development (WBCSD)",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJdEtVREZGR0xobl9NazlJMzJrd19ValJxaVZLZDVodDZLWGJqeTYwekVMRGZuMzQyRkFzcHpobC1IVDlYRFRHQ25XbDJwRUZULXJUZ3pnbFZQQzRjU1BMWFBiLTZtYVdPR0J4dm1Cdmh3N2p4RnNYVnpfdw?oc=5",
+        "source": "The World Business Council for Sustainable Development (WBCSD)",
+        "provider": "Google News",
+        "published_at": "2026-11-23T07:01:11.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Santa Fe County: 31 communities face ‘high’ wildfire risk - Santa Fe New Mexican",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUXA2YnRjSGZUWE1MSDNGMnZBR3Qxa2JqSS03MzZEY2lDeWxXbUxoTEN1SHBxdkp6bENvOVdWZ2V0OUdjaVA4X2FBbGlCOG5hZTVLVkFYTjk5OWF4TnVOajd6V1J4eXloMmtTS3J5MHo1Q3BXUzhRWldZZUc0LXNhR3FjbmlRenhsTDhaUG5IcDVwdll3ZXdOOEJyTnRRMHk0S3pycVJaVnp5OXJQcjYydzdCejFvM3JPcFd5WHBtcS03Z2dqbnNnSUhTWHIwN0tIUU9nYU4tWWVCOUdtaTBvRnlrM2ppX1BHeXc?oc=5",
+        "source": "Santa Fe New Mexican",
+        "provider": "Google News",
+        "published_at": "2026-11-23T06:15:00.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Magnitude 3.3 earthquake rumbles near El Segundo - Los Angeles Times",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVmhCQXlGNjNnbkJQWTI2LUJ3ZHNBTU8tRzhHSXU2a2E4T0VmbVVGN3lycXBrYnR1cnVjSnVNOEFlN196NnFkV2daUjRaUm82M0xtWUE4TlozVEZlZC1xU3FzeUFneldnX3hUQUtWS3BwTDhYQjlrc3EwN25hVWFaZUdITGJUQXY4VDUwWXBPM0s2aGctSFpjTUJ1YmxVUjliQi1nN0lURFZCVlprck9Db2lTd1QwY3RR?oc=5",
+        "source": "Los Angeles Times",
+        "provider": "Google News",
+        "published_at": "2026-11-23T06:03:00.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Magnitude 3.3 earthquake strikes off coast of Manhattan Beach - NBC Los Angeles",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZFBUcEJabTVpOUlIUkJzb05aR2ROd05CNkQ1d0otZTY2a3N3NldXRFNqSnVZd0JLaDItajVUbnFhdFpOTjVXVGVSN1hJUUlFQWxiYmNYbndqTUpQcEx3clNsSjRlZXhuYUs3eVIxaGNhWVNPd3JtQ2JhTlhrQWZFOFc2VDAtNkFCN2FacnhZbGFvS21EOWtadG9hVXhnS1pxUU1UdEdtcDFCdmdSdWVQTWlhR1pqM1pz0gHAAUFVX3lxTFBiZkVxQTFUTzNtN3BMRkdZN2twU01BclJHbG0zenBnRXZ4bGxBem9Oa2Q5VWRLb1lCdy1SbkVjQUtrUm9TYWdid1BZbHcyRTJvTXM4TXptc2JINHdLUEI4RHpsZTZJX01CSUJwcFpsVy1lWUVzZDdPdl9MdlkxNmh0T1hQVnBaN0hEUVR5dU9iblIzZ0NhWk9KWTZ5dVpSS0FvX2lYMzhwUlIzaE1jTUpKNkdsa19MSVFySlBzZWNOcg?oc=5",
+        "source": "NBC Los Angeles",
+        "provider": "Google News",
+        "published_at": "2026-11-23T05:49:01.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Flood Warnings Up To 3 Ft Along Oregon / Washington Coast: Stay Off Beaches - Oregon Coast Beach Connection",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPalJYdmh1SzZjcE5SSlRqVWx2YWFTVHpuRTJlLWl0TzFfRW9NMl9qWEtDRC00Q0dzVkNmMTNZalFFNXFkUnRwWVFnM0ZzeUtsUGQ4MHA0SExyU2otOHhua3ozS3lVdWU5XzJGYVBUOUJYYVZSMkZUYmJ0cGJObURVY0dhUnhtcU1CMFlB?oc=5",
+        "source": "Oregon Coast Beach Connection",
+        "provider": "Google News",
+        "published_at": "2026-11-23T05:44:19.000Z",
+        "language": "English"
+      },
+      {
+        "title": "3.3-magnitude earthquake strikes directly offshore of Los Angeles - KTLA",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObm5wMGpBTEtWSHdwdXY5QWVIaW5xMkVZQ2JqSTN0TjBkZmhQZW40eWZrakRhSV92bUJWbnZ1UGZLVXBzQ2FEcTh3RDdYRVpSWEhremtDdlQ5R0xrbmFIMEt5ak9mUU53dEQxc1RKU3ZqLU9HQnJ6TVFXYjFIcU5lajJsVlYtUWx4NG5tVTBGRlpwVmtUNFpPMEYwQzFsMXZl0gGmAUFVX3lxTE9KdDhtMW9kaElMZERneUJQSDdLWUNvWkN5bEtXeHdwcGxBUGxVYkRCQlFxM3ZhZlNuclltQW9TbS1LSzdsUkpHb2pWT1duOXdTMnBQTHRiLWJxZE9udWxiSVp1SUFTb2hraE5aUlpQbFRrdHN1WHJvVnJaWEY4dmFFWFNxNlBlS0dGaXJKaEEwNm84V2o1OE5wcXFhV1l3NGc4MGQzQlE?oc=5",
+        "source": "KTLA",
+        "provider": "Google News",
+        "published_at": "2026-11-23T05:36:01.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Preliminary 3.3-magnitude earthquake reported in Los Angeles - FOX 11 Los Angeles",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdW02TzB5Ym1Kb21ZTTVxLTdEaEFsdzNwZWJBR3NneVNydDh4dE1yR3NxY2x6dURIZS1oSnlvVlZZcU4tUl8ya2dRVDhRcEFHZVhwXzlDUDBCR1pXLW9PaE1EUldwMkZuYmtyUU4za1hGRDc0Z2h0dkJIU1NJeHJwS2Z4UkY3azA3dFdLLQ?oc=5",
+        "source": "FOX 11 Los Angeles",
+        "provider": "Google News",
+        "published_at": "2026-11-23T05:33:30.000Z",
+        "language": "English"
+      },
+      {
+        "title": "3.3-magnitude earthquake strikes off Manhattan Beach coast, USGS reports - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcjMtQmc4VE9TekJaa3FVMlVBUHExcHk3QW9zbFlsOGlJUDhQWUFfcmIzTnJubXEzY2xoelNXM2NHVUpHSnF2eEZaVHFMUlFSMjdzNThtOG4wWlhRNGRjRGJjTk5kVkpOa2FmbWVxRGY3NGt5cUVXVW1GbDE2aEQ4cThmS0tIOXBJ?oc=5",
+        "source": "CBS News",
+        "provider": "Google News",
+        "published_at": "2026-11-23T05:26:00.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Flood resiliency program uses data specific to each river basin - Coastal Review",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWJuQ2pjeVZGMTE1ZFdLZTlfN3EweXV4RDlLU1FvYkpKdU5lQ2tTSTFMYzVRRmYtSV94WUQ2ODcxb243MGFDUllPaFlzeDg5QWllclYxVERFa05iUFJ4TzFNTlhiZTJUbjlkYi1Rb0l1Sm53dHBiRG9FdWxLdFphY05SN19FRGNKdWtTYk5MdlNQZ3lXbW5NWmR0bDREQzls?oc=5",
+        "source": "Coastal Review",
+        "provider": "Google News",
+        "published_at": "2026-11-23T05:01:56.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Nov. 22: Earthquake measuring 2.1 struck region close to Coso Junction, CA - Sacramento Bee",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04TjNScXFUQmczaEZ4WnoyUVNsMzhWa1hmNVZZWnB4amczSkQ0TFQ5elhBUmczbDVmTnE2NmNmM3pLZktMRFVkRnkxVEpMUXBzVG96c3BoVTJ6eF9jbDNNWmRrNnZLeHpGVHk5Sng2MjFSQjNoZUZmaDlkY1M?oc=5",
+        "source": "Sacramento Bee",
+        "provider": "Google News",
+        "published_at": "2026-11-23T04:45:05.000Z",
+        "language": "English"
+      },
+      {
+        "title": "COP31 negotiations break down as countries fail to agree on climate deal - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOFNSZF85SVFvQ3FoZEU2b0J3endVM3lvRGZ6eWwyVTdSTGFFa3kwdVJTMmhDZ0dLRzBMdDZhV1hkVVB2MVY5YjJKVEJxeTF0ZTUtTnN5TEN5LWJxeUV2anBXajRISnNnb2gxeDA5SUtZdU9BWU9PSV9Va2szNTh2NEpjWkJBRS1nazZEamhORWtDczktd3RhVS1fMENQWEQtTTk2X2pxVW1wVVU0NmhpQktweC1uMDVYWnVUeEIzcm9LNDJl?oc=5",
+        "source": "The Washington Post",
+        "provider": "Google News",
+        "published_at": "2026-11-23T03:07:33.000Z",
+        "language": "English"
+      },
+      {
+        "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaktnVmVBTFR4NlBwcmNmLVlkQXlUbDJnM20tam1MaGZmeGF1YTBQSDVjMkM3U21sVWdrRER5a2UzZ3ZrQkF1Sm5kd1U5UXBzNGdMRTlWcVprNVF3M2xjRUV5SmlZMGR6VXU1OVh4M2RXOGFvY25hN1Z3MTJWWXNiWE5ESk13U0o0?oc=5",
+        "source": "The New York Times",
+        "provider": "Google News",
+        "published_at": "2026-11-23T02:01:42.000Z",
+        "language": "English"
+      },
       {
         "title": "COP31 talks break down as EU rejects deal without reference to fossil fuels - Al Jazeera",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1BsQUNITi04TldycV8xbmpzWjNlQ2I5MHdaRWFJVU0zdm1RaDdhbDdkZXh6OUViT1RSNlcyaVNCanptTVFlMEsyd3dBTzJiUVRWYWlObF91dVhKS2d4d2tlSTRsdkxtbGdveWE5aTBCc2hLbGlsc2ZHQU1fMy02ZkxhQ1htSWRjY1dsdFI0eURHeEJ2MlpPMGR2MVB1V3dLUjRid052WHM4aXdjNlBBUmh4Z3pPSTTSAbwBQVVfeXFMT1lxS2U3cXZZNmlHLTNFUGpLZGpYREp6eGRrbUR3aDBkS0h3eXFWOXhZeElsV01VYjlXNFRMMjFYYmNWbVhWa3RXeVNJb3Yxa0xGcFhWbHZBd01DM0FmV3lpYVBZQmVxMjVvWTk4X1Y2YXJCSXc0ekxFWVpyVFhqYWp6MldQYjdyZFd4RThRLW9qM2JMMXNvREo0RS1wUkRSbm9kYUs0NGVhcHJqaWh4bGNJZW5MeG96aHlkN1E?oc=5",
@@ -360,105 +456,105 @@
         "provider": "Google News",
         "published_at": "2026-11-22T22:49:06.000Z",
         "language": "English"
-      },
-      {
-        "title": "SFO’s Airfield Will Flood Amid Thanksgiving Rush With 9-Foot Tides Predicted, Officials Say - Simple Flying",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVHhGWjFtQXlzOE1ZMDBmUkRuTmFSWXlhVWFNWm1tR1lmbG5XNldtVzdMSktzNnctMWJKVWJlSmJnckN3QjVodHdYUERsYk5BajFlQlNWUDdRakFWNTBWdnFZQTVZYzluV2Q2UFRCcVlwdzUxLS1hUy1aVkJiSlQxSHdpTGwzQTFuUHBZMVBaUUNROFpoM2h4eDJaTQ?oc=5",
-        "source": "Simple Flying",
-        "provider": "Google News",
-        "published_at": "2026-11-22T22:47:51.000Z",
-        "language": "English"
-      },
-      {
-        "title": "UN climate conference ends without its signature agreement as countries clash over fossil fuels and finance - ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOall3VHdwaEJ1TnpfQlNhREk1ZmhQb1FVVnBORnNaUmxmUjMyNmY2WWR3c1RlNGoydGlfel9lT2ZHN2tpWi1kUlpaODF1YkM3SkNJeWtLdXFvUHdvS09QbkRjMzBVbG0tX3RLVi1QZDRGUFpKM24yYkMwN2lZakJLemF5TkdxOEtDV0U4SzhvZTY0SlAxaWhvb3A3Qm9CbjRzdi0tU1hNTWxOTGNYRVFaeXVXQUJSNTjSAbwBQVVfeXFMUHZJaXoydFBtTVd4VmVnMUN4RmYwemNURHFfQURuSk55bm9XZ0J3bFp2d1lLc1d1b1lWTnNaWlpaSjNzZGIyZXMxWWR1akljZjUyVjlTUHhRV3Qtd3p3em5Fa0hMWkJrXzl2S0NaOUhLeG00TEZWQWtxRHZZa3F0blJnZHk4ZWw5RU1nbnFZaThESHZOcGVDQXFvOUYxUlM3SVNEdVZad1NpOFpJWDd4Wkw2Wmp0X1ZzeHNFcTE?oc=5",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "provider": "Google News",
-        "published_at": "2026-11-22T22:20:35.000Z",
-        "language": "English"
-      },
-      {
-        "title": "COP31 negotiations break down as countries fail to agree on climate deal - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOFNSZF85SVFvQ3FoZEU2b0J3endVM3lvRGZ6eWwyVTdSTGFFa3kwdVJTMmhDZ0dLRzBMdDZhV1hkVVB2MVY5YjJKVEJxeTF0ZTUtTnN5TEN5LWJxeUV2anBXajRISnNnb2gxeDA5SUtZdU9BWU9PSV9Va2szNTh2NEpjWkJBRS1nazZEamhORWtDczktd3RhVS1fMENQWEQtTTk2X2pxVW1wVVU0NmhpQktweC1uMDVYWnVUeEIzcm9LNDJl?oc=5",
-        "source": "The Washington Post",
-        "provider": "Google News",
-        "published_at": "2026-11-22T22:17:40.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Bay Area airports, coast under extreme flood threat; residents told to avoid travel - Los Angeles Times",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMDg1WWRFdTlXYklueE0zX2lxUFJwRDg1RmJMWFdFZXpwRXlkQzhBWFNuVG1yd09UdFN0b1NZcUh2dzBHbVdpSEdDamU2X0E3dU1wZ0w2NC02aWZNU1lCaDdubkVNdXNEYTRQN1FSaVhJM04tZFppSTctOG4zXzNYbmJva2NYaXlaVmc4WXBLZ1ZoWU1NUW9iSnZBWHFHclBkd2UyVHYtZm94aXd6M2NhQ0hUNzhvODNHejBqSVdGRF9abHRIakhrV0ZUMlZ0Zw?oc=5",
-        "source": "Los Angeles Times",
-        "provider": "Google News",
-        "published_at": "2026-11-22T22:08:00.000Z",
-        "language": "English"
-      },
-      {
-        "title": "SFO, Bay Area Airports Face Severe Flood Threat as Officials Urge Residents to Avoid Travel - AeroXplorer",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNVFiSmctdmJMQjRwbHpMdENJQm9QRXRWaDFJZVppdXZReUtrMUF0WnRMT3NETXhxRWt6VWZpSXNTV3dqMTEzV3Z3ZjNtdzBvNUZSSzZhb3BaV3BwS3BzdzFsc2xwazhadTJ3alVFV19OeElKTW1FRC1CRWpCblBLY0IxbzRlTWMxWXMzaHk0N2ctSkV3dm54QlFHbUxIUUlUZGV1LXdKcHNOZWpXN1lhNm5xTHluWUlqcjBDQnU2X19QVHNxQVhnbkxGaUw4VnM?oc=5",
-        "source": "AeroXplorer",
-        "provider": "Google News",
-        "published_at": "2026-11-22T21:58:27.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Map: Earthquake Shakes Peru - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFI2ZkdVM21PODM4OUotYlUzSUNudkxJSkREMkp5aEJ4bHFfNVNfNHZXenA3ZXdFeDQ2empmdWJqTDZ2aFp5cy1oNWlHSWRfd1AwOVhRNUdzTlNKcEliazZ0Q2xNMUdRX0pRSjJyeFZ6WVV6TFZmYnpsSzc1QnZWdnhKMl9ZZGhOV3p1MGhZUE1sUHQwMzBIVmNR?oc=5",
-        "source": "The New York Times",
-        "provider": "Google News",
-        "published_at": "2026-11-22T21:26:57.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Countries react as COP31 climate talks collapse - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3loZzVPSEw4YTN0RXZEdEpveVFkV0JoU0dtRTktZXR6LS1XVGRNVElxWHpWVUQ3eEhOMllBam9jYlNIX29HeW9ncUwyWkNhenBPcmRZeTNBNmt6MF96SkU5TS1zWUVBSEFOS0FMV1gwVmJoS3c3bGw4TjgwLUU5NTFOUEtzOWx3dy04NkhLMW9CMmJxM1dLeVRBRWMyVl9SY1A3THFB?oc=5",
-        "source": "Reuters",
-        "provider": "Google News",
-        "published_at": "2026-11-22T21:11:03.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Why the World’s Climate Talks Broke Down—and What Happens Now - Time Magazine",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQkk2YjJKUW9kUlZpZnVxdGp0QnVGTDZhWTBjQkJ3Qzg3UE9JV2tRbThWVjFTdDAxaVZaN1hlaXBJRkJlMzU4SDcxZ3BTWkJ1eVc5UGRxenduSFVLM2dzb1ZuaUNKYWdLNktENkJiNHhUUzZhY0lFNzg5bmRRWk1pam1R?oc=5",
-        "source": "Time Magazine",
-        "provider": "Google News",
-        "published_at": "2026-11-22T20:31:44.000Z",
-        "language": "English"
-      },
-      {
-        "title": "UN’s COP31 Climate Conference Fizzles Out as Global Policy Divides Deepen - Inside Climate News",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZGtPeWU0TnZhamZFYjZJZ19YU05PcjJ6VjNsdkNTRHVxNDNtVGRORWM0SVBQbkhKcl9aUHdwWXdOTnNYOHFwb0JKYkIxTEJuWHJKRWtQdkp5THJUcHRYak1MdGVxWThyOC1WRWlPM2pQSHBrRHhKNUJKQmxjRVhJNTVEaTBJWE9UNC1qWFRMRVp1ZUhUczRnZzlGbWtiNGVQNDluSnc4bEQxZEdlZXc1ckc0Zy1odlhH?oc=5",
-        "source": "Inside Climate News",
-        "provider": "Google News",
-        "published_at": "2026-11-22T18:54:50.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Global Climate Talks Fail Over Fossil Fuel Dispute - Mother Jones",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOODVOcW4wVkYwaXpxZ3h6cG5yQlk2c0M1aGpnb2Y1YmY4dG9neEFhX3JKakktcVdudkZBWlUzZ0ZOQ3BtMkN5d1g0dHJhMFZtbUNjazZELS1LNDUzODRjcmtndTRDVE1QYWYxQXJoQUlxNENBUjV0OU5XeG9mRGM5ZnJaVDdqVXEyM3NTLWNjekgzamFNX0RXZGxfVkU?oc=5",
-        "source": "Mother Jones",
-        "provider": "Google News",
-        "published_at": "2026-11-22T18:39:51.000Z",
-        "language": "English"
-      },
-      {
-        "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaktnVmVBTFR4NlBwcmNmLVlkQXlUbDJnM20tam1MaGZmeGF1YTBQSDVjMkM3U21sVWdrRER5a2UzZ3ZrQkF1Sm5kd1U5UXBzNGdMRTlWcVprNVF3M2xjRUV5SmlZMGR6VXU1OVh4M2RXOGFvY25hN1Z3MTJWWXNiWE5ESk13U0o0?oc=5",
-        "source": "The New York Times",
-        "provider": "Google News",
-        "published_at": "2026-11-22T18:20:38.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Why the failure to reach a major deal at UN climate talks matters as extreme weather worsens - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVlZ4dzdCVnBlV0g5cDVCV19scWJkTG9RQWtiMng5NFlVb2VqSng0SmhxRGxLaUJ5aEgyTXRVMlpGVV9abXMwX19naG9EMlhjdEhaemxUTHM2bVhTdWc5Q09NMTR5Wk4yVmtlY2NFSHVncDdMWkhtU05keGJ6NXlGSTVKaFNlOVpsVl80QWE0T3ZQY0t5ZDB4YlNVUWdJZXJaZnJPZmFhb3I?oc=5",
-        "source": "AP News",
-        "provider": "Google News",
-        "published_at": "2026-11-22T18:10:00.000Z",
-        "language": "English"
       }
     ],
     "health": [
+      {
+        "title": "Universal Health Coverage (UHC) High-level Forum 2026 - Moving towards UHC in Challenging Times - World Health Organization (WHO)",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUjZKc1gwQVZFaHM2UElOVC11UDFpaHVYUkxFY0Q4d0l3WVZkVUo2TGlCUGNwYXYxd0ZBTTZ6UVNwUTlIa0N4U1R2Y2o0U1JzX0c0Rnp3TnR1UTVhdFFQQzNwYjN2SkpZMWFzV1RCanJtanJjNlRERGNMSjZUNkZPRHN5MG95czd3WFRzaGdZWFJ4bWRzZmxMbjJaNWxBSHR1NDdVQXB0dHVXRkpSQ1FtTUtzdFdYaXdSNkJ3LTd6TW5zclRHUnFzbkVSMFNaLUlfa2NEaE1Zd09sWUZfQ01oSEZ2UmhQel8tMFlvMkR3OXAtS0p2Xy1UQ3Q0bw?oc=5",
+        "source": "World Health Organization (WHO)",
+        "provider": "Google News",
+        "published_at": "2026-11-23T07:42:03.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Self-sustaining mosquito intervention protects Brazilian children during record dengue outbreak - News-Medical",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdlp6ZGVIdzV6b0R0b0dQSWR4aTg1eVBianlUZ1p6dXFldkF3bzYzcnpCWjVicmZTbUZ5Rzh1b000U1J6TzVudUo3cENIc18wZ0NIUlZsazM3cC1qLUxKNkdjZ0p2TVI2Yy1EMHMxanVUODZNVmt0d1VmNjlwNE5QUFNuWWtxQ0JvUXVoOG1Yb3JTeWxTbGg1RzNHZXh0a0RueGdFbElncGIzYWlFRjlCdWpWR29Tay1NQnNBWGo1eVpmZ09XU3lhdDFCaWpWOVNMSm1TYllCZm4xWHc?oc=5",
+        "source": "News-Medical",
+        "provider": "Google News",
+        "published_at": "2026-11-23T07:32:00.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Maine receives nearly $200 million in federal rural health care funding - The Maine Campus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMjNQVjlvSHgxbHp3TURpUmxieXp2YzhVeVVpX0hIN0NsRG1PRTN0aERmZUJ6UEtUM3J2Z1FsdkVSRXAycjhKT2w4VGV3bGl2d25OQ1otY1JTcThlUE1QVm1sU2V0Z1lvWDJRdjQyaDI1RklUQWhyQWJJcXZvMXNWLUZDOTV1bHpDaERUZmdPdGdsNjI0NVZSYWZaajhhNnNqSFVjZUJSR0ZQTUdPa2RhRDN3UzNLVXJ3?oc=5",
+        "source": "The Maine Campus",
+        "provider": "Google News",
+        "published_at": "2026-11-23T07:07:14.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Alzheimer’s disease brain phenotypes are age-dependent - Nature",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ScFMtR1dBOEVlTWdPNWRTSmRlRHlLU0hzOFlOTjNFYmlZN1lQMWhpdXNvWDdqaURWS3dWZTNMSjdOeFhjbk91Z1VKbVJwcU4xaHR6NXYwT0xmYS1TYlJZ?oc=5",
+        "source": "Nature",
+        "provider": "Google News",
+        "published_at": "2026-11-23T06:56:37.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Health Systems Spent Years Blaming Payers’ Algorithms. Now They’re Building Their Own. - Modern Healthcare",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVkZRX2U1QTBCcVhndmNfalBVVUNwUGtDZ3IxQkRBQ3dsZkw2SHNoN3NtWERQZmQ3SElKVWpzSW1hdFU2VXVxNzlzTTluSFpZT2FVZ3JMLVhuN3ZxejEzcHhadDY3WFRZM01OallwWTNKRmNGMGQ2cDI3NlhrOF9VcVdQLWs1NmhPUG1pUXJPS211TmJMQXdOV2FxY1dJSW1ZNk01bzZZNW9KV1E4bUZRYjFrdkZSWGNZWHBmTktRU0dPZndkSExtVWd0eUM1b000bndfbmNCMWJ1V3htX1pMbFJ3UHQ3eUlP?oc=5",
+        "source": "Modern Healthcare",
+        "provider": "Google News",
+        "published_at": "2026-11-23T06:03:47.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Women’s Health Without Stigma and Without Delay - United Nations Development Programme",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXozNmJiUEN1NFpoQm1jMFNGOVo2MTBZbmo1eEpaYXI4ZjNWbExBcllhQ2gxZkJKOWZ4ZEg5ZXBDN1ZUY2ZpMWU2TWZtZmN3U1pKSnVpR1YwMk16QmZtVHFTNmRBMExYNHhaVXZfc1p5RTBmMUpIaVVRSzVmZnRBaDJSb2FaUjBpcFpr?oc=5",
+        "source": "United Nations Development Programme",
+        "provider": "Google News",
+        "published_at": "2026-11-23T05:59:27.000Z",
+        "language": "English"
+      },
+      {
+        "title": "URGENT: American Lung Association Offers Health Guidance for Residents Near Lead Azide Detonation Zone - American Lung Association",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CS2FyQWtRTkRSdFZrU3Q0SkNPOXFDYWp2d25HeG9NUFVsS3pnZzdPYVQxTVJ2Rm1URzNSZGVWbE5XVTVheHRMcVZ0NUQzbmE5UlBfS2RWT19CTFJtNy1hdEtKb09pZTgxaFRURHdPZXphQQ?oc=5",
+        "source": "American Lung Association",
+        "provider": "Google News",
+        "published_at": "2026-11-23T05:47:58.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Federal scientists flag new cancer concerns with common herbicide - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTk9pam80RDFYcmliQ1MyY19aVGI2aFJkOVpUa0hhbXQ1TW1Mcm1IX3MwN2ZUZ2VpUTlFSGE0TkNVTWpka2dQZzlYbnhXQnNaOVd1WkZLbWMwZDRPd2dWdG5HWExtQTktS3R3clFob1BGXzl0Y2xESzNJU1c5QnNGQlZHb0duLUw4LXBqd3BQNHZLWXB4NlVzT3I5ODZ3a3FSRmw5VkE2djB2VUNmRy11VnE4MEZvZw?oc=5",
+        "source": "The Washington Post",
+        "provider": "Google News",
+        "published_at": "2026-11-23T05:30:39.000Z",
+        "language": "English"
+      },
+      {
+        "title": "UMass Chan Grants & Honors – November 2026 - UMass Chan Medical School",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEVMVVdYc3hOdWRFRFB6OHR6VUc4NEotcVZreGdsVzVJZURfQVZGa2FqckVWRjYwWXpKZU9iczNmTEg0LU1ZakpEODVMWmlyMFlRNkxyZndEdzR3Ti1oOVJYRnN4TXNkWUpKQ0psNTFDQ1JzY3hBVzAzR29kbkNrMGczRldENjJxT2ozdmZmbkdLZw?oc=5",
+        "source": "UMass Chan Medical School",
+        "provider": "Google News",
+        "published_at": "2026-11-23T05:15:49.000Z",
+        "language": "English"
+      },
+      {
+        "title": "DLA Command Surgeon Visits U.S. Naval Hospital Okinawa [Image 7 of 7] - DVIDS",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbXdOamwtdkdrampaejh0WGdhaU0tUlo0RFhwemt5VzdmaFhZMTZtQkdSVlJDRGdKQlpQWnBuYVhNOUltZWFVYjBhXzRLRTJHSmtNUlNZRkRqVmgxbVZueHJlVzU1LXV3THg1T2RLUnljQ2hKODE2UEVMZXZyaGE3UkRrWTVRa1JUS0MzVXN4NnY2LThmb3dv?oc=5",
+        "source": "DVIDS",
+        "provider": "Google News",
+        "published_at": "2026-11-23T04:04:00.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Rocket mission success brings space medicine a step closer | Newswise - Newswise",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOFFybTZwRzc5NU1YRmZPUTJfd3J5c0hlQ3BFeVJ3b1l5YTdQU0dqZmpwVWV6al9SbDBYX01zS0VVQ2l2TjI2TWJ2UWxrUjM2OVdpWFN2NGxKNnd5czB1aG9KMmkxOU1fS1ZQeEtwWGh4QkJXVG5mNzhOYy1ZbHVtUDU3VFYxVWpabGlRWnBwaEdfOGR1dU9B0gGXAUFVX3lxTE84UXJtNnBHNzk1TVhGZk9RMl93cnlzSGVDcEV5UndvWXlhN1BTR2pmanBVZXpqX1JsMFhfTXNLRVVDaXZOMjZNYnZRbGtSMzY5V2lYU3Y0bEo2d3lzMHVob0oyaTE5TV9LVlB4S3BYaHhCQldUbmY3OE5jLVlsdW1QNTdUVjFValpsaVFacHBoR184ZHV1T0E?oc=5",
+        "source": "Newswise",
+        "provider": "Google News",
+        "published_at": "2026-11-23T03:30:00.000Z",
+        "language": "English"
+      },
+      {
+        "title": "North Texas hospital sued for refusing to allow organ transplants from brain-dead woman - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdkJDVjlVQmJiTTZod3dGYWN3MDdoTXVCUEl5c0hZVS1EeEQ0Mnd5b1JacGtuM3NZNG5hYjNISmlwZUZXb0tlMkUxaG92UEZmLW9JLVEzTFc5LUZ6d1M3WVM1bTRtc0RWbklhUHlKaUNoNWJwaGoyLUFVSkM0OUJKZHg5WVpETFdTYm9vc1B2VHpZMHo3TFVNQ3V0WE9DQmZLQ3RmWlFSX1BETmN2a2FCcnJHQ1VaRVA1eEdESEgwSEk?oc=5",
+        "source": "CBS News",
+        "provider": "Google News",
+        "published_at": "2026-11-23T02:06:00.000Z",
+        "language": "English"
+      },
       {
         "title": "2 drivers taken to hospital after crash involving police vehicle near Durango and Russell - KSNV",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVTVvd01WYUFSdHZzVExPWk53Vk02RkxMaXN2UmdGdXExQU5USGo5RVFROGd0elpPQWtrUHVaQktjQnVIQnE1UFJfNDNHVFktS2kyT3Y0czkxWkRtVkRKUlpPLS1zQ1Nua1gzWjVrM1FWV2RnYjVNWXlBUHg2VDZoa0xrN2lDN3RFTG53OGctcV9BcU9HV2hVbkpWbjZtWDBTU2w1ZkxXVGxfTE9Wa2tPVHROYXZ4a0xTRndsb2NLWi1HVENrSHpadXBBenU5cC1SV29HLThpMGNVSkFobmZCaXctbjk3LXlvTGtjWGJhUzY?oc=5",
@@ -474,105 +570,105 @@
         "provider": "Google News",
         "published_at": "2026-11-22T22:25:59.000Z",
         "language": "English"
-      },
-      {
-        "title": "Abdul El-Sayed doubles down on ‘TrumpCare’ health plan, urging president to ‘get it done’ - The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUlAxVTVQRk5HQXVjWTBXcHdSYlQteFkzWjlkYWY1SUg3ZDZySW12ZHdpblE2REFmZWZnbndINlFuWElzODlpcVNqcFd6Q29vWkxaR2ROV0RvejRPZ21xaTNBNFVZbHFDQTJkWWJOWTVPcXB5VjhSc0hiZ2xpNVluTkJwQ0o4UWF2TDJqODRqRjg5bVRkMzNMM1VR?oc=5",
-        "source": "The Guardian",
-        "provider": "Google News",
-        "published_at": "2026-11-22T22:01:00.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Keeping medicines working: Samoa takes a One Health approach to antimicrobial resistance - World Health Organization (WHO)",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOUVqTWppbVctdjlXVHp2Mk1La3VId1R5VWRhai1XWHVvX2ZKRzdCeVNDZDdreW1OQ0ppY1ZRejhKY2gyck1MTWJTS0NpQVdoM1drZWhYRHpRZU1IeDdHcWIySjRmOGxtcUJNQXZ0cTctckxVQXVnZURSSGNWcHlOcndUdlprazRqMk9falhWV2ltRUlCNGdlQW5PUzFGV2N1YnBhWl91eE94d2NieDNUdkVBN2tTLWZHSGNKY1Y0dmgtMG84SEhBbXpoaEtVbXYxc3FzelZB?oc=5",
-        "source": "World Health Organization (WHO)",
-        "provider": "Google News",
-        "published_at": "2026-11-22T21:45:00.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Free food, health screenings tomorrow in Owensboro - 14 News",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVVg1RHhtaHhoTUh2R2ZHS2NCUjBETkJ6Ui10MmMyT0JKdy1lTUlOdUlHVTRSZlo1Tlo5RnJnREhpVlcwXzc3SHNYRjJzbU93VXZmNkh0OTZIQTFCX3lfdkRDcGpJZ01zLS1MdVJGZDg5ZklOWXY5REFpSms5RG1TWG9WUzZpUmYx?oc=5",
-        "source": "14 News",
-        "provider": "Google News",
-        "published_at": "2026-11-22T21:37:00.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Sunday Brunch: Thanksgiving made vegan with Holistic Wellness and Health - WBAL-TV",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KSGluai1BN2V1VldpMzVPYkZFaUVnNzVWZzJqSlkzQ3M0MjQtNjRzUzVOQURhYklxd2ZlLVdfaE5oSHlZRV9OUFRDVUtEU1FTZ1FNRlVMOG1Ic0VlUnFocVVEc0tQUWpMb3NiM0Z3NUlmczNWZFhMMWhZeS1CNVk?oc=5",
-        "source": "WBAL-TV",
-        "provider": "Google News",
-        "published_at": "2026-11-22T21:26:00.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Rescue helicopter hoists hiker from trail near Griffith Observatory, airlifts him to hospital - ABC7 Los Angeles",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcDNKbEozSnNWWmNCUFBta3d0U1l1RGZzejgtenVvNVB2Mm95SkhfNVFlY2gwY2kwdWhPUW1xOHlkWnBSbkhwN19BLXFUbUtoeFE2by1TeXFITVFmeVNyU1JNcG5FaHVEWkNZNVlXR1Q5Y1BacFJBYmdNS2hCZ3dWTEF4c1RZWk5HeXBWa2pZc1Qtd3h6c2VYb01XNFVDRU55N0tfM1VHLXBNbHlfVktPVW13?oc=5",
-        "source": "ABC7 Los Angeles",
-        "provider": "Google News",
-        "published_at": "2026-11-22T21:12:12.000Z",
-        "language": "English"
-      },
-      {
-        "title": "WHO chief says fighting near Congo Ebola outbreak area disrupts response efforts - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVnZjcE50YXJiLWxXZE5OQldXSndtUVlUbnNJckNPY1lQM1ZpdlExMlNJX08zNFJQbnFYd3FKT3ZZbzBqY2s4a3c0RVg0M2dELVZrLUx5R0tobENIQWk2QUdNZG9YRl95STZFUlVOVTlVcThuRG90VndEZEZhaE5jbTRVYkN1SUxoYmlteUhlempZSVNGRjJNWjhZdXlSNzMtM1Q3VExpZmFqZHJKbVdjT3lpekdsb0dXQXg0NHdsUkZwdlNzQW9CaGVhblM2b0VHSWRZTGlFVUJBSnd3LXA2SXJoUlVmV1E?oc=5",
-        "source": "Reuters",
-        "provider": "Google News",
-        "published_at": "2026-11-22T20:17:43.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Empowering Local Leaders with Healthcare Knowledge: At South Texas Health System, caring for the community extends beyond our hospitals and freestanding emergency departments. It also means helping residents understand the healthcare resources av - Instagram",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BLUFjVHZic1JqZkdKWFFzWnFEeHhpcDZ2MHlQRXBVOXktdEtjeVF2ZGFyZjE5Z0c5Q2ZnSmdVZnZiTTZCRnVQZ2t0TkhkUzM5M1E?oc=5",
-        "source": "Instagram",
-        "provider": "Google News",
-        "published_at": "2026-11-22T19:00:57.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd0RDNndpWF9WMmU5VTlkSmJQRXVDTFpxbXJLQlYyTW9vR1FVYl9VYUJsZ2Y3eVJKdWJ4NWxMMV9kLXR3YndXMTJHTzBXRjRnVmYxclQxOE5xaUNjUVgwNnY1dk5fdURkX1liMElsS0lZRmFheUdoeGxsdzdTQTQtRW4teTZLN2tEQ0NTaTZwTDlRdkhySFV6eHBJdURrUi1IbXfSAacBQVVfeXFMTXNEMWRjMG9SMmJTbWpfV2Y0bGx3S2RyRTFERndfb2M4N0FCUEx1dXZLaC1FYmdQR2ZDbnFsa09kLWdKWlNlYnVhXzBiT3FfRG1VUmF5RWZrUjV6QnRKTTBEYjJpRGY3UW43cWdlR3BiTnNTbXQ2Z3ZOcHBJNDNWeEFBODJ0Qnp4UG0tRU1xelRuamgyUVA5STg3U3ZBV2FIckVYOW1ieVU?oc=5",
-        "source": "CNBC",
-        "provider": "Google News",
-        "published_at": "2026-11-22T18:55:05.000Z",
-        "language": "English"
-      },
-      {
-        "title": "RFAs: International Community Access to Child Health Grant - fundsforNGOs - Grants and Resources for Sustainability",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMmIxUmpNUm5UbVY1b3NlU1FKX3FfNWxnQjd0ajhiajFaMkJibTEzRWlYZ1Mtd0RKNHlWaVlJWV9ybzhjYW1HVmt6dF90RDBvUEJZdi0zSk1Kb29lYUtsSWhpeEsza2hZejdqRTNZTHJWaFFvTUx3Yk0wOVdfQ0RRVDc0ZUE3MFRuU0FsWk1BVGF4MF9xb2RJMHlpOHlKWkhYbmfSAacBQVVfeXFMTmlGdFpMNmlJejl6UTMwaDl0MmVacVNwUkhIeTZlR21BSWh6VlROSlluUG1OQnA2NVR5czhYWENvUWlNOFBremN4RXdqUVVUbVBQTDkwVS1SVnQxMERGNXUtLS1tQzlybkNMZF9vczQ2SFpDZXhwSzN4dFBVaVJqZnBfcHVCbjRvcWh2MnU2a2Q4Tk9iY2xiTkd6SnVNNE1FazZ3R3VUQ0k?oc=5",
-        "source": "fundsforNGOs - Grants and Resources for Sustainability",
-        "provider": "Google News",
-        "published_at": "2026-11-22T18:18:34.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Virginia reports first measles-linked death of 2026 in child younger than 5 - Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVVlY2JXaFRVTkdvVXZaR0hDRWlFbHdSdU40NjA5Q25SS25TY29BYkl5aTNPN1hFTFVHVGtmTllHcG9EQUQyV2hFVUxILW9EZUE4V2FYTF90WTRWVDRGZUdoLXZLeW50NGJpYUszeWpWcTQ3bmExNk1zSmdvUGR2SVpsOGlQcTJPT3l6RGo2STlSMGoyUktTR3VRZGxWajVEc1o5eDZlRUo3Z2VzNVpKSjNnSFhjQ0NQ0gG-AUFVX3lxTFBsQjg2RnZfX1ZodV8xaVc2QlRxVjBpM2xnQnkwb3RJNWNJNXQySlNlWGhSR0VaLTI1SFFEQ0tRWWRwSGlxemRVMGRiRWtJakFkT0R1RUw5U2Q3UUFpS1ltVDdQdlV0STk3b3A0VU5pa3ZqSzQtNzVwaVd2RFVmV2lVZVNLUEpUN0NhcjlmQm83b1RRUldKUExZaGx2c244bU1Fc3VnOG9MSy1JOUk2N3NzTWFlRHhJOHVWSVFHLVE?oc=5",
-        "source": "Al Jazeera",
-        "provider": "Google News",
-        "published_at": "2026-11-22T18:11:07.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Scientists are fighting for their halted funds. Trust of Black communities may be harder to win back - PBS",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOEFkcXJOblk2X2JfcHlXNk1uY1YzcE5xSEFYTlBiSVR6OHNxN3BXbDBjNk1XYlNULWN6YzhCWWw5T0xGNHJ0Q2ZvQ1NjOERSWEZHVmkyMGdvR0cwRmxWSV90SldBaTdZZ0NFOHB2cld4U1FncktQTjdydTJnVG9CTGJHVjBudDh3cEkzMmV5b19DR3dHTjBWNGVwd3NKd01tVXZoeFk2ZTNwQlNBRzlaU01MS1FhYWFOWnVPeElXZ2lhRmFLb1ZiQllHUGYzbFNI?oc=5",
-        "source": "PBS",
-        "provider": "Google News",
-        "published_at": "2026-11-22T18:02:55.000Z",
-        "language": "English"
-      },
-      {
-        "title": "The health discussion you should have when you get together with family - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcl9vODNjelJ5dENla1A2S05ocjNPTndyN0I5OGpxb3llRlIxQ181c2N6MmxqeW9leko3X1ZlM0lwTW9XVkRWNksxUy02VDJsTmpDNGd1R294NC0yZ2doYk9zeHdZTnowR3lnajE2eXJNcDdfR0dWYW5sT2tndF9ZejVYc3RqeG1DVzk2bTMzX05tcXRDWUVQUGZQZ0UzWktvSl9tUUczeTF0ZDJmRG9aRm84S3F3TXJ3VWU4?oc=5",
-        "source": "The Washington Post",
-        "provider": "Google News",
-        "published_at": "2026-11-22T18:00:00.000Z",
-        "language": "English"
       }
     ],
     "technology": [
+      {
+        "title": "Asian shares mostly fall after S&P 500 drops 3.7% into a correction - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNU2N0cmZWVnoycVNpWkxTZVNoX3otWmgxTnQ4Q2pIT2RWdUFnazg3QVRqYzhKclF4SWpVa2Q2NXlvRUlEdWpTNnBDa2U1OEZ2dm9lN0U3NmpwMllQeWJrU2xPaGV4el9IbE9qNXA0WW5hYTBNS21iYXZKNmNpMU5mUjV5ZXdwWkYyOXRIMUo2aGhjNkZ0VG8wT2VSS3J2TVk5ZFQ4cWdxOFFjQTVJcnlWZ21KRG5wcy1YSFgzdDNqZ2tsbktzYnQwUklyWTFIYjRmOTN5RUI0MXVmUXc?oc=5",
+        "source": "The Washington Post",
+        "provider": "Google News",
+        "published_at": "2026-11-23T07:26:00.000Z",
+        "language": "English"
+      },
+      {
+        "title": "AI 'kill switch' no solution to growing cybersecurity risks: Former OpenAI board member - Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOVduNjljS3ZpTllHLXJiV3dIX1FYREpqaGVtemlLR194TVNWZi1VQ2lUdEVCalBDdWdZMnkzTUhpVUZTeXIteXg2eG93ajU4WXlsSjRkb2F4UUU4VHRuR3J3WUkwRDh2REZ1MVJMU1BsVUUxT2pPX2toZUYwamFnX1dLdU5Cd2RmemM3YWR1RHdXV0pHY0RBaXI5WkxtMEFwR0pQNExmSFFQRlpEOTl6WkREalNSTnBkM05wQ1NFcmVjSjA2MHFYRkdTUzFWRmxKc21sR1NhUjI?oc=5",
+        "source": "Anadolu Ajansı",
+        "provider": "Google News",
+        "published_at": "2026-11-23T07:05:49.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Urban Study Analyzes Coming Artificial Intelligence Realignment Across United States Cities - Bioengineer.org",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLVhuRXF4UF9Udl9Fdm1RVm43NTVabzVBbzZDUEpvMDZaRHNtd1NZSHI2RDhMUUR5N254WXpMS1AtM3oxNmotcWJXRnJ6ZjVadElhTzZSS1FOS2g3aWZYSERCMUdmc09QNHk1ejRRdzk5UVhOTVdZWWtOUTBqOUppMTZNQ04wZW5OQ3NmZGJMU2JCanFtU1owbnNPajJiMV9fUFQ4NFdWNWFkTDNUa2xZZHVFTXl4ak0?oc=5",
+        "source": "Bioengineer.org",
+        "provider": "Google News",
+        "published_at": "2026-11-23T07:04:52.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Is the AI Stock Boom Losing Its Momentum as Global Markets Face a Major Sell-Off? - Modern Diplomacy",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSy1wX3FnMExvNzdIcG9uTU1qdndRdDl1bWMtVFBRdll1Y1NyX1dTN2JpLVF3YU1RSk5LcUljYV9oM3Z4VmZUM0xXVkJHZ1lEclJDdF9YSk1WNV9iTkFNNVhSUmlWQ0dWU3hVbmhDb0gwcm5uekZWV3ZJTTBOUTNMRVpKZm5KQ2lrT2tQMnpMRHRIcE1ac2JUMUlYTmxoenZCamZtNEdUVDFDaEUtRXdieVVFa3ZfN1hIOWhv?oc=5",
+        "source": "Modern Diplomacy",
+        "provider": "Google News",
+        "published_at": "2026-11-23T06:56:26.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Hyring Insight Reports 10x Revenue Growth in 3 months - CIO",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV2RvbTdwQjctNlNVQVdhV3V0bzNUd1ZQYVBaZkZWRlh1NTJzV3gxT3BaRW5KOC04bVhkNVUyWWRJOU9talF2NVdLX1kxQlJrXzBfTXhKYzVSMGFyY3dVX0RXMHRuU2pjMDl2T2JEX3FSQ0Jab2t1WVUxQTRLelZaN3lYNFR2TWpQMFVQQnUyWUY0OGxzLXU2RmFn?oc=5",
+        "source": "CIO",
+        "provider": "Google News",
+        "published_at": "2026-11-23T05:53:08.000Z",
+        "language": "English"
+      },
+      {
+        "title": "PODCAST | The Real-World Application of Artificial Intelligence in Manufacturing - Assembly Magazine",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYlpycFpIUjZ1WDdSaHJnMlFGekZzWkw3dmIydDhZZDFYU2dNS1loNU1NWHZPbFNvb2pMN3p4X21lTDRYX3NHZHdsd2w1SGlqdGFFV3RuV2t2M3lWdUhHaXQyczRHYTdkbVRCc0dWQXJTeDJHbHpFMnBZc2puTUlvbTNuWks3VlcwX3YtN0FNaW5pVXd0eWtuaUpDbkxWcFJuOTNUc0JRVWhlZjBJVUVnSlU1bE1COXoxV0tBQXhxbw?oc=5",
+        "source": "Assembly Magazine",
+        "provider": "Google News",
+        "published_at": "2026-11-23T04:09:58.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Worried About Nvidia? Buy This Fantastic Artificial Intelligence (AI) Stock Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ2JmN2d4WURiRV94UkdZSjItSlNrOG9UOWNiZVdmNW5tSXpZUEZGR2hNdk1wdmNLTnhJWWc2am8tVUxLV1VtZzdQMDdyMU5jQ29kSk5PYjVJQzMyQ01lcXZWbGZvd3dhZkhXS2t3cV9URTNiUmstUGg4Q1pvcVRMZ1JXN2poSFlsWUtUeVpTOExhZnk1RDctT3ZXNk5aYmEzWDg3UE13?oc=5",
+        "source": "Yahoo Finance",
+        "provider": "Google News",
+        "published_at": "2026-11-23T03:20:00.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Worried About Nvidia? Buy This Fantastic Artificial Intelligence (AI) Stock Instead - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNblRabUlOYUo5djh3eVFTSVJwMllIdG1WY1BfcnN1V183dTM1Vld4V09wLTdDemhSYzhxd1JEdEluOU1mMjhsc0pNekVNNWFobjJPYUd1LVNOeXVxakVRcjZIaWRIWE12b1doQ3NNVi0yd3NHU3hGTFU5N2dQaHJBQ0ZEOVdOZjluLUluYXVnaDhoVHVvMTMxZzBkSkRkYnpMNTF6dFN0MTFfaHFmUjVuSkxOWmw0eHVTS0NVazV4clY?oc=5",
+        "source": "The Motley Fool",
+        "provider": "Google News",
+        "published_at": "2026-11-23T03:00:00.000Z",
+        "language": "English"
+      },
+      {
+        "title": "How Artificial Intelligence Is Making It Harder To Stop Cyberattacks - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb0pTZXpTNGdMSWdXcExGejc0TVZhTm53ZHpSZFpJSTlFNTdhVGE4TWpMVUdBcHFWQzZzY2FLSDAyWkVDTjdNaFkzY3QyUXc1bjRJdXppc2NOTWVxU1dDbklOZHhaWThxbFpUbC1hY2ZJNGdXZ01JR1RycXpKYnU4RnlMV1NMZXZPRnNIQTZfZHBhenZtWDZ2X1RSeWlGWi1WMlh4d3RmZFdMN21PZmU2ZV9xSUdWWkEzbjZwYU8zXzIzUU01NjVYaTRETQ?oc=5",
+        "source": "Forbes",
+        "provider": "Google News",
+        "published_at": "2026-11-23T01:55:26.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Intelligence Director Warns US of More Outages - PYMNTS.com",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUGZCNXNjc3NIcXpJWW5CNDByWHgxQXZXQjhFMklnNzA4VmZLcHdTekR2dmpqVTV0VDNMWVFLd1Nmbnoxek5tWXRNMEZROEgyTlpQekh4eUpwbDhIanNrdmc5S3pMcTZTUklKeURCbjlNbmxmbUhQUG9VWTY3aVlrV1RiXzZlYmdSdjNqQS1QU1oxNmM?oc=5",
+        "source": "PYMNTS.com",
+        "provider": "Google News",
+        "published_at": "2026-11-23T00:36:29.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Amicus Brief in In re OpenAI Copyright Infringement Litigation - The Foundation for American Innovation",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNam1INzlZQzRkd0NpWWJaZ1NkOVJFMnhKdjdfcjUtSnBiWnlfSENOR3lwUnpYcU16UnJQLTBBVFVMUnctbUs4Z3pRUHN5TkNsb1VJLW5Vc25HbUVidkVuVlY0VWNsV0lHYVdPWXAyMkV3VWpoSXBMQl9WTk1vWEU1RHhPaS0wcldoMndnWEpkQTQ5dGIyOWc?oc=5",
+        "source": "The Foundation for American Innovation",
+        "provider": "Google News",
+        "published_at": "2026-11-23T00:06:00.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Arm vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy for 2027? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaGxmdS12MlFfSGwtRkptVW9HOHkwUENXODJOeXlxU3FMbTlFdUNkOWIwMFV2LTlkNVVvN0JvMVB6U1Ayd05ac0p3MFhqTXZPRWZwVllDQk5TaEVwajA4b2gyMzNpdWt0cXF4T1FSdElpUHhldjBxYWNwcHpkbmt0bGdQcGl1U1ppVHAyaVNSVkNXQ3M5U3hGa0MwVEVUZzNYbVEtNDNtR0hFRThhS3l5NWxET3Fhc2FUWk5sYTVHSmJZRF9zTTJ2bjBlRUFrcEV4ZXNsMzhn?oc=5",
+        "source": "The Motley Fool",
+        "provider": "Google News",
+        "published_at": "2026-11-22T23:50:05.000Z",
+        "language": "English"
+      },
       {
         "title": "COMMENTARY: AI bust hurts Chinese stocks far more than GDP - Reuters",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcUFLdUZQYzFtXzVMTHBnR1lTMnhES0gzd2dKY0p5dlVkWUNiX0hFYUZvdGxSaDI0ak5GZkdQZWtpZU41eGpuWHBKX3ZnbE1abnJzME1Xa3RRcVo2dGVKcWJLZ3JLUkNqMHp3RXBOOGF2VzZWYU5oTHZibUlHX3M5VXRGYldyVDMxNzJ2c052VEdpTHRHZU9ucEM5R1dHYk5qNHp5eW9kTDNyZ0RTTE9HUTNOVU1aN1FnajAtczlZUG5aZnhlbElTVWt3ZDVyaDR4a0E?oc=5",
@@ -588,215 +684,119 @@
         "provider": "Google News",
         "published_at": "2026-11-22T22:50:25.000Z",
         "language": "English"
-      },
-      {
-        "title": "Primary Care Artificial Intelligence Research Surged but Implementation Evidence Remains Limited - Bioengineer.org",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM0E5d1RKTDl4U1BQMTNWU3JPMnlobmswSjd2U3ByazlHRmc5UmpWSjZldTU4dnA3Y1BLcDA3TFp6S25reV91UzdOTDRsUXlQdklQTXUzNkV3R1RCY0x3Q1VqV0FrdVBlLUFlNUtCb29ab0J2NUZENlprdmg4M016Nl9Pb2doSHQwODRyUEN5NW9sb2poSDdQaHNidXpBMGZ6NExkSHZpS0ZTT2NRTVI3M0dvZnpoRlE4SmY1bUJn?oc=5",
-        "source": "Bioengineer.org",
-        "provider": "Google News",
-        "published_at": "2026-11-22T22:34:09.000Z",
-        "language": "English"
-      },
-      {
-        "title": "A December to remember for artificial intelligence - Punchbowl News",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QT0FJUWtmVjhmcE55U2Fhd2g1QjJrTnN2bE9MeGdrT1dST1IzaFFBLUxRT2hWTmdoRXdYYWtkUVFpUFhHX3NnODVuUVpsMzRhNkhIZ1ZxeGpWYlpMelBRMERic2UwLTJWVlNEMQ?oc=5",
-        "source": "Punchbowl News",
-        "provider": "Google News",
-        "published_at": "2026-11-22T22:19:25.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Top 5 Artificial Intelligence and Machine Learning Development Companies (2026) - The Hype Magazine",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMG1uZ3FpTVd1eWU4cjRkcVBCcV9Cd08tNDZ6YVI4SkdoVzZvX2w3YVhhTFRIREEtWDJYMFdrck44WjZxYlJocmJ4YVFZUVExS0NpaldSSVFPdlV5bzMxTFZ4THh0TWt5NkwtWXJ6R1ktazluNzFsTm1HWWVzdGZRdFlZUFJjRmpad1VIR3V0a044YWJ3bFp3eHFuQ1J5Wi11S3FTT0dHX2N5UFdEWnRyYmM2TDZuRWN3bkdJdGZR?oc=5",
-        "source": "The Hype Magazine",
-        "provider": "Google News",
-        "published_at": "2026-11-22T20:06:54.000Z",
-        "language": "English"
-      },
-      {
-        "title": "US intelligence chief warns of further technology disruptions amid system upgrades - Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSVJzRlExZlZURTI0Mk15Z3JSdHlhLUVrb3duZU15TDluU3pDTmN5VmdKXzdQR3FWQXd6Wjh3ZVdwRDZMc3Mwa1l3VU1vWHpRdHk4NkRTaXhqdWFKUVZUbnVFQTNlWFNwVndHWGhEY2h3eHV5UnRwX241MGVuYXA5dFI3Y2tabTBTM04tU1haMHVmdTNnX0RnUml3MTM5OXU1b0V2V0xMQ2Npb0JhOUt1T1JqOWJnWm5PSUVxN1FCU0gzdw?oc=5",
-        "source": "Anadolu Ajansı",
-        "provider": "Google News",
-        "published_at": "2026-11-22T19:46:05.000Z",
-        "language": "English"
-      },
-      {
-        "title": "OpenAI Chief Scientist Urges Industry Limits on AI Development - Bloomberg Government News",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTnU1MU1DVUI0TFJHMklHdjVPdEhJQ2M4Y1cxdUhXUkVEX3lxZXd6SWp4M0FoNkpnMHNHU1B2akJqWmUyTFRFOW1TRjRBaE1uVHNnZTZiZ245dlBBWXM0RGRLSGd2S0VxLUs3ZUhZUkpnNEMzcE8tS0R0dGY1MUQyMUFHZXR3cGFMMWNXMlMzSlEzeDF5bXA5VVhsbnBCbzlKTDd6UG42Ym1jQ1Bh?oc=5",
-        "source": "Bloomberg Government News",
-        "provider": "Google News",
-        "published_at": "2026-11-22T19:40:00.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Et tu, Alsobrooks? | EDITORIAL CARTOON - Baltimore Sun",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KSWRVTmdXSTZoTWNJU1gwM0tvNVVLa1dDdzN6RHRWdjIxNW1lV1NIOUcwZGJ2WTAtdFkwaHk5MC1tQnd6VWY4OFp1RXBiM18yTHI5blBiMjFjQWhJVGQ1S3RHRllWcklkSmtSQTh4S1k1WUNDOXhvOEJB?oc=5",
-        "source": "Baltimore Sun",
-        "provider": "Google News",
-        "published_at": "2026-11-22T18:32:21.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Signal Is Blocking AI Agents From Reading Your Screen - Security Affairs",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOXlLaURHYWlxOG1ZWmNrRXppRUYxY1A4aG50dnFNTTZvMWNRbmRqSjZBYlpaNWdEbFpVaXAtbXlKSXpsRmlBSTRqdm0xR2IybzdBazh1QjBvVVZManNFdzFMY0JvaXRnZzlmYW5OREJseUxlTERDaFZKT0QxM0RGRU16d0dkeW5vSGtVcThQLVR0UkN4YXUtVEJWYU7SAaIBQVVfeXFMT0ViVkJhek9LWXlFM2FhVUxEYmFodlhNS2xTMG1OOG9VTndjMDJVSDhIZ1pSRW5fNU5ab3U5NVA5aEJwd2ZRbHhLa1JYYlBWRmhSVE1pcm5oV2F2cUZSUmpWdFpmMlZSM3FtQ2ZLTmctMVZhdEVpTVpVN3FyWlZYaGdEUS1YZkY0Z3NQOU1NanpkUHlXUWxIQTYwNXRIZ2xkdTVB?oc=5",
-        "source": "Security Affairs",
-        "provider": "Google News",
-        "published_at": "2026-11-22T18:24:42.000Z",
-        "language": "English"
-      },
-      {
-        "title": "US Intelligence Chief Predicts More Tech Outages as Systems Undergo Upgrades - U.S. News & World Report",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTUhnbnNtWnQ5YklWZjI4NDJKWF9zSFF1SWJ6QnBHay1obU5ZeUhNaERDb0FUYWs2Q29CRjRsZ2tPZDFpbDdKdy1rQWIyTHFlZm02a3ZZVkRFUmVKektTdWJSVlhSSWZ5M2hDeGwtelBvMUlKb0NoSUJoSEhsbnEwTmkwUDhEdVVfRHl0MkFFT3Y5LVRGeDVmTi1WNlNvWTd0ak1vbjk5ZExjVmVFV2Y4dzVNdm1FRHkxeG96RzFUU3dLTlZBc25ObmE4bHpaQQ?oc=5",
-        "source": "U.S. News & World Report",
-        "provider": "Google News",
-        "published_at": "2026-11-22T18:13:00.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Artificial intelligence helped solve one of the most famous mathematical mysteries, for which a million dolla - Наша Ніва",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50WDVJQ3dhNWE0T0JrVTdmVXUtNE5XX3RSaFNwTVJKb3ZoeVI4Y3Q2V2pEVEdTQWstdmJYV21RelNiSnZ0bXFxVzdwQdIBS0FVX3lxTE50WDVJQ3dhNWE0T0JrVTdmVXUtNE5XX3RSaFNwTVJKb3ZoeVI4Y3Q2V2pEVEdTQWstdmJYV21RelNiSnZ0bXFxVzdwQQ?oc=5",
-        "source": "Наша Ніва",
-        "provider": "Google News",
-        "published_at": "2026-11-22T17:58:50.000Z",
-        "language": "English"
-      },
-      {
-        "title": "As AI detects flaws in computer systems, is it causing more tech outages and disruptions? - PBS",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT3V6c1ZoWkw5RzJuZEFSdHJkby1RMnVtc29rMjZxcDRxV0Q1YVRLX0VZY1lLN1hJclpneEp5NlA1amZuWUNQVkVEWUo0cmtfU3g0LVNkSV9FYU9TQlEycU5LdWFRVXpSbnlEd1JTTGlZbnBOdDNhSDlHTFZhcUdxSFRpakZpYWRjY1M0RGc1X1hiR1ZtZldHN1NYOEtLSTNpVkphbF9fdmFYa1RUU3V1ak5sWm0wZ19XT0tES0EzOWw?oc=5",
-        "source": "PBS",
-        "provider": "Google News",
-        "published_at": "2026-11-22T17:13:38.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0UyZUdJbmJyV3E2MkFmMjlaVU43ZXItWDZNd2JtdVFKcGEwMlNENHpLdWJ0dGlqNk5iTXhvc0xXRkI5TVhzSHg3bTFTdzN6MkNkT1pnRktNRWFFazZCTkQ2dlNrZGhjTGI4cWxKaDhKbTg3R2dSbXE2N19aU2plcktMUGFNYmpqLVdkbkVLU3ZDd9IBlwFBVV95cUxQRmQ4Rjd1WnZHMVZWb1BKNTYwWFdzV1JRWWY3SllzSm5EOG5yZjlvNmhma0JEUWhJbHIwNkxHUGZfTTZqUHVQV0ZyR0JfQmx5VFNVR29OaTByQ1VhS3hmVFdNUkJlUmlnbElzSDNXc3Y1VjNkdm9nUTVOTUtYdUNsWHdNajJ5eGhPZVB1Uk5QMmZ4VzV1Q3Fj?oc=5",
-        "source": "CNBC",
-        "provider": "Google News",
-        "published_at": "2026-11-22T16:17:53.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Morocco explores cooperation with Oracle on cloud computing and artificial intelligence - Tech Review Africa",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdGU2Xzl5SEhkbnJDRFpNYTliVS1wTjIxMGtJYzdKc3dlU3V5U0UtUU4wUFdPME1WTUJDX0NLLU1nTWE1ZVhWMFpSXzZ1QlBYOFFkX3V0Ykdad2dpWlFHLUQ3enZaUEl0akhyQ1hjVDkwNDBFN3hma0NERjduSmhpWTduUW9zSWpHNV9HVFlfZ2lFanJxaDV6MjlMWlloQ3hWNWV6OXFCOFFxb1RGdGVLRWJpblJRQUx5UWpROGxlSGJPY0ZD?oc=5",
-        "source": "Tech Review Africa",
-        "provider": "Google News",
-        "published_at": "2026-11-22T14:14:31.000Z",
-        "language": "English"
       }
     ],
     "society": [
       {
-        "title": "S Budda Baker, WR Simi Fehoko, DL Darius Robinson, DL Walter Nolen III, and ILB Mack Wilson Sr. Postgame Media Availability | Week 11 vs. Kansas City Chiefs - Arizona Cardinals",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQdUVsSmNaUC1sdG5YLXQtSmJLWUZJREVOZmh3ZDFxRDR0bnE3RzJsemNFU0FPczFiV0pVUEJ6UEphS3VBX2dsRE4wU2JNdXNkaC1tSzh2anhvVkNidkZoa1ZWN3JyOGhReWF2ZWx4emNlVXFSQS1KdkNqTTBTX2NDc3lOT2Z5dV9QR2dXTHQ1QkotY3lwVnVWR2VXVUlTaklWTEJxaDZjdDhxa3BYb1pKdGJLem5hN09xNnBVeE5hU1JRdmhXcFNtWWxjLUNnQXhwV2hkbGlKQVVNQTZDQW1vU3A3dXZWMkF3Y2U1dWFWSXk2OVpqajFfZ2Q2UEUtWmRnTVFKOVJkWTZqWTI2Y3dZ?oc=5",
-        "source": "Arizona Cardinals",
+        "title": "Commentary: Rural education matters: Save Mansfield University - Pennsylvania Capital-Star",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUDBPd0F0V3FpVWRXMzd2VzU3UjBXLWhvNnBlbFN2TncwaHdKYXh2LWktNjViaFIzaTRiRnFzZ1A4cmpuQ0E2aWxVUGd2TkFqc09YSV9fT1BRdnp3NXYyN0g0NjB5eFpLWHRWUkVVSjljUVdGUHMyV1pPaXd5MFdmXzNGSHdvazhVSUxDS2FDZ3RxTmM?oc=5",
+        "source": "Pennsylvania Capital-Star",
         "provider": "Google News",
-        "published_at": "2026-11-22T23:27:15.000Z",
+        "published_at": "2026-11-23T07:42:11.000Z",
         "language": "English"
       },
       {
-        "title": "Reporter’s notebook - Community College Daily",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yQjdta1RsX3l2bVpOcmlwOGZqRW5zN2ZxalZQaHA5V01USWlzejZlckxaWU9CY2R0azZlb2hYYTUyYjRvaUpndDdFVmV3T3RNalJQTEF0ZHZKMzdhUFlkNUdTdnZfZw?oc=5",
-        "source": "Community College Daily",
-        "provider": "Google News",
-        "published_at": "2026-11-22T23:11:28.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Caleb Williams on performance vs. Saints | Press Conference - Chicago Bears",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMnNfcGFzTWgyNFRCM0pJUlJiLUNGMGhVYk00OUtnVlcxYV9iSnhxOVhwTlM1LVNEU0tSblFQUDhHcDdNTmVhdHVxM05rUWE2SklQcTVmLTF4aElMV0xPdVNmQ3ZQaUxQNnlvMmpZNHI1SDd6WHl4OTBMUlpad1c1SUNPNjdxaUFFMFd6c3MtZjY4TUV0M0E?oc=5",
-        "source": "Chicago Bears",
-        "provider": "Google News",
-        "published_at": "2026-11-22T23:09:19.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Media Availability | Pregame vs. Blackhawks - NHL.com",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmRVN3lvYUZka1B4QXVFNEhjM0RTM2xDVmNfcjlhUk45ME9SSnhoU1VCbHdYZENYdTRPa0dIU3MteDExR2Y2MkVZOXQ3MXJWMWxUZWJjbWVzUWdUTDc5UW01cXo0LWdtMkdUVkxCOUZnZmIwZ2VJOWFQV2RRc3hGQXN5aE1JTzRQdlJNb2tJSFZMUQ?oc=5",
+        "title": "Jeff Blashill Postgame Media Availability | 11.22.26 - NHL.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaHVwS2UyZER2MXUtdTBNWjNkazRlNHJaVVhKNGxVeWgzaXpMSlZPcklaQlI4UnNCMVhuOHg3eGNQbEFob05TMGMzY1prbERfTUt5VldMSDdER1dMQjAtX3FNWnJGN2NNQlRBMHRwRGd1cWJJbGVkUkdzWnNzV3JPb0REMUE1NThTZmU4X01lbEMxS1BMVDAxQV9PVTJKR3V1R2tj?oc=5",
         "source": "NHL.com",
         "provider": "Google News",
-        "published_at": "2026-11-22T23:06:01.000Z",
+        "published_at": "2026-11-23T06:46:14.000Z",
         "language": "English"
       },
       {
-        "title": "Post-Game Media Availability, 11/21 @ OTT - NHL.com",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb2x5ekZwaWdaNzR6aHo4cEtlV2ZvVGx1OUhoZ3k3YUJLekhpMmZqclhrUFZ0allGTUNSdWkxVUM2ZHN2aUt1VjdobVBJSnBmUFpadEtIZWZIZXFvQTJmU0VZLTYzWmNsMHpfUjlaQlh4ZHBrTXlZWGZ4QnlMdUFWQkNwUGY2YVdEcUJZag?oc=5",
+        "title": "Interviews - NHL.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdTdxVTJmcGcwUGRLSHBucm1Ya0tzNTBjOXM0Z21yQ0c3U2xzTlRIeFVDSWxkcUtuS203YnNjMXk4QjBfWDlyRzA1YTNGM1ZTQkxLaFhaMFA3bjFrV0RpLUlpRHg0V1lkTVhUQ1piM0hQY1NqTFY3QUhLYTRjN20tVjNYYlBRMDlCZENQOHp1V3cwMkRVU0NlcFZGZWpobTZJbHE5NnVWT1V0TWhnZGt5MVdDZElmb01qZFE?oc=5",
         "source": "NHL.com",
         "provider": "Google News",
-        "published_at": "2026-11-22T23:03:45.000Z",
+        "published_at": "2026-11-23T06:21:34.000Z",
         "language": "English"
       },
       {
-        "title": "Andy Reid: 'Love Seeing These Young Guys Stepping Up and Making Plays' | Postgame Press Conference - NFL Week 11 - Kansas City Chiefs",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeWxsaHh3ejdDZ01JQlAxamFFSmpsV1laZzJWVldWRlhWWWFGYkp6M3pDc3F5SVkyLThXQTBpdmV0OXlhM2oxWGJxcWNvSzdRTFVnUTVMWDBiX0NGTGQ0ZEtZcWY2dTRiQ1MxdFB1bGMwU0VIY1ozU0NFVWdLTTdvWHZDM2JXTm5sQ0ZZMXl1TTFKcWpURGd4d3ZYQXVHdXQyWS1hZFRucnFqNHk2SGFLbHc1ckpVZVVDTE5UdHJLa0dYeWJYZ25YdmFSVllXaFE?oc=5",
-        "source": "Kansas City Chiefs",
+        "title": "YouTube Finalizing Multibillion-Dollar Settlement With Schools Over Social Media Addiction Claims - Claims Journal",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hU3VFd29PNWpab0FJYWFnN2tNamg3NWtXN3A0MXpiRGFOTGc3dHRESmZSSjdvbmpjRC13Y0F4bnlqOC15SnlFNl9vbDF4clNUMTZ6cHZERU9TbGFtS2FjYTBYSHBpY29aQlBsNjhRYXVkeUk?oc=5",
+        "source": "Claims Journal",
         "provider": "Google News",
-        "published_at": "2026-11-22T23:00:02.000Z",
+        "published_at": "2026-11-23T06:00:49.000Z",
         "language": "English"
       },
       {
-        "title": "WATCH: McCarthy on the loss to the Eagles - Steelers.com",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6dXhrcEthMlZwUmJoUVotNkY0dWdiVVJFakQtZjg3UlJVNEFZZGs1WHZqdXE3S0ltVWZhdzhwQXA1REk4VGdmcUhTd1k0NzUteEJfVDh2cEhvX3k0V3RJaThNWWV5dXgzTjNNNm1UZzZxdklULVhlYUM2WQ?oc=5",
-        "source": "Steelers.com",
+        "title": "School of Education’s new direct admit program expands opportunities for aspiring teachers - The Michigan Daily",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZWhsa09mNkFlTjkxV0Q1Q2tpZWgtZjV2YWE1WkpzdktjQVNnU1hrZ0lnRlBGck9aYUg1cV9WUF83YlZBNUExYlRLZFRiN0R1aTNlRm1qcnRMZC1ZTDBfMHJSVVFfamR6anNRcFBiRjBIZ0RCXzAwanFORG1GRVFmbjBFMVJBUkZvMmJjTnpMTk1TSl90dF9pcmlYRmpzUmR5UTMyOTZiUGFaVll5cU1NekEzM0R2YVA3Vnl5TkFWdkd1RHlfcjNSY245by1EaVg0?oc=5",
+        "source": "The Michigan Daily",
         "provider": "Google News",
-        "published_at": "2026-11-22T22:23:24.000Z",
+        "published_at": "2026-11-23T05:49:27.000Z",
         "language": "English"
       },
       {
-        "title": "Becerra needs a concrete plan for higher education, starting with his UC Regent role - Daily Bruin",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRUhVdEdKSmw3akJDckJjRTBSUzVGSkRFTmdKS29uWjNIamVOTVFBbnpqZ2k3dXJWcEk0MVM4OWRTYmVPUlpkUlptUjhiWk5wUjlQY2lyWXVhNFdZTnBiRkpIR01YMnkzZTRlU2EwSGJoR2lwYWF5U3FLUGtpYTBPUGU5UE50M2w3akExdVZSb3ltQVZrREZfb0dLNVhqQjRLVG4xYjZLQ3J4a0ZUSjUxM0UtY0c5QW5V?oc=5",
-        "source": "Daily Bruin",
+        "title": "NHL Morning Skate – Nov. 23, 2026 - NHL Media",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Xb3J6bGlYd0pVeWdYS1Z2Z09jZ3l3VGFFeE02a0Q5YVJjWS03czlxMjdZeHQwV1NrWll3ek1IaTJCVEZYVGpfNlhLZUlwN2Vi?oc=5",
+        "source": "NHL Media",
         "provider": "Google News",
-        "published_at": "2026-11-22T22:18:00.000Z",
+        "published_at": "2026-11-23T05:44:10.000Z",
         "language": "English"
       },
       {
-        "title": "Turkey: Thousands protest closure of critical media outlets - DW.com",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOejlDMFNWODFzUVdfTFVsemk1QlpTMnZQWDVHSU9lUUN5LXllc3JET0diQTFNenNZaDNFQkp2RmtJQ3VRVm5DWmtsZEszeWtZNWRaWXVTblVaSC1UamFEMGlSdExUcVNBQl9MVFFFNmZJUl9CaERjdm1aeGFIZE9tdDFoV3ZuMXM0cVdZOWdKN2UzRHNfeVHSAZYBQVVfeXFMTk5sczUzZmlhdFdHNEJoZm9ILVE2d01kQVRpaklHcng1bDVPU0c3TU1wcHZlY1RmNXlIdzlwWWVBUmxlaHFTX01fcTJNbXpNQ1FLTHpneUYxZkppQXIxVmxNUGZJTmpJaDZkSkh5V0lQOGhkdEllWTVIY2VQSGYxWjJidHpseVVRd1oyVXp3cGF2bmhPcjd3?oc=5",
-        "source": "DW.com",
+        "title": "Indonesia president to nominate VP candidates on Monday, state media reports - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQVpFcWppN3FkT0RvWVpvVzRNdEFTOWc2aTVoN3R2Sm5nbXppNzF5RVBFeDRZZEVtaW1zTVdRdThXZGZMd2wzODZYa3FsMjJ6MFVOa0dsTHEwclFYaWJlUmRtamE0a25KZ2RlUEM0VmR3anVZNEN6anZOMVJBX2pvYXhuNzBQZmUwUFE5VTJFUTltbjVLY3ZFbU05cF9TLUhWSG53S1BjMmh6VGhkeHhKT296TWpWOGJ1ZW9uSk9BTE9XUQ?oc=5",
+        "source": "Reuters",
         "provider": "Google News",
-        "published_at": "2026-11-22T21:34:21.000Z",
+        "published_at": "2026-11-23T05:43:00.000Z",
         "language": "English"
       },
       {
-        "title": "Improving Oxygen Prescribing Practices Through Targeted Education: A Two-Cycle Clinical Audit Following a Multicomponent Intervention - Cureus",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNmJkdW5PQlpVcVIzWHo3NzlFcUdmT09uYzhoN1ZWd003eHc2Y0RGUGIxd2JVX1FpZG0tWDUyaHhnM0ZzSldLNjdIME92SWdsb0F4UHdMYUlvZk5ocWF6a3lzRnZzRi1RTlJZaWdMT1V4eGZmVkZyNVFhV3BteEZ1S1RVZFBsb0NVZGk5eDZBbTVuUzdnQ2oyajdraW84WlU0ZzFnT0t6RGM3d1diNmJjRXRSY3JrS01yREVGN2pkbnlsRTZ2dEFhd0NaUVhPR1FYM1dTZDNqaHh4X3lpWENSbmxIMXVIcWpqeGY2YkQ1bXhULUVaTFdDRVlLNS0zci1t?oc=5",
-        "source": "Cureus",
+        "title": "Israeli attacks on medics in occupied West Bank surge by 350%: Rights group - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTUdnbHFCWVo2VVhDQURvNm9rRGE1bm8xSjEzN1JodS05X0dtWjRNMTVqOUpQbjc2NDZfMFdqMXB6OVkycHUxNzRReXY4cVlsZF9XY3djVVozX0RNbnZZRlNvdW92bEJVYjdVUEVfLWN0SzluRFc2UDJYeTVCUlB6Mk5tT1ZfbkRUR0NpNlQ2UV8xOWRWS3BZRkZRLXh4XzdoSTVDc05ITFdMVm9NNmVBTW5ZOHBmd9IBuwFBVV95cUxObEhieDBMYjFQLUZ3TzNxbUlJYnFNanllb0VuMjVqLTBzdW9rZEtsbXFpM0t0MVRqSUhiWFZYOVFLMWQ4YXFRWVRIdF83ZEpteWdOdVpvNjJHY25NVEhGc2N0dFN0X1k4X0p6UzJTR2h6UUMzZHVRdVBLMXVkN2IxY1BuT2xYZ19Gc3BHNXNBOWFBVTNTblJQSVprMVZMZVBLdlAtZXVGcE8zbjZWMWpTRnowNVA4c0FiSm5V?oc=5",
+        "source": "Al Jazeera",
         "provider": "Google News",
-        "published_at": "2026-11-22T19:56:33.000Z",
+        "published_at": "2026-11-23T05:41:32.000Z",
         "language": "English"
       },
       {
-        "title": "After dramatic arrests, protesters demand ‘ICE out’ at Sea-Tac Airport - The Seattle Times",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONTRNRFU2Vnkzc2dSVEF2Zmtqa1pzNHQ2YkgyNEgtRDhPVldCNTRiR1ZvQlp5SnJFMDNuWEkwTEVEYVg4Z2VuWFFrQVNoRjJaYlEtQ2xHUjlhalg1bnRmQlpVY3ozTjRFX2ZrU0Yzc1ZwRmdXRnY4U0gtYTVURnBGVmczbWpDc0tHT0FKVERoYlNnXzNBcFJYVWtvUVBxWXRneUhSdFZySzg2RG1yZzhEZ004UlI?oc=5",
-        "source": "The Seattle Times",
+        "title": "‘VERY OLD DEBATE’: Ball State enriches civic education as politics shapes teaching of U.S. history - the indiana citizen",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMlBrdjBjaTA1eThWVU1kVWxLNjhiZkpYcDRvTXlRQmE3NVZuLWhwSUd0VlprM3pCT3k1Vzd1RVJqQ0lIajFMUC10QzYyWUZxUFh5aU1GR2Z3SEU4azlhZFlVd2FBQUhqQ01YU3RpOEtDdU10MEE3eWxqRUF4MFc0Wms5Z2lTTnNaMnY4U190S3JtTXlpSWJCdzZ6MXhfM1Z2b256eExkQnY2bDUyU1hHQy15ZkpjdXQ3WWdxdXRlMA?oc=5",
+        "source": "the indiana citizen",
         "provider": "Google News",
-        "published_at": "2026-11-22T19:54:11.000Z",
+        "published_at": "2026-11-23T05:35:52.000Z",
         "language": "English"
       },
       {
-        "title": "WOMEN'S BASKETBALL TO HOST BUCKNELL ON EDUCATION DAY TUESDAY - Le Moyne College Athletics",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcUJTSXJjSXYxeElDbDZBblpMVTk0NExaMnBueTZUZXFaVTdveml2bTIzOW1xd3o1bzU4Y0M1QmpzVUR2d2U5Qkl5Zk5TLVlqT3IzZDZtaXByQzgyUDFFQkRVQ3hrSmt2ZzFMRDdaM0FYU0w1RG5YR1owSW5adk9TRG9aOVZ0cFI0YXlwS0pqUjUzUjZlYXl2WjRsUlNlSHNfUWNUUkpNbUE4MlA4dFlRb25SV1BJOTVyVGhTM2tLLU9ybG5q?oc=5",
-        "source": "Le Moyne College Athletics",
-        "provider": "Google News",
-        "published_at": "2026-11-22T19:19:26.000Z",
-        "language": "English"
-      },
-      {
-        "title": "Locker Room Raw: Hampus Lindholm - NHL.com",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc1RHUnd0U1h1eGl3M2UxSUc4dVptQVJlTXNtQ0JMWkJfaTM2V3BBWlpJVldCb24zT1p5c1NidFFpMHF1a05yUEdvc2xCczNTMUV5MUtYaDhybURlNUtPT3dyTElkdUFQQ0Z5SElieUo0SDJHbXhLb1dnQVZIMkpRUU1KZHUzZWVsRmxmakRXXzgxYnJWcW9NVjJFQ2szdVpWMFE?oc=5",
+        "title": "Media Availability | Postgame vs. Blackhawks - NHL.com",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVWZTS1J1N2FmTmx4SFpnU29zazhEeUxIc1lxRk8tcUxmRlNsNkpvTVRGTVk3aWxhNTlzTGhsUVR1NDNSWWgxM3Fod3hZT0JJUGt3MVZqRTNXSWNhTTZVR0Q2N2J6U2hLb3FFbFJMWE41cFAtZHQzQTZLemt6VDlldm9uM2x4emVrT1BkMGhiZUFsREk?oc=5",
         "source": "NHL.com",
         "provider": "Google News",
-        "published_at": "2026-11-22T19:19:02.000Z",
+        "published_at": "2026-11-23T05:31:26.000Z",
         "language": "English"
       },
       {
-        "title": "ACLU SoCal to Honor Ava DuVernay with 2026 Bill of Rights Award for “14th” - ACLU of Southern California",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV191UUQyTElNVC1FSkh4SGgwSVk3dUw3MWdTbVgxa1BGZEtnYk40Yk94dmJCVHhNWFNlV2tOZk9qNEhDVXRSNTl1bHFwcTd0R1ZrVlZPeWhZdzBWNnNLWWo3MDBWSHlYZWRVdGcwYld6NGdfNkFrZnZKQmJIUGxHczNhSkZaUlZwOTgzdE5vYWxUR3FMaFROVW4xdWhkT2d2ZWliRk92T2J2dk1EZ0t1RFFGTE8?oc=5",
-        "source": "ACLU of Southern California",
+        "title": "Rick Carlisle Postgame Media Availability | November 22, 2026 - NBA.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNclN3OGE4X0dFQXRVelVZVDZBX3BJRHUyUnpRdEZTZ2w5dFl0VU1KV1JtYS1xcU1rYVZEMUx1UUhCYWIzSlZBc2ZZQkxQMDRteG93NUt3SFBRZklyeTJUeTBpd3pLZ2VYZUdNZ3Y4TDVCX0UzeFB4Y21uNTlUbnh3VHlWb3NpNFJuVGo5TXYwaFZjeEdvZy1R?oc=5",
+        "source": "NBA.com",
         "provider": "Google News",
-        "published_at": "2026-11-22T18:16:19.000Z",
+        "published_at": "2026-11-23T05:27:28.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Post Game: Silovs (11.22.26) - NHL.com",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90VUx5clFYZDFsYkYzaDMyUHdySDBMQ180MFhZWWRlUVhiQUR0T1RoQ3gybnU4WDRLNW16V2lRWlU1N2JxNjQ3VUItVTVWNUtDVWJGLUpwdlRqNVJkSktsOXNFOXN3Ynl0b3dRcjhMY0dmZklHWVk3RTByVVQyZVU?oc=5",
+        "source": "NHL.com",
+        "provider": "Google News",
+        "published_at": "2026-11-23T04:16:12.000Z",
+        "language": "English"
+      },
+      {
+        "title": "Mali: Write for Rights global campaign supporting arbitrarily detained trader and influencer Rokiatou ‘Rose Vie Chère’ Doumbia - Amnesty International",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRUszZGRQUHBKUDFvM2JkYV8tQ3ZHd0pBeHQydzZHd3ZETHNDUm9PLU1taHNQeHVsSkZ3UDhOR1ltVWdiZXJZYlIxVXVlb3NiZ0ZlM2w5X08xVWRfU29hamM0NVVKUkRYZENzTHJBTVFXYzlZMlB4ME1YQjhTWmxjbFY5bTk?oc=5",
+        "source": "Amnesty International",
+        "provider": "Google News",
+        "published_at": "2026-11-23T01:01:00.000Z",
+        "language": "English"
+      },
+      {
+        "title": "RB Breece Hall Postgame Media Availability (11/22) | Week 11 - New York Jets",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbVVqN1JTdnZPZ1dyTllabVZlREMwY0hPV3ZXb01KSVhIaE1YelNIWDUyeHZVQnUzdVFJMnVwTFU2RzBIdVB4OUxBSzRrclJBc0c0dWtyd3g1MkhZQnAzWnA4NGR2aUlmQllLSy1HZTVoaU90cFRqVkhRLV80UkNyZlBWdXExZzQyNkZXelV1c1pNamV3eWVVNl83UXp2UQ?oc=5",
+        "source": "New York Jets",
+        "provider": "Google News",
+        "published_at": "2026-11-23T00:45:20.000Z",
         "language": "English"
       }
     ]
