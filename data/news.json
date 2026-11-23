@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T07:42:05.126Z",
+  "generated_at": "2026-11-23T18:21:41.880Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
@@ -89,10 +89,40 @@
     ],
     "myanmar-civil-war": [
       {
+        "title": "Arab News | Myanmar says combatting graft in military draft process",
+        "url": "https://www.arabnews.com/world/myanmar-says-combatting-graft-in-military-draft-process-3013586",
+        "source": "arabnews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-22T20:30:00Z",
+        "language": "English",
+        "source_country": "Saudi Arabia"
+      },
+      {
+        "title": "ICJ ruling on Rohingya genocide in Myanmar puts strategic , humanitarian choices before India",
+        "url": "https://www.hindustantimes.com/opinion/icjs-rohingya-ruling-and-choices-before-india-101795370165670.html",
+        "source": "hindustantimes.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-22T19:00:00Z",
+        "language": "English",
+        "source_country": "India"
+      },
+      {
         "title": "World Court Finds Myanmar Committed Rohingya Genocide",
         "url": "https://www.juancole.com/2026/11/committed-rohingya-genocide.html",
-        "source": "Juancole.com",
-        "published_at": "2026-11-22T05:04:57Z"
+        "source": "juancole.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-22T07:30:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Why Myanmar is criticizing ASEAN over political representation",
+        "url": "https://news.az/news/why-myanmar-is-criticizing-asean-over-political-representation",
+        "source": "news.az",
+        "provider": "GDELT",
+        "published_at": "2026-11-22T07:30:00Z",
+        "language": "English",
+        "source_country": "Azerbaijan"
       },
       {
         "title": "Burma’s Junta Forces Migrant Workers to Fund Its War. Over 2 Million Are Refusing.",
@@ -117,24 +147,6 @@
         "url": "https://foreignpolicy.com/2026/11/20/myanmar-genocide-icj-ruling-rohingya-muslims-ukraine-gaza-tom-andrews-un/",
         "source": "Foreign Policy",
         "published_at": "2026-11-20T15:57:04Z"
-      },
-      {
-        "title": "Myanmar says international court’s genocide ruling ‘not fair’",
-        "url": "https://sylhetmirror.com/2026/11/20/myanmar-says-international-courts-genocide-ruling-not-fair/",
-        "source": "Sylhetmirror.com",
-        "published_at": "2026-11-20T14:57:36Z"
-      },
-      {
-        "title": "Myanmar Genocide Ruling Is a Watershed – with Huge Ramifications for South Africa v. Israel",
-        "url": "https://www.nakedcapitalism.com/2026/11/myanmar-genocide-ruling-is-a-watershed-with-huge-ramifications-for-south-africa-v-israel.html",
-        "source": "Nakedcapitalism.com",
-        "published_at": "2026-11-20T14:55:20Z"
-      },
-      {
-        "title": "Rights groups urge sanctions after top UN court finds Myanmar committed genocide against Rohingya",
-        "url": "https://abcnews.com/US/wireStory/rights-groups-urge-sanctions-after-top-court-finds-138315054",
-        "source": "Abcnews.com",
-        "published_at": "2026-11-20T13:45:33Z"
       }
     ],
     "yemen-civil-war": [
@@ -197,6 +209,41 @@
     ],
     "israel-iran-confrontation": [
       {
+        "title": "IDF warns Netanyahu strike on Iran could trigger wider regional war : Report",
+        "url": "https://ianslive.in/idf-warns-netanyahu-strike-on-iran-could-trigger-wider-regional-war-reports--20261123075113",
+        "source": "ianslive.in",
+        "provider": "GDELT",
+        "published_at": "2026-11-23T03:30:00Z",
+        "language": "English",
+        "source_country": "India"
+      },
+      {
+        "title": "Iran warns US : Neither war nor peace cannot continue",
+        "url": "https://gulfnews.com/world/mena/iran-warns-us-neither-war-nor-peace-cannot-continue-1.500757371",
+        "source": "gulfnews.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-23T02:30:00Z",
+        "language": "English",
+        "source_country": "United Arab Emirates"
+      },
+      {
+        "title": "IRGC deputy commander warns of US - led plot to fuel unrest and destabilize Iran",
+        "url": "https://www.presstv.co.uk/Detail/2026/11/22/781366/irgc-deputy-commander-warns-of-us-led-plot-to-fuel-unrest-and-destabilize-iran",
+        "source": "presstv.co.uk",
+        "provider": "GDELT",
+        "published_at": "2026-11-23T00:30:00Z",
+        "language": "English"
+      },
+      {
+        "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+        "url": "https://www.wdiy.org/npr-news/2026-11-22/lebanese-villagers-return-to-wrecked-homes-as-the-israeli-army-pulls-back",
+        "source": "wdiy.org",
+        "provider": "GDELT",
+        "published_at": "2026-11-22T22:30:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
         "title": "Lebanese President demands Israeli withdrawal, end to Iranian interference",
         "url": "https://www.israelnationalnews.com/news/436789",
         "source": "Israelnationalnews.com",
@@ -221,7 +268,35 @@
         "published_at": "2026-11-21T23:44:00Z"
       }
     ],
-    "libya-fragmentation": [],
+    "libya-fragmentation": [
+      {
+        "title": "Libya rejects use of its territory and waters in foreign conflicts",
+        "url": "https://aa.com.tr/en/middle-east/libya-rejects-use-of-its-territory-and-waters-in-foreign-conflicts/4133889",
+        "source": "aa.com.tr",
+        "provider": "GDELT",
+        "published_at": "2026-11-23T02:30:00Z",
+        "language": "English",
+        "source_country": "Turkey"
+      },
+      {
+        "title": "UN warns Libya must not become a battleground for foreign conflict after Benghazi attacks",
+        "url": "https://aa.com.tr/en/middle-east/un-warns-libya-must-not-become-a-battleground-for-foreign-conflicts-after-benghazi-attacks/4133896",
+        "source": "aa.com.tr",
+        "provider": "GDELT",
+        "published_at": "2026-11-23T02:30:00Z",
+        "language": "English",
+        "source_country": "Turkey"
+      },
+      {
+        "title": "Israel , Italy And The Eastern Med : Strategic Assets For European Energy Security In A Geopolitical Contested Area Of Hybrid Competition - Analysis",
+        "url": "https://www.eurasiareview.com/20112026-israel-italy-and-the-eastern-med-strategic-assets-for-european-energy-eecurity-in-a-geopolitical-contested-area-of-hybrid-competition-analysis/",
+        "source": "eurasiareview.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-20T03:15:00Z",
+        "language": "English",
+        "source_country": "United States"
+      }
+    ],
     "syria-transition-crisis": [
       {
         "title": "US seeks to seize a Beverly Hills mansion allegedly bought with $30 million from a scheme involving more than $700 million in military fuel contracts in Iraq and Syria",
@@ -527,6 +602,25 @@
         "published_at": "2026-11-20T09:00:00Z"
       }
     ],
-    "ecuador-organized-crime-crisis": []
+    "ecuador-organized-crime-crisis": [
+      {
+        "title": "Hegseth Proposes Joint Military Ops in Honduras , Warns U . S . Wont Cede Its Backyard",
+        "url": "https://www.latintimes.com/hegseth-asfura-pactos-defensa-operaciones-contra-narcotrafico-honduras-601616",
+        "source": "latintimes.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-20T21:45:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "US Sanctions Gangs Tied to Mexican Cartels",
+        "url": "https://www.riotimesonline.com/us-sanctions-comanchero-ndrangheta-mexican-cartels/",
+        "source": "riotimesonline.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-20T01:15:00Z",
+        "language": "English",
+        "source_country": "Brazil"
+      }
+    ]
   }
 }
