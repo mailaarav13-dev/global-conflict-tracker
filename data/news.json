@@ -1,47 +1,77 @@
 {
-  "generated_at": "2026-11-23T23:58:36.616Z",
+  "generated_at": "2026-11-24T09:59:31.729Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
     "russia-ukraine-war": [
       {
-        "title": "Europe Is ‘Somewhere Between Peace And War’ With Russia, Former Finnish Defense Chief Says",
-        "url": "https://www.rferl.org/a/lindberg-finland-sparta-russia-ukraine-war-europe/33903620.html",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "published_at": "2026-11-22T23:11:31Z"
+        "title": "Zelenskyy confirms Ukraine was behind attack that sank Russian warship off Libya",
+        "url": "https://www.cbc.ca/news/world/ukraine-behind-attack-that-sank-russian-warship-off-libya-9.7432215",
+        "source": "CBC News",
+        "published_at": "2026-11-23T09:47:02Z"
       },
       {
-        "title": "Libya Says Suspected Drone Boat Hit Russian Ship Near Benghazi Amid Ukraine Speculation",
-        "url": "https://www.rferl.org/a/benghazi-libya-russian-ship-sunk-drone-ukraine/33903623.html",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "published_at": "2026-11-22T23:01:07Z"
-      },
-      {
-        "title": "Ukraine war spilling into NATO territory",
-        "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
+        "title": "NATO to meet after Russia-Ukraine war once again inches onto European territory",
+        "url": "https://www.npr.org/2026/11/23/nx-s1-6050245/nato-to-meet-after-russia-ukraine-war-once-again-inches-onto-european-territory",
         "source": "NPR",
-        "published_at": "2026-11-22T22:40:22Z"
+        "published_at": "2026-11-23T09:44:26Z"
       },
       {
-        "title": "Ukraine war gets harder to contain amid escalating hybrid attacks",
-        "url": "https://biztoc.com/x/7876c84bec81e821",
-        "source": "Biztoc.com",
-        "published_at": "2026-11-22T22:30:35Z"
+        "title": "Zelenskiy confirms Ukraine sank Russian warship in Libya",
+        "url": "https://www.irishtimes.com/world/europe/2026/11/23/zelenskiy-confirms-ukraine-sank-russian-warship-in-libya/",
+        "source": "The Irish Times",
+        "published_at": "2026-11-23T09:41:00Z"
       },
       {
-        "title": "Boy, 7, pulled from rubble hours after Russian strike in Ukraine, rescuers say",
-        "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go",
-        "source": "BBC News",
-        "published_at": "2026-11-22T22:25:00Z"
+        "title": "Death toll rises after Russian attacks on Ukraine",
+        "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-23T09:34:25Z"
       },
       {
-        "title": "Ukraine Field Report: Russian Strikes Kill Seven and Damage Three Bridges in Kyiv as Two Missiles Fall in Poland",
-        "url": "https://www.thegatewaypundit.com/2026/11/ukraine-field-report-russian-strikes-kill-seven-damage/",
-        "source": "Thegatewaypundit.com",
-        "published_at": "2026-11-22T20:20:03Z"
+        "title": "Zelensky confirms Ukraine was behind drone attack that struck Russian warship at Libya naval base",
+        "url": "https://nypost.com/2026/11/23/world-news/zelensky-confirms-ukraine-was-behind-drone-attack-that-struck-russian-warship-at-libya-naval-base/",
+        "source": "New York Post",
+        "published_at": "2026-11-23T09:17:10Z"
+      },
+      {
+        "title": "Ukraine sank Russian warship off Libya, Zelenskyy says",
+        "url": "https://www.politico.eu/article/volodymyr-zelenskyy-claims-ukraine-sank-russia-warship-benghazi-libya/",
+        "source": "POLITICO.eu",
+        "published_at": "2026-11-23T08:45:24Z"
+      },
+      {
+        "title": "Ukraine sinks Russian warship Merkury off Libya, releases dramatic video of operation",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/ukraine-sinks-russian-warship-merkury-off-libya-releases-dramatic-video-of-operation/articleshow/136095079.cms",
+        "source": "The Times of India",
+        "published_at": "2026-11-23T08:41:09Z"
+      },
+      {
+        "title": "Ukraine says it was behind drone attack that sank a Russian warship in Libya",
+        "url": "https://www.yahoo.com/news/world/articles/ukrainian-president-volodymyr-zelenskyy-confirms-074824768.html",
+        "source": "Yahoo Entertainment",
+        "published_at": "2026-11-23T07:48:24Z"
       }
     ],
     "israel-gaza-war": [
+      {
+        "title": "‘Environmental crimes’: Israel blamed for toxic pollution in 99% of Gaza",
+        "url": "https://www.aljazeera.com/news/2026/11/23/environmental-crimes-israel-blamed-for-toxic-pollution-in-99-of-gaza",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-23T09:30:16Z"
+      },
+      {
+        "title": "Gaza has turned into a ‘toxic wasteland’ three years after the start of Israel’s war",
+        "url": "https://www.thejournal.ie/gaza-toxic-wasteland-report-7232658-Nov2026/",
+        "source": "TheJournal.ie",
+        "published_at": "2026-11-23T00:05:07Z"
+      },
+      {
+        "title": "Drowning in Plain Sight: What is Happening in Gaza, and What Can Be Done?",
+        "url": "https://original.antiwar.com/ramzy-baroud/2026/11/22/drowning-in-plain-sight-what-is-happening-in-gaza-and-what-can-be-done/",
+        "source": "Antiwar.com",
+        "published_at": "2026-11-23T00:00:35Z"
+      },
       {
         "title": "Israel’s new ground offensives test how little the world will do to protect Gaza",
         "url": "https://www.crikey.com.au/2026/11/23/israel-gaza-ground-offensive-yellow-line-trump-board-peace/",
@@ -59,21 +89,27 @@
         "url": "https://legalinsurrection.com/2026/11/hamas-islamic-jihad-commanders-eliminated-as-israel-steps-up-strikes-against-gaza-based-terrorist-leadership/",
         "source": "Legalinsurrection.com",
         "published_at": "2026-11-22T19:00:06Z"
-      },
-      {
-        "title": "Biden's memoir lauds his record but skirts Gaza and re-election errors",
-        "url": "https://www.business-standard.com/book/biden-s-memoir-lauds-his-record-but-skirts-gaza-and-re-election-errors-126112200766_1.html",
-        "source": "Business Standard",
-        "published_at": "2026-11-22T16:29:42Z"
-      },
-      {
-        "title": "Israel Extends Imprisonment of Gaza Doctor Hussam Abu Safiya for Six More Months",
-        "url": "https://www.antiwar.com/blog/2026/11/22/israel-extends-imprisonment-of-gaza-doctor-hussam-abu-safiya-for-six-more-months/",
-        "source": "Antiwar.com",
-        "published_at": "2026-11-22T15:44:13Z"
       }
     ],
     "sudan-civil-war": [
+      {
+        "title": "Widowed amid war and displacement: Sudanese mothers struggle to survive",
+        "url": "https://www.aljazeera.com/features/2026/11/23/widowed-amid-war-and-displacement-sudanese-mothers-struggle-to-survive",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-23T08:53:10Z"
+      },
+      {
+        "title": "Drone strikes hit homes and a UN building in Sudan; the military blames Ethiopia",
+        "url": "https://en.protothema.gr/2026/11/23/drone-strikes-hit-homes-and-a-un-building-in-sudan-the-military-blames-ethiopia/",
+        "source": "Protothema.gr",
+        "published_at": "2026-11-23T08:21:00Z"
+      },
+      {
+        "title": "Drone strikes kill four in Khartoum and damage UN building",
+        "url": "https://www.abc.net.au/news/2026-11-23/deadly-drone-strikes-in-khartoum-sudan-war/107415908",
+        "source": "ABC News (AU)",
+        "published_at": "2026-11-23T00:46:35Z"
+      },
       {
         "title": "Sudan: Drones hit UN building, residential area in Khartoum",
         "url": "https://www.dw.com/en/sudan-khartoum-drone-strike-un-building/a-80015122",
@@ -103,15 +139,36 @@
         "url": "https://www.ibtimes.com.au/tasis-claims-bayraktar-drone-shot-down-blue-nile-1879126",
         "source": "Ibtimes.com.au",
         "published_at": "2026-11-22T04:04:15Z"
-      },
-      {
-        "title": "Islamic Extremists Are Prolonging the Conflict in Yemen and Sudan",
-        "url": "https://www.fairobserver.com/region/middle_east_north_africa/islamic-extremists-are-prolonging-the-conflict-in-yemen-and-sudan/",
-        "source": "Fair Observer",
-        "published_at": "2026-11-21T13:34:36Z"
       }
     ],
     "myanmar-civil-war": [
+      {
+        "title": "Malaysia to continue working with Myanmar on refugee repatriation , PM says after genocide ruling",
+        "url": "https://www.asiaone.com/malaysia/malaysia-continue-working-myanmar-refugee-repatriation-pm-says-after-genocide-ruling",
+        "source": "asiaone.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-24T07:15:00Z",
+        "language": "English",
+        "source_country": "Singapore"
+      },
+      {
+        "title": "Myanmar junta leader visit warranted despite Rohingya persecution - Anwar",
+        "url": "https://www.malaysiakini.com/news/889719-anwar-myanmar-junta-leaders-visit-warranted-despite-rohingya-persecution",
+        "source": "malaysiakini.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-24T05:15:00Z",
+        "language": "English",
+        "source_country": "Malaysia"
+      },
+      {
+        "title": "Myanmar junta invitation , 3R issues in focus at Dewan Rakyat today",
+        "url": "https://www.thestar.com.my/news/nation/2026/11/24/myanmar-junta-invitation-3r-issues-in-focus-at-dewan-rakyat-today",
+        "source": "thestar.com.my",
+        "provider": "GDELT",
+        "published_at": "2026-11-24T01:30:00Z",
+        "language": "English",
+        "source_country": "Malaysia"
+      },
       {
         "title": "World Court Finds Myanmar Committed Rohingya Genocide",
         "url": "https://www.juancole.com/2026/11/committed-rohingya-genocide.html",
@@ -141,27 +198,15 @@
         "url": "https://foreignpolicy.com/2026/11/20/myanmar-genocide-icj-ruling-rohingya-muslims-ukraine-gaza-tom-andrews-un/",
         "source": "Foreign Policy",
         "published_at": "2026-11-20T15:57:04Z"
-      },
-      {
-        "title": "Myanmar says international court’s genocide ruling ‘not fair’",
-        "url": "https://sylhetmirror.com/2026/11/20/myanmar-says-international-courts-genocide-ruling-not-fair/",
-        "source": "Sylhetmirror.com",
-        "published_at": "2026-11-20T14:57:36Z"
-      },
-      {
-        "title": "Myanmar Genocide Ruling Is a Watershed – with Huge Ramifications for South Africa v. Israel",
-        "url": "https://www.nakedcapitalism.com/2026/11/myanmar-genocide-ruling-is-a-watershed-with-huge-ramifications-for-south-africa-v-israel.html",
-        "source": "Nakedcapitalism.com",
-        "published_at": "2026-11-20T14:55:20Z"
-      },
-      {
-        "title": "Rights groups urge sanctions after top UN court finds Myanmar committed genocide against Rohingya",
-        "url": "https://abcnews.com/US/wireStory/rights-groups-urge-sanctions-after-top-court-finds-138315054",
-        "source": "Abcnews.com",
-        "published_at": "2026-11-20T13:45:33Z"
       }
     ],
     "yemen-civil-war": [
+      {
+        "title": "Houthis claim attack on oil refinery in Saudi Arabia",
+        "url": "https://www.israelnationalnews.com/flashes/698265",
+        "source": "Israelnationalnews.com",
+        "published_at": "2026-11-23T04:23:54Z"
+      },
       {
         "title": "Egypt: Cargo ship crew foils three pirate attacks off Yemen's coast",
         "url": "https://www.israelnationalnews.com/flashes/698255",
@@ -185,26 +230,17 @@
         "url": "https://biztoc.com/x/c1027a138ed71763",
         "source": "Biztoc.com",
         "published_at": "2026-11-22T15:25:29Z"
-      },
-      {
-        "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
-        "url": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-22T13:16:45Z"
-      },
-      {
-        "title": "Saudi-led coalition says intercepted Houthi missile in western region",
-        "url": "https://www.hurriyetdailynews.com/saudi-led-coalition-says-intercepted-houthi-missile-in-western-region-229699",
-        "source": "Hurriyet Daily News",
-        "published_at": "2026-11-22T09:35:39Z"
       }
     ],
     "south-china-sea-dispute": [
       {
-        "title": "Commentary: A weak South China Sea code of conduct will be worse than no agreement at all",
+        "title": "Commentary : A weak South China Sea code of conduct will be worse than no agreement at all",
         "url": "https://www.channelnewsasia.com/commentary/south-china-sea-code-conduct-asean-singapore-6571406",
-        "source": "CNA",
-        "published_at": "2026-11-22T22:00:00Z"
+        "source": "channelnewsasia.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-22T22:30:00Z",
+        "language": "English",
+        "source_country": "United States"
       },
       {
         "title": "ASEAN looked to India to balance China in South China Sea: Ex-envoy",
@@ -223,42 +259,83 @@
         "url": "https://www.hoover.org/research/articles-nuclear-arms-control-ai-espionage-taiwan-blockade-scenarios-submarine-warfare",
         "source": "Hoover.org",
         "published_at": "2026-11-22T00:00:00Z"
+      },
+      {
+        "title": "Letting Russia redraw Ukraine borders could set precedent for South China Sea Slovenia",
+        "url": "https://www.philstar.com/headlines/2026/11/20/2571203/letting-russia-redraw-ukraines-borders-could-set-precedent-south-china-sea-slovenia",
+        "source": "philstar.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-20T00:15:00Z",
+        "language": "English",
+        "source_country": "Philippines"
+      },
+      {
+        "title": "Trump lauds defense alliance with Philippines ahead of China talks",
+        "url": "https://www.mvariety.com/news/regional/trump-lauds-defense-alliance-with-philippines-ahead-of-china-talks/article_d1a256d1-76c7-4a99-b622-6806f9b79734.html",
+        "source": "mvariety.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-18T17:30:00Z",
+        "language": "English",
+        "source_country": "United States"
       }
     ],
     "israel-iran-confrontation": [
       {
-        "title": "Trump Strikes Iran After Midterms, AI Ranks Embryos by IQ, Researchers Study the Sudden Rise in Cancer",
-        "url": "https://activistpost.com/trump-strikes-iran-after-midterms-ai-ranks-embryos-by-iq-researchers-study-the-sudden-rise-in-cancer/",
-        "source": "Activistpost.com",
-        "published_at": "2026-11-22T23:01:00Z"
+        "title": "Gadi Eisenkot says there is no immediate need for a military operation against Iran",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gadi-eisenkot-says-there-no-immediate-need-military-operation-against",
+        "source": "middleeasteye.net",
+        "provider": "GDELT",
+        "published_at": "2026-11-24T07:45:00Z",
+        "language": "English",
+        "source_country": "Israel"
       },
       {
-        "title": "Even the robots hate Israel: 'Death to Israel' chant in Tehran",
-        "url": "https://www.israelnationalnews.com/flashes/698253",
-        "source": "Israelnationalnews.com",
-        "published_at": "2026-11-22T22:33:15Z"
+        "title": "Iranian parliament speaker says US seeks no war , no peace stalemate with Iran , calls for deterrence",
+        "url": "https://tribune.com.pk/story/2642021/iranian-parliament-speaker-says-us-seeks-no-war-no-peace-stalemate-with-iran-calls-for-deterrence",
+        "source": "tribune.com.pk",
+        "provider": "GDELT",
+        "published_at": "2026-11-24T07:15:00Z",
+        "language": "English",
+        "source_country": "Pakistan"
       },
       {
-        "title": "Netanyahu might hit Iran without US support",
-        "url": "https://biztoc.com/x/2cd5bedba1a1c9c3",
-        "source": "Biztoc.com",
-        "published_at": "2026-11-22T20:29:04Z"
+        "title": "Eisenkot says no immediate threat justifies attack on Iran before govt formation _ Guangming Online",
+        "url": "https://en.gmw.cn/2026-11/24/content_39117296.htm",
+        "source": "en.gmw.cn",
+        "provider": "GDELT",
+        "published_at": "2026-11-24T06:30:00Z",
+        "language": "English"
       },
       {
-        "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
-        "url": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-22T14:20:41Z"
+        "title": "Abdul El - Sayed Is Denounced for Saying I Dont Believe in Ethnostate Like Israel After He Appeared with Ex - President of Pakistan Who Enforced Islamic Law , Backed Hamas",
+        "url": "https://freebeacon.com/democrats/abdul-el-sayed-is-denounced-for-saying-i-dont-believe-in-ethnostates-like-israel-after-he-appeared-with-ex-president-of-pakistan-who-enforced-islamic-law-backed-hamas/",
+        "source": "freebeacon.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-24T03:30:00Z",
+        "language": "English",
+        "source_country": "United States"
       },
       {
-        "title": "9 Months of the US-Iran War: Khamenei’s death, Hormuz blockade and Houthis strike | Iran: The Latest",
-        "url": "https://biztoc.com/x/88eaca624699f2fb",
-        "source": "Biztoc.com",
-        "published_at": "2026-11-22T13:38:51Z"
+        "title": "IDF said to warn Netanyahu an Israeli attack on Iran could spark multifront war - The Times of Israel",
+        "url": "https://slashdot.org/firehose.pl?op=view&id=186839133",
+        "source": "Slashdot.org",
+        "published_at": "2026-11-23T09:32:19Z"
+      },
+      {
+        "title": "Iran attack hits civilian industrial facility in Bahrain, sparks fire",
+        "url": "https://www.business-standard.com/world-news/iran-attack-hits-civilian-industrial-facility-in-bahrain-sparks-fire-126112300106_1.html",
+        "source": "Business Standard",
+        "published_at": "2026-11-23T03:53:08Z"
       }
     ],
     "libya-fragmentation": [],
     "syria-transition-crisis": [
+      {
+        "title": "As Syria-EU talks progress, diplomats fear focus will be on repatriation",
+        "url": "https://www.aljazeera.com/features/2026/11/23/as-syria-eu-talks-progress-diplomats-fear-focus-will-be-on-repatriation",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-23T06:08:13Z"
+      },
       {
         "title": "Syria: Armed Men Bind and Rob Melkite Archbishop of Homs as Patriarchs Warn of Attacks on Christians",
         "url": "https://www.thegatewaypundit.com/2026/11/syria-armed-men-bind-rob-melkite-archbishop-homs/",
@@ -292,7 +369,50 @@
         "published_at": "2026-11-12T12:42:14Z"
       }
     ],
-    "drc-eastern-conflict": [],
+    "drc-eastern-conflict": [
+      {
+        "title": "Congo - Kinshasa : Diocese of Goma in the Democratic Republic of Congo Marks 10 - Year Anniversary",
+        "url": "https://allafrica.com/stories/202611240074.html",
+        "source": "allafrica.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-24T06:30:00Z",
+        "language": "English",
+        "source_country": "Nigeria"
+      },
+      {
+        "title": "WHO chief calls for peace in Ebola - hit DR Congo",
+        "url": "https://morningstaronline.co.uk/article/who-chief-calls-peace-ebola-hit-dr-congo",
+        "source": "morningstaronline.co.uk",
+        "provider": "GDELT",
+        "published_at": "2026-11-23T21:30:00Z",
+        "language": "English",
+        "source_country": "United Kingdom"
+      },
+      {
+        "title": "DR Congo conflict: Kenya's William Ruto and Félix Tshisekedi agree to restore ties",
+        "url": "https://www.bbc.com/news/articles/cmvg2qnn95vro",
+        "source": "BBC News",
+        "published_at": "2026-11-23T08:53:01Z"
+      },
+      {
+        "title": "DR Congo , Kenya move to restore diplomatic ties after years of tensions",
+        "url": "https://aa.com.tr/en/africa/dr-congo-kenya-move-to-restore-diplomatic-ties-after-years-of-tensions/4133898",
+        "source": "aa.com.tr",
+        "provider": "GDELT",
+        "published_at": "2026-11-23T02:30:00Z",
+        "language": "English",
+        "source_country": "Turkey"
+      },
+      {
+        "title": "Kenya , DR Congo agree to fully restore diplomatic ties",
+        "url": "http://www.kenyastar.com/news/279449204/kenya-dr-congo-agree-to-fully-restore-diplomatic-ties",
+        "source": "kenyastar.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-23T02:30:00Z",
+        "language": "English",
+        "source_country": "Kenya"
+      }
+    ],
     "somalia-al-shabaab-insurgency": [
       {
         "title": "Somali President Accuses U.A.E. of Interfering in Internal Affairs, Building Illegal Military Bases",
@@ -333,46 +453,10 @@
     ],
     "haiti-gang-crisis": [
       {
-        "title": "Haitians rally behind Bukele as Salvadoran troops battle gangs",
-        "url": "http://www.trinidadtimes.com/news/279439846/haitians-rally-behind-bukele-as-salvadoran-troops-battle-gangs",
-        "source": "trinidadtimes.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-22T20:30:00Z",
-        "language": "English",
-        "source_country": "Trinidad and Tobago"
-      },
-      {
-        "title": "The coolest dictator : have Haiti gangs met their match ?",
-        "url": "https://theweek.com/world-news/the-coolest-dictator-have-haitis-gangs-met-their-match",
-        "source": "theweek.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-21T12:30:00Z",
-        "language": "English",
-        "source_country": "United States"
-      },
-      {
         "title": "The ‘coolest dictator’: have Haiti’s gangs met their match?",
         "url": "https://biztoc.com/x/ee639955585c72ba",
         "source": "Biztoc.com",
         "published_at": "2026-11-21T07:48:19Z"
-      },
-      {
-        "title": "El Salvador , Haitian forces launch joint anti - gang military operation",
-        "url": "http://www.haitisun.com/news/279446501/el-salvador-haitian-forces-launch-joint-anti-gang-military-operation",
-        "source": "haitisun.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-21T06:45:00Z",
-        "language": "English",
-        "source_country": "United States"
-      },
-      {
-        "title": "Several killed during police operations in Haiti",
-        "url": "https://www.cnc3.co.tt/several-killed-during-police-operations-in-haiti/",
-        "source": "cnc3.co.tt",
-        "provider": "GDELT",
-        "published_at": "2026-11-21T00:30:00Z",
-        "language": "English",
-        "source_country": "Trinidad and Tobago"
       },
       {
         "title": "Florida Pastor Faces Life Behind Bars for Role in Plot to Assassinate Haitian President — as Killing Helped Armed Gangs Seize Control of Nation",
@@ -391,9 +475,42 @@
         "url": "https://abcnews.com/International/wireStory/el-salvador-president-nayib-bukele-seeks-term-attacking-138309430",
         "source": "Abcnews.com",
         "published_at": "2026-11-20T03:39:07Z"
+      },
+      {
+        "title": "Haiti police say 34 gang members killed in capital raid",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-20T00:31:02Z"
       }
     ],
     "mexico-cartel-conflict": [
+      {
+        "title": "US flew drone over Mexican territory to help capture drug lord in Sinaloa",
+        "url": "http://www.dailyadvance.com/news/world/us-flew-drone-over-mexican-territory-to-help-capture-drug-lord-in-sinaloa/article_b0c91d85-05d3-572b-94dc-00b373304a3e.html",
+        "source": "dailyadvance.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-24T05:15:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "US flew surveillance drone over Mexico to help capture top drug lord",
+        "url": "http://www.mexicostar.com/news/279451332/us-flew-surveillance-drone-over-mexico-to-help-capture-top-drug-lord",
+        "source": "mexicostar.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-24T05:15:00Z",
+        "language": "English",
+        "source_country": "Mexico"
+      },
+      {
+        "title": "Alleged drug lord El Chapo Isidro will be tried in Mexico despite US extradition request",
+        "url": "https://www.koreaherald.com/article/10947449",
+        "source": "koreaherald.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-24T04:45:00Z",
+        "language": "English",
+        "source_country": "South Korea"
+      },
       {
         "title": "Mexico Confirms Four Soldiers, Seven Gunmen Killed During Arrest of Sinaloa Kingpin",
         "url": "https://www.breitbart.com/border/2026/11/22/mexico-confirms-four-soldiers-and-seven-gunmen-killed-during-arrest-of-sinaloa-kingpin/",
@@ -407,6 +524,12 @@
         "published_at": "2026-11-22T08:28:19Z"
       },
       {
+        "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture - Al Jazeera",
+        "url": "https://slashdot.org/firehose.pl?op=view&id=186828273",
+        "source": "Slashdot.org",
+        "published_at": "2026-11-22T07:32:40Z"
+      },
+      {
         "title": "US issues security alert for Americans in Mexico after cartel violence, road blockades",
         "url": "https://timesofindia.indiatimes.com/world/us/us-issues-security-alert-for-americans-in-mexico-after-cartel-violence-road-blockades/articleshow/136068104.cms",
         "source": "The Times of India",
@@ -417,34 +540,16 @@
         "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/first-images-of-mexican-cartel-boss-el-chapo-isidro-after-arrest",
         "source": "Al Jazeera English",
         "published_at": "2026-11-22T04:42:02Z"
-      },
-      {
-        "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
-        "url": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-22T03:34:02Z"
-      },
-      {
-        "title": "Mexico captures top cartel boss El Chapo Isidro, violence erupts in Sinaloa",
-        "url": "https://www.business-standard.com/world-news/mexico-captures-top-cartel-boss-el-chapo-isidro-violence-erupts-in-sinaloa-126112200014_1.html",
-        "source": "Business Standard",
-        "published_at": "2026-11-22T01:55:31Z"
-      },
-      {
-        "title": "Deadly Sinaloa violence leaves 11 dead after capture of Mexico cartel boss El Chapo Isidro",
-        "url": "https://m.economictimes.com/news/international/world-news/deadly-sinaloa-violence-leaves-11-dead-after-capture-of-mexico-cartel-boss-el-chapo-isidro/articleshow/136065507.cms",
-        "source": "Economictimes.com",
-        "published_at": "2026-11-22T00:51:24Z"
-      },
-      {
-        "title": "Mexico nabs notorious drug cartel leader",
-        "url": "https://punchng.com/mexico-nabs-notorious-drug-cartel-leader/",
-        "source": "The Punch",
-        "published_at": "2026-11-22T00:50:11Z"
       }
     ],
     "venezuela-guyana-essequibo-dispute": [],
     "colombia-armed-groups-transition": [
+      {
+        "title": "Armed Groups' Abuses Continue in Border Areas",
+        "url": "https://www.hrw.org/news/2026/11/23/armed-groups-abuses-continue-in-border-areas",
+        "source": "Human Rights Watch",
+        "published_at": "2026-11-23T05:00:00Z"
+      },
       {
         "title": "Colombia Indicts FARC Leaders for Crimes Against Children Including Rape, Torture, Forced Abortions",
         "url": "https://www.breitbart.com/crime/2026/11/05/colombia-ex-farc-leaders-summoned-to-court-over-forced-recruitment-of-over-18600-minors-rape-torture-and-forced-abortion-of-dozens/",
@@ -454,10 +559,46 @@
     ],
     "armenia-azerbaijan-peace-process": [
       {
+        "title": "Armenia unveils draft constitution",
+        "url": "https://tribune.com.pk/story/2641983/armenia-unveils-draft-constitution",
+        "source": "tribune.com.pk",
+        "provider": "GDELT",
+        "published_at": "2026-11-24T07:15:00Z",
+        "language": "English",
+        "source_country": "Pakistan"
+      },
+      {
+        "title": "Pashinyan and Trump Announce Launch of TRIPP Project in Armenia • MassisPost",
+        "url": "https://massispost.com/2026/11/pashinyan-and-trump-announce-launch-of-tripp-project-in-armenia/",
+        "source": "massispost.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-24T02:15:00Z",
+        "language": "English",
+        "source_country": "Armenia"
+      },
+      {
+        "title": "Italian Foreign Minister pays visit to Azerbaijan",
+        "url": "https://en.apa.az/foreign-policy/italian-foreign-minister-pays-visit-to-azerbaijan-537789",
+        "source": "en.apa.az",
+        "provider": "GDELT",
+        "published_at": "2026-11-22T21:30:00Z",
+        "language": "English",
+        "source_country": "Azerbaijan"
+      },
+      {
         "title": "Armenia adds energy links to US-backed corridor",
         "url": "https://www.hurriyetdailynews.com/armenia-adds-energy-links-to-us-backed-corridor-229709",
         "source": "Hurriyet Daily News",
         "published_at": "2026-11-22T12:22:41Z"
+      },
+      {
+        "title": "German FM : Amendments to Armenia Constitution are important for signing peace agreement",
+        "url": "https://en.apa.az/europe/german-fm-amendments-to-armenias-constitution-are-important-for-signing-peace-agreement-537632",
+        "source": "en.apa.az",
+        "provider": "GDELT",
+        "published_at": "2026-11-21T13:30:00Z",
+        "language": "English",
+        "source_country": "Azerbaijan"
       },
       {
         "title": "First Muslim in U.S. Senate Opposes Military Aid to Azerbaijan",
@@ -472,27 +613,15 @@
         "url": "https://biztoc.com/x/95e650244ac0391b",
         "source": "Biztoc.com",
         "published_at": "2026-11-22T21:44:51Z"
-      },
-      {
-        "title": "Articles On: Nuclear Arms Control, AI Espionage, Taiwan Blockade Scenarios, Submarine Warfare, European Defense Supply Chains, and South China Sea Diplomacy",
-        "url": "https://www.hoover.org/research/articles-nuclear-arms-control-ai-espionage-taiwan-blockade-scenarios-submarine-warfare",
-        "source": "Hoover.org",
-        "published_at": "2026-11-22T00:00:00Z"
-      },
-      {
-        "title": "Articles On: AI Competition, Global Strategy, Nuclear Arms, Taiwan Policy, US-China Relations, Silicon Valley, Jensen Huang, and America First",
-        "url": "https://www.hoover.org/research/articles-ai-competition-global-strategy-nuclear-arms-taiwan-policy-us-china-relations",
-        "source": "Hoover.org",
-        "published_at": "2026-11-22T00:00:00Z"
-      },
-      {
-        "title": "Taiwan warns Canada faces the China risks Carney has cautioned against",
-        "url": "https://abcnews.com/International/wireStory/taiwan-warns-canada-faces-china-risks-carney-cautioned-138346706",
-        "source": "Abcnews.com",
-        "published_at": "2026-11-21T19:14:06Z"
       }
     ],
     "korean-armistice-standoff": [
+      {
+        "title": "Trump has been 'ghosted' by Kim Jong Un for over a year as North Korean dictator refuses to even take his call, insiders reveal",
+        "url": "https://www.dailymail.com/news/us-politics/article-16314205/Trump-ghosted-Kim-Jong-nuclear.html",
+        "source": "Dailymail.com",
+        "published_at": "2026-11-23T06:46:55Z"
+      },
       {
         "title": "North Korea Keeps Building Nukes—and Ghosting Trump - WSJ",
         "url": "https://slashdot.org/firehose.pl?op=view&id=186831157",
@@ -514,10 +643,40 @@
     ],
     "india-pakistan-kashmir-conflict": [
       {
-        "title": "Pakistan minister lands in India in a first since military standoff (VIDEO)",
-        "url": "https://rt-english.com/india/649163-pakistan-minister-lands-in-india/",
-        "source": "Rt-english.com",
-        "published_at": "2026-11-20T14:45:44Z"
+        "title": "Pahalgam Terror Attack : Chinese Satellites Doubled Surveillance Passes Over Kashmir Days Before Killings , Report Says",
+        "url": "https://www.freepressjournal.in/india/pahalgam-terror-attack-chinese-satellites-doubled-surveillance-passes-over-kashmir-days-before-killings-report-says",
+        "source": "freepressjournal.in",
+        "provider": "GDELT",
+        "published_at": "2026-11-24T06:15:00Z",
+        "language": "English",
+        "source_country": "India"
+      },
+      {
+        "title": "China military backing to Pak raises two - front threat for India : US report",
+        "url": "https://www.tribuneindia.com/news/india/chinas-military-backing-to-pak-raises-two-front-threat-for-india-us-report/",
+        "source": "tribuneindia.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-21T20:30:00Z",
+        "language": "English",
+        "source_country": "India"
+      },
+      {
+        "title": "US congressional panel flags China - Pakistan military ties as two - front risk for India , urges deeper Indian Ocean maritime cooperation",
+        "url": "http://www.asiabulletin.com/news/279446839/us-congressional-panel-flags-china-pakistan-military-ties-as-two-front-risk-for-india-urges-deeper-indian-ocean-maritime-cooperation",
+        "source": "asiabulletin.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-21T12:30:00Z",
+        "language": "English",
+        "source_country": "China"
+      },
+      {
+        "title": "China Pakistan Military Support During Operation Sindoor : US Report Says Beijing Seeks To Suppress India Rise",
+        "url": "https://www.outlookindia.com/international/china-pakistan-military-support-operation-sindoor-china-india-relations-us-commission",
+        "source": "outlookindia.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-21T11:30:00Z",
+        "language": "English",
+        "source_country": "India"
       }
     ],
     "ethiopia-northern-conflict": [
