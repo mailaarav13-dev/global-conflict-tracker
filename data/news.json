@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T02:39:52.835Z",
+  "generated_at": "2026-11-25T17:23:44.968Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
@@ -427,6 +427,42 @@
     ],
     "somalia-al-shabaab-insurgency": [
       {
+        "title": "Somalia opposition greets Uganda President Museveni planned Mogadishu visit",
+        "url": "https://kenya-today.com/report-somalia-opposition-greets-uganda-president-musevenis-planned-mogadishu-visit-32774/",
+        "source": "kenya-today.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-25T03:45:00Z",
+        "language": "English",
+        "source_country": "Kenya"
+      },
+      {
+        "title": "Somalia Claims 61 Militants Killed",
+        "url": "https://www.riotimesonline.com/somalia-claims-61-al-shabaab-killed-leego/",
+        "source": "riotimesonline.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-25T00:45:00Z",
+        "language": "English",
+        "source_country": "Brazil"
+      },
+      {
+        "title": "The Erosion Of Institutional Memory And The Crisis Of Governance In Somalia And Puntland - Analysis",
+        "url": "https://www.eurasiareview.com/24112026-the-erosion-of-institutional-memory-and-the-crisis-of-governance-in-somalia-and-puntland-analysis/",
+        "source": "eurasiareview.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-24T07:15:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Uganda Army Chief Visits Troops in Somalia Amid Withdrawal From Barawe",
+        "url": "https://allafrica.com/stories/202611240126.html",
+        "source": "allafrica.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-24T06:30:00Z",
+        "language": "English",
+        "source_country": "Nigeria"
+      },
+      {
         "title": "Somali President Accuses U.A.E. of Interfering in Internal Affairs, Building Illegal Military Bases",
         "url": "https://www.naturalnews.com/2026-11-21-somali-president-uae-interfering-in-internal-affairs.html",
         "source": "Naturalnews.com",
@@ -449,18 +485,6 @@
         "url": "https://dailycaller.com/2026/11/17/us-reverses-cuts-un-support-office-in-somalia-unsos-military-funding-african-union/",
         "source": "The Daily Caller",
         "published_at": "2026-11-17T13:58:44Z"
-      },
-      {
-        "title": "Somalia: We would not have recovered without the international community",
-        "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/15/somalia-we-would-not-have-recovered-without-the-international-community",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-15T16:47:36Z"
-      },
-      {
-        "title": "Despite warnings from China, Saudi Arabia and Turkey, Israel advances embassy plans as U.S.-backed Somalia hits back and reasserts its claim to breakaway territory",
-        "url": "https://freerepublic.com/focus/f-news/4403094/posts",
-        "source": "Freerepublic.com",
-        "published_at": "2026-11-15T05:06:16Z"
       }
     ],
     "haiti-gang-crisis": [
@@ -637,6 +661,42 @@
       }
     ],
     "korean-armistice-standoff": [
+      {
+        "title": "North Korea demands closure of Switzerland new diplomatic office and orders diplomat to leave – Brandon Sun",
+        "url": "https://www.brandonsun.com/world/2026/11/24/north-korea-declares-a-swiss-diplomat-persona-non-grata-and-orders-him-to-leave",
+        "source": "brandonsun.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-25T05:45:00Z",
+        "language": "English",
+        "source_country": "Canada"
+      },
+      {
+        "title": "North Korea demands closure of Switzerland new diplomatic office and orders diplomat to leave",
+        "url": "http://www.thegazette.com/news/world/north-korea-demands-closure-of-switzerlands-new-diplomatic-office-and-orders-diplomat-to-leave/article_0442c405-e858-5f8b-8d28-28931ba9e579.html",
+        "source": "thegazette.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-25T05:45:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Father Ham Je - doe , who made more than 60 trips to North Korea , dead at 93",
+        "url": "https://www.koreatimes.co.kr/southkorea/20261125/father-ham-je-doe-who-made-more-than-60-trips-to-north-korea-dead-at-93",
+        "source": "koreatimes.co.kr",
+        "provider": "GDELT",
+        "published_at": "2026-11-25T05:15:00Z",
+        "language": "English",
+        "source_country": "South Korea"
+      },
+      {
+        "title": "North Korea declares Swiss diplomat persona non grata , orders him to leave",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261125/north-korea-declares-swiss-diplomat-persona-non-grata-orders-him-to-leave",
+        "source": "koreatimes.co.kr",
+        "provider": "GDELT",
+        "published_at": "2026-11-25T05:15:00Z",
+        "language": "English",
+        "source_country": "South Korea"
+      },
       {
         "title": "Trump has been 'ghosted' by Kim Jong Un for over a year as North Korean dictator refuses to even take his call, insiders reveal",
         "url": "https://www.dailymail.com/news/us-politics/article-16314205/Trump-ghosted-Kim-Jong-nuclear.html",
