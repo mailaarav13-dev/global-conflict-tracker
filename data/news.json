@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T09:59:31.729Z",
+  "generated_at": "2026-11-25T02:39:52.835Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
@@ -93,6 +93,33 @@
     ],
     "sudan-civil-war": [
       {
+        "title": "Drone Strikes Hit Khartoum Homes and UN Facility as Civilian Toll Rises in Sudan",
+        "url": "https://www.latintimes.com/sudan-drone-strikes-khartoum-un-facility-601738",
+        "source": "latintimes.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-25T00:15:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Opinion| South Sudan leaps away from the cheque book",
+        "url": "https://www.radiotamazuj.org/en/news/article/opinion-south-sudan-leaps-away-from-the-cheque-book",
+        "source": "radiotamazuj.org",
+        "provider": "GDELT",
+        "published_at": "2026-11-24T23:30:00Z",
+        "language": "English",
+        "source_country": "South Sudan"
+      },
+      {
+        "title": "Sudan : Famine in Sudan Is a Product of War , Not a Natural Disaster - Reports",
+        "url": "https://allafrica.com/stories/202611240066.html",
+        "source": "allafrica.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-24T06:30:00Z",
+        "language": "English",
+        "source_country": "Nigeria"
+      },
+      {
         "title": "Widowed amid war and displacement: Sudanese mothers struggle to survive",
         "url": "https://www.aljazeera.com/features/2026/11/23/widowed-amid-war-and-displacement-sudanese-mothers-struggle-to-survive",
         "source": "Al Jazeera English",
@@ -111,34 +138,19 @@
         "published_at": "2026-11-23T00:46:35Z"
       },
       {
+        "title": "Drone strikes hit homes , UN building in Sudan capital – Ghanamma . com",
+        "url": "https://www.ghanamma.com/2026/11/22/drone-strikes-hit-homes-un-building-in-sudans-capital/",
+        "source": "ghanamma.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-22T21:30:00Z",
+        "language": "English",
+        "source_country": "Ghana"
+      },
+      {
         "title": "Sudan: Drones hit UN building, residential area in Khartoum",
         "url": "https://www.dw.com/en/sudan-khartoum-drone-strike-un-building/a-80015122",
         "source": "DW (English)",
         "published_at": "2026-11-22T19:25:00Z"
-      },
-      {
-        "title": "Civilians killed in RSF drone strikes in Sudan",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-22T18:12:07Z"
-      },
-      {
-        "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
-        "url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-22T15:03:38Z"
-      },
-      {
-        "title": "Displaced Darfur families face volatile winter as Sudan aid cuts bite",
-        "url": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-22T05:21:46Z"
-      },
-      {
-        "title": "RSF-Led Alliance Says It Downed Drone Over Blue Nile And Is Advancing On Damazin In Sudan",
-        "url": "https://www.ibtimes.com.au/tasis-claims-bayraktar-drone-shot-down-blue-nile-1879126",
-        "source": "Ibtimes.com.au",
-        "published_at": "2026-11-22T04:04:15Z"
       }
     ],
     "myanmar-civil-war": [
@@ -485,6 +497,33 @@
     ],
     "mexico-cartel-conflict": [
       {
+        "title": "DEA allowed 1 . 4 million fentanyl pills to go unseized in major probe , investigation shows",
+        "url": "https://www.texarkanagazette.com/news/2026/nov/24/dea-allowed-14-million-fentanyl-pills-to-go/",
+        "source": "texarkanagazette.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-25T02:15:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "AP investigation : DEA allowed 1 . 4 million fentanyl pills to go unseized in major probe",
+        "url": "https://www.kwtx.com/2026/11/24/ap-investigation-dea-allowed-14-million-fentanyl-pills-go-unseized-major-probe/",
+        "source": "kwtx.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-25T00:45:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Why the arrest of a Mexican cartel leader could lead to more violence",
+        "url": "https://www.wglt.org/2026-11-24/why-the-arrest-of-a-mexican-cartel-leader-could-lead-to-more-violence",
+        "source": "wglt.org",
+        "provider": "GDELT",
+        "published_at": "2026-11-25T00:15:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
         "title": "US flew drone over Mexican territory to help capture drug lord in Sinaloa",
         "url": "http://www.dailyadvance.com/news/world/us-flew-drone-over-mexican-territory-to-help-capture-drug-lord-in-sinaloa/article_b0c91d85-05d3-572b-94dc-00b373304a3e.html",
         "source": "dailyadvance.com",
@@ -522,24 +561,6 @@
         "url": "https://www.rte.ie/news/2026/1122/1600173-mexico-drug-cartel/",
         "source": "RTE",
         "published_at": "2026-11-22T08:28:19Z"
-      },
-      {
-        "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture - Al Jazeera",
-        "url": "https://slashdot.org/firehose.pl?op=view&id=186828273",
-        "source": "Slashdot.org",
-        "published_at": "2026-11-22T07:32:40Z"
-      },
-      {
-        "title": "US issues security alert for Americans in Mexico after cartel violence, road blockades",
-        "url": "https://timesofindia.indiatimes.com/world/us/us-issues-security-alert-for-americans-in-mexico-after-cartel-violence-road-blockades/articleshow/136068104.cms",
-        "source": "The Times of India",
-        "published_at": "2026-11-22T05:57:35Z"
-      },
-      {
-        "title": "First images of Mexican cartel boss ‘El Chapo Isidro’ after arrest",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/first-images-of-mexican-cartel-boss-el-chapo-isidro-after-arrest",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-22T04:42:02Z"
       }
     ],
     "venezuela-guyana-essequibo-dispute": [],
