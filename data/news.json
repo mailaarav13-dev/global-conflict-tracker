@@ -1,27 +1,9 @@
 {
-  "generated_at": "2026-11-25T21:40:12.197Z",
-  "provider": "newsapi.org",
+  "generated_at": "2026-11-26T01:54:19.940Z",
+  "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
     "russia-ukraine-war": [
-      {
-        "title": "Most Germans oppose military aid to Ukraine – study",
-        "url": "https://rt-english.com/news/649317-most-germans-oppose-military-aid-ukraine-study/",
-        "source": "Rt-english.com",
-        "published_at": "2026-11-24T20:45:12Z"
-      },
-      {
-        "title": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
-        "url": "https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-24T20:35:03Z"
-      },
-      {
-        "title": "One every four minutes: 720,000 Russian soldiers killed since start of Ukraine war, new data suggests - CNN",
-        "url": "https://slashdot.org/firehose.pl?op=view&id=186854009",
-        "source": "Slashdot.org",
-        "published_at": "2026-11-24T18:52:51Z"
-      },
       {
         "title": "Russia buying inflatable planes from China to dupe Ukraine as glam ads push blow-up decoys",
         "url": "https://nypost.com/2026/11/24/world-news/russia-buying-inflatable-planes-from-china-to-dupe-ukraine/",
@@ -41,6 +23,18 @@
         "published_at": "2026-11-24T20:53:43Z"
       },
       {
+        "title": "Most Germans oppose military aid to Ukraine – study",
+        "url": "https://rt-english.com/news/649317-most-germans-oppose-military-aid-ukraine-study/",
+        "source": "Rt-english.com",
+        "published_at": "2026-11-24T20:45:12Z"
+      },
+      {
+        "title": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
+        "url": "https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-24T20:35:03Z"
+      },
+      {
         "title": "Boy, seven, is pulled from rubble 14 hours after Russian strike on residential building that killed 11",
         "url": "https://www.dailymail.com/news/article-16319119/Boy-seven-pulled-rubble-22-hours-Russian-strike.html",
         "source": "Dailymail.com",
@@ -51,20 +45,20 @@
         "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation",
         "source": "Al Jazeera English",
         "published_at": "2026-11-24T19:22:44Z"
+      },
+      {
+        "title": "One every four minutes: 720,000 Russian soldiers killed since start of Ukraine war, new data suggests - CNN",
+        "url": "https://slashdot.org/firehose.pl?op=view&id=186854009",
+        "source": "Slashdot.org",
+        "published_at": "2026-11-24T18:52:51Z"
       }
     ],
     "israel-gaza-war": [
       {
-        "title": "Israel Eliminates Hamas Spy Chief Three Months After Capturing Predecessor in Gaza",
-        "url": "https://legalinsurrection.com/2026/11/israel-eliminates-hamas-spy-chief-three-months-after-capturing-predecessor-in-gaza-raid/",
-        "source": "Legalinsurrection.com",
-        "published_at": "2026-11-24T17:30:23Z"
-      },
-      {
-        "title": "Senior Hamas security official killed in Israeli drone strikes",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-24T18:20:00Z"
+        "title": "‘I diagnose human cruelty’: Australian and NZ medical workers on treating Palestinians in Gaza",
+        "url": "https://theconversation.com/i-diagnose-human-cruelty-australian-and-nz-medical-workers-on-treating-palestinians-in-gaza-293222",
+        "source": "The Conversation Africa",
+        "published_at": "2026-11-24T19:10:38Z"
       },
       {
         "title": "Meningitis epidemic alert issued for Gaza after steep rise in cases",
@@ -73,16 +67,22 @@
         "published_at": "2026-11-24T19:05:50Z"
       },
       {
-        "title": "‘I diagnose human cruelty’: Australian and NZ medical workers on treating Palestinians in Gaza",
-        "url": "https://theconversation.com/i-diagnose-human-cruelty-australian-and-nz-medical-workers-on-treating-palestinians-in-gaza-293222",
-        "source": "The Conversation Africa",
-        "published_at": "2026-11-24T19:10:38Z"
-      },
-      {
         "title": "Hundreds of kilograms of tobacco hidden in blankets and winter clothing bound for Gaza",
         "url": "https://www.israelnationalnews.com/news/437043",
         "source": "Israelnationalnews.com",
         "published_at": "2026-11-24T18:47:14Z"
+      },
+      {
+        "title": "Senior Hamas security official killed in Israeli drone strikes",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-24T18:20:00Z"
+      },
+      {
+        "title": "Israel Eliminates Hamas Spy Chief Three Months After Capturing Predecessor in Gaza",
+        "url": "https://legalinsurrection.com/2026/11/israel-eliminates-hamas-spy-chief-three-months-after-capturing-predecessor-in-gaza-raid/",
+        "source": "Legalinsurrection.com",
+        "published_at": "2026-11-24T17:30:23Z"
       },
       {
         "title": "Unanimous Smear: Political Islam on Capitol Hill and Why Every Muslim Member of Congress Pushes the Gaza ‘GenoLie’.",
@@ -94,16 +94,10 @@
     "sudan-civil-war": [],
     "myanmar-civil-war": [
       {
-        "title": "Burma’s Junta Courts Washington With Rare Earths as ASEAN Keeps Its Leader Barred From Summits",
-        "url": "https://www.thegatewaypundit.com/2026/11/burmas-junta-courts-washington-rare-earths-as-asean/",
+        "title": "Iran War Turns Burma’s Hand-Dug Oil Wells Into a Battlefield",
+        "url": "https://www.thegatewaypundit.com/2026/11/iran-war-turns-burmas-hand-dug-oil-wells/",
         "source": "Thegatewaypundit.com",
-        "published_at": "2026-11-23T23:00:33Z"
-      },
-      {
-        "title": "Burma’s Junta Forces Migrant Workers to Fund Its War. Over 2 Million Are Refusing.",
-        "url": "https://www.thegatewaypundit.com/2026/11/burmas-junta-forces-migrant-workers-fund-its-war/",
-        "source": "Thegatewaypundit.com",
-        "published_at": "2026-11-21T23:20:01Z"
+        "published_at": "2026-11-24T14:30:02Z"
       },
       {
         "title": "Malaysia to repatriate another 6,803 Myanmar nationals despite ICJ genocide ruling",
@@ -124,48 +118,36 @@
         "published_at": "2026-11-24T08:21:41Z"
       },
       {
+        "title": "Burma’s Junta Courts Washington With Rare Earths as ASEAN Keeps Its Leader Barred From Summits",
+        "url": "https://www.thegatewaypundit.com/2026/11/burmas-junta-courts-washington-rare-earths-as-asean/",
+        "source": "Thegatewaypundit.com",
+        "published_at": "2026-11-23T23:00:33Z"
+      },
+      {
         "title": "World Court Finds Myanmar Committed Rohingya Genocide",
         "url": "https://www.juancole.com/2026/11/committed-rohingya-genocide.html",
         "source": "Juancole.com",
         "published_at": "2026-11-22T05:04:57Z"
       },
       {
+        "title": "Burma’s Junta Forces Migrant Workers to Fund Its War. Over 2 Million Are Refusing.",
+        "url": "https://www.thegatewaypundit.com/2026/11/burmas-junta-forces-migrant-workers-fund-its-war/",
+        "source": "Thegatewaypundit.com",
+        "published_at": "2026-11-21T23:20:01Z"
+      },
+      {
         "title": "The Relationship Between IHL and Genocide in The Gambia v. Myanmar Case",
         "url": "https://opiniojuris.org/2026/11/21/the-relationship-between-ihl-and-genocide-in-the-gambia-v-myanmar-case/",
         "source": "Opiniojuris.org",
         "published_at": "2026-11-21T12:06:24Z"
-      },
-      {
-        "title": "Iran War Turns Burma’s Hand-Dug Oil Wells Into a Battlefield",
-        "url": "https://www.thegatewaypundit.com/2026/11/iran-war-turns-burmas-hand-dug-oil-wells/",
-        "source": "Thegatewaypundit.com",
-        "published_at": "2026-11-24T14:30:02Z"
       }
     ],
     "yemen-civil-war": [
-      {
-        "title": "Houthi rebels close in on Aden as Yemeni forces dig in behind a fortified line",
-        "url": "https://abcnews.com/International/wireStory/houthi-rebels-close-aden-yemeni-forces-dig-fortified-138404636",
-        "source": "Abcnews.com",
-        "published_at": "2026-11-24T18:15:23Z"
-      },
       {
         "title": "Houthis Encircle Taiz and Close In on Aden as Saudi-Led Coalition Escalates Bombing in Yemen",
         "url": "https://www.thegatewaypundit.com/2026/11/houthis-encircle-taiz-close-aden-as-saudi-led/",
         "source": "Thegatewaypundit.com",
         "published_at": "2026-11-24T21:20:34Z"
-      },
-      {
-        "title": "Yemen’s Anti-Houthi Coalition Collapses: Allies Gone, Commander Replaced, Houthis 60 km From Aden",
-        "url": "https://www.thegatewaypundit.com/2026/11/yemens-anti-houthi-coalition-collapses-allies-gone-commander/",
-        "source": "Thegatewaypundit.com",
-        "published_at": "2026-11-24T20:20:58Z"
-      },
-      {
-        "title": "Houthis advance to within 60 km of Yemen's Aden, military says city will not fall",
-        "url": "https://m.economictimes.com/news/defence/houthis-advance-to-within-60-km-of-yemens-aden-military-says-city-will-not-fall/articleshow/136139751.cms",
-        "source": "Economictimes.com",
-        "published_at": "2026-11-24T18:02:03Z"
       },
       {
         "title": "11 injured in Houthi attack on Riyadh tower, Saudi civil defence says - Al Jazeera",
@@ -178,6 +160,24 @@
         "url": "https://biztoc.com/x/2c11215fbc045666",
         "source": "Biztoc.com",
         "published_at": "2026-11-24T20:24:36Z"
+      },
+      {
+        "title": "Yemen’s Anti-Houthi Coalition Collapses: Allies Gone, Commander Replaced, Houthis 60 km From Aden",
+        "url": "https://www.thegatewaypundit.com/2026/11/yemens-anti-houthi-coalition-collapses-allies-gone-commander/",
+        "source": "Thegatewaypundit.com",
+        "published_at": "2026-11-24T20:20:58Z"
+      },
+      {
+        "title": "Houthi rebels close in on Aden as Yemeni forces dig in behind a fortified line",
+        "url": "https://abcnews.com/International/wireStory/houthi-rebels-close-aden-yemeni-forces-dig-fortified-138404636",
+        "source": "Abcnews.com",
+        "published_at": "2026-11-24T18:15:23Z"
+      },
+      {
+        "title": "Houthis advance to within 60 km of Yemen's Aden, military says city will not fall",
+        "url": "https://m.economictimes.com/news/defence/houthis-advance-to-within-60-km-of-yemens-aden-military-says-city-will-not-fall/articleshow/136139751.cms",
+        "source": "Economictimes.com",
+        "published_at": "2026-11-24T18:02:03Z"
       }
     ],
     "south-china-sea-dispute": [
@@ -290,16 +290,16 @@
     ],
     "somalia-al-shabaab-insurgency": [
       {
+        "title": "Somali President Accuses U.A.E. of Interfering in Internal Affairs, Building Illegal Military Bases",
+        "url": "https://www.naturalnews.com/2026-11-21-somali-president-uae-interfering-in-internal-affairs.html",
+        "source": "Naturalnews.com",
+        "published_at": "2026-11-21T06:00:00Z"
+      },
+      {
         "title": "Somalia accuses UAE of secretly building military bases",
         "url": "https://rt-english.com/africa/649004-somalia-accuses-uae-secretly-building-military-bases/",
         "source": "Rt-english.com",
         "published_at": "2026-11-18T12:23:33Z"
-      },
-      {
-        "title": "US Decides To Keep Funding Somalia Campaign, Reversing Planned Cuts",
-        "url": "https://dailycaller.com/2026/11/17/us-reverses-cuts-un-support-office-in-somalia-unsos-military-funding-african-union/",
-        "source": "The Daily Caller",
-        "published_at": "2026-11-17T13:58:44Z"
       },
       {
         "title": "Somali forces kill terrorist commander",
@@ -308,24 +308,24 @@
         "published_at": "2026-11-18T10:42:11Z"
       },
       {
-        "title": "Somali President Accuses U.A.E. of Interfering in Internal Affairs, Building Illegal Military Bases",
-        "url": "https://www.naturalnews.com/2026-11-21-somali-president-uae-interfering-in-internal-affairs.html",
-        "source": "Naturalnews.com",
-        "published_at": "2026-11-21T06:00:00Z"
+        "title": "US Decides To Keep Funding Somalia Campaign, Reversing Planned Cuts",
+        "url": "https://dailycaller.com/2026/11/17/us-reverses-cuts-un-support-office-in-somalia-unsos-military-funding-african-union/",
+        "source": "The Daily Caller",
+        "published_at": "2026-11-17T13:58:44Z"
       }
     ],
     "haiti-gang-crisis": [
-      {
-        "title": "Bukele shares details on deaths of Salvadoran troops in Haiti intervention",
-        "url": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-24T01:06:00Z"
-      },
       {
         "title": "Salvadoran President Nakib Bukele Is Now Taking Requests from Twitter About Which Haitian Gang Mansions He Should Bomb Next",
         "url": "https://acecomments.mu.nu/?post=422309",
         "source": "Acecomments.mu.nu",
         "published_at": "2026-11-24T18:22:30Z"
+      },
+      {
+        "title": "Bukele shares details on deaths of Salvadoran troops in Haiti intervention",
+        "url": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-24T01:06:00Z"
       },
       {
         "title": "Bukele reveals circumstances in which 3 Salvadoran soldiers died fighting gangs in Haiti",
@@ -342,10 +342,10 @@
     ],
     "mexico-cartel-conflict": [
       {
-        "title": "US flew drone over Mexican territory to help capture drug lord in Sinaloa",
-        "url": "https://abcnews.com/International/wireStory/us-flew-drone-mexican-territory-capture-drug-lord-138385870",
-        "source": "Abcnews.com",
-        "published_at": "2026-11-24T06:21:58Z"
+        "title": "Mexico Refuses To Hand Over Cartel Kingpin Wanted By US, Plans Its Own Trial",
+        "url": "https://dailycaller.com/2026/11/24/mexico-cartel-kingpin-el-chapo-isidro-claudia-sheinbaum/",
+        "source": "The Daily Caller",
+        "published_at": "2026-11-24T20:07:13Z"
       },
       {
         "title": "Chinese Embassy Trolls U.S. Embassy in Mexico Over Cartels, Drugs",
@@ -354,16 +354,22 @@
         "published_at": "2026-11-24T17:58:51Z"
       },
       {
-        "title": "Mexico Took Down a Top Drug Kingpin. Can It Dismantle His Cartel?",
-        "url": "https://biztoc.com/x/17b955600858a48a",
-        "source": "Biztoc.com",
-        "published_at": "2026-11-24T04:07:38Z"
-      },
-      {
         "title": "Watch: Bodycam Footage Reveals Dramatic Cartel Kingpin Arrest In Mexico",
         "url": "https://biztoc.com/x/76fe68a267280d40",
         "source": "Biztoc.com",
         "published_at": "2026-11-24T17:18:58Z"
+      },
+      {
+        "title": "US flew drone over Mexican territory to help capture drug lord in Sinaloa",
+        "url": "https://abcnews.com/International/wireStory/us-flew-drone-mexican-territory-capture-drug-lord-138385870",
+        "source": "Abcnews.com",
+        "published_at": "2026-11-24T06:21:58Z"
+      },
+      {
+        "title": "Mexico Took Down a Top Drug Kingpin. Can It Dismantle His Cartel?",
+        "url": "https://biztoc.com/x/17b955600858a48a",
+        "source": "Biztoc.com",
+        "published_at": "2026-11-24T04:07:38Z"
       },
       {
         "title": "'Chapo Isidro': Mexican soldiers attacked in wake of drug lord's arrest - BBC",
@@ -372,40 +378,76 @@
         "published_at": "2026-11-23T19:53:21Z"
       },
       {
-        "title": "Mexican soldiers attacked in wake of drug lord's arrest",
-        "url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o",
-        "source": "BBC News",
-        "published_at": "2026-11-23T13:26:36Z"
-      },
-      {
-        "title": "Mexico Refuses To Hand Over Cartel Kingpin Wanted By US, Plans Its Own Trial",
-        "url": "https://dailycaller.com/2026/11/24/mexico-cartel-kingpin-el-chapo-isidro-claudia-sheinbaum/",
-        "source": "The Daily Caller",
-        "published_at": "2026-11-24T20:07:13Z"
-      },
-      {
         "title": "Capture of drug lord on FBI's most wanted list leads to more arrests",
         "url": "https://www.cbsnews.com/news/chapo-isidro-capture-violence-arrests-mexico/",
         "source": "CBS News",
         "published_at": "2026-11-23T15:18:20Z"
+      },
+      {
+        "title": "Mexican soldiers attacked in wake of drug lord's arrest",
+        "url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o",
+        "source": "BBC News",
+        "published_at": "2026-11-23T13:26:36Z"
       }
     ],
     "venezuela-guyana-essequibo-dispute": [],
     "colombia-armed-groups-transition": [
       {
-        "title": "Armed Groups' Abuses Continue in Border Areas",
-        "url": "https://www.hrw.org/news/2026/11/23/armed-groups-abuses-continue-in-border-areas",
-        "source": "Human Rights Watch",
-        "published_at": "2026-11-23T05:00:00Z"
-      },
-      {
         "title": "Car bomb injures 20 in Colombia ahead of 10th anniversary of peace deal with FARC rebels",
         "url": "https://timesofindia.indiatimes.com/world/rest-of-world/car-bomb-injures-20-in-colombia-ahead-of-10th-anniversary-of-farc-peace-deal/articleshow/136125201.cms",
         "source": "The Times of India",
         "published_at": "2026-11-24T09:31:03Z"
+      },
+      {
+        "title": "Armed Groups' Abuses Continue in Border Areas",
+        "url": "https://www.hrw.org/news/2026/11/23/armed-groups-abuses-continue-in-border-areas",
+        "source": "Human Rights Watch",
+        "published_at": "2026-11-23T05:00:00Z"
       }
     ],
     "armenia-azerbaijan-peace-process": [
+      {
+        "title": "Armenia and US Officially Launch Trump Route - The Armenian Mirror - Spectator",
+        "url": "https://mirrorspectator.com/2026/11/24/armenia-and-us-officially-launch-trump-route/",
+        "source": "mirrorspectator.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-25T03:15:00Z",
+        "language": "English",
+        "source_country": "Armenia"
+      },
+      {
+        "title": "Pashinyan Releases New Draft Constitution for Armenia - The Armenian Mirror - Spectator",
+        "url": "https://mirrorspectator.com/2026/11/24/pashinyan-releases-new-draft-constitution-for-armenia/",
+        "source": "mirrorspectator.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-25T03:15:00Z",
+        "language": "English",
+        "source_country": "Armenia"
+      },
+      {
+        "title": "Armenia TRIPP Corridor , New Constitution Effort Show Deepening U . S . Ties",
+        "url": "https://foreignpolicy.com/2026/11/24/armenia-tripp-corridor-new-constitution-azerbaijan-pashinyan-ambassador/?tpcc=recirc_trending062921",
+        "source": "foreignpolicy.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-24T23:30:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "US and Armenia launch Trump-backed regional transit route as Baku welcomes move",
+        "url": "https://biztoc.com/x/1f3e8c9a41b1cc10",
+        "source": "Biztoc.com",
+        "published_at": "2026-11-24T12:29:32Z"
+      },
+      {
+        "title": "Armenia unveils draft constitution",
+        "url": "https://tribune.com.pk/story/2641983/armenia-unveils-draft-constitution",
+        "source": "tribune.com.pk",
+        "provider": "GDELT",
+        "published_at": "2026-11-24T07:15:00Z",
+        "language": "English",
+        "source_country": "Pakistan"
+      },
       {
         "title": "Armenia’s new constitution draft omits references to Türkiye, Azerbaijan",
         "url": "https://www.hurriyetdailynews.com/armenias-new-constitution-draft-omits-references-to-turkiye-azerbaijan-229755",
@@ -413,22 +455,10 @@
         "published_at": "2026-11-23T12:05:25Z"
       },
       {
-        "title": "Armenia’s new constitution draft omits references to Türkiye, Azerbaijan",
-        "url": "https://www.hurriyetdailynews.com/armenias-new-constitution-draft-omits-references-to-turkiye-azerbaijan-229751",
-        "source": "Hurriyet Daily News",
-        "published_at": "2026-11-23T10:57:21Z"
-      },
-      {
         "title": "Armenia to link power network with Azerbaijan and Turkey for AI energy",
         "url": "https://biztoc.com/x/427a24ae477bc8a5",
         "source": "Biztoc.com",
         "published_at": "2026-11-23T09:52:49Z"
-      },
-      {
-        "title": "US and Armenia launch Trump-backed regional transit route as Baku welcomes move",
-        "url": "https://biztoc.com/x/1f3e8c9a41b1cc10",
-        "source": "Biztoc.com",
-        "published_at": "2026-11-24T12:29:32Z"
       },
       {
         "title": "Armenia adds energy links to US-backed corridor",
@@ -447,6 +477,12 @@
     ],
     "korean-armistice-standoff": [
       {
+        "title": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack",
+        "url": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
+        "source": "Decrypt",
+        "published_at": "2026-11-24T14:13:03Z"
+      },
+      {
         "title": "Is North Korea holding back on sending Russia more troops?",
         "url": "https://www.dw.com/en/is-north-korea-holding-back-on-sending-russia-more-troops/a-80033025",
         "source": "DW (English)",
@@ -459,12 +495,6 @@
         "published_at": "2026-11-24T08:20:29Z"
       },
       {
-        "title": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack",
-        "url": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
-        "source": "Decrypt",
-        "published_at": "2026-11-24T14:13:03Z"
-      },
-      {
         "title": "Kim Jong Un receives credentials from India's newly appointed envoy to North Korea",
         "url": "https://timesofindia.indiatimes.com/world/rest-of-world/kim-jong-un-receives-credentials-from-indias-newly-appointed-envoy-to-north-korea/articleshow/136104681.cms",
         "source": "The Times of India",
@@ -472,7 +502,26 @@
       }
     ],
     "india-pakistan-kashmir-conflict": [],
-    "ethiopia-northern-conflict": [],
+    "ethiopia-northern-conflict": [
+      {
+        "title": "Ethiopia : Lethal Artillery Strikes On Civilian Neighbourhoods in Tigray Alamata City Must Be Investigated As War Crimes",
+        "url": "https://allafrica.com/stories/202611240073.html",
+        "source": "allafrica.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-24T06:30:00Z",
+        "language": "English",
+        "source_country": "Nigeria"
+      },
+      {
+        "title": "COP31 collapse does not change the alarming facts about climate extremes , UN chief warns – The Moderate Voice",
+        "url": "https://themoderatevoice.com/cop31s-collapse-does-not-change-the-alarming-facts-about-climate-extremes-un-chief-warns/",
+        "source": "themoderatevoice.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-23T02:30:00Z",
+        "language": "English",
+        "source_country": "United States"
+      }
+    ],
     "nigeria-internal-security-crisis": [
       {
         "title": "NDC boycotts IG’s security meeting over attacks on members",
