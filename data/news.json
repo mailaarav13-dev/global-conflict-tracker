@@ -1,80 +1,123 @@
 {
-  "generated_at": "2026-11-26T08:21:32.192Z",
+  "generated_at": "2026-11-26T21:37:12.218Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
     "russia-ukraine-war": [
       {
-        "title": "Ukraine’s biggest steelmaker has battled years of Russian bombardment—now it faces a new threat",
-        "url": "https://fortune.com/2026/11/25/ukraine-biggest-steelmaker-battled-years-russian-bombardment-faces-new-threat-metinvest/",
-        "source": "Fortune",
-        "published_at": "2026-11-25T08:00:00Z"
+        "title": "More than 1,000 Russian troops have killed themselves since full-scale war began, leaked data reveals",
+        "url": "https://www.dailymail.com/news/article-16322277/More-1-000-Russian-troops-killed-scale-war-began-leaked-data-reveals.html",
+        "source": "Dailymail.com",
+        "published_at": "2026-11-25T20:41:57Z"
       },
       {
-        "title": "Russian overnight strikes kill two in Odesa, set Kyiv apartment block ablaze",
-        "url": "https://timesofindia.indiatimes.com/world/europe/russian-overnight-strikes-kill-two-in-odesa-set-kyiv-apartment-block-ablaze/articleshow/136151848.cms",
-        "source": "The Times of India",
-        "published_at": "2026-11-25T07:08:06Z"
+        "title": "Melania Trump Facilitates Reunification of Nine More Children Displaced in Russia-Ukraine War with Families",
+        "url": "https://www.breitbart.com/europe/2026/11/25/melania-trump-facilitates-reunification-of-nine-more-children-displaced-in-russia-ukraine-war-with-families/",
+        "source": "Breitbart News",
+        "published_at": "2026-11-25T20:34:59Z"
       },
       {
-        "title": "US said to scrap plans for business deals with Moscow",
-        "url": "https://biztoc.com/x/723b8557eac785c0",
-        "source": "Biztoc.com",
-        "published_at": "2026-11-25T06:33:12Z"
+        "title": "'Russia wants more than Ukraine,' says Germany's Merz as he defends aid for Kyiv",
+        "url": "https://www.channelnewsasia.com/world/russia-wants-more-ukraine-says-germanys-merz-he-defends-aid-kyiv-6582701",
+        "source": "CNA",
+        "published_at": "2026-11-25T20:30:59Z"
       },
       {
-        "title": "How Ukraine is using AI to track and destroy Russian forces",
-        "url": "https://timesofindia.indiatimes.com/defence/international/how-ukraine-is-using-ai-to-track-and-destroy-russian-forces/articleshow/136150446.cms",
-        "source": "The Times of India",
-        "published_at": "2026-11-25T06:30:59Z"
+        "title": "Putin's war death toll reportedly tops 700,000 as Russia scrambles for recruits",
+        "url": "https://www.foxnews.com/world/putins-war-death-toll-reportedly-tops-700000-russia-scrambles-recruits",
+        "source": "Fox News",
+        "published_at": "2026-11-25T19:34:13Z"
       },
       {
-        "title": "US shelves plans for business deals with Russia to end Ukraine war: Report",
-        "url": "https://www.business-standard.com/world-news/us-shelves-plans-for-business-deals-with-russia-to-end-ukraine-war-report-126112500309_1.html",
-        "source": "Business Standard",
-        "published_at": "2026-11-25T06:29:26Z"
+        "title": "Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation - CNBC",
+        "url": "https://slashdot.org/firehose.pl?op=view&id=186869925",
+        "source": "Slashdot.org",
+        "published_at": "2026-11-25T19:32:39Z"
       },
       {
-        "title": "Spies, saboteurs and assassins: Inside Russia’s covert war for Ukrainian recruits",
-        "url": "https://www.irishtimes.com/world/europe/2026/11/25/the-fsb-will-become-anyone-to-make-you-a-traitor-russia-finds-recruits-even-in-ukraines-patriotic-heartland/",
-        "source": "The Irish Times",
-        "published_at": "2026-11-25T06:00:00Z"
+        "title": "NATO boss says Ukraine ‘doing exceptionally well’ in war, as Trump admin sidelines plan to do business with Russia",
+        "url": "https://nypost.com/2026/11/25/us-news/nato-boss-says-ukraine-doing-exceptionally-well-in-war-as-trump-admin-drops-plans-to-do-business-with-russia/",
+        "source": "New York Post",
+        "published_at": "2026-11-25T19:25:40Z"
+      },
+      {
+        "title": "Rogue Libyan Militia Threatens to Attack Ukraine for Sinking Russian Ship",
+        "url": "https://www.breitbart.com/africa/2026/11/25/rogue-libyan-militia-threatens-to-attack-ukraine-for-sinking-russian-ship/",
+        "source": "Breitbart News",
+        "published_at": "2026-11-25T19:12:51Z"
+      },
+      {
+        "title": "Ukraine says it struck a major Russian air base, damaging five planes",
+        "url": "https://m.economictimes.com/news/defence/ukraine-says-it-struck-a-major-russian-air-base-damaging-five-planes/articleshow/136171606.cms",
+        "source": "Economictimes.com",
+        "published_at": "2026-11-25T19:02:06Z"
       }
     ],
     "israel-gaza-war": [
       {
-        "title": "Sentences served, but Gaza prisoners remain behind Israeli bars",
-        "url": "https://www.aljazeera.com/news/2026/11/25/sentences-served-but-gaza-prisoners-remain-behind-israeli-bars",
+        "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
+        "url": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn",
         "source": "Al Jazeera English",
-        "published_at": "2026-11-25T07:31:44Z"
+        "published_at": "2026-11-25T21:03:51Z"
       },
       {
-        "title": "Hamas says key security chief killed in strike",
-        "url": "https://www.israelnationalnews.com/flashes/698516",
+        "title": "Meningitis cases surge in Gaza as deteriorating living conditions put children at risk",
+        "url": "https://mondoweiss.net/2026/11/meningitis-cases-surge-in-gaza-as-deteriorating-living-conditions-put-children-at-risk/",
+        "source": "Mondoweiss",
+        "published_at": "2026-11-25T19:08:17Z"
+      },
+      {
+        "title": "IDF Eliminates Deputy Hamas Security Chief a Day After Taking Out His Boss",
+        "url": "https://legalinsurrection.com/2026/11/idf-eliminates-deputy-hamas-security-chief-a-day-after-taking-out-his-boss/",
+        "source": "Legalinsurrection.com",
+        "published_at": "2026-11-25T17:00:01Z"
+      },
+      {
+        "title": "UNICEF aid boxes found at site where senior Hamas terrorist was killed",
+        "url": "https://www.israelnationalnews.com/flashes/698572",
         "source": "Israelnationalnews.com",
-        "published_at": "2026-11-25T07:28:06Z"
+        "published_at": "2026-11-25T16:47:05Z"
       },
       {
-        "title": "IDF veteran returns to Gaza - despite PTSD",
-        "url": "https://www.israelnationalnews.com/news/437081",
-        "source": "Israelnationalnews.com",
-        "published_at": "2026-11-25T06:49:18Z"
+        "title": "Israeli strike kills 2 senior Hamas officials",
+        "url": "https://www.cbc.ca/news/world/gaza-hamas-israel-kills-two-hamas-officials-9.7435419",
+        "source": "CBC News",
+        "published_at": "2026-11-25T16:04:22Z"
       },
       {
-        "title": "Israeli strike on Gaza kills four Palestinians",
-        "url": "https://biztoc.com/x/45594d4e6747a00f",
-        "source": "Biztoc.com",
-        "published_at": "2026-11-25T06:02:50Z"
+        "title": "Jerusalem Daily: Israel kills Hamas’s Gaza security chief",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/jerusalem-daily-israel-kills-hamass-gaza-security-chief",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-25T16:02:22Z"
       },
       {
-        "title": "What’s happening in Gaza?",
-        "url": "https://www.americanthinker.com/blog/2026/11/what-s-happening-in-gaza/",
-        "source": "Americanthinker.com",
-        "published_at": "2026-11-25T05:00:00Z"
+        "title": "Israeli strike kills Hamas official, his wife and children in Gaza",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children-in-gaza/",
+        "source": "The Irish Times",
+        "published_at": "2026-11-25T15:09:50Z"
       }
     ],
-    "sudan-civil-war": [],
+    "sudan-civil-war": [
+      {
+        "title": "Overnight RSF drone attacks kill 19 in Sudan",
+        "url": "https://www.aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-25T11:58:15Z"
+      },
+      {
+        "title": "How the War Turned Sudan Into a Country Without a Newspaper",
+        "url": "https://time.com/article/2026/11/25/sudan-war-rsf-elfasher-journalists-killed-arrested/",
+        "source": "Time",
+        "published_at": "2026-11-25T11:00:00Z"
+      }
+    ],
     "myanmar-civil-war": [
+      {
+        "title": "Rohingya genocide: What ICJ's historic ruling really means for Myanmar & its refugees",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/rohingya-genocide-what-icjs-historic-ruling-really-means-for-myanmar-its-refugees/articleshow/136119331.cms",
+        "source": "The Times of India",
+        "published_at": "2026-11-25T10:45:02Z"
+      },
       {
         "title": "What Does the ICJ Ruling Mean for Myanmar?",
         "url": "https://foreignpolicy.com/2026/11/25/icj-myanmar-genocide-rohingya-trump/",
@@ -120,46 +163,52 @@
     ],
     "yemen-civil-war": [
       {
-        "title": "Saudi coalition says struck Yemen port city, Houthis threaten retaliation",
-        "url": "https://www.hurriyetdailynews.com/saudi-coalition-says-struck-yemen-port-city-houthis-threaten-retaliation-229817",
-        "source": "Hurriyet Daily News",
-        "published_at": "2026-11-25T06:07:23Z"
-      },
-      {
-        "title": "Yemen's Houthis threaten to target Jeddah, other Saudi Red Sea ports",
-        "url": "https://www.business-standard.com/world-news/yemen-126112500117_1.html",
-        "source": "Business Standard",
-        "published_at": "2026-11-25T03:46:44Z"
-      },
-      {
-        "title": "2 Indians among 11 injured in Houthi attack in Saudi Arabia's capital",
-        "url": "https://www.thehindubusinessline.com/news/2-indians-among-11-injured-in-houthi-attack-in-saudi-arabias-capital/article71740913.ece",
-        "source": "BusinessLine",
-        "published_at": "2026-11-25T03:35:37Z"
-      },
-      {
-        "title": "Yemen’s Houthis Take Second Swipe at Tallest Tower in Saudi Capital - WSJ",
-        "url": "https://slashdot.org/firehose.pl?op=view&id=186858761",
-        "source": "Slashdot.org",
-        "published_at": "2026-11-25T03:13:35Z"
-      },
-      {
-        "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
-        "url": "https://biztoc.com/x/c9650c30b472f660",
+        "title": "Houthi strike causes 'minor damage' in S. Arabia's Jazan",
+        "url": "https://biztoc.com/x/292b828a4f7c61cc",
         "source": "Biztoc.com",
-        "published_at": "2026-11-25T02:45:07Z"
+        "published_at": "2026-11-25T16:54:16Z"
       },
       {
-        "title": "Houthis close in on Aden as Yemeni forces dig in behind fortified line",
-        "url": "https://www.business-standard.com/world-news/houthis-close-in-on-aden-as-yemeni-forces-dig-in-behind-fortified-line-126112500003_1.html",
-        "source": "Business Standard",
-        "published_at": "2026-11-25T02:22:48Z"
+        "title": "Yemen's Houthis claim attack on major Saudi oil refinery",
+        "url": "https://www.cbc.ca/news/world/yemen-houthi-saudi-arabia-strikes-9.7435269",
+        "source": "CBC News",
+        "published_at": "2026-11-25T15:04:30Z"
       },
       {
-        "title": "Saudi-led coalition strikes Yemen's Hodeidah port after Houthi threats against Red Sea ports",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-led-coalition-strikes-yemens-hodeidah-port-after-houthi-threats-against-red-sea-ports/articleshow/136144522.cms",
-        "source": "The Times of India",
-        "published_at": "2026-11-25T00:10:32Z"
+        "title": "Yemeni military official brands Iran Houthis’ ‘godfather,’ says Tehran is directing war",
+        "url": "https://www.foxnews.com/world/yemeni-military-official-brands-iran-houthis-godfather-says-tehran-directing-war",
+        "source": "Fox News",
+        "published_at": "2026-11-25T14:50:17Z"
+      },
+      {
+        "title": "Saudi coalition says it struck Yemen port city, Houthis threaten retaliation",
+        "url": "https://www.freemalaysiatoday.com/category/world/2026/11/25/saudi-coalition-says-it-struck-yemen-port-city-houthis-threaten-retaliation",
+        "source": "Free Malaysia Today",
+        "published_at": "2026-11-25T14:26:00Z"
+      },
+      {
+        "title": "Yemen’s Houthis Say They Attacked Saudi Arabia’s Ras Tanura Refinery",
+        "url": "https://www.insurancejournal.com/news/international/2026/11/25/893737.htm",
+        "source": "Insurance Journal",
+        "published_at": "2026-11-25T13:42:22Z"
+      },
+      {
+        "title": "Brent Surges As Escalating Houthi-Saudi Conflict Revives War Risk Premium",
+        "url": "https://biztoc.com/x/4d4306522763511d",
+        "source": "Biztoc.com",
+        "published_at": "2026-11-25T13:21:26Z"
+      },
+      {
+        "title": "Oil prices rise after alleged Houthi attack on Saudi refinery",
+        "url": "https://finance.yahoo.com/energy/articles/oil-prices-fall-supply-glut-015829699.html",
+        "source": "Yahoo Entertainment",
+        "published_at": "2026-11-25T13:02:57Z"
+      },
+      {
+        "title": "Houthis claim attacks on Saudi refinery, financial district",
+        "url": "https://www.dw.com/en/houthis-claim-attacks-on-saudi-refinery-financial-district/a-80043632",
+        "source": "DW (English)",
+        "published_at": "2026-11-25T10:35:00Z"
       }
     ],
     "south-china-sea-dispute": [
@@ -190,75 +239,81 @@
     ],
     "israel-iran-confrontation": [
       {
-        "title": "Israel , Netanyahu aims to be prime minister until 2028 . Eisenkot wants a law to block his way",
-        "url": "https://www.odnako.org/israel-netanyahu-aims-to-be-prime-minister-until-2028-eisenkot-wants-a-law-to-block-his-way/",
-        "source": "odnako.org",
-        "provider": "GDELT",
-        "published_at": "2026-11-26T06:15:00Z",
-        "language": "English",
-        "source_country": "Russia"
+        "title": "Iran says Israel trying to deceive US into war with chemical weapons claims",
+        "url": "https://www.freemalaysiatoday.com/category/highlight/2026/11/26/iran-says-israel-trying-to-deceive-us-into-war-with-chemical-weapons-claims",
+        "source": "Free Malaysia Today",
+        "published_at": "2026-11-25T21:19:15Z"
       },
       {
-        "title": "Child abuse in Israel demands urgent action , stronger oversight",
-        "url": "http://www.jpost.com/opinion/article-916155",
-        "source": "jpost.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-26T05:15:00Z",
-        "language": "English",
-        "source_country": "Israel"
+        "title": "Iran denies chemical weapons program following Israeli minister's warning",
+        "url": "https://www.israelnationalnews.com/flashes/698584",
+        "source": "Israelnationalnews.com",
+        "published_at": "2026-11-25T19:03:33Z"
       },
       {
-        "title": "Israel slams UN over Iran committee seat : The hypocrisy is obscene",
-        "url": "https://www.israelnationalnews.com/flashes/698609",
-        "source": "israelnationalnews.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-26T05:15:00Z",
-        "language": "English",
-        "source_country": "Israel"
+        "title": "Hezbollah chief attacks Lebanese President, hails Iran as 'model of honor'",
+        "url": "https://www.israelnationalnews.com/news/437141",
+        "source": "Israelnationalnews.com",
+        "published_at": "2026-11-25T18:34:16Z"
       },
       {
-        "title": "Iran Grip on Lebanon Through Hezbollah Faces New Questions as IRGC Scales Back Beirut Presence",
-        "url": "https://www.algemeiner.com/2026/11/25/irans-grip-lebanon-hezbollah-faces-new-questions-irgc-scales-back-beirut-presence/",
-        "source": "algemeiner.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-26T04:45:00Z",
-        "language": "English",
-        "source_country": "Israel"
+        "title": "Iran claims Israel trying to deceive US into another war",
+        "url": "https://www.rte.ie/news/middle-east/2026/1125/1600662-iran-israel/",
+        "source": "RTE",
+        "published_at": "2026-11-25T16:36:12Z"
       },
       {
-        "title": "Allianz Trade Report: US-Israeli War on Iran Costs Gulf States Over $200B in Damage, $790B in Lost Growth",
-        "url": "https://www.naturalnews.com/2026-11-25-us-israeli-war-iran-gulf-200b-damage.html",
-        "source": "Naturalnews.com",
-        "published_at": "2026-11-25T06:00:00Z"
+        "title": "Iran War Day 271: White House Weighs Killing Leaders, per Report",
+        "url": "https://www.theamericanconservative.com/iran-war-day-271-white-house-weighs-killing-leaders-per-report/",
+        "source": "The American Conservative",
+        "published_at": "2026-11-25T16:32:45Z"
       },
       {
-        "title": "Trump Says Toppling Iran’s Regime Is ‘Probably Doable’ but Not His Goal",
-        "url": "https://www.breitbart.com/politics/2026/11/24/trump-says-toppling-irans-regime-is-probably-doable-but-not-his-goal/",
-        "source": "Breitbart News",
-        "published_at": "2026-11-25T05:01:58Z"
+        "title": "U.S. military aid to Israel will not cease by end of year, U.S. Ambassador Huckabee says",
+        "url": "https://www.haaretz.com/israel-news/2026-11-25/ty-article/.premium/u-s-military-aid-to-israel-will-not-stop-by-end-of-year-envoy-huckabee-says/000001a2-1306-dc94-abf2-3777a83a0000",
+        "source": "Haaretz",
+        "published_at": "2026-11-25T15:43:28Z"
       },
       {
-        "title": "Israel’s Defense Minister Reveals Iranian Sleeper Cells Activated Inside America with Direct Orders to Assassinate President Trump, His Family, and Senior Officials",
-        "url": "https://www.thegatewaypundit.com/2026/11/israels-defense-minister-reveals-iranian-sleeper-cells-activated/",
-        "source": "Thegatewaypundit.com",
-        "published_at": "2026-11-25T01:40:43Z"
-      },
-      {
-        "title": "Poll finds US voters want government to end Iran war regardless of terms",
-        "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-25T01:14:22Z"
+        "title": "‘There is a danger’: Iranian sleeper cells activated in U.S. to assassinate Trump, his family and top officials, says Israel defense minister",
+        "url": "https://www.wnd.com/2026/11/there-is-danger-iranian-sleeper-cells-activated-u/",
+        "source": "Wnd.com",
+        "published_at": "2026-11-25T14:54:52Z"
       }
     ],
     "libya-fragmentation": [
       {
-        "title": "The Libyan Peace Process Could Be Derailed If Tripoli Doesn’t Tell Ukrainian Forces to Depart",
-        "url": "https://korybko.substack.com/p/the-libyan-peace-process-could-be",
-        "source": "Substack.com",
-        "published_at": "2026-11-24T13:06:50Z"
+        "title": "Rogue Libyan Militia Threatens to Attack Ukraine for Sinking Russian Ship",
+        "url": "https://www.breitbart.com/africa/2026/11/25/rogue-libyan-militia-threatens-to-attack-ukraine-for-sinking-russian-ship/",
+        "source": "Breitbart News",
+        "published_at": "2026-11-25T19:12:51Z"
+      },
+      {
+        "title": "Haftar pays first visit to Ankara to discuss security, energy ties",
+        "url": "https://www.hurriyetdailynews.com/haftar-pays-first-visit-to-ankara-to-discuss-security-energy-ties-229840",
+        "source": "Hurriyet Daily News",
+        "published_at": "2026-11-25T12:02:20Z"
+      },
+      {
+        "title": "Libya’s Tripoli government denies deal with Ukraine on port attack",
+        "url": "https://rt-english.com/africa/649342-libya-tripoli-government-denies-deal-ukraine-port-attack/",
+        "source": "Rt-english.com",
+        "published_at": "2026-11-25T10:37:28Z"
       }
     ],
     "syria-transition-crisis": [
+      {
+        "title": "Tourists are starting to return to Syria",
+        "url": "https://biztoc.com/x/df51fce7ffa5388e",
+        "source": "Biztoc.com",
+        "published_at": "2026-11-25T21:13:10Z"
+      },
+      {
+        "title": "The Endless Persecution of Targeted Minorities Under an Al Qaeda Regime in Damascus",
+        "url": "https://beeley.substack.com/p/the-endless-persecution-of-targeted",
+        "source": "Substack.com",
+        "published_at": "2026-11-25T16:16:16Z"
+      },
       {
         "title": "Report: U.S. Mulls Helping Train Syrian Forces",
         "url": "https://www.breitbart.com/middle-east/2026/11/24/report-u-s-mulls-helping-train-syrian-forces/",
@@ -270,33 +325,9 @@
         "url": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria",
         "source": "Al Jazeera English",
         "published_at": "2026-11-24T18:47:05Z"
-      },
-      {
-        "title": "Land mine casualties soar in Syria, two years after war",
-        "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo",
-        "source": "BBC News",
-        "published_at": "2026-11-24T15:17:28Z"
       }
     ],
     "sahel-jihadist-insurgency": [
-      {
-        "title": "Chad Says Niger Orders Arab Minority Out",
-        "url": "https://www.riotimesonline.com/chad-says-niger-orders-mahamid-arab-minority-out/",
-        "source": "riotimesonline.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-25T00:45:00Z",
-        "language": "English",
-        "source_country": "Brazil"
-      },
-      {
-        "title": "Mali : JNIM Resistance at Niono Costs Government Troops Dearly Despite Air Support – Ghanamma . com",
-        "url": "https://www.ghanamma.com/2026/11/22/mali-jnim-resistance-at-niono-costs-government-troops-dearly-despite-air-support/",
-        "source": "ghanamma.com",
-        "provider": "GDELT",
-        "published_at": "2026-11-22T21:30:00Z",
-        "language": "English",
-        "source_country": "Ghana"
-      },
       {
         "title": "Burkina Faso’s rival armed groups turn on each other as state loses ground",
         "url": "https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground",
@@ -414,6 +445,23 @@
     ],
     "mexico-cartel-conflict": [
       {
+        "title": "Trump administration expands anti - cartel campaign as legal challenges mount",
+        "url": "https://midmichigannow.com/news/nation-world/trump-administration-expands-anti-cartel-campaign-as-legal-challenges-mount-traficking",
+        "source": "midmichigannow.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-26T20:45:00Z",
+        "language": "English"
+      },
+      {
+        "title": "Mexican president blasts DEA over tip lines , accusing it of not fighting fentanyl enough inside US",
+        "url": "http://www.thegazette.com/news/world/mexican-president-blasts-dea-over-tip-lines-accusing-it-of-not-fighting-fentanyl-enough-inside/article_6b9c6844-c717-57ab-bf53-1592109942d9.html",
+        "source": "thegazette.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-26T19:45:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
         "title": "Mexico Refuses To Hand Over Cartel Kingpin Wanted By US, Plans Its Own Trial",
         "url": "https://dailycaller.com/2026/11/24/mexico-cartel-kingpin-el-chapo-isidro-claudia-sheinbaum/",
         "source": "The Daily Caller",
@@ -448,39 +496,51 @@
         "url": "https://slashdot.org/firehose.pl?op=view&id=186844369",
         "source": "Slashdot.org",
         "published_at": "2026-11-23T19:53:21Z"
-      },
-      {
-        "title": "Capture of drug lord on FBI's most wanted list leads to more arrests",
-        "url": "https://www.cbsnews.com/news/chapo-isidro-capture-violence-arrests-mexico/",
-        "source": "CBS News",
-        "published_at": "2026-11-23T15:18:20Z"
-      },
-      {
-        "title": "Mexican soldiers attacked in wake of drug lord's arrest",
-        "url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o",
-        "source": "BBC News",
-        "published_at": "2026-11-23T13:26:36Z"
       }
     ],
     "venezuela-guyana-essequibo-dispute": [],
     "colombia-armed-groups-transition": [
       {
-        "title": "Colombian president blames ex-FARC rebels for car bomb blast",
+        "title": "Colombian President Points to FARC Dissident in Attack . Were Going After him .",
+        "url": "https://newsroompanama.com/2026/11/24/colombian-president-points-to-farc-dissident-in-attack-were-going-after-him/",
+        "source": "newsroompanama.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-25T01:45:00Z",
+        "language": "English",
+        "source_country": "Panama"
+      },
+      {
+        "title": "Colombian president blames ex - FARC rebels for car bomb blast",
         "url": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-24T21:45:42Z"
+        "source": "aljazeera.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-25T01:15:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Colombian president blames ex - FARC rebels for car bomb blast - Grenada Chronicle – Daily Grenada And Caribbean News",
+        "url": "https://grenadachronicle.com/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast/",
+        "source": "grenadachronicle.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-25T00:45:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Colombian president blames ex - FARC rebels for car bomb blast - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+        "url": "https://dominicanrepublicpost.com/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast/",
+        "source": "dominicanrepublicpost.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-25T00:15:00Z",
+        "language": "English",
+        "source_country": "United States"
       },
       {
         "title": "Car bomb injures 20 in Colombia ahead of 10th anniversary of peace deal with FARC rebels",
         "url": "https://timesofindia.indiatimes.com/world/rest-of-world/car-bomb-injures-20-in-colombia-ahead-of-10th-anniversary-of-farc-peace-deal/articleshow/136125201.cms",
         "source": "The Times of India",
         "published_at": "2026-11-24T09:31:03Z"
-      },
-      {
-        "title": "Armed Groups' Abuses Continue in Border Areas",
-        "url": "https://www.hrw.org/news/2026/11/23/armed-groups-abuses-continue-in-border-areas",
-        "source": "Human Rights Watch",
-        "published_at": "2026-11-23T05:00:00Z"
       }
     ],
     "armenia-azerbaijan-peace-process": [
@@ -511,25 +571,31 @@
     ],
     "taiwan-strait-tension": [
       {
-        "title": "China manipulează opiniile politice din Taiwan, inclusiv alegerile locale din acest weekend, printr-un val de clipuri deepfake, viralizate pe rețelele sociale. O investigație a BBC a descoperit o rețea asociată Beijingului care a difuzat, în ultimul an, peste cinci sute de manipulări generate cu AI cu scopul divizării populației și scăderii încrederii în liderii politici.",
-        "url": "https://www.biziday.ro/377057-2/",
-        "source": "Biziday.ro",
-        "published_at": "2026-11-25T07:38:06Z"
-      },
-      {
-        "title": "Taiwan Central Bank Treats Big Stablecoins Like Deposits With a 10.775% Reserve Rule",
-        "url": "https://www.dcforecasts.com/regulation/taiwan-central-bank-stablecoin-reserve-rule/",
-        "source": "Dcforecasts.com",
-        "published_at": "2026-11-25T03:06:36Z"
-      },
-      {
-        "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
-        "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o",
-        "source": "BBC News",
-        "published_at": "2026-11-24T23:05:11Z"
+        "title": "Biden Officials Expected Paraguay to Flip to China. Under Trump, Taiwan’s Last South American Ally Is Holding Firm",
+        "url": "https://www.thegatewaypundit.com/2026/11/biden-officials-expected-paraguay-flip-china-under-trump/",
+        "source": "Thegatewaypundit.com",
+        "published_at": "2026-11-25T17:40:16Z"
       }
     ],
     "korean-armistice-standoff": [
+      {
+        "title": "Switzerland forced to close office in North Korea over sanctions feud",
+        "url": "https://www.aljazeera.com/news/2026/11/25/switzerland-regrets-closure-of-north-korea-office-over-sanctions-feud",
+        "source": "Al Jazeera English",
+        "published_at": "2026-11-25T16:58:49Z"
+      },
+      {
+        "title": "Australia’s Great Barrier Reef hosted the world’s first floating hotel in 1988; after a brief stay in Vietnam, the resort was relocated to North Korea",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/in-1988-the-worlds-first-floating-hotel-opened-on-australias-great-barrier-reef-after-a-stop-in-vietnam-it-ended-up-in-north-korea/articleshow/136154929.cms",
+        "source": "The Times of India",
+        "published_at": "2026-11-25T13:34:51Z"
+      },
+      {
+        "title": "North Korea demands closure of Switzerland's new diplomatic office and orders diplomat to leave",
+        "url": "https://abcnews.com/International/wireStory/north-korea-demands-closure-switzerlands-new-diplomatic-office-138430806",
+        "source": "Abcnews.com",
+        "published_at": "2026-11-25T08:19:30Z"
+      },
       {
         "title": "Russian warplanes trigger air raid panic on South Korean island that got blamed on North Korea",
         "url": "https://www.naturalnews.com/2026-11-25-russian-warplanes-trigger-air-raid-panic-south-korea.html",
@@ -547,18 +613,50 @@
         "url": "https://www.dw.com/en/is-north-korea-holding-back-on-sending-russia-more-troops/a-80033025",
         "source": "DW (English)",
         "published_at": "2026-11-24T12:51:00Z"
-      },
-      {
-        "title": "North Korea reviews Switzerland relations after sanctions on youth camp linked to war",
-        "url": "https://abcnews.com/International/wireStory/north-korea-reviews-switzerland-relations-after-sanctions-youth-138402640",
-        "source": "Abcnews.com",
-        "published_at": "2026-11-24T08:20:29Z"
       }
     ],
     "india-pakistan-kashmir-conflict": [],
-    "ethiopia-northern-conflict": [],
+    "ethiopia-northern-conflict": [
+      {
+        "title": "Amnesty seeks independent probe into possible war crimes in Tigray",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/amnesty-seeks-independent-probe-into-possible-war-crimes-in-tigray/articleshow/136162131.cms",
+        "source": "The Times of India",
+        "published_at": "2026-11-25T12:57:02Z"
+      },
+      {
+        "title": "Amnesty calls for independent war crimes probe into Ethiopian shelling in Tigray",
+        "url": "https://abcnews.com/International/wireStory/amnesty-calls-independent-war-crimes-probe-ethiopian-shelling-138434543",
+        "source": "Abcnews.com",
+        "published_at": "2026-11-25T11:08:40Z"
+      },
+      {
+        "title": "Ethiopia : Lethal Artillery Strikes On Civilian Neighbourhoods in Tigray Alamata City Must Be Investigated As War Crimes",
+        "url": "https://allafrica.com/stories/202611240073.html",
+        "source": "allafrica.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-24T06:30:00Z",
+        "language": "English",
+        "source_country": "Nigeria"
+      },
+      {
+        "title": "COP31 collapse does not change the alarming facts about climate extremes , UN chief warns – The Moderate Voice",
+        "url": "https://themoderatevoice.com/cop31s-collapse-does-not-change-the-alarming-facts-about-climate-extremes-un-chief-warns/",
+        "source": "themoderatevoice.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-23T02:30:00Z",
+        "language": "English",
+        "source_country": "United States"
+      }
+    ],
     "nigeria-internal-security-crisis": [],
-    "afghanistan-governance-security-crisis": [],
+    "afghanistan-governance-security-crisis": [
+      {
+        "title": "In Afghanistan, no female doctor often means no treatment for women",
+        "url": "https://www.dw.com/en/in-afghanistan-no-female-doctor-often-means-no-treatment-for-women/a-80047053",
+        "source": "DW (English)",
+        "published_at": "2026-11-25T12:31:00Z"
+      }
+    ],
     "ecuador-organized-crime-crisis": []
   }
 }
