@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T08:35:04.352Z",
+  "generated_at": "2026-11-27T16:49:32.971Z",
   "provider": "newsapi.org + GDELT",
   "sample": false,
   "items": {
@@ -125,16 +125,52 @@
     ],
     "myanmar-civil-war": [
       {
+        "title": "Genocide Against The Rohingya : The ICJ Ruling Against Myanmar",
+        "url": "https://www.scoop.co.nz/stories/HL2611/S00060/genocide-against-the-rohingya-the-icj-ruling-against-myanmar.htm",
+        "source": "scoop.co.nz",
+        "provider": "GDELT",
+        "published_at": "2026-11-26T04:15:00Z",
+        "language": "English",
+        "source_country": "New Zealand"
+      },
+      {
+        "title": "Executions Wont Close China Scam Pipeline to Myanmar",
+        "url": "https://www.khaama.com/executions-wont-close-chinas-scam-pipeline-to-myanmar/",
+        "source": "khaama.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-25T14:15:00Z",
+        "language": "English",
+        "source_country": "Afghanistan"
+      },
+      {
         "title": "Rohingya genocide: What ICJ's historic ruling really means for Myanmar & its refugees",
         "url": "https://timesofindia.indiatimes.com/world/rest-of-world/rohingya-genocide-what-icjs-historic-ruling-really-means-for-myanmar-its-refugees/articleshow/136119331.cms",
         "source": "The Times of India",
         "published_at": "2026-11-25T10:45:02Z"
       },
       {
+        "title": "Why Israel should be afraid of the ICJ genocide ruling against Myanmar",
+        "url": "https://www.middleeasteye.net/opinion/why-israel-should-be-afraid-icj-genocide-ruling-against-myanmar",
+        "source": "middleeasteye.net",
+        "provider": "GDELT",
+        "published_at": "2026-11-25T10:30:00Z",
+        "language": "English",
+        "source_country": "Israel"
+      },
+      {
         "title": "What Does the ICJ Ruling Mean for Myanmar?",
         "url": "https://foreignpolicy.com/2026/11/25/icj-myanmar-genocide-rohingya-trump/",
         "source": "Foreign Policy",
         "published_at": "2026-11-25T06:00:40Z"
+      },
+      {
+        "title": "Myanmar – Northeast Narco - Chain : Drugs , poppy & hawala probe",
+        "url": "https://organiser.org/2026/11/25/428581/international/asia-international/southeast-asia/northeast-drug-trafficking-exposed-myanmar-cartels-manipur-poppy-cultivation-and-rs-100-cr-hawala-trail-uncovered/",
+        "source": "organiser.org",
+        "provider": "GDELT",
+        "published_at": "2026-11-25T03:45:00Z",
+        "language": "English",
+        "source_country": "India"
       },
       {
         "title": "Burma’s Junta Triples Its War Budget as Russian and Chinese Aircraft Bomb Civilians",
@@ -147,30 +183,6 @@
         "url": "https://www.thegatewaypundit.com/2026/11/iran-war-turns-burmas-hand-dug-oil-wells/",
         "source": "Thegatewaypundit.com",
         "published_at": "2026-11-24T14:30:02Z"
-      },
-      {
-        "title": "Malaysia to repatriate another 6,803 Myanmar nationals despite ICJ genocide ruling",
-        "url": "https://abcnews.com/International/wireStory/malaysia-repatriate-6803-myanmar-nationals-despite-icj-genocide-138404157",
-        "source": "Abcnews.com",
-        "published_at": "2026-11-24T11:15:19Z"
-      },
-      {
-        "title": "Malaysia to continue working with Myanmar on refugee repatriation after genocide ruling",
-        "url": "https://www.irishtimes.com/world/asia-pacific/2026/11/24/malaysia-to-continue-working-with-myanmar-on-refugee-repatriation-after-genocide-ruling/",
-        "source": "The Irish Times",
-        "published_at": "2026-11-24T09:38:24Z"
-      },
-      {
-        "title": "Malaysia set to return thousands of Rohingya refugees to Myanmar",
-        "url": "https://www.aljazeera.com/news/2026/11/24/malaysia-set-to-return-thousands-of-rohingya-refugees-to-myanmar-2",
-        "source": "Al Jazeera English",
-        "published_at": "2026-11-24T08:21:41Z"
-      },
-      {
-        "title": "Burma’s Junta Courts Washington With Rare Earths as ASEAN Keeps Its Leader Barred From Summits",
-        "url": "https://www.thegatewaypundit.com/2026/11/burmas-junta-courts-washington-rare-earths-as-asean/",
-        "source": "Thegatewaypundit.com",
-        "published_at": "2026-11-23T23:00:33Z"
       }
     ],
     "yemen-civil-war": [
@@ -250,6 +262,15 @@
       }
     ],
     "israel-iran-confrontation": [
+      {
+        "title": "Iran vows to break US naval blockade , claims full control over Strait of Hormuz : MP Esmaeil Kowsari",
+        "url": "http://www.kenyastar.com/news/279464412/iran-vows-to-break-us-naval-blockade-claims-full-control-over-strait-of-hormuz-mp-esmaeil-kowsari",
+        "source": "kenyastar.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-27T06:30:00Z",
+        "language": "English",
+        "source_country": "Kenya"
+      },
       {
         "title": "Netanyahu Pushes Renewed U.S.-Israeli Strikes on Iran as Israeli Officials Cite Internal Opposition",
         "url": "https://www.naturalnews.com/2026-11-26-netanyahu-pushes-renewed-us-israeli-strikes-iran.html",
@@ -365,10 +386,46 @@
         "published_at": "2026-11-23T17:02:13Z"
       },
       {
+        "title": "Haitians rally behind Bukele as Salvadoran troops battle gangs",
+        "url": "http://www.trinidadtimes.com/news/279439846/haitians-rally-behind-bukele-as-salvadoran-troops-battle-gangs",
+        "source": "trinidadtimes.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-22T20:30:00Z",
+        "language": "English",
+        "source_country": "Trinidad and Tobago"
+      },
+      {
+        "title": "The coolest dictator : have Haiti gangs met their match ?",
+        "url": "https://theweek.com/world-news/the-coolest-dictator-have-haitis-gangs-met-their-match",
+        "source": "theweek.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-21T12:30:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
         "title": "The ‘coolest dictator’: have Haiti’s gangs met their match?",
         "url": "https://biztoc.com/x/ee639955585c72ba",
         "source": "Biztoc.com",
         "published_at": "2026-11-21T07:48:19Z"
+      },
+      {
+        "title": "El Salvador , Haitian forces launch joint anti - gang military operation",
+        "url": "http://www.haitisun.com/news/279446501/el-salvador-haitian-forces-launch-joint-anti-gang-military-operation",
+        "source": "haitisun.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-21T06:45:00Z",
+        "language": "English",
+        "source_country": "United States"
+      },
+      {
+        "title": "Several killed during police operations in Haiti",
+        "url": "https://www.cnc3.co.tt/several-killed-during-police-operations-in-haiti/",
+        "source": "cnc3.co.tt",
+        "provider": "GDELT",
+        "published_at": "2026-11-21T00:30:00Z",
+        "language": "English",
+        "source_country": "Trinidad and Tobago"
       }
     ],
     "mexico-cartel-conflict": [
@@ -539,6 +596,24 @@
         "url": "https://abcnews.com/International/wireStory/amnesty-calls-independent-war-crimes-probe-ethiopian-shelling-138434543",
         "source": "Abcnews.com",
         "published_at": "2026-11-25T11:08:40Z"
+      },
+      {
+        "title": "Ethiopia : Lethal Artillery Strikes On Civilian Neighbourhoods in Tigray Alamata City Must Be Investigated As War Crimes",
+        "url": "https://allafrica.com/stories/202611240073.html",
+        "source": "allafrica.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-24T06:30:00Z",
+        "language": "English",
+        "source_country": "Nigeria"
+      },
+      {
+        "title": "COP31 collapse does not change the alarming facts about climate extremes , UN chief warns – The Moderate Voice",
+        "url": "https://themoderatevoice.com/cop31s-collapse-does-not-change-the-alarming-facts-about-climate-extremes-un-chief-warns/",
+        "source": "themoderatevoice.com",
+        "provider": "GDELT",
+        "published_at": "2026-11-23T02:30:00Z",
+        "language": "English",
+        "source_country": "United States"
       }
     ],
     "nigeria-internal-security-crisis": [],
